@@ -1,0 +1,2728 @@
+{
+  "catalogueVersion": 1,
+  "generatedAt": "2026-09-24T16:33:28.798Z",
+  "source": {
+    "type": "rss",
+    "url": "https://intelligence.thearchon.eu/feed.xml"
+  },
+  "canonical": {
+    "site": "https://intelligence.thearchon.eu",
+    "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
+  },
+  "itemCount": 226,
+  "familyCounts": {
+    "Insights": 78,
+    "Guides": 16,
+    "Infographics": 70,
+    "Diagrams": 19,
+    "Carousels": 16,
+    "Practical Intelligence": 14,
+    "Technology Evaluations": 13,
+    "Other": 0
+  },
+  "latestItem": {
+    "title": "Preemptive Cybersecurity & AI Security Platforms",
+    "url": "https://intelligence.thearchon.eu/carousels/preemptive-cybersecurity-ai-security-platforms",
+    "publishedAt": "2026-09-24T14:57:04.000Z"
+  },
+  "items": [
+    {
+      "title": "Preemptive Cybersecurity & AI Security Platforms",
+      "url": "https://intelligence.thearchon.eu/carousels/preemptive-cybersecurity-ai-security-platforms",
+      "guid": "https://intelligence.thearchon.eu/carousels/preemptive-cybersecurity-ai-security-platforms",
+      "family": "Carousels",
+      "domains": [
+        "Cybersecurity",
+        "AI",
+        "Governance",
+        "Resilience"
+      ],
+      "publishedAt": "2026-09-24T14:57:04.000Z",
+      "description": "A concise guide for CIOs, IT Directors and CISOs on building proactive security capabilities that protect both traditional IT assets and emerging AI models."
+    },
+    {
+      "title": "Physical AI & Robotics for the Enterprise",
+      "url": "https://intelligence.thearchon.eu/carousels/physical-ai-robotics-for-the-enterprise",
+      "guid": "https://intelligence.thearchon.eu/carousels/physical-ai-robotics-for-the-enterprise",
+      "family": "Carousels",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "AI",
+        "Governance",
+        "Resilience",
+        "Leadership & Organization",
+        "Networking"
+      ],
+      "publishedAt": "2026-09-24T14:56:16.000Z",
+      "description": "A concise guide for CIOs, IT Directors, and CISOs on leveraging physical AI and robotics while managing risk, compliance, and organizational readiness."
+    },
+    {
+      "title": "Keeping Your Technology Policy Short Enough to Be Followed",
+      "url": "https://intelligence.thearchon.eu/guides/keeping-your-technology-policy-short-enough-to-be-followed",
+      "guid": "https://intelligence.thearchon.eu/guides/keeping-your-technology-policy-short-enough-to-be-followed",
+      "family": "Guides",
+      "domains": [
+        "Governance",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-24T11:30:27.000Z",
+      "description": "A short, clear technology policy is more likely to be read, understood, and applied. By leveraging proven templates, focusing on core controls, and using plain language, organisations can create a policy that meets NCSC and SANS guidance without becoming a wall of text."
+    },
+    {
+      "title": "Checklist for Evaluating Governance Controls When Introducing Generative AI into Customer‑Facing Apps",
+      "url": "https://intelligence.thearchon.eu/guides/checklist-for-evaluating-governance-controls-when-introducing-generative-ai-into-customerf",
+      "guid": "https://intelligence.thearchon.eu/guides/checklist-for-evaluating-governance-controls-when-introducing-generative-ai-into-customerf",
+      "family": "Guides",
+      "domains": [
+        "Governance",
+        "AI"
+      ],
+      "publishedAt": "2026-09-23T18:35:07.000Z",
+      "description": "A practical, vendor‑agnostic guide to assess whether a generative AI feature in a customer‑facing application meets the EU AI Act’s governance requirements, focusing on risk classification, prohibited practices, transparency, and ongoing monitoring."
+    },
+    {
+      "title": "What to Check Before Signing a Technology Vendor Contract",
+      "url": "https://intelligence.thearchon.eu/guides/what-to-check-before-signing-a-technology-vendor-contract",
+      "guid": "https://intelligence.thearchon.eu/guides/what-to-check-before-signing-a-technology-vendor-contract",
+      "family": "Guides",
+      "domains": [
+        "Governance",
+        "Cybersecurity",
+        "AI"
+      ],
+      "publishedAt": "2026-09-23T18:00:02.000Z",
+      "description": "A concise checklist to verify that a technology vendor meets supply‑chain security principles and AI risk requirements before you commit to a contract."
+    },
+    {
+      "title": "Deciding Ownership of a Technology Risk",
+      "url": "https://intelligence.thearchon.eu/guides/deciding-ownership-of-a-technology-risk",
+      "guid": "https://intelligence.thearchon.eu/guides/deciding-ownership-of-a-technology-risk",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-23T17:55:53.000Z",
+      "description": "A concise guide to identify which party should own a technology risk, aligning responsibility with control implementation and organizational risk management processes."
+    },
+    {
+      "title": "Building a Leadership‑Owned Data‑Ethics Review Process",
+      "url": "https://intelligence.thearchon.eu/guides/building-a-leadershipowned-dataethics-review-process",
+      "guid": "https://intelligence.thearchon.eu/guides/building-a-leadershipowned-dataethics-review-process",
+      "family": "Guides",
+      "domains": [
+        "Leadership & Organization",
+        "Governance",
+        "AI"
+      ],
+      "publishedAt": "2026-09-23T17:34:54.000Z",
+      "description": "Leaders can establish a data‑ethics review that aligns with EU data‑protection principles, the NIST Privacy Framework, and FTC privacy expectations. By owning the process, they ensure risk‑aware innovation and regulatory compliance."
+    },
+    {
+      "title": "Choosing a Vendor‑Neutral IT Service Continuity Framework",
+      "url": "https://intelligence.thearchon.eu/guides/choosing-a-vendorneutral-it-service-continuity-framework",
+      "guid": "https://intelligence.thearchon.eu/guides/choosing-a-vendorneutral-it-service-continuity-framework",
+      "family": "Guides",
+      "domains": [
+        "Resilience",
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-23T11:55:10.000Z",
+      "description": "Leverage the NIST Cybersecurity Framework (CSF) as a vendor‑neutral backbone, enrich it with the NCSC’s 12 supply‑chain security principles, and apply the AI Act’s risk‑based methodology for AI‑enabled services. This combination delivers a governance‑ready, resilient continuity plan without locking‑in a single supplier."
+    },
+    {
+      "title": "Choosing a Governance Framework for AI Model Lifecycle Management",
+      "url": "https://intelligence.thearchon.eu/guides/choosing-a-governance-framework-for-ai-model-lifecycle-management",
+      "guid": "https://intelligence.thearchon.eu/guides/choosing-a-governance-framework-for-ai-model-lifecycle-management",
+      "family": "Guides",
+      "domains": [
+        "Governance",
+        "AI"
+      ],
+      "publishedAt": "2026-09-22T11:46:48.000Z",
+      "description": "Select a governance approach that first classifies AI risk under the EU AI Act, then applies the NIST AI Risk Management Framework to embed trustworthiness, and finally checks privacy commitments per FTC guidance. This layered method lets you stop, think, or go based on the model’s risk level and compliance readiness."
+    },
+    {
+      "title": "Choosing a Vendor‑Neutral Service‑Mesh Strategy for Microservices",
+      "url": "https://intelligence.thearchon.eu/guides/choosing-a-vendorneutral-servicemesh-strategy-for-microservices",
+      "guid": "https://intelligence.thearchon.eu/guides/choosing-a-vendorneutral-servicemesh-strategy-for-microservices",
+      "family": "Guides",
+      "domains": [
+        "Cloud",
+        "Networking",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-09-22T11:10:33.000Z",
+      "description": "A concise guide to evaluate and adopt a vendor‑neutral service‑mesh using the CNCF Service Mesh Interface (SMI) while covering the core security and operational features highlighted by NIST SP 800‑204."
+    },
+    {
+      "title": "Optimizing the Project Management Process",
+      "url": "https://intelligence.thearchon.eu/carousels/optimizing-the-project-management-process",
+      "guid": "https://intelligence.thearchon.eu/carousels/optimizing-the-project-management-process",
+      "family": "Carousels",
+      "domains": [
+        "Governance",
+        "Resilience",
+        "IT Operations",
+        "Cloud"
+      ],
+      "publishedAt": "2026-09-22T00:45:09.000Z",
+      "description": "A concise guide to the five PMI process groups, governance alignment, risk, metrics, and tooling to increase delivery success."
+    },
+    {
+      "title": "Basic Project Management Process",
+      "url": "https://intelligence.thearchon.eu/diagrams/basic-project-management-process",
+      "guid": "https://intelligence.thearchon.eu/diagrams/basic-project-management-process",
+      "family": "Diagrams",
+      "domains": [
+        "IT Operations"
+      ],
+      "publishedAt": "2026-09-22T00:43:01.000Z",
+      "description": "A concise flow from project initiation through planning, execution, monitoring, and closure, highlighting key approval and success gates."
+    },
+    {
+      "title": "Security Incident Response Process",
+      "url": "https://intelligence.thearchon.eu/diagrams/security-incident-response-process",
+      "guid": "https://intelligence.thearchon.eu/diagrams/security-incident-response-process",
+      "family": "Diagrams",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-09-22T00:41:30.000Z",
+      "description": "A streamlined flow that moves from incident detection through triage, severity decision, containment, recovery, and post‑incident review, ensuring swift remediation and continuous improvement."
+    },
+    {
+      "title": "How to Evaluate a Vendor‑Neutral Data‑Backup and Recovery Strategy",
+      "url": "https://intelligence.thearchon.eu/guides/how-to-evaluate-a-vendorneutral-databackup-and-recovery-strategy",
+      "guid": "https://intelligence.thearchon.eu/guides/how-to-evaluate-a-vendorneutral-databackup-and-recovery-strategy",
+      "family": "Guides",
+      "domains": [
+        "IT Operations",
+        "Resilience"
+      ],
+      "publishedAt": "2026-09-21T22:18:31.000Z",
+      "description": "A vendor‑neutral backup plan safeguards data from ransomware, meets data‑protection obligations, and stays verifiable through offline, encrypted storage and regular testing."
+    },
+    {
+      "title": "Choosing a Vendor‑Neutral Observability Stack for Multi‑Cloud Environments",
+      "url": "https://intelligence.thearchon.eu/guides/choosing-a-vendorneutral-observability-stack-for-multicloud-environments",
+      "guid": "https://intelligence.thearchon.eu/guides/choosing-a-vendorneutral-observability-stack-for-multicloud-environments",
+      "family": "Guides",
+      "domains": [
+        "Cloud",
+        "IT Operations",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-21T21:17:58.000Z",
+      "description": "A practical guide to selecting an observability solution that works across clouds while meeting the NCSC shared‑responsibility principles and the Cloud Security Alliance’s compliance framework."
+    },
+    {
+      "title": "Building a Vendor‑Agnostic Incident‑Response Playbook",
+      "url": "https://intelligence.thearchon.eu/guides/building-a-vendoragnostic-incidentresponse-playbook",
+      "guid": "https://intelligence.thearchon.eu/guides/building-a-vendoragnostic-incidentresponse-playbook",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "Resilience"
+      ],
+      "publishedAt": "2026-09-21T21:16:52.000Z",
+      "description": "Use NCSC’s incident‑management framework, CISA’s baseline performance goals, and CIS’s vendor‑neutral controls to create a playbook that works across any technology stack."
+    },
+    {
+      "title": "Choosing a Vendor‑Agnostic Cloud Cost‑Optimization Framework",
+      "url": "https://intelligence.thearchon.eu/guides/choosing-a-vendoragnostic-cloud-costoptimization-framework",
+      "guid": "https://intelligence.thearchon.eu/guides/choosing-a-vendoragnostic-cloud-costoptimization-framework",
+      "family": "Guides",
+      "domains": [
+        "Cloud",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-21T21:13:45.000Z",
+      "description": "Use standard governance principles and neutral assessment tools to pick a framework that works across any cloud provider while keeping security and shared‑responsibility in view."
+    },
+    {
+      "title": "Evaluating a Remote‑Work Endpoint Security Strategy",
+      "url": "https://intelligence.thearchon.eu/guides/evaluating-a-remotework-endpoint-security-strategy",
+      "guid": "https://intelligence.thearchon.eu/guides/evaluating-a-remotework-endpoint-security-strategy",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-21T21:11:02.000Z",
+      "description": "Use NIST’s telework guidance and CISA’s cyber‑hygiene basics to assess whether remote endpoints—both corporate‑issued and BYOD—are protected against identified threats and aligned with zero‑trust principles."
+    },
+    {
+      "title": "Top 10 Single Sign‑On Solutions for 2026",
+      "url": "https://intelligence.thearchon.eu/infographics/top-10-single-sign-on-solutions-for-2026",
+      "guid": "https://intelligence.thearchon.eu/infographics/top-10-single-sign-on-solutions-for-2026",
+      "family": "Infographics",
+      "domains": [
+        "Identity",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-21T19:31:42.000Z",
+      "description": "The SSO market has consolidated around platforms that deliver zero‑trust identity, seamless SaaS integration, and adaptive security. This infographic ranks the ten leading solutions based on criteria that matter to enterprise executives and maps their fit to modern identity architectures."
+    },
+    {
+      "title": "Building Trusted Enterprise AI",
+      "url": "https://intelligence.thearchon.eu/diagrams/building-trusted-enterprise-ai",
+      "guid": "https://intelligence.thearchon.eu/diagrams/building-trusted-enterprise-ai",
+      "family": "Diagrams",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-09-21T19:31:34.000Z",
+      "description": "Executive view of the governance‑driven AI lifecycle, highlighting the critical decision gates that ensure compliance, risk mitigation, and trust before deployment."
+    },
+    {
+      "title": "How to Choose a Zero‑Trust Architecture for Hybrid Workforces",
+      "url": "https://intelligence.thearchon.eu/guides/how-to-choose-a-zerotrust-architecture-for-hybrid-workforces",
+      "guid": "https://intelligence.thearchon.eu/guides/how-to-choose-a-zerotrust-architecture-for-hybrid-workforces",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "Identity",
+        "Cloud"
+      ],
+      "publishedAt": "2026-09-21T17:13:28.000Z",
+      "description": "Zero‑Trust removes implicit trust from networks, locations, and device ownership. It requires clear visibility of users, devices, services and data, strong identity controls, per‑request policies, and continuous monitoring. Follow these actions to pick a ZTA that fits a hybrid workforce."
+    },
+    {
+      "title": "Top 10 Privileged Access Management Solutions for 2026",
+      "url": "https://intelligence.thearchon.eu/carousels/top-10-privileged-access-management-solutions-for-2026",
+      "guid": "https://intelligence.thearchon.eu/carousels/top-10-privileged-access-management-solutions-for-2026",
+      "family": "Carousels",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-21T14:13:17.000Z",
+      "description": "A concise architecture‑focused guide for CIOs, IT Directors and CISOs to evaluate and adopt the leading PAM platforms that protect privileged credentials across hybrid, multi‑cloud environments."
+    },
+    {
+      "title": "2026 Top 10 Privileged Access Management (PAM) Solutions",
+      "url": "https://intelligence.thearchon.eu/infographics/2026-top-10-privileged-access-management-pam-solutions",
+      "guid": "https://intelligence.thearchon.eu/infographics/2026-top-10-privileged-access-management-pam-solutions",
+      "family": "Infographics",
+      "domains": [
+        "Identity",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-21T14:13:07.000Z",
+      "description": "A concise executive matrix that ranks the leading PAM platforms of 2026 against the criteria that matter most to enterprise security and identity programs. The analysis highlights functional strengths, integration readiness, and risk mitigation impact."
+    },
+    {
+      "title": "AI Governance Framework for Marketing",
+      "url": "https://intelligence.thearchon.eu/diagrams/ai-governance-framework-for-marketing",
+      "guid": "https://intelligence.thearchon.eu/diagrams/ai-governance-framework-for-marketing",
+      "family": "Diagrams",
+      "domains": [
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-21T14:13:02.000Z",
+      "description": "A concise map of the core components that enable a marketing organization to govern AI systems responsibly, from strategic intent to continuous improvement."
+    },
+    {
+      "title": "Connecting AI Tools to Company Data: A Pre‑Connection Checklist",
+      "url": "https://intelligence.thearchon.eu/guides/connecting-ai-tools-to-company-data-a-preconnection-checklist",
+      "guid": "https://intelligence.thearchon.eu/guides/connecting-ai-tools-to-company-data-a-preconnection-checklist",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Governance",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-21T12:40:32.000Z",
+      "description": "A short, vendor‑agnostic guide to evaluate AI tools against the EU AI Act, FTC privacy expectations, and the NIST AI Risk Management Framework before they access corporate data."
+    },
+    {
+      "title": "Before You Paste It Into AI",
+      "url": "https://intelligence.thearchon.eu/guides/before-you-paste-it-into-ai",
+      "guid": "https://intelligence.thearchon.eu/guides/before-you-paste-it-into-ai",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-21T11:37:20.000Z",
+      "description": "A practical privacy and security guide for deciding what is safe to paste into AI tools."
+    },
+    {
+      "title": "Cloud Transformation Challenges",
+      "url": "https://intelligence.thearchon.eu/quizzes/cloud-transformation-challenges-0b5391",
+      "guid": "https://intelligence.thearchon.eu/quizzes/cloud-transformation-challenges-0b5391",
+      "family": "Practical Intelligence",
+      "domains": [
+        "Cloud"
+      ],
+      "publishedAt": "2026-09-21T10:47:18.000Z",
+      "description": "Built from 3 related articles on Cloud."
+    },
+    {
+      "title": "Employee Technology Lifecycle Management",
+      "url": "https://intelligence.thearchon.eu/comparisons/employee-technology-lifecycle-management-66c343",
+      "guid": "https://intelligence.thearchon.eu/comparisons/employee-technology-lifecycle-management-66c343",
+      "family": "Practical Intelligence",
+      "domains": [
+        "Identity"
+      ],
+      "publishedAt": "2026-09-21T10:47:13.000Z",
+      "description": "Built from 3 related articles on Identity."
+    },
+    {
+      "title": "Human‑in‑the‑Loop Governance for Automated Interactions",
+      "url": "https://intelligence.thearchon.eu/checklists/human-in-the-loop-governance-for-automated-interactions-fec6e1",
+      "guid": "https://intelligence.thearchon.eu/checklists/human-in-the-loop-governance-for-automated-interactions-fec6e1",
+      "family": "Practical Intelligence",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-09-21T10:46:52.000Z",
+      "description": "Built from 3 related articles on AI."
+    },
+    {
+      "title": "AI Governance Challenges",
+      "url": "https://intelligence.thearchon.eu/quizzes/ai-governance-challenges-5b7edd",
+      "guid": "https://intelligence.thearchon.eu/quizzes/ai-governance-challenges-5b7edd",
+      "family": "Practical Intelligence",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-09-21T08:58:24.000Z",
+      "description": "Built from 3 related articles on AI."
+    },
+    {
+      "title": "India’s Enterprise AI Momentum: Production Deployments & Agentic AI",
+      "url": "https://intelligence.thearchon.eu/carousels/india-s-enterprise-ai-momentum-production-deployments-agentic-ai",
+      "guid": "https://intelligence.thearchon.eu/carousels/india-s-enterprise-ai-momentum-production-deployments-agentic-ai",
+      "family": "Carousels",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-09-21T06:24:15.000Z",
+      "description": "A relationship‑focused view of why Indian enterprises are outpacing peers in live AI use, the rise of autonomous AI agents, and the governance actions leaders must take."
+    },
+    {
+      "title": "NordPass: Technology Evaluation",
+      "url": "https://intelligence.thearchon.eu/evaluations/nordpass",
+      "guid": "https://intelligence.thearchon.eu/evaluations/nordpass",
+      "family": "Technology Evaluations",
+      "domains": [
+        "Identity",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-21T00:00:00.000Z",
+      "description": "Business password management"
+    },
+    {
+      "title": "NordVPN Teams (NordLayer): Technology Evaluation",
+      "url": "https://intelligence.thearchon.eu/evaluations/nordvpn-teams",
+      "guid": "https://intelligence.thearchon.eu/evaluations/nordvpn-teams",
+      "family": "Technology Evaluations",
+      "domains": [
+        "Cybersecurity",
+        "Networking"
+      ],
+      "publishedAt": "2026-09-21T00:00:00.000Z",
+      "description": "Business VPN and secure remote access"
+    },
+    {
+      "title": "pCloud Business: Technology Evaluation",
+      "url": "https://intelligence.thearchon.eu/evaluations/pcloud-business",
+      "guid": "https://intelligence.thearchon.eu/evaluations/pcloud-business",
+      "family": "Technology Evaluations",
+      "domains": [
+        "Cloud",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-21T00:00:00.000Z",
+      "description": "Cloud file storage and sharing for teams"
+    },
+    {
+      "title": "Mitigating Single Points of Failure",
+      "url": "https://intelligence.thearchon.eu/checklists/mitigating-single-points-of-failure-1239bf",
+      "guid": "https://intelligence.thearchon.eu/checklists/mitigating-single-points-of-failure-1239bf",
+      "family": "Practical Intelligence",
+      "domains": [
+        "Resilience"
+      ],
+      "publishedAt": "2026-09-20T19:43:08.000Z",
+      "description": "Built from 3 related articles on Resilience."
+    },
+    {
+      "title": "Validate Integration Trust and Data Adoption",
+      "url": "https://intelligence.thearchon.eu/checklists/validate-integration-trust-and-data-adoption-78177a",
+      "guid": "https://intelligence.thearchon.eu/checklists/validate-integration-trust-and-data-adoption-78177a",
+      "family": "Practical Intelligence",
+      "domains": [
+        "IT Operations"
+      ],
+      "publishedAt": "2026-09-20T19:42:31.000Z",
+      "description": "Built from 3 related articles on IT Operations."
+    },
+    {
+      "title": "Netskope Capability Stack Driving Market Inflection",
+      "url": "https://intelligence.thearchon.eu/diagrams/netskope-capability-stack-driving-market-inflection",
+      "guid": "https://intelligence.thearchon.eu/diagrams/netskope-capability-stack-driving-market-inflection",
+      "family": "Diagrams",
+      "domains": [
+        "Networking",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-20T19:29:25.000Z",
+      "description": "A concise view of Netskope’s integrated security capabilities and how their analytics‑driven automation fuels enterprise adoption and market expansion."
+    },
+    {
+      "title": "From Complexity to Clarity: Building an Autonomous Enterprise for a More Resilient Future",
+      "url": "https://intelligence.thearchon.eu/carousels/from-complexity-to-clarity-building-an-autonomous-enterprise-for-a-mor",
+      "guid": "https://intelligence.thearchon.eu/carousels/from-complexity-to-clarity-building-an-autonomous-enterprise-for-a-mor",
+      "family": "Carousels",
+      "domains": [
+        "Resilience"
+      ],
+      "publishedAt": "2026-09-20T16:49:59.000Z",
+      "description": "A concise architecture‑focused guide for CIOs, IT Directors and CISOs on how autonomous technologies can transform complex IT landscapes into self‑governing, resilient enterprises."
+    },
+    {
+      "title": "From Complexity to Clarity: Building an Autonomous Enterprise for a Resilient Future",
+      "url": "https://intelligence.thearchon.eu/infographics/from-complexity-to-clarity-building-an-autonomous-enterprise-for-a-resilient-fut",
+      "guid": "https://intelligence.thearchon.eu/infographics/from-complexity-to-clarity-building-an-autonomous-enterprise-for-a-resilient-fut",
+      "family": "Infographics",
+      "domains": [
+        "Resilience",
+        "AI"
+      ],
+      "publishedAt": "2026-09-20T16:49:54.000Z",
+      "description": "Enterprise leaders can transform tangled legacy processes into self‑optimizing, AI‑driven operations that sustain business continuity under disruption. This framework distills the autonomous‑enterprise journey into five actionable pillars and a phased rollout plan."
+    },
+    {
+      "title": "VPN vs. ZTNA Access Models",
+      "url": "https://intelligence.thearchon.eu/comparisons/vpn-vs-ztna-access-models-5a8b55",
+      "guid": "https://intelligence.thearchon.eu/comparisons/vpn-vs-ztna-access-models-5a8b55",
+      "family": "Practical Intelligence",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-20T15:07:02.000Z",
+      "description": "Built from 3 related articles on Cybersecurity."
+    },
+    {
+      "title": "Implement Proportionate Monitoring and Access Governance",
+      "url": "https://intelligence.thearchon.eu/checklists/implement-proportionate-monitoring-and-access-governance-224b7b",
+      "guid": "https://intelligence.thearchon.eu/checklists/implement-proportionate-monitoring-and-access-governance-224b7b",
+      "family": "Practical Intelligence",
+      "domains": [
+        "Identity"
+      ],
+      "publishedAt": "2026-09-20T15:06:56.000Z",
+      "description": "Built from 3 related articles on Identity."
+    },
+    {
+      "title": "Managing IT General Controls and Audit Readiness",
+      "url": "https://intelligence.thearchon.eu/checklists/managing-it-general-controls-and-audit-readiness-9e9422",
+      "guid": "https://intelligence.thearchon.eu/checklists/managing-it-general-controls-and-audit-readiness-9e9422",
+      "family": "Practical Intelligence",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-09-20T12:31:07.000Z",
+      "description": "Built from 3 related articles on Governance."
+    },
+    {
+      "title": "Cloud Transformation Success Factors",
+      "url": "https://intelligence.thearchon.eu/checklists/cloud-transformation-success-factors-ebaaba",
+      "guid": "https://intelligence.thearchon.eu/checklists/cloud-transformation-success-factors-ebaaba",
+      "family": "Practical Intelligence",
+      "domains": [
+        "Cloud"
+      ],
+      "publishedAt": "2026-09-20T10:55:39.000Z",
+      "description": "Built from 3 related articles on Cloud."
+    },
+    {
+      "title": "8 Best IAM Solutions for Every Business Size (2026)",
+      "url": "https://intelligence.thearchon.eu/infographics/8-best-iam-solutions-for-every-business-size-2026",
+      "guid": "https://intelligence.thearchon.eu/infographics/8-best-iam-solutions-for-every-business-size-2026",
+      "family": "Infographics",
+      "domains": [
+        "Identity",
+        "AI"
+      ],
+      "publishedAt": "2026-09-20T01:12:42.000Z",
+      "description": "A concise matrix that matches the eight leading Identity and Access Management (IAM) providers with business size categories, highlighting AI‑driven capabilities, integration depth, and risk mitigation. Executives can quickly identify the optimal solution to secure identities while leveraging auto‑intelligence for scalable governance."
+    },
+    {
+      "title": "Enterprise Security Shifts to the Data Layer at Oracle",
+      "url": "https://intelligence.thearchon.eu/diagrams/enterprise-security-shifts-to-the-data-layer-at-oracle",
+      "guid": "https://intelligence.thearchon.eu/diagrams/enterprise-security-shifts-to-the-data-layer-at-oracle",
+      "family": "Diagrams",
+      "domains": [
+        "Resilience"
+      ],
+      "publishedAt": "2026-09-20T01:12:38.000Z",
+      "description": "Oracle moves security controls from perimeter and application tiers into the data layer, using unified encryption, fine‑grained access, continuous monitoring, and policy‑driven governance to improve resilience and reduce breach surface."
+    },
+    {
+      "title": "From Observability to Provable AI Governance",
+      "url": "https://intelligence.thearchon.eu/diagrams/from-observability-to-provable-ai-governance",
+      "guid": "https://intelligence.thearchon.eu/diagrams/from-observability-to-provable-ai-governance",
+      "family": "Diagrams",
+      "domains": [
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-19T23:09:05.000Z",
+      "description": "A high‑level process that moves AI governance from passive observability to active, provable control through data collection, gap analysis, policy definition, formal verification, and continuous validation."
+    },
+    {
+      "title": "Cloud Transformation Failures",
+      "url": "https://intelligence.thearchon.eu/comparisons/cloud-transformation-failures-bd5a9b",
+      "guid": "https://intelligence.thearchon.eu/comparisons/cloud-transformation-failures-bd5a9b",
+      "family": "Practical Intelligence",
+      "domains": [
+        "Cloud"
+      ],
+      "publishedAt": "2026-09-19T20:20:19.000Z",
+      "description": "Built from 3 articles on Cloud."
+    },
+    {
+      "title": "Minimum Viable Security Program for SMEs",
+      "url": "https://intelligence.thearchon.eu/checklists/minimum-viable-security-program-for-smes-edd947",
+      "guid": "https://intelligence.thearchon.eu/checklists/minimum-viable-security-program-for-smes-edd947",
+      "family": "Practical Intelligence",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-19T20:20:15.000Z",
+      "description": "Built from 3 articles on Cybersecurity."
+    },
+    {
+      "title": "AI Hallucination vs. Deepfakes",
+      "url": "https://intelligence.thearchon.eu/comparisons/ai-hallucination-vs-deepfakes-eafb95",
+      "guid": "https://intelligence.thearchon.eu/comparisons/ai-hallucination-vs-deepfakes-eafb95",
+      "family": "Practical Intelligence",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-09-19T20:07:50.000Z",
+      "description": "Built from 3 articles on AI."
+    },
+    {
+      "title": "AI Verification and Governance Checklist",
+      "url": "https://intelligence.thearchon.eu/checklists/ai-verification-and-governance-checklist-9e80b0",
+      "guid": "https://intelligence.thearchon.eu/checklists/ai-verification-and-governance-checklist-9e80b0",
+      "family": "Practical Intelligence",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-09-19T20:07:46.000Z",
+      "description": "Built from 3 articles on AI."
+    },
+    {
+      "title": "Autonomous AI Deployment Surpasses Oversight",
+      "url": "https://intelligence.thearchon.eu/diagrams/autonomous-ai-deployment-surpasses-oversight",
+      "guid": "https://intelligence.thearchon.eu/diagrams/autonomous-ai-deployment-surpasses-oversight",
+      "family": "Diagrams",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-09-19T17:18:16.000Z",
+      "description": "The EY survey highlights that organizations are accelerating autonomous AI roll‑outs, generating strong business value while governance, risk controls, and stakeholder awareness lag behind, increasing exposure to regulatory and operational risk."
+    },
+    {
+      "title": "Beyond the Cloud Proxy: Expanded Security Capabilities",
+      "url": "https://intelligence.thearchon.eu/diagrams/beyond-the-cloud-proxy-expanded-security-capabilities",
+      "guid": "https://intelligence.thearchon.eu/diagrams/beyond-the-cloud-proxy-expanded-security-capabilities",
+      "family": "Diagrams",
+      "domains": [
+        "Networking",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-19T13:55:59.000Z",
+      "description": "Executive view of the essential security capabilities that complement a cloud proxy, forming a resilient, zero‑trust environment for branch networks."
+    },
+    {
+      "title": "12 Best Multi‑Cloud Security Platforms (2026)",
+      "url": "https://intelligence.thearchon.eu/infographics/12-best-multi-cloud-security-platforms-2026",
+      "guid": "https://intelligence.thearchon.eu/infographics/12-best-multi-cloud-security-platforms-2026",
+      "family": "Infographics",
+      "domains": [
+        "Cybersecurity",
+        "Cloud"
+      ],
+      "publishedAt": "2026-09-19T09:34:10.000Z",
+      "description": "A concise matrix that benchmarks the leading multi‑cloud security solutions on capabilities, AI‑driven threat detection, integration depth, and total cost of ownership. Enables CIOs and CISOs to align security spend with cloud‑first roadmaps."
+    },
+    {
+      "title": "7 Ways Identity and Access Management Solutions Are Reshaping Enterprise Security",
+      "url": "https://intelligence.thearchon.eu/carousels/7-ways-identity-and-access-management-solutions-are-reshaping-enterpri",
+      "guid": "https://intelligence.thearchon.eu/carousels/7-ways-identity-and-access-management-solutions-are-reshaping-enterpri",
+      "family": "Carousels",
+      "domains": [
+        "Identity"
+      ],
+      "publishedAt": "2026-09-19T04:40:55.000Z",
+      "description": "A concise look at how IAM platforms are redefining security controls, reducing risk, and enabling zero‑trust architectures across the enterprise."
+    },
+    {
+      "title": "Identity & Access Management: 7 Strategic Levers Redefining Enterprise Security",
+      "url": "https://intelligence.thearchon.eu/infographics/identity-access-management-7-strategic-levers-redefining-enterprise-security",
+      "guid": "https://intelligence.thearchon.eu/infographics/identity-access-management-7-strategic-levers-redefining-enterprise-security",
+      "family": "Infographics",
+      "domains": [
+        "Identity",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-19T04:40:48.000Z",
+      "description": "Today's IAM platforms go beyond credential management to embed security into every access decision. By automating lifecycle, leveraging AI, and enforcing adaptive policies, they transform the security posture from reactive to proactive."
+    },
+    {
+      "title": "CISA‑Enabled Cyber Decoy Architecture",
+      "url": "https://intelligence.thearchon.eu/diagrams/cisa-enabled-cyber-decoy-architecture",
+      "guid": "https://intelligence.thearchon.eu/diagrams/cisa-enabled-cyber-decoy-architecture",
+      "family": "Diagrams",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-19T04:40:44.000Z",
+      "description": "An executive view of the core components and data flows that enable CISA‑directed cyber decoys to detect, enrich, and act on malicious activity targeting an organization’s network."
+    },
+    {
+      "title": "AI Weekly Landscape – September 18 2026",
+      "url": "https://intelligence.thearchon.eu/diagrams/ai-weekly-landscape-september-18-2026",
+      "guid": "https://intelligence.thearchon.eu/diagrams/ai-weekly-landscape-september-18-2026",
+      "family": "Diagrams",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-09-18T23:19:27.000Z",
+      "description": "Executive view of the most impactful AI developments reported in the past week, showing how technology advances, regulatory shifts, and ecosystem collaborations interrelate."
+    },
+    {
+      "title": "Accelerating GDPR Compliance in Application Development",
+      "url": "https://intelligence.thearchon.eu/carousels/accelerating-gdpr-compliance-in-application-development",
+      "guid": "https://intelligence.thearchon.eu/carousels/accelerating-gdpr-compliance-in-application-development",
+      "family": "Carousels",
+      "domains": [
+        "Governance",
+        "Identity",
+        "Cloud",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-18T23:00:23.000Z",
+      "description": "A concise carousel for CIOs, IT Directors and CISOs showing how to meet GDPR obligations through automation, reusable patterns and governance, keeping business velocity high."
+    },
+    {
+      "title": "Essential Contract Elements for IT Success",
+      "url": "https://intelligence.thearchon.eu/carousels/essential-contract-elements-for-it-success",
+      "guid": "https://intelligence.thearchon.eu/carousels/essential-contract-elements-for-it-success",
+      "family": "Carousels",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Governance",
+        "Resilience"
+      ],
+      "publishedAt": "2026-09-18T22:58:38.000Z",
+      "description": "A concise guide to the contract fundamentals that protect technology investments, data, and compliance across any product or service."
+    },
+    {
+      "title": "Rapid Vendor Evaluation Using ITSM",
+      "url": "https://intelligence.thearchon.eu/carousels/rapid-vendor-evaluation-using-itsm",
+      "guid": "https://intelligence.thearchon.eu/carousels/rapid-vendor-evaluation-using-itsm",
+      "family": "Carousels",
+      "domains": [
+        "Governance",
+        "Cybersecurity",
+        "IT Operations",
+        "Cloud",
+        "Resilience"
+      ],
+      "publishedAt": "2026-09-18T22:56:31.000Z",
+      "description": "A step‑by‑step framework that leverages IT Service Management practices to accelerate, standardize, and secure vendor selection for technology initiatives."
+    },
+    {
+      "title": "Strategic Exit from a Critical but Underperforming Vendor",
+      "url": "https://intelligence.thearchon.eu/carousels/strategic-exit-from-a-critical-but-underperforming-vendor",
+      "guid": "https://intelligence.thearchon.eu/carousels/strategic-exit-from-a-critical-but-underperforming-vendor",
+      "family": "Carousels",
+      "domains": [
+        "Governance",
+        "Resilience",
+        "IT Operations",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-18T22:54:21.000Z",
+      "description": "A concise, actionable framework to assess risk, secure continuity, and transition away from a vendor that is essential to operations yet consistently fails to meet performance, security, or compliance expectations."
+    },
+    {
+      "title": "Building an Agnostic Supplier Pool",
+      "url": "https://intelligence.thearchon.eu/carousels/building-an-agnostic-supplier-pool",
+      "guid": "https://intelligence.thearchon.eu/carousels/building-an-agnostic-supplier-pool",
+      "family": "Carousels",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Governance",
+        "Cloud",
+        "AI"
+      ],
+      "publishedAt": "2026-09-18T22:52:39.000Z",
+      "description": "Step‑by‑step framework to create a vendor‑neutral ecosystem that preserves flexibility, reduces risk, and drives cost efficiency across technology domains."
+    },
+    {
+      "title": "Enterprise Service Bus (ESB) Adoption Criteria",
+      "url": "https://intelligence.thearchon.eu/carousels/enterprise-service-bus-esb-adoption-criteria",
+      "guid": "https://intelligence.thearchon.eu/carousels/enterprise-service-bus-esb-adoption-criteria",
+      "family": "Carousels",
+      "domains": [
+        "IT Operations",
+        "Governance",
+        "Cloud"
+      ],
+      "publishedAt": "2026-09-18T22:48:43.000Z",
+      "description": "A concise radar of the business, technical, and organizational factors that determine when an ESB adds value versus alternative integration approaches."
+    },
+    {
+      "title": "Minimum ITSM Procedures for High‑Performance Organizations",
+      "url": "https://intelligence.thearchon.eu/carousels/minimum-itsm-procedures-for-high-performance-organizations",
+      "guid": "https://intelligence.thearchon.eu/carousels/minimum-itsm-procedures-for-high-performance-organizations",
+      "family": "Carousels",
+      "domains": [
+        "IT Operations",
+        "Governance",
+        "Resilience"
+      ],
+      "publishedAt": "2026-09-18T22:45:56.000Z",
+      "description": "A concise guide for CIOs, IT Directors and CISOs on the essential IT Service Management (ITSM) procedures that provide immediate operational impact while keeping the process footprint lean."
+    },
+    {
+      "title": "Why IT Service Management (ITSM) Is Essential for Modern Enterprises",
+      "url": "https://intelligence.thearchon.eu/carousels/why-it-service-management-itsm-is-essential-for-modern-enterprises",
+      "guid": "https://intelligence.thearchon.eu/carousels/why-it-service-management-itsm-is-essential-for-modern-enterprises",
+      "family": "Carousels",
+      "domains": [
+        "IT Operations",
+        "Governance",
+        "Resilience",
+        "Cloud",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-18T22:44:13.000Z",
+      "description": "A concise, data‑driven overview of the business value, governance alignment, risk mitigation, and implementation roadmap of ITSM."
+    },
+    {
+      "title": "AI Governance: Who Controls the AI Agent?",
+      "url": "https://intelligence.thearchon.eu/carousels/ai-governance-who-controls-the-ai-agent",
+      "guid": "https://intelligence.thearchon.eu/carousels/ai-governance-who-controls-the-ai-agent",
+      "family": "Carousels",
+      "domains": [
+        "AI",
+        "Governance",
+        "Cybersecurity",
+        "Resilience"
+      ],
+      "publishedAt": "2026-09-18T22:42:15.000Z",
+      "description": "A concise briefing for CIOs, IT Directors, and CISOs on the emerging governance landscape for AI agents, covering regulatory mandates, ownership models, control mechanisms, and compliance implications."
+    },
+    {
+      "title": "Data Resilience: A Strategic Enterprise Capability",
+      "url": "https://intelligence.thearchon.eu/infographics/data-resilience-a-strategic-enterprise-capability",
+      "guid": "https://intelligence.thearchon.eu/infographics/data-resilience-a-strategic-enterprise-capability",
+      "family": "Infographics",
+      "domains": [
+        "Resilience"
+      ],
+      "publishedAt": "2026-09-18T20:56:04.000Z",
+      "description": "Data resilience—protecting, maintaining, and rapidly restoring data—has moved from an IT after‑thought to a core business capability. Executives must embed resilience across architecture, operations, and governance to sustain AI workloads, meet compliance, and protect revenue."
+    },
+    {
+      "title": "AI News – Weekly Capability Landscape",
+      "url": "https://intelligence.thearchon.eu/diagrams/ai-news-weekly-capability-landscape",
+      "guid": "https://intelligence.thearchon.eu/diagrams/ai-news-weekly-capability-landscape",
+      "family": "Diagrams",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-09-18T20:55:59.000Z",
+      "description": "Executive view of the core AI capabilities that power this week’s auto‑intelligence updates, showing how foundational models, infrastructure, advisory and insight delivery interconnect."
+    },
+    {
+      "title": "AI‑Enabled Storage Landscape – 18 Sept 2024",
+      "url": "https://intelligence.thearchon.eu/infographics/ai-enabled-storage-landscape-18-sept-2024",
+      "guid": "https://intelligence.thearchon.eu/infographics/ai-enabled-storage-landscape-18-sept-2024",
+      "family": "Infographics",
+      "domains": [
+        "AI",
+        "Cloud"
+      ],
+      "publishedAt": "2026-09-18T17:42:35.000Z",
+      "description": "A concise executive briefing that distills the most impactful storage announcements of 18 Sept 2024. It highlights how AI, hybrid‑cloud integration, sustainability, and resilience are converging to redefine storage strategy and investment priorities."
+    },
+    {
+      "title": "Financial Services AI Adoption Landscape",
+      "url": "https://intelligence.thearchon.eu/diagrams/financial-services-ai-adoption-landscape",
+      "guid": "https://intelligence.thearchon.eu/diagrams/financial-services-ai-adoption-landscape",
+      "family": "Diagrams",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-09-18T17:42:31.000Z",
+      "description": "A concise view of the primary obstacles financial institutions face when deploying AI, the strategic levers that can neutralize those obstacles, and how they translate into market advantage."
+    },
+    {
+      "title": "Semperis IMDA Accreditation: Building AI‑Ready Identity Resilience",
+      "url": "https://intelligence.thearchon.eu/infographics/semperis-imda-accreditation-building-ai-ready-identity-resilience",
+      "guid": "https://intelligence.thearchon.eu/infographics/semperis-imda-accreditation-building-ai-ready-identity-resilience",
+      "family": "Infographics",
+      "domains": [
+        "Identity",
+        "Resilience"
+      ],
+      "publishedAt": "2026-09-18T15:11:36.000Z",
+      "description": "Semperis has earned the Infocomm Media Development Authority (IMDA) accreditation, confirming its capability to deliver resilient identity solutions that can withstand AI‑driven threats. This infographic outlines a concise executive framework to integrate the accreditation into your organization’s identity strategy, aligning governance, technology, and operational controls."
+    },
+    {
+      "title": "Enterprise AI Shifts to an Operations Challenge",
+      "url": "https://intelligence.thearchon.eu/diagrams/enterprise-ai-shifts-to-an-operations-challenge",
+      "guid": "https://intelligence.thearchon.eu/diagrams/enterprise-ai-shifts-to-an-operations-challenge",
+      "family": "Diagrams",
+      "domains": [
+        "AI",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-09-18T15:11:32.000Z",
+      "description": "Enterprise AI delivers strategic value, but as models scale they create continuous operational demands—monitoring, incident response, and integration with IT Ops. A capability view shows the essential AI functions and the operational disciplines they now depend on."
+    },
+    {
+      "title": "Enterprise Threat Risk Management (ETRM) Process",
+      "url": "https://intelligence.thearchon.eu/diagrams/enterprise-threat-risk-management-etrm-process",
+      "guid": "https://intelligence.thearchon.eu/diagrams/enterprise-threat-risk-management-etrm-process",
+      "family": "Diagrams",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-09-18T08:34:17.000Z",
+      "description": "A concise executive view of how the organization discovers threats, evaluates their impact, decides on acceptance versus mitigation, and continuously monitors risk to protect critical assets."
+    },
+    {
+      "title": "Your New Employee Has Already Said Yes. What Has the Company Said Back?",
+      "url": "https://intelligence.thearchon.eu/articles/your-new-employee-has-already-said-yes-what-has-the-company-said-back",
+      "guid": "https://intelligence.thearchon.eu/articles/your-new-employee-has-already-said-yes-what-has-the-company-said-back",
+      "family": "Insights",
+      "domains": [
+        "IT Operations"
+      ],
+      "publishedAt": "2026-09-18T07:21:00.000Z",
+      "description": "The 30 Days Between Offer Accepted and Day One Are Not Dead Time. They Are the First Chapter of the Employment Relationship."
+    },
+    {
+      "title": "Basic ESB Architecture",
+      "url": "https://intelligence.thearchon.eu/diagrams/basic-esb-architecture-2",
+      "guid": "https://intelligence.thearchon.eu/diagrams/basic-esb-architecture-2",
+      "family": "Diagrams",
+      "domains": [
+        "IT Operations"
+      ],
+      "publishedAt": "2026-09-17T20:25:29.000Z",
+      "description": "A high‑level view of how an Enterprise Service Bus (ESB) centralizes communication between internal applications, external partners, and shared services."
+    },
+    {
+      "title": "Basic ESB Architecture",
+      "url": "https://intelligence.thearchon.eu/diagrams/basic-esb-architecture",
+      "guid": "https://intelligence.thearchon.eu/diagrams/basic-esb-architecture",
+      "family": "Diagrams",
+      "domains": [
+        "IT Operations"
+      ],
+      "publishedAt": "2026-09-17T20:24:38.000Z",
+      "description": "High‑level view of the essential components that enable heterogeneous applications to exchange messages through a centralized Enterprise Service Bus."
+    },
+    {
+      "title": "Incident Management Process",
+      "url": "https://intelligence.thearchon.eu/diagrams/incident-management-process",
+      "guid": "https://intelligence.thearchon.eu/diagrams/incident-management-process",
+      "family": "Diagrams",
+      "domains": [
+        "IT Operations",
+        "Resilience"
+      ],
+      "publishedAt": "2026-09-17T19:54:19.000Z",
+      "description": "Executive view of the end‑to‑end steps from incident detection through triage, resolution, verification and closure, highlighting key decision gates."
+    },
+    {
+      "title": "IT Change Management Process",
+      "url": "https://intelligence.thearchon.eu/diagrams/it-change-management-process",
+      "guid": "https://intelligence.thearchon.eu/diagrams/it-change-management-process",
+      "family": "Diagrams",
+      "domains": [
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-17T19:36:26.000Z",
+      "description": "A streamlined flow that moves a change request through triage, risk assessment, approval, planning, implementation, validation, and final closure, while handling rejection and rapid rollback when needed."
+    },
+    {
+      "title": "Strategic Change Management Process for Enterprise IT",
+      "url": "https://intelligence.thearchon.eu/infographics/strategic-change-management-process-for-enterprise-it",
+      "guid": "https://intelligence.thearchon.eu/infographics/strategic-change-management-process-for-enterprise-it",
+      "family": "Infographics",
+      "domains": [
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-17T16:21:10.000Z",
+      "description": "A disciplined, governance‑driven change management workflow reduces service disruption, safeguards security posture, and accelerates delivery of business value. This infographic maps the end‑to‑end process, highlights decision‑rights, and embeds measurable controls for continuous improvement."
+    },
+    {
+      "title": "Evolving IT Operations for Strategic Business Impact",
+      "url": "https://intelligence.thearchon.eu/infographics/evolving-it-operations-for-strategic-business-impact",
+      "guid": "https://intelligence.thearchon.eu/infographics/evolving-it-operations-for-strategic-business-impact",
+      "family": "Infographics",
+      "domains": [
+        "IT Operations"
+      ],
+      "publishedAt": "2026-09-16T16:48:23.000Z",
+      "description": "Senior technology leaders must transform IT Operations into a strategic engine that delivers speed, reliability, and cost efficiency. This infographic outlines a future‑focused operating model, the maturity pathway, and the critical enablers needed to achieve it."
+    },
+    {
+      "title": "Driving Board Approval: ROI Framework for IT Investments",
+      "url": "https://intelligence.thearchon.eu/infographics/driving-board-approval-roi-framework-for-it-investments",
+      "guid": "https://intelligence.thearchon.eu/infographics/driving-board-approval-roi-framework-for-it-investments",
+      "family": "Infographics",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-09-16T16:47:05.000Z",
+      "description": "Senior technology leaders need a repeatable process that quantifies costs, captures benefits, and aligns with board priorities. This framework delivers a clear financial narrative, risk context, and decision‑ready visuals to secure executive endorsement."
+    },
+    {
+      "title": "Strategic Outsourcing: When External Delivery Drives Business Value",
+      "url": "https://intelligence.thearchon.eu/infographics/strategic-outsourcing-when-external-delivery-drives-business-value",
+      "guid": "https://intelligence.thearchon.eu/infographics/strategic-outsourcing-when-external-delivery-drives-business-value",
+      "family": "Infographics",
+      "domains": [
+        "Governance",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-09-16T16:43:18.000Z",
+      "description": "Outsourcing can accelerate cost efficiency, speed, and innovation, but only when governed with clear risk controls and performance metrics. This infographic equips CIOs and IT executives with a concise framework to evaluate make‑vs‑buy decisions across critical dimensions."
+    },
+    {
+      "title": "The Colleague Who Knew Everything Just Resigned. Now What?",
+      "url": "https://intelligence.thearchon.eu/articles/the-colleague-who-knew-everything-just-resigned-now-what",
+      "guid": "https://intelligence.thearchon.eu/articles/the-colleague-who-knew-everything-just-resigned-now-what",
+      "family": "Insights",
+      "domains": [
+        "IT Operations"
+      ],
+      "publishedAt": "2026-09-16T06:37:00.000Z",
+      "description": "Knowledge Hoarding Looks Like a People Problem. It Is Usually a System Problem"
+    },
+    {
+      "title": "Greek ITSM Market – From Ticket‑Tool Overload to Service‑Maturity",
+      "url": "https://intelligence.thearchon.eu/infographics/greek-itsm-market-from-ticket-tool-overload-to-service-maturity",
+      "guid": "https://intelligence.thearchon.eu/infographics/greek-itsm-market-from-ticket-tool-overload-to-service-maturity",
+      "family": "Infographics",
+      "domains": [
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-15T20:36:29.000Z",
+      "description": "The Greek enterprise landscape is flooded with disparate ticketing platforms, yet organizations struggle with fragmented processes, siloed data, and low service maturity. Executives must pivot from tool‑centric spending to a disciplined, governance‑driven ITSM operating model that delivers measurable business value."
+    },
+    {
+      "title": "ITSM Change Approval Matrix",
+      "url": "https://intelligence.thearchon.eu/infographics/itsm-change-approval-matrix",
+      "guid": "https://intelligence.thearchon.eu/infographics/itsm-change-approval-matrix",
+      "family": "Infographics",
+      "domains": [
+        "Governance",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-09-15T20:34:31.000Z",
+      "description": "A concise matrix that maps change types to approval authorities, enabling senior leaders to balance control with agility. It clarifies decision rights, reduces bottlenecks, and supports compliance with ITIL best‑practice."
+    },
+    {
+      "title": "CMDB Minimum Viable Model (MVM)",
+      "url": "https://intelligence.thearchon.eu/infographics/cmdb-minimum-viable-model-mvm",
+      "guid": "https://intelligence.thearchon.eu/infographics/cmdb-minimum-viable-model-mvm",
+      "family": "Infographics",
+      "domains": [
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-15T20:33:46.000Z",
+      "description": "The CMDB Minimum Viable Model defines the smallest, high‑value data set, ownership rules, and automation hooks needed to turn a configuration database into a trusted source of truth. Executives can launch a disciplined CMDB in 90‑day sprints, delivering measurable service‑impact insights while avoiding data bloat."
+    },
+    {
+      "title": "ITSM Process Mapping Framework",
+      "url": "https://intelligence.thearchon.eu/infographics/itsm-process-mapping-framework",
+      "guid": "https://intelligence.thearchon.eu/infographics/itsm-process-mapping-framework",
+      "family": "Infographics",
+      "domains": [
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-15T20:33:15.000Z",
+      "description": "A concise, executive‑grade model that visualizes the end‑to‑end IT Service Management (ITSM) lifecycle, clarifies ownership, and embeds governance checkpoints. It enables CIOs and IT leaders to standardize processes, accelerate value delivery, and drive measurable performance."
+    },
+    {
+      "title": "Strategic ATS Selection Matrix",
+      "url": "https://intelligence.thearchon.eu/infographics/strategic-ats-selection-matrix",
+      "guid": "https://intelligence.thearchon.eu/infographics/strategic-ats-selection-matrix",
+      "family": "Infographics",
+      "domains": [
+        "Cloud",
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-15T20:31:53.000Z",
+      "description": "A concise decision matrix that helps CIOs and HR technology leaders evaluate Applicant Tracking Systems (ATS) against strategic criteria such as integration, AI capabilities, cloud delivery, and governance. The matrix translates complex trade‑offs into a single, actionable ranking."
+    },
+    {
+      "title": "Performance‑Based Incentives in IT Contracts",
+      "url": "https://intelligence.thearchon.eu/infographics/performance-based-incentives-in-it-contracts",
+      "guid": "https://intelligence.thearchon.eu/infographics/performance-based-incentives-in-it-contracts",
+      "family": "Infographics",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-09-15T20:29:47.000Z",
+      "description": "Executive contracts should balance risk and reward through measurable incentives. Applying bonuses and penalties only where outcomes are quantifiable, critical, and aligned to strategic goals drives vendor performance without inflating complexity."
+    },
+    {
+      "title": "Minimum Essentials for an External IT Services Contract",
+      "url": "https://intelligence.thearchon.eu/infographics/minimum-essentials-for-an-external-it-services-contract",
+      "guid": "https://intelligence.thearchon.eu/infographics/minimum-essentials-for-an-external-it-services-contract",
+      "family": "Infographics",
+      "domains": [
+        "Governance",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-15T20:28:55.000Z",
+      "description": "A concise framework of the non‑negotiable clauses every external IT contract must contain. It balances governance, security, performance, and exit considerations so CIOs and legal teams can approve contracts quickly while protecting the enterprise."
+    },
+    {
+      "title": "Strategic Vendor vs Transactional Vendor: Executive Decision Matrix",
+      "url": "https://intelligence.thearchon.eu/infographics/strategic-vendor-vs-transactional-vendor-executive-decision-matrix",
+      "guid": "https://intelligence.thearchon.eu/infographics/strategic-vendor-vs-transactional-vendor-executive-decision-matrix",
+      "family": "Infographics",
+      "domains": [
+        "Governance",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-15T20:28:03.000Z",
+      "description": "A concise comparison of strategic and transactional vendor models that highlights governance, security, and performance implications. Executives can use this matrix to decide when to elevate a supplier to a strategic partner and how to structure the relationship for maximum ROI and risk mitigation."
+    },
+    {
+      "title": "Strategic Decision Framework for Outsourcing SOC & NOC",
+      "url": "https://intelligence.thearchon.eu/infographics/strategic-decision-framework-for-outsourcing-soc-noc",
+      "guid": "https://intelligence.thearchon.eu/infographics/strategic-decision-framework-for-outsourcing-soc-noc",
+      "family": "Infographics",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-15T20:26:59.000Z",
+      "description": "A concise matrix‑based guide that helps CIOs and CISOs determine the optimal moment to outsource Security and Network Operations Centers while preserving strategic control. It balances cost, talent, risk, and governance to ensure a vendor‑agnostic partnership delivers measurable value."
+    },
+    {
+      "title": "AI‑Powered IT Management: From Insight to Autonomous Operations",
+      "url": "https://intelligence.thearchon.eu/infographics/ai-powered-it-management-from-insight-to-autonomous-operations",
+      "guid": "https://intelligence.thearchon.eu/infographics/ai-powered-it-management-from-insight-to-autonomous-operations",
+      "family": "Infographics",
+      "domains": [
+        "AI",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-09-15T20:24:56.000Z",
+      "description": "AI‑enabled IT management platforms turn massive telemetry into predictive insights, automated remediation, and continuous optimization. Executives must align data, governance, and talent to unlock measurable cost, availability, and security benefits."
+    },
+    {
+      "title": "Integrating Dark‑Web Monitoring with SIEM for Proactive Threat Defense",
+      "url": "https://intelligence.thearchon.eu/infographics/integrating-dark-web-monitoring-with-siem-for-proactive-threat-defense",
+      "guid": "https://intelligence.thearchon.eu/infographics/integrating-dark-web-monitoring-with-siem-for-proactive-threat-defense",
+      "family": "Infographics",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-15T20:23:15.000Z",
+      "description": "Dark‑web monitoring delivers high‑value threat intelligence that, when fed into a SIEM, enables early detection, precise prioritization, and faster response to credential exposure and data leakage. This flow‑based model shows how security teams can operationalize dark‑web intel to shrink dwell time and protect critical assets."
+    },
+    {
+      "title": "Dark Web Monitoring: Proactive Defense for Enterprise Assets",
+      "url": "https://intelligence.thearchon.eu/infographics/dark-web-monitoring-proactive-defense-for-enterprise-assets",
+      "guid": "https://intelligence.thearchon.eu/infographics/dark-web-monitoring-proactive-defense-for-enterprise-assets",
+      "family": "Infographics",
+      "domains": [
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-15T20:21:45.000Z",
+      "description": "Dark web monitoring surfaces compromised credentials, proprietary data, and emerging threats before they impact the organization. A disciplined, integrated process enables rapid detection, response, and governance, reducing breach risk and supporting regulatory obligations."
+    },
+    {
+      "title": "From Heroic Incident Response to a Structured Department",
+      "url": "https://intelligence.thearchon.eu/infographics/from-heroic-incident-response-to-a-structured-department",
+      "guid": "https://intelligence.thearchon.eu/infographics/from-heroic-incident-response-to-a-structured-department",
+      "family": "Infographics",
+      "domains": [
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-15T18:25:21.000Z",
+      "description": "Executive leaders often rely on heroic, reactive teams to manage critical health‑related incidents, creating hidden risk and scalability limits. This framework contrasts that model with a purpose‑built department anchored in governance, clear roles, and resilience, outlining a pragmatic migration path."
+    },
+    {
+      "title": "The Most Challenging Stakeholder Personas in Technology Programs",
+      "url": "https://intelligence.thearchon.eu/infographics/the-most-challenging-stakeholder-personas-in-technology-programs",
+      "guid": "https://intelligence.thearchon.eu/infographics/the-most-challenging-stakeholder-personas-in-technology-programs",
+      "family": "Infographics",
+      "domains": [
+        "Governance",
+        "IT Operations",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-15T18:24:08.000Z",
+      "description": "Senior technology leaders repeatedly encounter a handful of stakeholder personas that derail initiatives, inflate risk, and erode operational efficiency. This matrix isolates those personas, maps their primary impact domains, and provides a concise mitigation lens for CIOs, IT Directors, and CISOs."
+    },
+    {
+      "title": "IT Staff Training: Strategic Imperative or Optional Expense?",
+      "url": "https://intelligence.thearchon.eu/infographics/it-staff-training-strategic-imperative-or-optional-expense",
+      "guid": "https://intelligence.thearchon.eu/infographics/it-staff-training-strategic-imperative-or-optional-expense",
+      "family": "Infographics",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Governance",
+        "Resilience"
+      ],
+      "publishedAt": "2026-09-15T18:23:16.000Z",
+      "description": "Executive analysis of the trade‑offs between investing in structured IT staff training and maintaining the status quo. The matrix quantifies effects on security, operations, compliance, and resilience, guiding CIOs toward a data‑driven decision."
+    },
+    {
+      "title": "ESB: Retain or Retire?",
+      "url": "https://intelligence.thearchon.eu/infographics/esb-retain-or-retire",
+      "guid": "https://intelligence.thearchon.eu/infographics/esb-retain-or-retire",
+      "family": "Infographics",
+      "domains": [
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-15T18:21:47.000Z",
+      "description": "Enterprise Service Buses have long underpinned SOA, but cloud‑native, API‑first and event‑driven models are reshaping integration. This infographic equips CIOs and IT leaders with a concise matrix and scenario guide to decide whether to keep, replace, or phase out the ESB."
+    },
+    {
+      "title": "CRM RFD (Request‑for‑Development) Lifecycle",
+      "url": "https://intelligence.thearchon.eu/infographics/crm-rfd-request-for-development-lifecycle",
+      "guid": "https://intelligence.thearchon.eu/infographics/crm-rfd-request-for-development-lifecycle",
+      "family": "Infographics",
+      "domains": [
+        "Cloud",
+        "Cybersecurity",
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-15T18:20:10.000Z",
+      "description": "A concise, executive‑focused view of the end‑to‑end process that turns business‑driven CRM change requests into reliable, secure, and measurable outcomes. Aligns governance, IT operations, and cloud delivery to accelerate value while controlling risk."
+    },
+    {
+      "title": "Accelerating ERP Selection with a Structured RFD Process",
+      "url": "https://intelligence.thearchon.eu/infographics/accelerating-erp-selection-with-a-structured-rfd-process",
+      "guid": "https://intelligence.thearchon.eu/infographics/accelerating-erp-selection-with-a-structured-rfd-process",
+      "family": "Infographics",
+      "domains": [
+        "Governance",
+        "Cloud"
+      ],
+      "publishedAt": "2026-09-15T18:19:39.000Z",
+      "description": "Enterprise Resource Planning (ERP) projects consume significant budget and risk. A formal Request for Decision (RFD) streamlines stakeholder alignment, enforces rigorous evaluation, and shortens time‑to‑contract while safeguarding strategic objectives."
+    },
+    {
+      "title": "First 60 Minutes: Critical Path to Restoring Service",
+      "url": "https://intelligence.thearchon.eu/infographics/first-60-minutes-critical-path-to-restoring-service",
+      "guid": "https://intelligence.thearchon.eu/infographics/first-60-minutes-critical-path-to-restoring-service",
+      "family": "Infographics",
+      "domains": [
+        "IT Operations",
+        "Resilience"
+      ],
+      "publishedAt": "2026-09-15T16:23:27.000Z",
+      "description": "The initial hour of an outage defines the business impact, recovery cost, and stakeholder confidence. A structured, role‑based flow that moves from detection to communication ensures rapid containment, accurate diagnosis, and decisive escalation."
+    },
+    {
+      "title": "Single Sign‑On vs. Multiple Username‑Password Sets",
+      "url": "https://intelligence.thearchon.eu/infographics/single-sign-on-vs-multiple-username-password-sets",
+      "guid": "https://intelligence.thearchon.eu/infographics/single-sign-on-vs-multiple-username-password-sets",
+      "family": "Infographics",
+      "domains": [
+        "Identity"
+      ],
+      "publishedAt": "2026-09-15T15:59:04.000Z",
+      "description": "Enterprises must decide between consolidating access with Single Sign‑On (SSO) or maintaining separate credentials per application. This infographic evaluates security posture, user productivity, risk exposure, and total cost of ownership to guide senior technology leaders."
+    },
+    {
+      "title": "Secure Online Shopping – Executive Framework",
+      "url": "https://intelligence.thearchon.eu/infographics/secure-online-shopping-executive-framework",
+      "guid": "https://intelligence.thearchon.eu/infographics/secure-online-shopping-executive-framework",
+      "family": "Infographics",
+      "domains": [
+        "Cybersecurity",
+        "Identity",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-15T15:57:06.000Z",
+      "description": "A concise, multi‑layered framework that enables CIOs, CISO and IT leaders to safeguard e‑commerce platforms against fraud, data breaches, and service disruption while maintaining customer trust."
+    },
+    {
+      "title": "Multi‑Cloud vs Single‑Cloud Strategy",
+      "url": "https://intelligence.thearchon.eu/infographics/multi-cloud-vs-single-cloud-strategy",
+      "guid": "https://intelligence.thearchon.eu/infographics/multi-cloud-vs-single-cloud-strategy",
+      "family": "Infographics",
+      "domains": [
+        "Cloud",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-15T15:05:10.000Z",
+      "description": "A concise comparison of multi‑cloud and single‑cloud approaches, highlighting cost, agility, risk, governance, and talent implications. The matrix equips CIOs and IT executives with the criteria to align cloud strategy with business outcomes."
+    },
+    {
+      "title": "Cloud Exit Strategy & Vendor‑Lock‑In Risk",
+      "url": "https://intelligence.thearchon.eu/infographics/cloud-exit-strategy-vendor-lock-in-risk",
+      "guid": "https://intelligence.thearchon.eu/infographics/cloud-exit-strategy-vendor-lock-in-risk",
+      "family": "Infographics",
+      "domains": [
+        "Cloud",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-15T15:04:49.000Z",
+      "description": "Enterprise cloud adoption must be balanced with a disciplined exit plan that limits lock‑in, protects data, and preserves business agility. This framework defines the executive pillars needed to assess risk, embed contractual safeguards, and operationalize a repeatable exit process."
+    },
+    {
+      "title": "Identity & Access Management in Cloud Environments",
+      "url": "https://intelligence.thearchon.eu/infographics/identity-access-management-in-cloud-environments",
+      "guid": "https://intelligence.thearchon.eu/infographics/identity-access-management-in-cloud-environments",
+      "family": "Infographics",
+      "domains": [
+        "Identity",
+        "Cloud"
+      ],
+      "publishedAt": "2026-09-15T15:04:04.000Z",
+      "description": "A cloud‑native IAM model that aligns with zero‑trust principles, automates lifecycle management, and embeds governance. Executives gain a clear view of the layered architecture needed to protect identities while enabling rapid cloud adoption."
+    },
+    {
+      "title": "People‑First Cloud Migration: Strategic Framework for Executive Success",
+      "url": "https://intelligence.thearchon.eu/infographics/people-first-cloud-migration-strategic-framework-for-executive-success",
+      "guid": "https://intelligence.thearchon.eu/infographics/people-first-cloud-migration-strategic-framework-for-executive-success",
+      "family": "Infographics",
+      "domains": [
+        "Cloud",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-15T15:03:42.000Z",
+      "description": "Cloud migration delivers technical benefits, but its true ROI hinges on how people are prepared, motivated, and governed throughout the journey. This framework distills the critical people‑impact pillars that senior technology leaders must embed early to reduce risk, sustain productivity, and realize speed‑to‑value."
+    },
+    {
+      "title": "Cloud Security Shared Responsibility Model",
+      "url": "https://intelligence.thearchon.eu/infographics/cloud-security-shared-responsibility-model",
+      "guid": "https://intelligence.thearchon.eu/infographics/cloud-security-shared-responsibility-model",
+      "family": "Infographics",
+      "domains": [
+        "Cloud",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-15T15:03:17.000Z",
+      "description": "The Shared Responsibility Model (SRM) defines the security boundary between cloud providers and enterprise customers. Understanding the split of duties by service layer enables precise risk allocation, governance, and cost‑effective controls."
+    },
+    {
+      "title": "Driving Financial Discipline in the Cloud: A FinOps Blueprint",
+      "url": "https://intelligence.thearchon.eu/infographics/driving-financial-discipline-in-the-cloud-a-finops-blueprint",
+      "guid": "https://intelligence.thearchon.eu/infographics/driving-financial-discipline-in-the-cloud-a-finops-blueprint",
+      "family": "Infographics",
+      "domains": [
+        "Cloud",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-15T15:03:00.000Z",
+      "description": "FinOps blends finance, operations, and engineering to embed cost accountability into every cloud decision. By institutionalizing a data‑driven culture and clear ownership, enterprises can achieve predictable spend, accelerate innovation, and capture measurable savings."
+    },
+    {
+      "title": "Turning Network Visibility Overload into Actionable Insight",
+      "url": "https://intelligence.thearchon.eu/infographics/turning-network-visibility-overload-into-actionable-insight",
+      "guid": "https://intelligence.thearchon.eu/infographics/turning-network-visibility-overload-into-actionable-insight",
+      "family": "Infographics",
+      "domains": [
+        "Networking",
+        "IT Operations",
+        "AI"
+      ],
+      "publishedAt": "2026-09-15T15:02:06.000Z",
+      "description": "Network teams are drowning in disparate telemetry and endless alerts, eroding response speed and increasing risk. This infographic delivers a concise, executive‑level framework that aligns technology, process, and governance to regain control, reduce noise, and accelerate detection."
+    },
+    {
+      "title": "Securing BYOD: Network Access & Control Blueprint",
+      "url": "https://intelligence.thearchon.eu/infographics/securing-byod-network-access-control-blueprint",
+      "guid": "https://intelligence.thearchon.eu/infographics/securing-byod-network-access-control-blueprint",
+      "family": "Infographics",
+      "domains": [
+        "Networking",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-15T15:01:29.000Z",
+      "description": "A concise, executive‑focused flow that outlines the end‑to‑end governance, technical controls, and operational steps required to protect corporate networks when employees use personal devices. It aligns policy, identity assurance, zero‑trust networking, and continuous monitoring into a repeatable process."
+    },
+    {
+      "title": "Phishing After AI: Redefining Email Security for the New Threat Era",
+      "url": "https://intelligence.thearchon.eu/infographics/phishing-after-ai-redefining-email-security-for-the-new-threat-era",
+      "guid": "https://intelligence.thearchon.eu/infographics/phishing-after-ai-redefining-email-security-for-the-new-threat-era",
+      "family": "Infographics",
+      "domains": [
+        "Cybersecurity",
+        "AI"
+      ],
+      "publishedAt": "2026-09-15T13:43:30.000Z",
+      "description": "AI‑generated phishing attacks now mimic human writing, evade signatures, and scale at unprecedented speed. Executives must shift from static, rule‑based email filters to adaptive, AI‑augmented defenses that integrate threat intelligence, user behavior analytics, and automated response."
+    },
+    {
+      "title": "Ransomware Recovery: Critical Actions in the First 24 Hours",
+      "url": "https://intelligence.thearchon.eu/infographics/ransomware-recovery-critical-actions-in-the-first-24-hours",
+      "guid": "https://intelligence.thearchon.eu/infographics/ransomware-recovery-critical-actions-in-the-first-24-hours",
+      "family": "Infographics",
+      "domains": [
+        "Cybersecurity",
+        "Resilience"
+      ],
+      "publishedAt": "2026-09-15T11:37:33.000Z",
+      "description": "The initial 24‑hour window determines whether a ransomware incident escalates or can be contained. Executives must drive a coordinated, cross‑functional effort that secures evidence, isolates threats, and launches recovery while preserving business continuity."
+    },
+    {
+      "title": "Accelerating Productivity Through a Seamless Pre‑boarding Digital Experience",
+      "url": "https://intelligence.thearchon.eu/infographics/accelerating-productivity-through-a-seamless-pre-boarding-digital-experience",
+      "guid": "https://intelligence.thearchon.eu/infographics/accelerating-productivity-through-a-seamless-pre-boarding-digital-experience",
+      "family": "Infographics",
+      "domains": [
+        "Identity",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-09-14T21:40:26.000Z",
+      "description": "A concise executive model that maps the end‑to‑end pre‑boarding journey, highlights the technology enablers, and defines governance controls needed to reduce time‑to‑productivity, mitigate security risk, and elevate employee experience."
+    },
+    {
+      "title": "Sentiment Analysis Boundaries – Executive Framework",
+      "url": "https://intelligence.thearchon.eu/infographics/sentiment-analysis-boundaries-executive-framework",
+      "guid": "https://intelligence.thearchon.eu/infographics/sentiment-analysis-boundaries-executive-framework",
+      "family": "Infographics",
+      "domains": [
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-14T21:39:41.000Z",
+      "description": "Sentiment analysis delivers real‑time customer insight, but unchecked models expose organizations to bias, privacy breaches, and reputational risk. This framework defines the essential boundaries—data, model, deployment, monitoring, and governance—that senior technology leaders must enforce to capture value while mitigating risk."
+    },
+    {
+      "title": "Homogeneity Risk in AI‑Driven Hiring",
+      "url": "https://intelligence.thearchon.eu/infographics/homogeneity-risk-in-ai-driven-hiring",
+      "guid": "https://intelligence.thearchon.eu/infographics/homogeneity-risk-in-ai-driven-hiring",
+      "family": "Infographics",
+      "domains": [
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-14T21:38:30.000Z",
+      "description": "AI hiring platforms can amplify existing biases, leading to a homogeneous talent pool that erodes innovation and exposes compliance risk. A strategic, multi‑layered framework—combining data stewardship, model transparency, governance, and human oversight—enables enterprises to reap efficiency gains while preserving diversity."
+    },
+    {
+      "title": "Dynamic Team Composition Tools – Strategic Enabler for Agile Delivery",
+      "url": "https://intelligence.thearchon.eu/infographics/dynamic-team-composition-tools-strategic-enabler-for-agile-delivery",
+      "guid": "https://intelligence.thearchon.eu/infographics/dynamic-team-composition-tools-strategic-enabler-for-agile-delivery",
+      "family": "Infographics",
+      "domains": [
+        "AI",
+        "Governance",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-09-14T21:38:04.000Z",
+      "description": "Dynamic team composition tools combine skill intelligence, workload analytics, and automated governance to create optimal, adaptable teams. Executives gain faster time‑to‑market, higher utilization, and reduced skill‑gap risk while maintaining compliance and operational visibility."
+    },
+    {
+      "title": "Endpoint Security Lifecycle: Encryption → Recovery → Secure Wipe",
+      "url": "https://intelligence.thearchon.eu/infographics/endpoint-security-lifecycle-encryption-recovery-secure-wipe",
+      "guid": "https://intelligence.thearchon.eu/infographics/endpoint-security-lifecycle-encryption-recovery-secure-wipe",
+      "family": "Infographics",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-14T21:37:10.000Z",
+      "description": "A concise, end‑to‑end model that aligns cryptographic protection, key‑centric recovery, and verifiable data sanitization with enterprise risk and compliance goals. Executives can mandate an automated, auditable flow that reduces breach exposure while supporting rapid business recovery."
+    },
+    {
+      "title": "Who Can Actually Access Your Network?",
+      "url": "https://intelligence.thearchon.eu/infographics/who-can-actually-access-your-network",
+      "guid": "https://intelligence.thearchon.eu/infographics/who-can-actually-access-your-network",
+      "family": "Infographics",
+      "domains": [
+        "Networking",
+        "Identity"
+      ],
+      "publishedAt": "2026-09-14T21:35:55.000Z",
+      "description": "Senior technology leaders must understand every entity that can traverse the corporate network and the controls that govern that access. This matrix clarifies actor categories, access pathways, and the identity‑centric safeguards required to enforce least‑privilege at scale."
+    },
+    {
+      "title": "Network Change: One Rule, Unexpected Impact",
+      "url": "https://intelligence.thearchon.eu/infographics/network-change-one-rule-unexpected-impact",
+      "guid": "https://intelligence.thearchon.eu/infographics/network-change-one-rule-unexpected-impact",
+      "family": "Infographics",
+      "domains": [
+        "Networking",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-14T21:35:29.000Z",
+      "description": "A solitary network‑change rule—such as “all modifications must be documented”—often appears simple, yet it can trigger unforeseen security gaps, performance degradation, and compliance breaches. This infographic maps the end‑to‑end change lifecycle, highlights hidden dependency zones, and delivers a governance blueprint to safeguard the network ecosystem."
+    },
+    {
+      "title": "Guest Wi‑Fi Is Not a Side‑Show – It’s Core Infrastructure",
+      "url": "https://intelligence.thearchon.eu/infographics/guest-wi-fi-is-not-a-side-show-it-s-core-infrastructure",
+      "guid": "https://intelligence.thearchon.eu/infographics/guest-wi-fi-is-not-a-side-show-it-s-core-infrastructure",
+      "family": "Infographics",
+      "domains": [
+        "Networking",
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-14T21:35:14.000Z",
+      "description": "Guest wireless access points sit on the same physical and logical fabric as corporate assets, creating a direct bridge for threats, compliance gaps, and brand risk. Treating guest Wi‑Fi as a peripheral service exposes the enterprise to data loss, ransomware entry, and regulatory penalties."
+    },
+    {
+      "title": "The DNS Failure Nobody Sees Coming",
+      "url": "https://intelligence.thearchon.eu/infographics/the-dns-failure-nobody-sees-coming",
+      "guid": "https://intelligence.thearchon.eu/infographics/the-dns-failure-nobody-sees-coming",
+      "family": "Infographics",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Resilience"
+      ],
+      "publishedAt": "2026-09-14T21:34:43.000Z",
+      "description": "DNS underpins every digital interaction. A silent outage can cripple services, expose the enterprise to attacks, and erode resilience. This framework equips CIOs, CISOs, and IT leaders with a strategic, actionable model to anticipate, detect, and mitigate DNS‑related disruptions."
+    },
+    {
+      "title": "Zero Trust: What Actually Changes?",
+      "url": "https://intelligence.thearchon.eu/infographics/zero-trust-what-actually-changes",
+      "guid": "https://intelligence.thearchon.eu/infographics/zero-trust-what-actually-changes",
+      "family": "Infographics",
+      "domains": [
+        "Cybersecurity",
+        "Identity",
+        "Networking",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-14T21:34:03.000Z",
+      "description": "Zero Trust rewrites the security playbook by treating every request as untrusted, enforcing verification at every layer, and limiting access to the minimum needed. Executives must understand the concrete shifts in policy, technology, and governance to drive a successful transformation."
+    },
+    {
+      "title": "The Hidden Network Dependency Map",
+      "url": "https://intelligence.thearchon.eu/infographics/the-hidden-network-dependency-map",
+      "guid": "https://intelligence.thearchon.eu/infographics/the-hidden-network-dependency-map",
+      "family": "Infographics",
+      "domains": [
+        "Networking",
+        "Resilience"
+      ],
+      "publishedAt": "2026-09-14T21:33:19.000Z",
+      "description": "Enterprise networks embed countless implicit links between applications, services, and infrastructure. Those hidden dependencies create blind spots that can trigger outages, security breaches, and unplanned spend. A layered, governed mapping approach makes the invisible visible and turns risk into strategic advantage."
+    },
+    {
+      "title": "Flat Network vs Segmented Network – Strategic Trade‑offs",
+      "url": "https://intelligence.thearchon.eu/infographics/flat-network-vs-segmented-network-strategic-trade-offs",
+      "guid": "https://intelligence.thearchon.eu/infographics/flat-network-vs-segmented-network-strategic-trade-offs",
+      "family": "Infographics",
+      "domains": [
+        "Networking",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-14T21:32:48.000Z",
+      "description": "A segmented network isolates workloads, limits lateral movement, and supports compliance, while a flat network offers simplicity and lower upfront cost. Executives must weigh security risk reduction against operational complexity and investment to align with business risk appetite."
+    },
+    {
+      "title": "The Blast Radius of One Compromised Laptop",
+      "url": "https://intelligence.thearchon.eu/infographics/the-blast-radius-of-one-compromised-laptop",
+      "guid": "https://intelligence.thearchon.eu/infographics/the-blast-radius-of-one-compromised-laptop",
+      "family": "Infographics",
+      "domains": [
+        "Cybersecurity",
+        "Identity"
+      ],
+      "publishedAt": "2026-09-14T21:32:00.000Z",
+      "description": "A breached laptop is a launchpad for credential theft, lateral movement, and data loss. Mapping the layers of impact helps executives prioritize zero‑trust controls, segmentation, and rapid response to contain the threat."
+    },
+    {
+      "title": "Your Firewall Is Not Your Network Security",
+      "url": "https://intelligence.thearchon.eu/infographics/your-firewall-is-not-your-network-security",
+      "guid": "https://intelligence.thearchon.eu/infographics/your-firewall-is-not-your-network-security",
+      "family": "Infographics",
+      "domains": [
+        "Cybersecurity",
+        "Networking"
+      ],
+      "publishedAt": "2026-09-14T21:31:16.000Z",
+      "description": "Firewalls remain a critical control, but relying on them as the sole line of defense leaves critical gaps. A layered, identity‑driven, zero‑trust architecture integrates segmentation, continuous monitoring, and automated response to secure the entire network fabric."
+    },
+    {
+      "title": "Network Outage Response: Where to Start",
+      "url": "https://intelligence.thearchon.eu/infographics/network-outage-response-where-to-start",
+      "guid": "https://intelligence.thearchon.eu/infographics/network-outage-response-where-to-start",
+      "family": "Infographics",
+      "domains": [
+        "Networking",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-09-14T21:30:54.000Z",
+      "description": "When the network goes down, senior technology leaders need a clear, repeatable response that minimizes downtime, aligns teams, and safeguards critical services. This flow outlines the essential steps—from detection to post‑mortem—so you can act decisively and reduce mean time to recovery (MTTR)."
+    },
+    {
+      "title": "From Data to AI: Mapping Leakage Risks Across the Pipeline",
+      "url": "https://intelligence.thearchon.eu/infographics/from-data-to-ai-mapping-leakage-risks-across-the-pipeline",
+      "guid": "https://intelligence.thearchon.eu/infographics/from-data-to-ai-mapping-leakage-risks-across-the-pipeline",
+      "family": "Infographics",
+      "domains": [
+        "Cybersecurity",
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-14T21:28:02.000Z",
+      "description": "Data‑driven AI initiatives create multiple hand‑off points where confidential information can be exposed. This infographic outlines the end‑to‑end pipeline, highlights the most common leakage vectors at each stage, and aligns them with actionable security and governance controls for senior technology leaders."
+    },
+    {
+      "title": "The SaaS Nobody Owns – Closing the Ownership Gap",
+      "url": "https://intelligence.thearchon.eu/infographics/the-saas-nobody-owns-closing-the-ownership-gap",
+      "guid": "https://intelligence.thearchon.eu/infographics/the-saas-nobody-owns-closing-the-ownership-gap",
+      "family": "Infographics",
+      "domains": [
+        "Governance",
+        "IT Operations",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-14T21:16:49.000Z",
+      "description": "Enterprise SaaS applications proliferate faster than governance can keep pace, leaving critical tools without clear owners. This creates hidden costs, security blind spots, and compliance risk. A concise ownership matrix and governance framework give executives a roadmap to reclaim accountability and optimize SaaS spend."
+    },
+    {
+      "title": "VPN: The Strategic Imperative for Secure Remote Connectivity",
+      "url": "https://intelligence.thearchon.eu/infographics/vpn-the-strategic-imperative-for-secure-remote-connectivity",
+      "guid": "https://intelligence.thearchon.eu/infographics/vpn-the-strategic-imperative-for-secure-remote-connectivity",
+      "family": "Infographics",
+      "domains": [
+        "Networking",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-14T21:15:48.000Z",
+      "description": "In an era of distributed workforces and cloud‑centric workloads, a Virtual Private Network (VPN) provides the foundational encryption, access control, and compliance safeguards that enable secure data in motion. Executives must view VPN not as a legacy tool, but as a critical component of a Zero‑Trust networking strategy."
+    },
+    {
+      "title": "Mapping the True Home of Corporate Data",
+      "url": "https://intelligence.thearchon.eu/infographics/mapping-the-true-home-of-corporate-data",
+      "guid": "https://intelligence.thearchon.eu/infographics/mapping-the-true-home-of-corporate-data",
+      "family": "Infographics",
+      "domains": [
+        "Cloud",
+        "Governance",
+        "Resilience"
+      ],
+      "publishedAt": "2026-09-14T21:14:36.000Z",
+      "description": "Executive leaders must see beyond the myth of “all‑cloud” or “on‑prem” to understand the full spectrum of data locations—on‑prem data centers, private clouds, public clouds, SaaS platforms, edge devices, and archival stores. This infographic layers those habitats with governance, compliance, and resilience considerations, enabling strategic decisions on risk, cost, and performance."
+    },
+    {
+      "title": "The Critical First 72 Hours After a Data Breach",
+      "url": "https://intelligence.thearchon.eu/infographics/the-critical-first-72-hours-after-a-data-breach",
+      "guid": "https://intelligence.thearchon.eu/infographics/the-critical-first-72-hours-after-a-data-breach",
+      "family": "Infographics",
+      "domains": [
+        "Cybersecurity",
+        "Governance",
+        "Resilience"
+      ],
+      "publishedAt": "2026-09-14T21:13:47.000Z",
+      "description": "The initial three days post‑incident determine containment success, regulatory compliance, and brand impact. This flow outlines the decisive actions, decision‑rights, and coordination required to protect assets and restore trust."
+    },
+    {
+      "title": "The Hidden Cost of “Just One Exception”",
+      "url": "https://intelligence.thearchon.eu/infographics/the-hidden-cost-of-just-one-exception",
+      "guid": "https://intelligence.thearchon.eu/infographics/the-hidden-cost-of-just-one-exception",
+      "family": "Infographics",
+      "domains": [
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-14T21:12:45.000Z",
+      "description": "A single exception to security or compliance policies creates a cascade of hidden costs—escalating breach probability, remediation spend, and governance overhead. Executives must quantify and control exceptions to protect the organization’s bottom line and resilience."
+    },
+    {
+      "title": "The IT Complexity Iceberg",
+      "url": "https://intelligence.thearchon.eu/infographics/the-it-complexity-iceberg",
+      "guid": "https://intelligence.thearchon.eu/infographics/the-it-complexity-iceberg",
+      "family": "Infographics",
+      "domains": [
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-14T21:12:02.000Z",
+      "description": "Most senior leaders see only the visible symptoms—service outages, budget overruns, and compliance gaps. The underlying layers of technical debt, fragmented governance, and hidden inter‑dependencies drive those symptoms. Mapping the iceberg helps executives target the root causes before they surface."
+    },
+    {
+      "title": "Backup ≠ Recovery: Aligning Data Protection with Business Continuity",
+      "url": "https://intelligence.thearchon.eu/infographics/backup-recovery-aligning-data-protection-with-business-continuity",
+      "guid": "https://intelligence.thearchon.eu/infographics/backup-recovery-aligning-data-protection-with-business-continuity",
+      "family": "Infographics",
+      "domains": [
+        "IT Operations",
+        "Resilience"
+      ],
+      "publishedAt": "2026-09-14T21:11:22.000Z",
+      "description": "Executive leaders must distinguish between data backup (copy) and recovery (restoration to a usable state). This infographic clarifies the strategic gap, outlines the essential pillars of a true recovery capability, and maps the operational controls needed to protect service continuity."
+    },
+    {
+      "title": "The Real Attack Surface of a Single Employee",
+      "url": "https://intelligence.thearchon.eu/infographics/the-real-attack-surface-of-a-single-employee",
+      "guid": "https://intelligence.thearchon.eu/infographics/the-real-attack-surface-of-a-single-employee",
+      "family": "Infographics",
+      "domains": [
+        "Identity",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-14T21:10:03.000Z",
+      "description": "A single employee’s digital footprint spans identity credentials, devices, SaaS applications, and data privileges. Mapping these layers reveals hidden exposure points and guides focused, high‑impact security investments."
+    },
+    {
+      "title": "The Employee Digital Lifecycle – From Hire to Retire",
+      "url": "https://intelligence.thearchon.eu/infographics/the-employee-digital-lifecycle-from-hire-to-retire",
+      "guid": "https://intelligence.thearchon.eu/infographics/the-employee-digital-lifecycle-from-hire-to-retire",
+      "family": "Infographics",
+      "domains": [
+        "Identity",
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-14T21:07:46.000Z",
+      "description": "A unified, end‑to‑end process that aligns identity, access, and governance across every employee stage—onboarding, role change, ongoing management, and off‑boarding. Executives gain a clear view of control points that drive risk reduction, operational agility, and regulatory compliance."
+    },
+    {
+      "title": "Enterprise Governance of Employee‑Facing AI Agents",
+      "url": "https://intelligence.thearchon.eu/infographics/enterprise-governance-of-employee-facing-ai-agents",
+      "guid": "https://intelligence.thearchon.eu/infographics/enterprise-governance-of-employee-facing-ai-agents",
+      "family": "Infographics",
+      "domains": [
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-14T17:29:54.000Z",
+      "description": "Enterprises must establish clear, enforceable controls for how employees interact with generative AI agents. This framework aligns policy, risk management, operational oversight, and workforce enablement to ensure responsible AI use while preserving productivity."
+    },
+    {
+      "title": "Your Laptop Is Gone. Is Your Data Gone With It?",
+      "url": "https://intelligence.thearchon.eu/articles/your-laptop-is-gone-is-your-data-gone-with-it",
+      "guid": "https://intelligence.thearchon.eu/articles/your-laptop-is-gone-is-your-data-gone-with-it",
+      "family": "Insights",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-14T07:33:00.000Z",
+      "description": "Encryption Is a Control, Not a Response Plan — and the Difference Matters When the Device Has Already Left the Building."
+    },
+    {
+      "title": "Your Admin Account Has MFA. So Why Is It Still Your Biggest Identity Risk?",
+      "url": "https://intelligence.thearchon.eu/articles/your-admin-account-has-mfa-so-why-is-it-still-your-biggest-identity-risk",
+      "guid": "https://intelligence.thearchon.eu/articles/your-admin-account-has-mfa-so-why-is-it-still-your-biggest-identity-risk",
+      "family": "Insights",
+      "domains": [
+        "Identity",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-13T17:04:00.000Z",
+      "description": "TECHNOLOGY INTELLIGENCE · IDENTITY SECURITY / PRIVILEGED ACCESS / PAM"
+    },
+    {
+      "title": "Your VPN Works. So Why Is It Still the Wrong Architecture?",
+      "url": "https://intelligence.thearchon.eu/articles/your-vpn-works-so-why-is-it-still-the-wrong-architecture",
+      "guid": "https://intelligence.thearchon.eu/articles/your-vpn-works-so-why-is-it-still-the-wrong-architecture",
+      "family": "Insights",
+      "domains": [
+        "Networking",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-13T16:22:00.000Z",
+      "description": "TECHNOLOGY INTELLIGENCE · NETWORK SECURITY / ZTNA / SECURE ACCESS"
+    },
+    {
+      "title": "My Profile. My Voice. My Employer's Risk?",
+      "url": "https://intelligence.thearchon.eu/articles/my-profile-my-voice-my-employer-s-risk",
+      "guid": "https://intelligence.thearchon.eu/articles/my-profile-my-voice-my-employer-s-risk",
+      "family": "Insights",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-09-11T05:54:00.000Z",
+      "description": "Personal Ownership Does Not Mean Personal Perception — and the Boundary Must Be Visible Before Someone Crosses It."
+    },
+    {
+      "title": "When Seeing Is No Longer Believing: Is Your Organization Ready for the Deepfake Workplace?",
+      "url": "https://intelligence.thearchon.eu/articles/when-seeing-is-no-longer-believing-is-your-organization-ready-for-the-deepfake-workplace",
+      "guid": "https://intelligence.thearchon.eu/articles/when-seeing-is-no-longer-believing-is-your-organization-ready-for-the-deepfake-workplace",
+      "family": "Insights",
+      "domains": [
+        "Cybersecurity",
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-09T06:07:00.000Z",
+      "description": "The Technology Is the Weapon. The Vulnerability Is in Your Governance Design."
+    },
+    {
+      "title": "Approved AI Is Not Enough: The Governance Gap Your Organization Has Not Closed",
+      "url": "https://intelligence.thearchon.eu/articles/approved-ai-is-not-enough-the-governance-gap-your-organization-has-not-closed",
+      "guid": "https://intelligence.thearchon.eu/articles/approved-ai-is-not-enough-the-governance-gap-your-organization-has-not-closed",
+      "family": "Insights",
+      "domains": [
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-07T07:06:00.000Z",
+      "description": "Who Is Using Which AI Service, With What Data, For What Action, Under Which Policy, With What Level of Autonomy, At What Cost -- and Can You Prove It?"
+    },
+    {
+      "title": "The Problem Had Been Fixed for Three Days: What Scaling Really Means",
+      "url": "https://intelligence.thearchon.eu/articles/the-problem-had-been-fixed-for-three-days-what-scaling-really-means",
+      "guid": "https://intelligence.thearchon.eu/articles/the-problem-had-been-fixed-for-three-days-what-scaling-really-means",
+      "family": "Insights",
+      "domains": [
+        "IT Operations",
+        "Resilience"
+      ],
+      "publishedAt": "2026-09-04T06:30:00.000Z",
+      "description": "When Operational Excellence Makes the Work Behind It Invisible"
+    },
+    {
+      "title": "Why True Leadership Means Becoming Systemically Invisible",
+      "url": "https://intelligence.thearchon.eu/articles/why-true-leadership-means-becoming-systemically-invisible",
+      "guid": "https://intelligence.thearchon.eu/articles/why-true-leadership-means-becoming-systemically-invisible",
+      "family": "Insights",
+      "domains": [
+        "Resilience"
+      ],
+      "publishedAt": "2026-09-02T15:26:00.000Z",
+      "description": "From Heroics to Architecture: The Paradox of Building Systems That Run Without You"
+    },
+    {
+      "title": "Don't Fix the Person, Fix the System: Unlocking High Performance in Neurodiverse Talent",
+      "url": "https://intelligence.thearchon.eu/articles/don-t-fix-the-person-fix-the-system-unlocking-high-performance-in-neurodiverse-talent",
+      "guid": "https://intelligence.thearchon.eu/articles/don-t-fix-the-person-fix-the-system-unlocking-high-performance-in-neurodiverse-talent",
+      "family": "Insights",
+      "domains": [
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-08-31T05:28:00.000Z",
+      "description": "Why Adaptive Architecture Beats Performance Management for Non-Linear & Neurodivergent Minds"
+    },
+    {
+      "title": "Deskless & Frontline Worker Digital Experience: When the Digital Workplace Stops at the Office Door",
+      "url": "https://intelligence.thearchon.eu/articles/deskless-frontline-worker-digital-experience-when-the-digital-workplace-stops-at-the-office-door",
+      "guid": "https://intelligence.thearchon.eu/articles/deskless-frontline-worker-digital-experience-when-the-digital-workplace-stops-at-the-office-door",
+      "family": "Insights",
+      "domains": [
+        "IT Operations"
+      ],
+      "publishedAt": "2026-08-28T07:27:00.000Z",
+      "description": "FRONTLINE OPERATIONS & WORKFORCE EXPERIENCE"
+    },
+    {
+      "title": "Ethical Use of Biometric & Behavioral Data: Where Should Organizations Draw the Line Between Accountability and Surveillance?",
+      "url": "https://intelligence.thearchon.eu/articles/ethical-use-of-biometric-behavioral-data-where-should-organizations-draw-the-line-between-accountability-and-surveillanc",
+      "guid": "https://intelligence.thearchon.eu/articles/ethical-use-of-biometric-behavioral-data-where-should-organizations-draw-the-line-between-accountability-and-surveillanc",
+      "family": "Insights",
+      "domains": [
+        "AI",
+        "Identity",
+        "Governance"
+      ],
+      "publishedAt": "2026-08-26T08:11:00.000Z",
+      "description": "AI GOVERNANCE & WORKFORCE ETHICS"
+    },
+    {
+      "title": "Digital Twin of the Organization: What If You Could See the Consequences of a Decision Before Making It?",
+      "url": "https://intelligence.thearchon.eu/articles/digital-twin-of-the-organization-what-if-you-could-see-the-consequences-of-a-decision-before-making-it",
+      "guid": "https://intelligence.thearchon.eu/articles/digital-twin-of-the-organization-what-if-you-could-see-the-consequences-of-a-decision-before-making-it",
+      "family": "Insights",
+      "domains": [
+        "Governance",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-08-24T08:03:00.000Z",
+      "description": "· ENTERPRISE ARCHITECTURE & TRANSFORMATION GOVERNANCE"
+    },
+    {
+      "title": "Would You Treat a Customer the Way You Treat a Candidate?",
+      "url": "https://intelligence.thearchon.eu/articles/would-you-treat-a-customer-the-way-you-treat-a-candidate",
+      "guid": "https://intelligence.thearchon.eu/articles/would-you-treat-a-customer-the-way-you-treat-a-candidate",
+      "family": "Insights",
+      "domains": [
+        "Leadership & Organization",
+        "Governance"
+      ],
+      "publishedAt": "2026-08-21T08:23:00.000Z",
+      "description": "TALENT & BRAND GOVERNANCE"
+    },
+    {
+      "title": "When Everyone Is on Leave, Who Keeps the Business Running?",
+      "url": "https://intelligence.thearchon.eu/articles/when-everyone-is-on-leave-who-keeps-the-business-running",
+      "guid": "https://intelligence.thearchon.eu/articles/when-everyone-is-on-leave-who-keeps-the-business-running",
+      "family": "Insights",
+      "domains": [
+        "Resilience"
+      ],
+      "publishedAt": "2026-08-19T08:06:00.000Z",
+      "description": "Summer Workforce Coverage Is an Enterprise Resilience Test — Not Just a Holiday Schedule"
+    },
+    {
+      "title": "I Wrote the Theory. Days Later, I Became the Case Study.",
+      "url": "https://intelligence.thearchon.eu/articles/i-wrote-the-theory-days-later-i-became-the-case-study",
+      "guid": "https://intelligence.thearchon.eu/articles/i-wrote-the-theory-days-later-i-became-the-case-study",
+      "family": "Insights",
+      "domains": [
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-08-17T08:28:00.000Z",
+      "description": "AI GOVERNANCE"
+    },
+    {
+      "title": "When Organizations Reward the Wrong Behaviors",
+      "url": "https://intelligence.thearchon.eu/articles/when-organizations-reward-the-wrong-behaviors",
+      "guid": "https://intelligence.thearchon.eu/articles/when-organizations-reward-the-wrong-behaviors",
+      "family": "Insights",
+      "domains": [
+        "Leadership & Organization",
+        "Governance"
+      ],
+      "publishedAt": "2026-08-14T05:04:00.000Z",
+      "description": "The real leadership problem isn't that difficult people exist. It's what happens when organizations reward them."
+    },
+    {
+      "title": "Change Fatigue & Initiative Overload: The Governance Risk Nobody Is Measuring",
+      "url": "https://intelligence.thearchon.eu/articles/change-fatigue-initiative-overload-the-governance-risk-nobody-is-measuring",
+      "guid": "https://intelligence.thearchon.eu/articles/change-fatigue-initiative-overload-the-governance-risk-nobody-is-measuring",
+      "family": "Insights",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-08-12T18:09:06.000Z",
+      "description": "This edition is for CIOs, IT Directors, and senior transformation leads managing concurrent ERP migrations, cybersecurity programs, regulatory..."
+    },
+    {
+      "title": "From Hire to Exit: Governing Every Device, License and Access Right",
+      "url": "https://intelligence.thearchon.eu/articles/from-hire-to-exit-governing-every-device-license-and-access-right",
+      "guid": "https://intelligence.thearchon.eu/articles/from-hire-to-exit-governing-every-device-license-and-access-right",
+      "family": "Insights",
+      "domains": [
+        "Identity",
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-08-12T07:38:00.000Z",
+      "description": "EMPLOYEE TECHNOLOGY LIFECYCLE"
+    },
+    {
+      "title": "Your Employees Don't Care About Your Org Chart: Why Enterprise Service Management Is No Longer Optional",
+      "url": "https://intelligence.thearchon.eu/articles/your-employees-don-t-care-about-your-org-chart-why-enterprise-service-management-is-no-longer-optional",
+      "guid": "https://intelligence.thearchon.eu/articles/your-employees-don-t-care-about-your-org-chart-why-enterprise-service-management-is-no-longer-optional",
+      "family": "Insights",
+      "domains": [
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-08-09T17:12:00.000Z",
+      "description": "FROM ITSM TO ENTERPRISE SERVICE MANAGEMENT"
+    },
+    {
+      "title": "Why High Performers Stop Caring Before They Leave",
+      "url": "https://intelligence.thearchon.eu/articles/why-high-performers-stop-caring-before-they-leave",
+      "guid": "https://intelligence.thearchon.eu/articles/why-high-performers-stop-caring-before-they-leave",
+      "family": "Insights",
+      "domains": [
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-08-07T06:50:00.000Z",
+      "description": "The Hidden Stages of Disengagement — and Why Most Organizations Are Measuring the Wrong Thing"
+    },
+    {
+      "title": "The Meeting Culture Nobody Prices",
+      "url": "https://intelligence.thearchon.eu/articles/the-meeting-culture-nobody-prices",
+      "guid": "https://intelligence.thearchon.eu/articles/the-meeting-culture-nobody-prices",
+      "family": "Insights",
+      "domains": [
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-08-05T06:43:00.000Z",
+      "description": "How Executive Meetings Silently Destroy Productivity and Decision Velocity"
+    },
+    {
+      "title": "Platformization: The End of Tool Sprawl",
+      "url": "https://intelligence.thearchon.eu/articles/platformization-the-end-of-tool-sprawl",
+      "guid": "https://intelligence.thearchon.eu/articles/platformization-the-end-of-tool-sprawl",
+      "family": "Insights",
+      "domains": [
+        "IT Operations",
+        "Governance",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-08-03T06:05:00.000Z",
+      "description": "Why the Strategic Shift to Unified Platforms Is the Most Important IT and Security Decision of the Decade"
+    },
+    {
+      "title": "Did We Automate the Customer Out of the Customer Journey?",
+      "url": "https://intelligence.thearchon.eu/articles/did-we-automate-the-customer-out-of-the-customer-journey",
+      "guid": "https://intelligence.thearchon.eu/articles/did-we-automate-the-customer-out-of-the-customer-journey",
+      "family": "Insights",
+      "domains": [
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-07-30T20:59:00.000Z",
+      "description": "Why Digital Transformation Without Human Design Is Not Transformation — It Is Substitution"
+    },
+    {
+      "title": "When One Employee Leaves, What Leaves With Them?",
+      "url": "https://intelligence.thearchon.eu/articles/when-one-employee-leaves-what-leaves-with-them",
+      "guid": "https://intelligence.thearchon.eu/articles/when-one-employee-leaves-what-leaves-with-them",
+      "family": "Insights",
+      "domains": [
+        "Resilience"
+      ],
+      "publishedAt": "2026-07-29T07:27:00.000Z",
+      "description": "Institutional Memory as Enterprise Asset — and Why Most Organizations Are Not Measuring the Risk"
+    },
+    {
+      "title": "Cloud Strategy Fails When Nobody Owns the Business Behind the Technology",
+      "url": "https://intelligence.thearchon.eu/articles/cloud-strategy-fails-when-nobody-owns-the-business-behind-the-technology",
+      "guid": "https://intelligence.thearchon.eu/articles/cloud-strategy-fails-when-nobody-owns-the-business-behind-the-technology",
+      "family": "Insights",
+      "domains": [
+        "Cloud",
+        "Governance"
+      ],
+      "publishedAt": "2026-07-27T06:35:00.000Z",
+      "description": "For CIOs and IT Directors preparing a cloud strategy decision. If your executive sponsors are asking “hybrid or multi-cloud” before asking who owns operations."
+    },
+    {
+      "title": "Why Authentic Leadership Became a Strategic Capability",
+      "url": "https://intelligence.thearchon.eu/articles/why-authentic-leadership-became-a-strategic-capability",
+      "guid": "https://intelligence.thearchon.eu/articles/why-authentic-leadership-became-a-strategic-capability",
+      "family": "Insights",
+      "domains": [
+        "Leadership & Organization",
+        "Governance"
+      ],
+      "publishedAt": "2026-07-24T07:50:00.000Z",
+      "description": "For CEOs, IT Directors, and board members who treat leadership credibility as a governance concern, not just a communication style."
+    },
+    {
+      "title": "The Evolution of Leadership in the Automation Era",
+      "url": "https://intelligence.thearchon.eu/articles/the-evolution-of-leadership-in-the-automation-era",
+      "guid": "https://intelligence.thearchon.eu/articles/the-evolution-of-leadership-in-the-automation-era",
+      "family": "Insights",
+      "domains": [
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-07-22T13:28:00.000Z",
+      "description": "CEOs, CFOs, senior executives sponsoring automation and AI investment  watching operational budgets scale faster than the leadership model built to govern them."
+    },
+    {
+      "title": "The Hiring Model 2026: Are We Still Selecting for Experience Instead of Value?",
+      "url": "https://intelligence.thearchon.eu/articles/the-hiring-model-2026-are-we-still-selecting-for-experience-instead-of-value",
+      "guid": "https://intelligence.thearchon.eu/articles/the-hiring-model-2026-are-we-still-selecting-for-experience-instead-of-value",
+      "family": "Insights",
+      "domains": [
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-07-20T14:48:00.000Z",
+      "description": "For IT Directors, HR leaders, and transformation executives who are responsible for building high-performing teams"
+    },
+    {
+      "title": "Recruitment Governance Is a Business Continuity Control — Not an HR Process",
+      "url": "https://intelligence.thearchon.eu/articles/recruitment-governance-is-a-business-continuity-control-not-an-hr-process",
+      "guid": "https://intelligence.thearchon.eu/articles/recruitment-governance-is-a-business-continuity-control-not-an-hr-process",
+      "family": "Insights",
+      "domains": [
+        "Resilience"
+      ],
+      "publishedAt": "2026-07-16T17:45:00.000Z",
+      "description": "For CISOs, IT Directors, GRC professionals, and HR leaders who suspect their organization is one resignation away from an operational crisis"
+    },
+    {
+      "title": "Burnout Is the Interest You Pay on Organizational Debt",
+      "url": "https://intelligence.thearchon.eu/articles/burnout-is-the-interest-you-pay-on-organizational-debt",
+      "guid": "https://intelligence.thearchon.eu/articles/burnout-is-the-interest-you-pay-on-organizational-debt",
+      "family": "Insights",
+      "domains": [
+        "Leadership & Organization",
+        "Governance",
+        "Resilience"
+      ],
+      "publishedAt": "2026-07-13T09:06:00.000Z",
+      "description": "For CEOs, CFOs, and board members who track burnout as turnover and productivity cost. If wellness budgets aren't moving the numbers"
+    },
+    {
+      "title": "Performance Reviews Don't Measure Performance",
+      "url": "https://intelligence.thearchon.eu/articles/performance-reviews-don-t-measure-performance",
+      "guid": "https://intelligence.thearchon.eu/articles/performance-reviews-don-t-measure-performance",
+      "family": "Insights",
+      "domains": [
+        "Leadership & Organization",
+        "Governance"
+      ],
+      "publishedAt": "2026-07-10T12:52:00.000Z",
+      "description": "For executives, HR leaders, and managers who assume objectives, KPIs, ratings, and calibration meetings automatically add up   accurate measure of performance."
+    },
+    {
+      "title": "The Architecture Gap — ETRM + ERP + BI + Evidence Layer",
+      "url": "https://intelligence.thearchon.eu/articles/the-architecture-gap-etrm-erp-bi-evidence-layer",
+      "guid": "https://intelligence.thearchon.eu/articles/the-architecture-gap-etrm-erp-bi-evidence-layer",
+      "family": "Insights",
+      "domains": [
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-07-08T06:27:00.000Z",
+      "description": "Every major trading loss has the same forensic profile.\n\nSix systems. Six versions of the truth. And nobody who owned the gap between them."
+    },
+    {
+      "title": "\"We Are Data-Driven.\"",
+      "url": "https://intelligence.thearchon.eu/articles/we-are-data-driven",
+      "guid": "https://intelligence.thearchon.eu/articles/we-are-data-driven",
+      "family": "Insights",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-07-07T19:19:00.000Z",
+      "description": "For CIOs, IT Directors, and senior managers who have invested in dashboards, analytics platforms, and data governance frameworks"
+    },
+    {
+      "title": "\"As I Already Mentioned\"",
+      "url": "https://intelligence.thearchon.eu/articles/as-i-already-mentioned",
+      "guid": "https://intelligence.thearchon.eu/articles/as-i-already-mentioned",
+      "family": "Insights",
+      "domains": [
+        "Leadership & Organization",
+        "Governance"
+      ],
+      "publishedAt": "2026-07-06T00:19:00.000Z",
+      "description": "For IT Directors, CIOs, and senior managers who have watched a simple business decision turn into a 50-email thread —  the problem was the people or the system?"
+    },
+    {
+      "title": "Code Is No Longer the Bottleneck",
+      "url": "https://intelligence.thearchon.eu/articles/code-is-no-longer-the-bottleneck",
+      "guid": "https://intelligence.thearchon.eu/articles/code-is-no-longer-the-bottleneck",
+      "family": "Insights",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-07-02T07:16:00.000Z",
+      "description": "CIOs, CTOs, Engineering Directors and founders who are being told AI coding assistants will transform their delivery economics."
+    },
+    {
+      "title": "The Worst Departments in a Company in 2026",
+      "url": "https://intelligence.thearchon.eu/articles/the-worst-departments-in-a-company-in-2026",
+      "guid": "https://intelligence.thearchon.eu/articles/the-worst-departments-in-a-company-in-2026",
+      "family": "Insights",
+      "domains": [
+        "Leadership & Organization",
+        "Governance"
+      ],
+      "publishedAt": "2026-06-30T08:27:00.000Z",
+      "description": "For CEOs, COOs, and HR Directors who are watching turnover rise and engagement fall — and haven't yet connected those numbers to the real structural failure."
+    },
+    {
+      "title": "Designing a Vendor-Agnostic ETRM Architecture: Principles Before Platforms",
+      "url": "https://intelligence.thearchon.eu/articles/designing-a-vendor-agnostic-etrm-architecture-principles-before-platforms",
+      "guid": "https://intelligence.thearchon.eu/articles/designing-a-vendor-agnostic-etrm-architecture-principles-before-platforms",
+      "family": "Insights",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-06-29T08:12:00.000Z",
+      "description": "ICT Directors, CTOs, and Enterprise Architects in energy trading organizations who are evaluating — or have already implemented"
+    },
+    {
+      "title": "Third-Party and Vendor Risk Is Becoming a Systemic Enterprise Vulnerability",
+      "url": "https://intelligence.thearchon.eu/articles/third-party-and-vendor-risk-is-becoming-a-systemic-enterprise-vulnerability",
+      "guid": "https://intelligence.thearchon.eu/articles/third-party-and-vendor-risk-is-becoming-a-systemic-enterprise-vulnerability",
+      "family": "Insights",
+      "domains": [
+        "Cybersecurity",
+        "Governance",
+        "Resilience"
+      ],
+      "publishedAt": "2026-06-29T07:56:00.000Z",
+      "description": "CEOs, CFOs, who approved the vendor portfolio — but have never seen its security posture, its contractual gaps, or its regulatory exposure mapped in one place."
+    },
+    {
+      "title": "When the ETRM system passed the audit — and the controls didn't",
+      "url": "https://intelligence.thearchon.eu/articles/when-the-etrm-system-passed-the-audit-and-the-controls-didn-t",
+      "guid": "https://intelligence.thearchon.eu/articles/when-the-etrm-system-passed-the-audit-and-the-controls-didn-t",
+      "family": "Insights",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-06-28T16:48:00.000Z",
+      "description": "IT Directors and Risk Managers in energy trading — your ETRM passed the vendor audit. Your control environment didn't."
+    },
+    {
+      "title": "Business vs IT: The Silent War Nobody Admits Is Happening",
+      "url": "https://intelligence.thearchon.eu/articles/business-vs-it-the-silent-war-nobody-admits-is-happening",
+      "guid": "https://intelligence.thearchon.eu/articles/business-vs-it-the-silent-war-nobody-admits-is-happening",
+      "family": "Insights",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-06-26T07:07:00.000Z",
+      "description": "Every executive I know has sat in this meeting.\nNobody said it out loud.\nRead this edition before your next board review."
+    },
+    {
+      "title": "I analyzed 10,482 emails from my own inbox. Here's what the AI found.",
+      "url": "https://intelligence.thearchon.eu/articles/i-analyzed-10-482-emails-from-my-own-inbox-here-s-what-the-ai-found",
+      "guid": "https://intelligence.thearchon.eu/articles/i-analyzed-10-482-emails-from-my-own-inbox-here-s-what-the-ai-found",
+      "family": "Insights",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-06-24T06:51:00.000Z",
+      "description": "For IT Directors and senior managers who suspect their organization's communication is broken — but have never measured it."
+    },
+    {
+      "title": "The ETRM system passed the audit.  The controls around it didn't.",
+      "url": "https://intelligence.thearchon.eu/articles/the-etrm-system-passed-the-audit-the-controls-around-it-didn-t",
+      "guid": "https://intelligence.thearchon.eu/articles/the-etrm-system-passed-the-audit-the-controls-around-it-didn-t",
+      "family": "Insights",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-06-23T09:51:00.000Z",
+      "description": "I've seen this pattern more than once in regulated energy trading environments. The trading platform works perfectly . But the IT General Controls?"
+    },
+    {
+      "title": "AI Tools for Practitioners — The Complete Guide",
+      "url": "https://intelligence.thearchon.eu/articles/ai-tools-for-practitioners-the-complete-guide",
+      "guid": "https://intelligence.thearchon.eu/articles/ai-tools-for-practitioners-the-complete-guide",
+      "family": "Insights",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-06-22T06:54:00.000Z",
+      "description": "The complete guide is live.\n15 incidents. One workflow. The real cost of AI tools — by persona, by use case, in EUR."
+    },
+    {
+      "title": "The Four Decisions That Build — or Break — a Technical Team",
+      "url": "https://intelligence.thearchon.eu/articles/the-four-decisions-that-build-or-break-a-technical-team",
+      "guid": "https://intelligence.thearchon.eu/articles/the-four-decisions-that-build-or-break-a-technical-team",
+      "family": "Insights",
+      "domains": [
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-06-19T07:32:00.000Z",
+      "description": "Building a technical team — or fixing one? Wondering if AI helps or just automates your mistakes faster? This one's for you."
+    },
+    {
+      "title": "AI Governance Is the New SOX",
+      "url": "https://intelligence.thearchon.eu/articles/ai-governance-is-the-new-sox",
+      "guid": "https://intelligence.thearchon.eu/articles/ai-governance-is-the-new-sox",
+      "family": "Insights",
+      "domains": [
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-06-17T09:09:00.000Z",
+      "description": "Technology moves fast.\nAccountability usually arrives later.\nThat was true for financial controls.\nIt may soon be true for AI."
+    },
+    {
+      "title": "Nobody Owns The Problem",
+      "url": "https://intelligence.thearchon.eu/articles/nobody-owns-the-problem",
+      "guid": "https://intelligence.thearchon.eu/articles/nobody-owns-the-problem",
+      "family": "Insights",
+      "domains": [
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-06-15T09:41:00.000Z",
+      "description": "ITGovernance,\"Nobody Owns The Problem: Why 'Everyone Is Responsible' Means Nobody Is.\""
+    },
+    {
+      "title": "The DWH That Nobody Uses — And the Dangerous Illusion of Go-Live",
+      "url": "https://intelligence.thearchon.eu/articles/dwh-nobody-uses-dangerous-illusion-go-live-dimitrios-mikedis-nl03",
+      "guid": "https://intelligence.thearchon.eu/articles/dwh-nobody-uses-dangerous-illusion-go-live-dimitrios-mikedis-nl03",
+      "family": "Insights",
+      "domains": [
+        "IT Operations"
+      ],
+      "publishedAt": "2026-06-06T21:00:00.000Z",
+      "description": "Newsletter #3 · Data Warehouse"
+    },
+    {
+      "title": "How Billing-to-ERP Data Integrity Supports AEO Compliance in Energy Organizations",
+      "url": "https://intelligence.thearchon.eu/articles/energy-billing-glitch-aeo-suspension-erp-compliance-dimitrios-mikedis-nl05",
+      "guid": "https://intelligence.thearchon.eu/articles/energy-billing-glitch-aeo-suspension-erp-compliance-dimitrios-mikedis-nl05",
+      "family": "Insights",
+      "domains": [
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-06-06T21:00:00.000Z",
+      "description": "Newsletter #5 · Billing & ERP Compliance"
+    },
+    {
+      "title": "User Access Review: The Audit That Happens Once a Year and Fixes Nothing",
+      "url": "https://intelligence.thearchon.eu/articles/user-access-review-audit-compliance-theatre-dimitrios-mikedis-nl04",
+      "guid": "https://intelligence.thearchon.eu/articles/user-access-review-audit-compliance-theatre-dimitrios-mikedis-nl04",
+      "family": "Insights",
+      "domains": [
+        "Identity",
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-06-06T21:00:00.000Z",
+      "description": "Newsletter #4 · Access Management"
+    },
+    {
+      "title": "Your ESB Is Lying to You — And You Don't Know It Yet",
+      "url": "https://intelligence.thearchon.eu/articles/your-esb-lying-you-dont-know-yet-dimitrios-mikedis-eg4yf",
+      "guid": "https://intelligence.thearchon.eu/articles/your-esb-lying-you-dont-know-yet-dimitrios-mikedis-eg4yf",
+      "family": "Insights",
+      "domains": [
+        "IT Operations",
+        "Resilience"
+      ],
+      "publishedAt": "2026-06-03T21:00:00.000Z",
+      "description": "Your Enterprise Service Bus (ESB) is the backbone of your integration architecture. It connects your ERP to your CRM, your billing system to your analytics platform, your legacy infrastructure to your cloud services."
+    },
+    {
+      "title": "Why Your ETRM Project Is 18 Months Late",
+      "url": "https://intelligence.thearchon.eu/articles/why-your-etrm-project-18-months-late-its-vendors-fault-mikedis-vajff",
+      "guid": "https://intelligence.thearchon.eu/articles/why-your-etrm-project-18-months-late-its-vendors-fault-mikedis-vajff",
+      "family": "Insights",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-06-01T21:00:00.000Z",
+      "description": "And Why It's Not Your Vendor's Fault"
+    },
+    {
+      "title": "A Man Who Brought Order Into Our World",
+      "url": "https://intelligence.thearchon.eu/articles/man-who-brought-order-our-world-dimitrios-mikedis-2ilif",
+      "guid": "https://intelligence.thearchon.eu/articles/man-who-brought-order-our-world-dimitrios-mikedis-2ilif",
+      "family": "Insights",
+      "domains": [
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-05-31T21:00:00.000Z",
+      "description": "Some colleagues pass through our lives and leave behind work."
+    },
+    {
+      "title": "Enterprisegrade security. Without enterprise cost.",
+      "url": "https://intelligence.thearchon.eu/articles/enterprisegrade-security-without-enterprise-cost-dimitrios-mikedis-vxtxc",
+      "guid": "https://intelligence.thearchon.eu/articles/enterprisegrade-security-without-enterprise-cost-dimitrios-mikedis-vxtxc",
+      "family": "Insights",
+      "domains": [
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-05-27T21:00:00.000Z",
+      "description": "How SMEs can implement ISO 27001-aligned security without a CISO budget."
+    },
+    {
+      "title": "The IT Budget Framework — Full Director Edition",
+      "url": "https://intelligence.thearchon.eu/articles/budget-framework-full-director-edition-dimitrios-mikedis-wcw0f",
+      "guid": "https://intelligence.thearchon.eu/articles/budget-framework-full-director-edition-dimitrios-mikedis-wcw0f",
+      "family": "Insights",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-05-25T21:00:00.000Z",
+      "description": "A month ago, I shared the IT Manager's Transformation Playbook — a 9-step operational roadmap for transforming IT from a cost center into a strategic capability."
+    },
+    {
+      "title": "GAIA Framework — 12 Parts, 267 Deliverables",
+      "url": "https://intelligence.thearchon.eu/articles/gaia-framework-complete-enterprise-transformation-system-mikedis-cvyxf",
+      "guid": "https://intelligence.thearchon.eu/articles/gaia-framework-complete-enterprise-transformation-system-mikedis-cvyxf",
+      "family": "Insights",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-05-25T21:00:00.000Z",
+      "description": "GAIA (Generic Agnostic Integrated Architecture) is a vendor-agnostic, modular enterprise transformation framework that covers the complete lifecycle of any complex enterprise program — from executive governance through technical..."
+    },
+    {
+      "title": "The 15-Year Audit Odyssey (2009–2024)",
+      "url": "https://intelligence.thearchon.eu/articles/15-year-audit-odyssey-2009-2024-dimitrios-mikedis-fkryf",
+      "guid": "https://intelligence.thearchon.eu/articles/15-year-audit-odyssey-2009-2024-dimitrios-mikedis-fkryf",
+      "family": "Insights",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-05-24T21:00:00.000Z",
+      "description": "What 15 years of PwC, EY, KPMG and ENI SOX audits taught me about IT governance."
+    },
+    {
+      "title": "CEOs and ICT Directors Are Failing Each Other",
+      "url": "https://intelligence.thearchon.eu/articles/ceos-ict-directors-failing-each-other-dimitrios-mikedis-g7xdf",
+      "guid": "https://intelligence.thearchon.eu/articles/ceos-ict-directors-failing-each-other-dimitrios-mikedis-g7xdf",
+      "family": "Insights",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-05-21T21:00:00.000Z",
+      "description": "Most digital transformations don't collapse because of bad technology."
+    },
+    {
+      "title": "Why Enterprise Transformations Fail",
+      "url": "https://intelligence.thearchon.eu/articles/why-enterprise-transformations-fail-what-do-dimitrios-mikedis-petcf",
+      "guid": "https://intelligence.thearchon.eu/articles/why-enterprise-transformations-fail-what-do-dimitrios-mikedis-petcf",
+      "family": "Insights",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-05-20T21:00:00.000Z",
+      "description": "70% of enterprise transformation programs fail to deliver their intended outcomes. Not because the technology was wrong. Not because the budget ran out. Because the program never had a proper foundation."
+    },
+    {
+      "title": "From Cost Center to Strategic Asset",
+      "url": "https://intelligence.thearchon.eu/articles/from-cost-center-strategic-asset-transformation-playbook-mikedis-gmzef",
+      "guid": "https://intelligence.thearchon.eu/articles/from-cost-center-strategic-asset-transformation-playbook-mikedis-gmzef",
+      "family": "Insights",
+      "domains": [
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-05-19T21:00:00.000Z",
+      "description": "In today’s digital-first enterprise, IT can no longer function as a \"black box\" of expenses. Organizations relying on fragmented spreadsheets and reactive decision-making lose their competitive edge. In this inaugural issue, we define the..."
+    },
+    {
+      "title": "The Silence Behind the \"Congrats\" Culture",
+      "url": "https://intelligence.thearchon.eu/articles/silence-behind-congrats-culture-dimitrios-mikedis-t31xc",
+      "guid": "https://intelligence.thearchon.eu/articles/silence-behind-congrats-culture-dimitrios-mikedis-t31xc",
+      "family": "Insights",
+      "domains": [
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-05-19T21:00:00.000Z",
+      "description": "Why LinkedIn celebration posts hide more than they reveal."
+    },
+    {
+      "title": "Why Expensive Systems Fail in Unready Organizations",
+      "url": "https://intelligence.thearchon.eu/articles/digital-transformation-practice-why-expensive-systems-mikedis-llolf",
+      "guid": "https://intelligence.thearchon.eu/articles/digital-transformation-practice-why-expensive-systems-mikedis-llolf",
+      "family": "Insights",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-05-16T21:00:00.000Z",
+      "description": "In the Greek market — and well beyond it — we keep watching the same story unfold."
+    },
+    {
+      "title": "The Manifesto I Wish Someone Had Given Me at 22",
+      "url": "https://intelligence.thearchon.eu/articles/manifesto-i-wish-someone-had-given-me-22-dimitrios-mikedis-nylsf",
+      "guid": "https://intelligence.thearchon.eu/articles/manifesto-i-wish-someone-had-given-me-22-dimitrios-mikedis-nylsf",
+      "family": "Insights",
+      "domains": [
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-05-13T21:00:00.000Z",
+      "description": "34 years. Hundreds of meetings. Dozens of managers. And one question that never left me: Why do so many talented people get crushed by the systems they're trying to fix?"
+    },
+    {
+      "title": "Atlas Framework: Legacy ERP Exit Strategy",
+      "url": "https://intelligence.thearchon.eu/articles/atlas-framework-legacy-erp-exit-strategy-dimitrios-mikedis-3teaf",
+      "guid": "https://intelligence.thearchon.eu/articles/atlas-framework-legacy-erp-exit-strategy-dimitrios-mikedis-3teaf",
+      "family": "Insights",
+      "domains": [
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-05-11T21:00:00.000Z",
+      "description": "Dear Colleagues and Partners,"
+    },
+    {
+      "title": "I Lost a Deadline Because AI Lied to Me",
+      "url": "https://intelligence.thearchon.eu/articles/i-lost-deadline-because-ai-lied-me-happen-you-too-dimitrios-mikedis-aflof",
+      "guid": "https://intelligence.thearchon.eu/articles/i-lost-deadline-because-ai-lied-me-happen-you-too-dimitrios-mikedis-aflof",
+      "family": "Insights",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-05-11T21:00:00.000Z",
+      "description": "And why it will happen to you too, if it hasn't already."
+    },
+    {
+      "title": "The \"Power Syndrome\" Behind the Counter",
+      "url": "https://intelligence.thearchon.eu/articles/power-syndrome-behind-counter-when-system-forgets-citizen-mikedis-r3idf",
+      "guid": "https://intelligence.thearchon.eu/articles/power-syndrome-behind-counter-when-system-forgets-citizen-mikedis-r3idf",
+      "family": "Insights",
+      "domains": [
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-05-11T21:00:00.000Z",
+      "description": "When the system forgets the citizen — and the employee forgets their purpose."
+    },
+    {
+      "title": "Athena Architecture Series",
+      "url": "https://intelligence.thearchon.eu/articles/athena-architecture-series-dimitrios-mikedis-z7cec",
+      "guid": "https://intelligence.thearchon.eu/articles/athena-architecture-series-dimitrios-mikedis-z7cec",
+      "family": "Insights",
+      "domains": [
+        "Cloud",
+        "Governance"
+      ],
+      "publishedAt": "2026-05-10T21:00:00.000Z",
+      "description": "The complete IT architecture reference for energy retail companies navigating cloud migration, regulatory compliance, and digital transformation."
+    },
+    {
+      "title": "The ITSM Authority Manifesto: Greece 2026",
+      "url": "https://intelligence.thearchon.eu/articles/itsm-authority-manifesto-greece-2026-dimitrios-mikedis-neexc",
+      "guid": "https://intelligence.thearchon.eu/articles/itsm-authority-manifesto-greece-2026-dimitrios-mikedis-neexc",
+      "family": "Insights",
+      "domains": [
+        "IT Operations"
+      ],
+      "publishedAt": "2026-05-10T21:00:00.000Z",
+      "description": "A practitioner's declaration on the state of IT Service Management in Greek organizations."
+    },
+    {
+      "title": "The \"One-Man-Show\" Trap",
+      "url": "https://intelligence.thearchon.eu/articles/one-man-show-trap-why-your-architecture-built-fail-dimitrios-mikedis-kn53c",
+      "guid": "https://intelligence.thearchon.eu/articles/one-man-show-trap-why-your-architecture-built-fail-dimitrios-mikedis-kn53c",
+      "family": "Insights",
+      "domains": [
+        "IT Operations",
+        "Resilience"
+      ],
+      "publishedAt": "2026-05-10T21:00:00.000Z",
+      "description": "Why IT architectures built around individuals are built to fail."
+    },
+    {
+      "title": "The Memory-Based Trap: Why ITSM Fails in Greece in 2026",
+      "url": "https://intelligence.thearchon.eu/articles/the-memory-based-trap-why-itsm-fails-greece-2026-dimitrios-mikedis",
+      "guid": "https://intelligence.thearchon.eu/articles/the-memory-based-trap-why-itsm-fails-greece-2026-dimitrios-mikedis",
+      "family": "Insights",
+      "domains": [
+        "IT Operations"
+      ],
+      "publishedAt": "2026-05-10T21:00:00.000Z",
+      "description": "The problem isn’t technology. It’s the Behavioral Gap."
+    },
+    {
+      "title": "ATHENA Strategic Cloud & DC Migration Framework",
+      "url": "https://intelligence.thearchon.eu/articles/athena-strategic-cloud-dc-migration-framework-director-mikedis-9tmxf",
+      "guid": "https://intelligence.thearchon.eu/articles/athena-strategic-cloud-dc-migration-framework-director-mikedis-9tmxf",
+      "family": "Insights",
+      "domains": [
+        "Cloud",
+        "Resilience",
+        "Governance"
+      ],
+      "publishedAt": "2026-05-06T21:00:00.000Z",
+      "description": "A complete, regulatory-aligned modernization framework for large-scale Cloud & Data Center transformations."
+    },
+    {
+      "title": "Cloud Transformation Pitfalls: Why Cloud Fails the Moment It Touches Hiring Architecture",
+      "url": "https://intelligence.thearchon.eu/articles/cloud-transformation-pitfalls-why-fails-moment-touches-mikedis-9z8ef",
+      "guid": "https://intelligence.thearchon.eu/articles/cloud-transformation-pitfalls-why-fails-moment-touches-mikedis-9z8ef",
+      "family": "Insights",
+      "domains": [
+        "Cloud"
+      ],
+      "publishedAt": "2026-05-03T21:00:00.000Z",
+      "description": "Why cloud transformation fails the moment it touches reality — and how to prevent it."
+    },
+    {
+      "title": "Digital Governance: The 2026 Liability List",
+      "url": "https://intelligence.thearchon.eu/articles/digital-governance-2026-liability-list-dimitris-mikedis-tbgtf",
+      "guid": "https://intelligence.thearchon.eu/articles/digital-governance-2026-liability-list-dimitris-mikedis-tbgtf",
+      "family": "Insights",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-04-27T21:00:00.000Z",
+      "description": "The Reality Check"
+    },
+    {
+      "title": "From Chaos to Compliance: The New ITSM Reality",
+      "url": "https://intelligence.thearchon.eu/articles/from-chaos-compliance-new-itsm-reality-greece-dimitris-mikedis-riwpf",
+      "guid": "https://intelligence.thearchon.eu/articles/from-chaos-compliance-new-itsm-reality-greece-dimitris-mikedis-riwpf",
+      "family": "Insights",
+      "domains": [
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-04-27T21:00:00.000Z",
+      "description": "The Greek ITSM market has reached a paradoxical point: an oversaturation of “ticket systems” but a complete lack of operational maturity. As the strategy highlights: “Tools are everywhere; maturity is nowhere.”"
+    },
+    {
+      "title": "ITSM Maturity Assessment & Transformation Roadmap 2026",
+      "url": "https://intelligence.thearchon.eu/articles/itsm-maturity-assessment-transformation-roadmap-2026-dimitrios-mikedis",
+      "guid": "https://intelligence.thearchon.eu/articles/itsm-maturity-assessment-transformation-roadmap-2026-dimitrios-mikedis",
+      "family": "Insights",
+      "domains": [
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-04-27T21:00:00.000Z",
+      "description": "A Strategic Framework for the Greek Enterprise Ecosystem — Version 1.0, April 2026"
+    },
+    {
+      "title": "The UX of Hiring: Digital Transformation or GDPR Nightmare?",
+      "url": "https://intelligence.thearchon.eu/articles/ux-hiring-digital-transformation-gdpr-nightmare-dimitris-mikedis-ztlrf",
+      "guid": "https://intelligence.thearchon.eu/articles/ux-hiring-digital-transformation-gdpr-nightmare-dimitris-mikedis-ztlrf",
+      "family": "Insights",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-04-21T21:00:00.000Z",
+      "description": "How most corporate hiring processes contradict everything organizations claim about digital transformation."
+    },
+    {
+      "title": "The Silent Reality of Today’s Job Market: Delays, Silence, and Unrealistic Expectations",
+      "url": "https://intelligence.thearchon.eu/articles/silent-reality-todays-job-market-delays-silence-dimitris-mikedis-5wmxf",
+      "guid": "https://intelligence.thearchon.eu/articles/silent-reality-todays-job-market-delays-silence-dimitris-mikedis-5wmxf",
+      "family": "Insights",
+      "domains": [
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-04-16T21:00:00.000Z",
+      "description": "The Silent Reality of Today's Job Market: Delays, Silence, and Unrealistic Expectations"
+    },
+    {
+      "title": "ManageEngine ADAudit Plus: Technology Evaluation",
+      "url": "https://intelligence.thearchon.eu/evaluations/manageengine-adaudit-plus",
+      "guid": "https://intelligence.thearchon.eu/evaluations/manageengine-adaudit-plus",
+      "family": "Technology Evaluations",
+      "domains": [
+        "Identity",
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": null,
+      "description": "Active Directory, Windows and file-server change auditing with compliance reporting"
+    },
+    {
+      "title": "ManageEngine ADManager Plus: Technology Evaluation",
+      "url": "https://intelligence.thearchon.eu/evaluations/manageengine-admanager-plus",
+      "guid": "https://intelligence.thearchon.eu/evaluations/manageengine-admanager-plus",
+      "family": "Technology Evaluations",
+      "domains": [
+        "Identity",
+        "Governance"
+      ],
+      "publishedAt": null,
+      "description": "Active Directory and hybrid identity administration, delegation and automation"
+    },
+    {
+      "title": "ManageEngine Applications Manager: Technology Evaluation",
+      "url": "https://intelligence.thearchon.eu/evaluations/manageengine-applications-manager",
+      "guid": "https://intelligence.thearchon.eu/evaluations/manageengine-applications-manager",
+      "family": "Technology Evaluations",
+      "domains": [
+        "IT Operations",
+        "Cloud"
+      ],
+      "publishedAt": null,
+      "description": "Application, server and database performance monitoring"
+    },
+    {
+      "title": "ManageEngine DataSecurity Plus: Technology Evaluation",
+      "url": "https://intelligence.thearchon.eu/evaluations/manageengine-datasecurity-plus",
+      "guid": "https://intelligence.thearchon.eu/evaluations/manageengine-datasecurity-plus",
+      "family": "Technology Evaluations",
+      "domains": [
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": null,
+      "description": "Data visibility and security: file auditing, sensitive-data discovery, endpoint DLP and cloud protection"
+    },
+    {
+      "title": "ManageEngine Endpoint Central: Technology Evaluation",
+      "url": "https://intelligence.thearchon.eu/evaluations/manageengine-endpoint-central",
+      "guid": "https://intelligence.thearchon.eu/evaluations/manageengine-endpoint-central",
+      "family": "Technology Evaluations",
+      "domains": [
+        "IT Operations",
+        "Cybersecurity"
+      ],
+      "publishedAt": null,
+      "description": "Unified endpoint management and security platform"
+    },
+    {
+      "title": "ManageEngine EventLog Analyzer: Technology Evaluation",
+      "url": "https://intelligence.thearchon.eu/evaluations/manageengine-eventlog-analyzer",
+      "guid": "https://intelligence.thearchon.eu/evaluations/manageengine-eventlog-analyzer",
+      "family": "Technology Evaluations",
+      "domains": [
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": null,
+      "description": "Log management, syslog collection, forensics and compliance reporting with event correlation"
+    },
+    {
+      "title": "ManageEngine Log360: Technology Evaluation",
+      "url": "https://intelligence.thearchon.eu/evaluations/manageengine-log360",
+      "guid": "https://intelligence.thearchon.eu/evaluations/manageengine-log360",
+      "family": "Technology Evaluations",
+      "domains": [
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": null,
+      "description": "SIEM and log management with UEBA, SOAR and directory auditing"
+    },
+    {
+      "title": "ManageEngine OpManager: Technology Evaluation",
+      "url": "https://intelligence.thearchon.eu/evaluations/manageengine-opmanager",
+      "guid": "https://intelligence.thearchon.eu/evaluations/manageengine-opmanager",
+      "family": "Technology Evaluations",
+      "domains": [
+        "IT Operations",
+        "Networking"
+      ],
+      "publishedAt": null,
+      "description": "Network and infrastructure monitoring"
+    },
+    {
+      "title": "ManageEngine PAM360: Technology Evaluation",
+      "url": "https://intelligence.thearchon.eu/evaluations/manageengine-pam360",
+      "guid": "https://intelligence.thearchon.eu/evaluations/manageengine-pam360",
+      "family": "Technology Evaluations",
+      "domains": [
+        "Identity",
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": null,
+      "description": "Privileged access management platform"
+    },
+    {
+      "title": "ManageEngine ServiceDesk Plus: Technology Evaluation",
+      "url": "https://intelligence.thearchon.eu/evaluations/manageengine-servicedesk-plus",
+      "guid": "https://intelligence.thearchon.eu/evaluations/manageengine-servicedesk-plus",
+      "family": "Technology Evaluations",
+      "domains": [
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": null,
+      "description": "IT service management with asset management and CMDB"
+    }
+  ]
+}
