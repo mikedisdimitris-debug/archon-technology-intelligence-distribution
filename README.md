@@ -5,7 +5,7 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Thu, 24 Sep 2026 16:33:28 GMT (2026-09-24T16:33:28.798Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Thu, 24 Sep 2026 17:15:26 GMT (2026-09-24T17:15:26.047Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
 **226 indexed items** across families: Insights (78) · Guides (16) · Infographics (70) · Diagrams (19) · Carousels (16) · Practical Intelligence (14) · Technology Evaluations (13)
 
