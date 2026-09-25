@@ -5,21 +5,21 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Fri, 25 Sep 2026 10:02:27 GMT (2026-09-25T10:02:27.525Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Fri, 25 Sep 2026 19:03:04 GMT (2026-09-25T19:03:04.178Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**227 indexed items** across families: Insights (79) · Guides (16) · Infographics (70) · Diagrams (19) · Carousels (16) · Practical Intelligence (14) · Technology Evaluations (13)
+**232 indexed items** across families: Insights (79) · Guides (21) · Infographics (70) · Diagrams (19) · Carousels (16) · Practical Intelligence (14) · Technology Evaluations (13)
 
 ## Newest
+- [Pre‑Restructuring Checklist for IT Teams](https://intelligence.thearchon.eu/guides/prerestructuring-checklist-for-it-teams) — Guides · Leadership & Organization, IT Operations, Governance · 2026-09-25
+- [Closing a Critical Skills Gap Without Hiring](https://intelligence.thearchon.eu/guides/closing-a-critical-skills-gap-without-hiring) — Guides · Leadership & Organization · 2026-09-25
+- [Pre‑Delegation Checklist for Cloud Cost Governance](https://intelligence.thearchon.eu/guides/predelegation-checklist-for-cloud-cost-governance) — Guides · Cloud, Governance · 2026-09-25
+- [Checklist for Assessing Governance Controls on AI‑Generated Employee Feedback](https://intelligence.thearchon.eu/guides/checklist-for-assessing-governance-controls-on-aigenerated-employee-feedback) — Guides · Governance, AI · 2026-09-25
+- [Reviewing Your Governance Framework for Emerging Generative‑AI Risks in Marketing](https://intelligence.thearchon.eu/guides/reviewing-your-governance-framework-for-emerging-generativeai-risks-in-marketing) — Guides · Governance, AI · 2026-09-25
 - [From “We Have a Policy” to “We Follow a Policy”: The Compliance Gap Nobody Talks About](https://intelligence.thearchon.eu/articles/from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about) — Insights · Governance, Leadership & Organization · 2026-09-25
 - [Preemptive Cybersecurity & AI Security Platforms](https://intelligence.thearchon.eu/carousels/preemptive-cybersecurity-ai-security-platforms) — Carousels · Cybersecurity, AI, Governance, Resilience · 2026-09-24
 - [Physical AI & Robotics for the Enterprise](https://intelligence.thearchon.eu/carousels/physical-ai-robotics-for-the-enterprise) — Carousels · Cybersecurity, IT Operations, AI, Governance, Resilience, Leadership & Organization, Networking · 2026-09-24
 - [Keeping Your Technology Policy Short Enough to Be Followed](https://intelligence.thearchon.eu/guides/keeping-your-technology-policy-short-enough-to-be-followed) — Guides · Governance, Cybersecurity · 2026-09-24
 - [Checklist for Evaluating Governance Controls When Introducing Generative AI into Customer‑Facing Apps](https://intelligence.thearchon.eu/guides/checklist-for-evaluating-governance-controls-when-introducing-generative-ai-into-customerf) — Guides · Governance, AI · 2026-09-23
-- [What to Check Before Signing a Technology Vendor Contract](https://intelligence.thearchon.eu/guides/what-to-check-before-signing-a-technology-vendor-contract) — Guides · Governance, Cybersecurity, AI · 2026-09-23
-- [Deciding Ownership of a Technology Risk](https://intelligence.thearchon.eu/guides/deciding-ownership-of-a-technology-risk) — Guides · Cybersecurity, Governance · 2026-09-23
-- [Building a Leadership‑Owned Data‑Ethics Review Process](https://intelligence.thearchon.eu/guides/building-a-leadershipowned-dataethics-review-process) — Guides · Leadership & Organization, Governance, AI · 2026-09-23
-- [Choosing a Vendor‑Neutral IT Service Continuity Framework](https://intelligence.thearchon.eu/guides/choosing-a-vendorneutral-it-service-continuity-framework) — Guides · Resilience, IT Operations, Governance · 2026-09-23
-- [Choosing a Governance Framework for AI Model Lifecycle Management](https://intelligence.thearchon.eu/guides/choosing-a-governance-framework-for-ai-model-lifecycle-management) — Guides · Governance, AI · 2026-09-22
 
 ## Insights (79)
 - [From “We Have a Policy” to “We Follow a Policy”: The Compliance Gap Nobody Talks About](https://intelligence.thearchon.eu/articles/from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about) — Governance, Leadership & Organization · 2026-09-25
@@ -102,7 +102,12 @@ _Last generated: Fri, 25 Sep 2026 10:02:27 GMT (2026-09-25T10:02:27.525Z) · sou
 - [The UX of Hiring: Digital Transformation or GDPR Nightmare?](https://intelligence.thearchon.eu/articles/ux-hiring-digital-transformation-gdpr-nightmare-dimitris-mikedis-ztlrf) — Governance · 2026-04-21
 - [The Silent Reality of Today’s Job Market: Delays, Silence, and Unrealistic Expectations](https://intelligence.thearchon.eu/articles/silent-reality-todays-job-market-delays-silence-dimitris-mikedis-5wmxf) — Leadership & Organization · 2026-04-16
 
-## Guides (16)
+## Guides (21)
+- [Pre‑Restructuring Checklist for IT Teams](https://intelligence.thearchon.eu/guides/prerestructuring-checklist-for-it-teams) — Leadership & Organization, IT Operations, Governance · 2026-09-25
+- [Closing a Critical Skills Gap Without Hiring](https://intelligence.thearchon.eu/guides/closing-a-critical-skills-gap-without-hiring) — Leadership & Organization · 2026-09-25
+- [Pre‑Delegation Checklist for Cloud Cost Governance](https://intelligence.thearchon.eu/guides/predelegation-checklist-for-cloud-cost-governance) — Cloud, Governance · 2026-09-25
+- [Checklist for Assessing Governance Controls on AI‑Generated Employee Feedback](https://intelligence.thearchon.eu/guides/checklist-for-assessing-governance-controls-on-aigenerated-employee-feedback) — Governance, AI · 2026-09-25
+- [Reviewing Your Governance Framework for Emerging Generative‑AI Risks in Marketing](https://intelligence.thearchon.eu/guides/reviewing-your-governance-framework-for-emerging-generativeai-risks-in-marketing) — Governance, AI · 2026-09-25
 - [Keeping Your Technology Policy Short Enough to Be Followed](https://intelligence.thearchon.eu/guides/keeping-your-technology-policy-short-enough-to-be-followed) — Governance, Cybersecurity · 2026-09-24
 - [Checklist for Evaluating Governance Controls When Introducing Generative AI into Customer‑Facing Apps](https://intelligence.thearchon.eu/guides/checklist-for-evaluating-governance-controls-when-introducing-generative-ai-into-customerf) — Governance, AI · 2026-09-23
 - [What to Check Before Signing a Technology Vendor Contract](https://intelligence.thearchon.eu/guides/what-to-check-before-signing-a-technology-vendor-contract) — Governance, Cybersecurity, AI · 2026-09-23

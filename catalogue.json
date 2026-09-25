@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-09-25T10:02:27.525Z",
+  "generatedAt": "2026-09-25T19:03:04.178Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,10 +9,10 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 227,
+  "itemCount": 232,
   "familyCounts": {
     "Insights": 79,
-    "Guides": 16,
+    "Guides": 21,
     "Infographics": 70,
     "Diagrams": 19,
     "Carousels": 16,
@@ -21,11 +21,71 @@
     "Other": 0
   },
   "latestItem": {
-    "title": "From “We Have a Policy” to “We Follow a Policy”: The Compliance Gap Nobody Talks About",
-    "url": "https://intelligence.thearchon.eu/articles/from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about",
-    "publishedAt": "2026-09-25T06:07:00.000Z"
+    "title": "Pre‑Restructuring Checklist for IT Teams",
+    "url": "https://intelligence.thearchon.eu/guides/prerestructuring-checklist-for-it-teams",
+    "publishedAt": "2026-09-25T18:10:58.000Z"
   },
   "items": [
+    {
+      "title": "Pre‑Restructuring Checklist for IT Teams",
+      "url": "https://intelligence.thearchon.eu/guides/prerestructuring-checklist-for-it-teams",
+      "guid": "https://intelligence.thearchon.eu/guides/prerestructuring-checklist-for-it-teams",
+      "family": "Guides",
+      "domains": [
+        "Leadership & Organization",
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-25T18:10:58.000Z",
+      "description": "Before changing team structure, verify that security responsibilities, risk assessments, and control implementations align with recognized frameworks such as NIST CSF and CIS Controls. This reduces gaps that can arise from role shifts."
+    },
+    {
+      "title": "Closing a Critical Skills Gap Without Hiring",
+      "url": "https://intelligence.thearchon.eu/guides/closing-a-critical-skills-gap-without-hiring",
+      "guid": "https://intelligence.thearchon.eu/guides/closing-a-critical-skills-gap-without-hiring",
+      "family": "Guides",
+      "domains": [
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-09-25T18:09:16.000Z",
+      "description": "Leaders can bridge urgent skill shortages by leveraging up‑skilling, apprenticeships, micro‑credentials, and strategic partnerships, turning existing talent into the needed expertise."
+    },
+    {
+      "title": "Pre‑Delegation Checklist for Cloud Cost Governance",
+      "url": "https://intelligence.thearchon.eu/guides/predelegation-checklist-for-cloud-cost-governance",
+      "guid": "https://intelligence.thearchon.eu/guides/predelegation-checklist-for-cloud-cost-governance",
+      "family": "Guides",
+      "domains": [
+        "Cloud",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-25T18:08:00.000Z",
+      "description": "Before handing cost‑governance responsibility to a business unit, verify that the governance framework, separation of duties, operational security, and cost‑visibility controls are in place and aligned with recognised cloud standards."
+    },
+    {
+      "title": "Checklist for Assessing Governance Controls on AI‑Generated Employee Feedback",
+      "url": "https://intelligence.thearchon.eu/guides/checklist-for-assessing-governance-controls-on-aigenerated-employee-feedback",
+      "guid": "https://intelligence.thearchon.eu/guides/checklist-for-assessing-governance-controls-on-aigenerated-employee-feedback",
+      "family": "Guides",
+      "domains": [
+        "Governance",
+        "AI"
+      ],
+      "publishedAt": "2026-09-25T18:06:07.000Z",
+      "description": "A concise, vendor‑agnostic guide to evaluate whether AI‑driven employee feedback tools meet security best‑practice (NCSC) and EU AI Act risk‑based requirements."
+    },
+    {
+      "title": "Reviewing Your Governance Framework for Emerging Generative‑AI Risks in Marketing",
+      "url": "https://intelligence.thearchon.eu/guides/reviewing-your-governance-framework-for-emerging-generativeai-risks-in-marketing",
+      "guid": "https://intelligence.thearchon.eu/guides/reviewing-your-governance-framework-for-emerging-generativeai-risks-in-marketing",
+      "family": "Guides",
+      "domains": [
+        "Governance",
+        "AI"
+      ],
+      "publishedAt": "2026-09-25T18:03:17.000Z",
+      "description": "A short, decision‑oriented guide to assess whether your marketing governance keeps pace with new generative‑AI threats, using the EU AI Act’s risk‑based categories, NCSC’s secure‑AI lifecycle steps, and NIST’s AI Risk Management Framework."
+    },
     {
       "title": "From “We Have a Policy” to “We Follow a Policy”: The Compliance Gap Nobody Talks About",
       "url": "https://intelligence.thearchon.eu/articles/from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about",
