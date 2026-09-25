@@ -5,11 +5,12 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Thu, 24 Sep 2026 17:15:26 GMT (2026-09-24T17:15:26.047Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Fri, 25 Sep 2026 10:02:27 GMT (2026-09-25T10:02:27.525Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**226 indexed items** across families: Insights (78) · Guides (16) · Infographics (70) · Diagrams (19) · Carousels (16) · Practical Intelligence (14) · Technology Evaluations (13)
+**227 indexed items** across families: Insights (79) · Guides (16) · Infographics (70) · Diagrams (19) · Carousels (16) · Practical Intelligence (14) · Technology Evaluations (13)
 
 ## Newest
+- [From “We Have a Policy” to “We Follow a Policy”: The Compliance Gap Nobody Talks About](https://intelligence.thearchon.eu/articles/from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about) — Insights · Governance, Leadership & Organization · 2026-09-25
 - [Preemptive Cybersecurity & AI Security Platforms](https://intelligence.thearchon.eu/carousels/preemptive-cybersecurity-ai-security-platforms) — Carousels · Cybersecurity, AI, Governance, Resilience · 2026-09-24
 - [Physical AI & Robotics for the Enterprise](https://intelligence.thearchon.eu/carousels/physical-ai-robotics-for-the-enterprise) — Carousels · Cybersecurity, IT Operations, AI, Governance, Resilience, Leadership & Organization, Networking · 2026-09-24
 - [Keeping Your Technology Policy Short Enough to Be Followed](https://intelligence.thearchon.eu/guides/keeping-your-technology-policy-short-enough-to-be-followed) — Guides · Governance, Cybersecurity · 2026-09-24
@@ -19,9 +20,9 @@ _Last generated: Thu, 24 Sep 2026 17:15:26 GMT (2026-09-24T17:15:26.047Z) · sou
 - [Building a Leadership‑Owned Data‑Ethics Review Process](https://intelligence.thearchon.eu/guides/building-a-leadershipowned-dataethics-review-process) — Guides · Leadership & Organization, Governance, AI · 2026-09-23
 - [Choosing a Vendor‑Neutral IT Service Continuity Framework](https://intelligence.thearchon.eu/guides/choosing-a-vendorneutral-it-service-continuity-framework) — Guides · Resilience, IT Operations, Governance · 2026-09-23
 - [Choosing a Governance Framework for AI Model Lifecycle Management](https://intelligence.thearchon.eu/guides/choosing-a-governance-framework-for-ai-model-lifecycle-management) — Guides · Governance, AI · 2026-09-22
-- [Choosing a Vendor‑Neutral Service‑Mesh Strategy for Microservices](https://intelligence.thearchon.eu/guides/choosing-a-vendorneutral-servicemesh-strategy-for-microservices) — Guides · Cloud, Networking, IT Operations · 2026-09-22
 
-## Insights (78)
+## Insights (79)
+- [From “We Have a Policy” to “We Follow a Policy”: The Compliance Gap Nobody Talks About](https://intelligence.thearchon.eu/articles/from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about) — Governance, Leadership & Organization · 2026-09-25
 - [Your New Employee Has Already Said Yes. What Has the Company Said Back?](https://intelligence.thearchon.eu/articles/your-new-employee-has-already-said-yes-what-has-the-company-said-back) — IT Operations · 2026-09-18
 - [The Colleague Who Knew Everything Just Resigned. Now What?](https://intelligence.thearchon.eu/articles/the-colleague-who-knew-everything-just-resigned-now-what) — IT Operations · 2026-09-16
 - [Your Laptop Is Gone. Is Your Data Gone With It?](https://intelligence.thearchon.eu/articles/your-laptop-is-gone-is-your-data-gone-with-it) — Cybersecurity · 2026-09-14

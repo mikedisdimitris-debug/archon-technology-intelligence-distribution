@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-09-24T17:15:26.047Z",
+  "generatedAt": "2026-09-25T10:02:27.525Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,9 +9,9 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 226,
+  "itemCount": 227,
   "familyCounts": {
-    "Insights": 78,
+    "Insights": 79,
     "Guides": 16,
     "Infographics": 70,
     "Diagrams": 19,
@@ -21,11 +21,23 @@
     "Other": 0
   },
   "latestItem": {
-    "title": "Preemptive Cybersecurity & AI Security Platforms",
-    "url": "https://intelligence.thearchon.eu/carousels/preemptive-cybersecurity-ai-security-platforms",
-    "publishedAt": "2026-09-24T14:57:04.000Z"
+    "title": "From “We Have a Policy” to “We Follow a Policy”: The Compliance Gap Nobody Talks About",
+    "url": "https://intelligence.thearchon.eu/articles/from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about",
+    "publishedAt": "2026-09-25T06:07:00.000Z"
   },
   "items": [
+    {
+      "title": "From “We Have a Policy” to “We Follow a Policy”: The Compliance Gap Nobody Talks About",
+      "url": "https://intelligence.thearchon.eu/articles/from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about",
+      "guid": "https://intelligence.thearchon.eu/articles/from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about",
+      "family": "Insights",
+      "domains": [
+        "Governance",
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-09-25T06:07:00.000Z",
+      "description": "A Certificate on the Wall Does Not Mean a Control in the Building. The Distance Between the Two Is Where Risk Lives."
+    },
     {
       "title": "Preemptive Cybersecurity & AI Security Platforms",
       "url": "https://intelligence.thearchon.eu/carousels/preemptive-cybersecurity-ai-security-platforms",
