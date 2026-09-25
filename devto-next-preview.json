@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-25T12:19:18.029Z",
+  "generatedAt": "2026-09-25T22:55:03.295Z",
   "source": "https://intelligence.thearchon.eu/feed.xml",
   "preview": {
     "mode": "draft",
@@ -8,37 +8,28 @@
     "hasCandidate": true
   },
   "article": {
-    "title": "From “We Have a Policy” to “We Follow a Policy”: The Compliance Gap Nobody Talks About",
+    "title": "Pre‑Restructuring Checklist for IT Teams",
     "published": false,
-    "body_markdown": "# From “We Have a Policy” to “We Follow a Policy”: The Compliance Gap Nobody Talks About\n\n[![Cover image: From “We Have a Policy” to “We Follow a Policy”: The Compliance Gap Nobody Talks About](https://ndnyyxoapfzhbaduiqcu.supabase.co/storage/v1/object/public/article-images/cover/draft-1790316497107/1790316497107-chatgpt-image-sep-20-2026-06-16-25-pm.png)](https://intelligence.thearchon.eu/articles/from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about?utm_source=devto&utm_medium=referral&utm_campaign=technology_intelligence_article&utm_content=from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about-hero)\n\nA Certificate on the Wall Does Not Mean a Control in the Building. The Distance Between the Two Is Where Risk Lives.\n\n---\n\n*Content family: Insights*\n\n*Technology Radar domains: Governance, Leadership & Organization*\n\n## Practical Intelligence\n\n- ✓ Checklist — [Closing the Compliance Gap](https://intelligence.thearchon.eu/checklists/from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about-checklist?utm_source=devto&utm_medium=referral&utm_campaign=technology_intelligence_article&utm_content=from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about-checklist)\n- Test yourself — Quiz: [Understanding the Compliance Gap](https://intelligence.thearchon.eu/quizzes/from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about-quiz?utm_source=devto&utm_medium=referral&utm_campaign=technology_intelligence_article&utm_content=from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about-quiz)\n\nThis is a summary of already-published content from **THE ARCHON — Technology Intelligence**.\n\n**Read the full article on THE ARCHON:** [From “We Have a Policy” to “We Follow a Policy”: The Compliance Gap Nobody Talks About](https://intelligence.thearchon.eu/articles/from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about?utm_source=devto&utm_medium=referral&utm_campaign=technology_intelligence_article&utm_content=from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about-full-article)\n\n---\n\n_Source: https://intelligence.thearchon.eu — THE ARCHON remains the source of truth for this content._",
+    "body_markdown": "# Pre‑Restructuring Checklist for IT Teams\n\nBefore changing team structure, verify that security responsibilities, risk assessments, and control implementations align with recognized frameworks such as NIST CSF and CIS Controls. This reduces gaps that can arise from role shifts.\n\n---\n\n*Content family: Guides*\n\n*Technology Radar domains: Leadership & Organization, IT Operations, Governance*\n\nThis is a summary of already-published content from **THE ARCHON — Technology Intelligence**.\n\n**Read the full article on THE ARCHON:** [Pre‑Restructuring Checklist for IT Teams](https://intelligence.thearchon.eu/guides/prerestructuring-checklist-for-it-teams?utm_source=devto&utm_medium=referral&utm_campaign=technology_intelligence_article&utm_content=prerestructuring-checklist-for-it-teams-full-article)\n\n---\n\n_Source: https://intelligence.thearchon.eu — THE ARCHON remains the source of truth for this content._",
     "tags": [
-      "governance",
-      "leadershiporganization"
+      "leadershiporganization",
+      "itoperations",
+      "governance"
     ],
-    "canonical_url": "https://intelligence.thearchon.eu/articles/from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about"
+    "canonical_url": "https://intelligence.thearchon.eu/guides/prerestructuring-checklist-for-it-teams"
   },
   "candidate": {
-    "canonicalUrl": "https://intelligence.thearchon.eu/articles/from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about",
-    "title": "From “We Have a Policy” to “We Follow a Policy”: The Compliance Gap Nobody Talks About",
-    "family": "Insights",
-    "description": "A Certificate on the Wall Does Not Mean a Control in the Building. The Distance Between the Two Is Where Risk Lives.",
+    "canonicalUrl": "https://intelligence.thearchon.eu/guides/prerestructuring-checklist-for-it-teams",
+    "title": "Pre‑Restructuring Checklist for IT Teams",
+    "family": "Guides",
+    "description": "Before changing team structure, verify that security responsibilities, risk assessments, and control implementations align with recognized frameworks such as NIST CSF and CIS Controls. This reduces gaps that can arise from role shifts.",
     "tags": [
-      "governance",
-      "leadershiporganization"
+      "leadershiporganization",
+      "itoperations",
+      "governance"
     ],
-    "heroImage": "https://ndnyyxoapfzhbaduiqcu.supabase.co/storage/v1/object/public/article-images/cover/draft-1790316497107/1790316497107-chatgpt-image-sep-20-2026-06-16-25-pm.png",
-    "practical": [
-      {
-        "type": "checklist",
-        "slug": "from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about-checklist",
-        "title": "Closing the Compliance Gap"
-      },
-      {
-        "type": "quiz",
-        "slug": "from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about-quiz",
-        "title": "Understanding the Compliance Gap"
-      }
-    ]
+    "heroImage": null,
+    "practical": []
   },
-  "payloadHash": "88d24609b0621fc13dc526f95cae1d7a1806b15d6ea3efce41ef38e62ef86e71"
+  "payloadHash": "1fae63acc528a2f2a4728ea226b65e3ec61d15cce6c5030379a748879ba6a696"
 }
