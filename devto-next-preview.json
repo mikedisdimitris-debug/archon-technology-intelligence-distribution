@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-25T09:07:57.512Z",
+  "source": "https://intelligence.thearchon.eu/feed.xml",
+  "preview": {
+    "mode": "draft",
+    "maxArticles": 1,
+    "hasCandidate": true
+  },
+  "article": {
+    "title": "From “We Have a Policy” to “We Follow a Policy”: The Compliance Gap Nobody Talks About",
+    "published": false,
+    "body_markdown": "# From “We Have a Policy” to “We Follow a Policy”: The Compliance Gap Nobody Talks About\n\nA Certificate on the Wall Does Not Mean a Control in the Building. The Distance Between the Two Is Where Risk Lives.\n\n---\n\n*Content family: Insights*\n\n*Technology Radar domains: Governance, Leadership & Organization*\n\nThis is a summary of already-published content from **THE ARCHON — Technology Intelligence**.\n\n**Read the full article on THE ARCHON:** [From “We Have a Policy” to “We Follow a Policy”: The Compliance Gap Nobody Talks About](https://intelligence.thearchon.eu/articles/from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about)\n\n---\n\n_Source: https://intelligence.thearchon.eu — THE ARCHON remains the source of truth for this content._",
+    "tags": [
+      "governance",
+      "leadership-organization"
+    ],
+    "canonical_url": "https://intelligence.thearchon.eu/articles/from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about"
+  },
+  "candidate": {
+    "canonicalUrl": "https://intelligence.thearchon.eu/articles/from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about",
+    "title": "From “We Have a Policy” to “We Follow a Policy”: The Compliance Gap Nobody Talks About",
+    "family": "Insights",
+    "description": "A Certificate on the Wall Does Not Mean a Control in the Building. The Distance Between the Two Is Where Risk Lives.",
+    "tags": [
+      "governance",
+      "leadership-organization"
+    ]
+  },
+  "payloadHash": "c4f1373368a6f14e7464500fb4d0058a8f645e723d32caf949cfc71344ab6837"
+}
