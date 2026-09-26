@@ -1,16 +1,19 @@
 {
   "version": 1,
   "kind": "visual-digest-status",
-  "generatedAt": "2026-09-26T20:19:22.209Z",
+  "generatedAt": "2026-09-26T22:05:00.641Z",
   "siteUrl": "https://intelligence.thearchon.eu",
   "current": {
     "digestId": "2026-09-24",
-    "title": "Visual Intelligence Digest - 2026-09-24",
     "devtoId": 4745289,
     "devtoUrl": "https://dev.to/dimitrios-mikedis/visual-intelligence-digest-2026-09-24-2d3-temp-slug-5822883",
     "published": false,
     "itemCount": 6,
-    "createdAt": "2026-09-25T21:35:04.917Z"
+    "createdAt": "2026-09-25T21:35:04.917Z",
+    "handled": false,
+    "handledAt": null,
+    "settled": true,
+    "title": "Visual Intelligence Digest - 2026-09-24"
   },
   "recorded": [
     {
@@ -19,20 +22,29 @@
       "devtoUrl": "https://dev.to/dimitrios-mikedis/visual-intelligence-digest-2026-09-24-2d3-temp-slug-5822883",
       "published": false,
       "itemCount": 6,
-      "createdAt": "2026-09-25T21:35:04.917Z"
+      "createdAt": "2026-09-25T21:35:04.917Z",
+      "handled": false,
+      "handledAt": null,
+      "settled": true
     }
   ],
+  "settledDigestIds": [
+    "2026-09-24"
+  ],
+  "coveredSourceCount": 6,
+  "nextUnavailableReason": null,
+  "nextUnavailableDetail": null,
   "next": {
-    "digestId": "2026-09-24",
-    "title": "Visual Intelligence Digest - 2026-09-24",
+    "digestId": "2026-09-21",
+    "title": "Visual Intelligence Digest - 2026-09-21",
     "itemCount": 6,
     "families": [
       {
-        "family": "Carousel",
+        "family": "Diagram",
         "count": 3
       },
       {
-        "family": "Diagram",
+        "family": "Carousel",
         "count": 2
       },
       {
@@ -41,15 +53,15 @@
       }
     ],
     "article": {
-      "title": "Visual Intelligence Digest - 2026-09-24",
+      "title": "Visual Intelligence Digest - 2026-09-21",
       "published": false,
-      "body_markdown": "New on THE ARCHON Technology Intelligence:\n\n🔹 Visual Intelligence - Carousel: Preemptive Cybersecurity & AI Security Platforms  \n🔹 Visual Intelligence - Diagram: Basic Project Management Process\n\nAlso new: 4 more Visual Intelligence pieces.\n\nAsk Dimitrios AI can walk you through any of it - with sources, not guesses.\n\n→ [https://intelligence.thearchon.eu/?utm_source=devto&utm_medium=referral&utm_campaign=technology_intelligence_digest&utm_content=2026-09-24-main](https://intelligence.thearchon.eu/?utm_source=devto&utm_medium=referral&utm_campaign=technology_intelligence_digest&utm_content=2026-09-24-main)\n\n![Technology Intelligence Digest](https://www.thearchon.eu/api/admin/technology-intelligence/linkedin-digest/image?insights=0&infographics=1&diagrams=2&carousels=3&guides=0&practical=0&evaluations=0)",
+      "body_markdown": "New on THE ARCHON Technology Intelligence:\n\n🔹 Visual Intelligence - Diagram: Building Trusted Enterprise AI  \n🔹 Visual Intelligence - Carousel: Top 10 Privileged Access Management Solutions for 2026\n\nAlso new: 4 more Visual Intelligence pieces.\n\nAsk Dimitrios AI can walk you through any of it - with sources, not guesses.\n\n→ [https://intelligence.thearchon.eu/?utm_source=devto&utm_medium=referral&utm_campaign=technology_intelligence_digest&utm_content=2026-09-21-main](https://intelligence.thearchon.eu/?utm_source=devto&utm_medium=referral&utm_campaign=technology_intelligence_digest&utm_content=2026-09-21-main)\n\n![Technology Intelligence Digest](https://www.thearchon.eu/api/admin/technology-intelligence/linkedin-digest/image?insights=0&infographics=1&diagrams=3&carousels=2&guides=0&practical=0&evaluations=0)",
       "tags": [
-        "carousel",
         "diagram",
+        "carousel",
         "infographic"
       ]
     },
-    "blockedReason": "ALREADY_CREATED (DEV.to draft 4745289)"
+    "blockedReason": null
   }
 }
