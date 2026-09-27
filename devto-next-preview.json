@@ -1,15 +1,46 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-26T23:25:15.561Z",
+  "generatedAt": "2026-09-27T07:39:04.182Z",
   "source": "https://intelligence.thearchon.eu/feed.xml",
   "preview": {
     "mode": "draft",
     "maxArticles": 1,
-    "hasCandidate": false
+    "hasCandidate": true
   },
-  "article": null,
-  "candidate": null,
-  "payloadHash": null,
+  "article": {
+    "title": "From “We Have a Policy” to “We Follow a Policy”: The Compliance Gap Nobody Talks About",
+    "published": false,
+    "body_markdown": "# From “We Have a Policy” to “We Follow a Policy”: The Compliance Gap Nobody Talks About\n\n<div align=\"center\"><a href=\"https://intelligence.thearchon.eu/articles/from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about?utm_source=devto&utm_medium=referral&utm_campaign=technology_intelligence_article&utm_content=from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about-hero\"><img src=\"https://ndnyyxoapfzhbaduiqcu.supabase.co/storage/v1/object/public/article-images/cover/draft-1790316497107/1790316497107-chatgpt-image-sep-20-2026-06-16-25-pm.png\" alt=\"Cover image: From “We Have a Policy” to “We Follow a Policy”: The Compliance Gap Nobody Talks About\" width=\"650\" /></a></div>\n\nA Certificate on the Wall Does Not Mean a Control in the Building. The Distance Between the Two Is Where Risk Lives.\n\n---\n\n*Content family: Insights*\n\n*Technology Radar domains: Governance, Leadership & Organization*\n\n## Practical Intelligence\n\n- ✓ Checklist — [Closing the Compliance Gap](https://intelligence.thearchon.eu/checklists/from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about-checklist?utm_source=devto&utm_medium=referral&utm_campaign=technology_intelligence_article&utm_content=from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about-checklist)\n- Test yourself — Quiz: [Understanding the Compliance Gap](https://intelligence.thearchon.eu/quizzes/from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about-quiz?utm_source=devto&utm_medium=referral&utm_campaign=technology_intelligence_article&utm_content=from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about-quiz)\n\nThis is a summary of already-published content from **THE ARCHON — Technology Intelligence**.\n\n**Read the full article on THE ARCHON:** [From “We Have a Policy” to “We Follow a Policy”: The Compliance Gap Nobody Talks About](https://intelligence.thearchon.eu/articles/from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about?utm_source=devto&utm_medium=referral&utm_campaign=technology_intelligence_article&utm_content=from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about-full-article)\n\n---\n\n_Source: https://intelligence.thearchon.eu — THE ARCHON remains the source of truth for this content._",
+    "tags": [
+      "governance",
+      "leadershiporganization"
+    ],
+    "canonical_url": "https://intelligence.thearchon.eu/articles/from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about"
+  },
+  "candidate": {
+    "canonicalUrl": "https://intelligence.thearchon.eu/articles/from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about",
+    "title": "From “We Have a Policy” to “We Follow a Policy”: The Compliance Gap Nobody Talks About",
+    "family": "Insights",
+    "description": "A Certificate on the Wall Does Not Mean a Control in the Building. The Distance Between the Two Is Where Risk Lives.",
+    "tags": [
+      "governance",
+      "leadershiporganization"
+    ],
+    "heroImage": "https://ndnyyxoapfzhbaduiqcu.supabase.co/storage/v1/object/public/article-images/cover/draft-1790316497107/1790316497107-chatgpt-image-sep-20-2026-06-16-25-pm.png",
+    "practical": [
+      {
+        "type": "checklist",
+        "slug": "from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about-checklist",
+        "title": "Closing the Compliance Gap"
+      },
+      {
+        "type": "quiz",
+        "slug": "from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about-quiz",
+        "title": "Understanding the Compliance Gap"
+      }
+    ]
+  },
+  "payloadHash": "ec653b50ddd5f9376c41feedebccdcca03f096d798e03d9b53ff7e06a39b4779",
   "history": [],
   "handledCount": 0
 }
