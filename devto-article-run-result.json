@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "kind": "devto-article-run",
+  "status": "RUNNING",
+  "at": "2026-09-27T09:31:02.052Z",
+  "runId": "36309608732",
+  "runUrl": "https://github.com/mikedisdimitris-debug/archon-technology-intelligence/actions/runs/36309608732",
+  "operation": "MARK_ARTICLE_HANDLED",
+  "mode": null,
+  "canonicalUrl": "https://intelligence.thearchon.eu/articles/from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about",
+  "title": null,
+  "devtoId": null,
+  "devtoUrl": null,
+  "published": false,
+  "devtoWrite": false,
+  "reason": "The workflow was dispatched and is verifying the displayed Article. This is NOT a result yet.",
+  "code": null,
+  "nextCanonicalUrl": null,
+  "nextUnavailableReason": null
+}
