@@ -1,8 +1,8 @@
 {
   "version": 1,
   "kind": "devto-article-run",
-  "status": "RUNNING",
-  "at": "2026-09-27T09:40:56.717Z",
+  "status": "FAILED",
+  "at": "2026-09-27T09:40:59.731Z",
   "runId": "36310132154",
   "runUrl": "https://github.com/mikedisdimitris-debug/archon-technology-intelligence/actions/runs/36310132154",
   "operation": "CREATE_OR_PUBLISH_ARTICLE",
@@ -13,7 +13,7 @@
   "devtoUrl": null,
   "published": false,
   "devtoWrite": false,
-  "reason": "The workflow was dispatched and has not finished yet. This is NOT a result yet.",
+  "reason": "The DEV.to Article workflow ended without a confirmed DEV.to result (distribution step: success). Nothing was recorded as created. Open the GitHub Actions run for the full log.",
   "code": null,
   "nextCanonicalUrl": null,
   "nextUnavailableReason": null
