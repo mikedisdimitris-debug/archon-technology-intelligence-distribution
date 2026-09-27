@@ -1,8 +1,8 @@
 {
   "version": 1,
   "kind": "devto-article-run",
-  "status": "RUNNING",
-  "at": "2026-09-27T09:31:02.052Z",
+  "status": "SUCCESS",
+  "at": "2026-09-27T09:31:04.825Z",
   "runId": "36309608732",
   "runUrl": "https://github.com/mikedisdimitris-debug/archon-technology-intelligence/actions/runs/36309608732",
   "operation": "MARK_ARTICLE_HANDLED",
@@ -13,8 +13,8 @@
   "devtoUrl": null,
   "published": false,
   "devtoWrite": false,
-  "reason": "The workflow was dispatched and is verifying the displayed Article. This is NOT a result yet.",
-  "code": null,
+  "reason": "This Article is already recorded as handled/distributed, so it was not offered again. No write was needed.",
+  "code": "ALREADY_HANDLED",
   "nextCanonicalUrl": null,
   "nextUnavailableReason": null
 }
