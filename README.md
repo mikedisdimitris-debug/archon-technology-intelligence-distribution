@@ -5,23 +5,24 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Fri, 25 Sep 2026 19:03:04 GMT (2026-09-25T19:03:04.178Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Mon, 28 Sep 2026 20:18:29 GMT (2026-09-28T20:18:29.435Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**232 indexed items** across families: Insights (79) · Guides (21) · Infographics (70) · Diagrams (19) · Carousels (16) · Practical Intelligence (14) · Technology Evaluations (13)
+**244 indexed items** across families: Insights (80) · Guides (22) · Infographics (72) · Diagrams (21) · Carousels (19) · Practical Intelligence (17) · Technology Evaluations (13)
 
 ## Newest
-- [Pre‑Restructuring Checklist for IT Teams](https://intelligence.thearchon.eu/guides/prerestructuring-checklist-for-it-teams) — Guides · Leadership & Organization, IT Operations, Governance · 2026-09-25
-- [Closing a Critical Skills Gap Without Hiring](https://intelligence.thearchon.eu/guides/closing-a-critical-skills-gap-without-hiring) — Guides · Leadership & Organization · 2026-09-25
-- [Pre‑Delegation Checklist for Cloud Cost Governance](https://intelligence.thearchon.eu/guides/predelegation-checklist-for-cloud-cost-governance) — Guides · Cloud, Governance · 2026-09-25
-- [Checklist for Assessing Governance Controls on AI‑Generated Employee Feedback](https://intelligence.thearchon.eu/guides/checklist-for-assessing-governance-controls-on-aigenerated-employee-feedback) — Guides · Governance, AI · 2026-09-25
-- [Reviewing Your Governance Framework for Emerging Generative‑AI Risks in Marketing](https://intelligence.thearchon.eu/guides/reviewing-your-governance-framework-for-emerging-generativeai-risks-in-marketing) — Guides · Governance, AI · 2026-09-25
-- [From “We Have a Policy” to “We Follow a Policy”: The Compliance Gap Nobody Talks About](https://intelligence.thearchon.eu/articles/from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about) — Insights · Governance, Leadership & Organization · 2026-09-25
-- [Preemptive Cybersecurity & AI Security Platforms](https://intelligence.thearchon.eu/carousels/preemptive-cybersecurity-ai-security-platforms) — Carousels · Cybersecurity, AI, Governance, Resilience · 2026-09-24
-- [Physical AI & Robotics for the Enterprise](https://intelligence.thearchon.eu/carousels/physical-ai-robotics-for-the-enterprise) — Carousels · Cybersecurity, IT Operations, AI, Governance, Resilience, Leadership & Organization, Networking · 2026-09-24
-- [Keeping Your Technology Policy Short Enough to Be Followed](https://intelligence.thearchon.eu/guides/keeping-your-technology-policy-short-enough-to-be-followed) — Guides · Governance, Cybersecurity · 2026-09-24
-- [Checklist for Evaluating Governance Controls When Introducing Generative AI into Customer‑Facing Apps](https://intelligence.thearchon.eu/guides/checklist-for-evaluating-governance-controls-when-introducing-generative-ai-into-customerf) — Guides · Governance, AI · 2026-09-23
+- [MegazoneCloud & Portal26: Joint AI Governance & Security Platform](https://intelligence.thearchon.eu/carousels/megazonecloud-portal26-joint-ai-governance-security-platform) — Carousels · AI · 2026-09-28
+- [Organizational Impact Checklist for Generative AI in Customer Support](https://intelligence.thearchon.eu/guides/organizational-impact-checklist-for-generative-ai-in-customer-support) — Guides · AI, Governance, Leadership & Organization · 2026-09-28
+- [Risks of Broad Access and Standing Privileges](https://intelligence.thearchon.eu/quizzes/risks-of-broad-access-and-standing-privileges-5e586c) — Practical Intelligence · Cybersecurity · 2026-09-28
+- [ITSM Success Factors](https://intelligence.thearchon.eu/comparisons/itsm-success-factors-edb15b) — Practical Intelligence · Governance · 2026-09-28
+- [Improve Decision‑Making Efficiency](https://intelligence.thearchon.eu/checklists/improve-decision-making-efficiency-2dc195) — Practical Intelligence · Leadership & Organization · 2026-09-28
+- [The Complexity Starts Before You Get the Job](https://intelligence.thearchon.eu/articles/the-complexity-starts-before-you-get-the-job) — Insights · Leadership & Organization · 2026-09-28
+- [Proofpoint Acquires Acuvity: AI Security & Governance for the Agentic Workspace](https://intelligence.thearchon.eu/carousels/proofpoint-acquires-acuvity-ai-security-governance-for-the-agentic-wor) — Carousels · AI, Governance, Cybersecurity · 2026-09-28
+- [AI Governance Shifts to Pre‑Execution](https://intelligence.thearchon.eu/diagrams/ai-governance-shifts-to-pre-execution) — Diagrams · Cybersecurity · 2026-09-28
+- [AI Agents Are Redefining IT Operations](https://intelligence.thearchon.eu/infographics/ai-agents-are-redefining-it-operations) — Infographics · Networking, AI · 2026-09-27
+- [Druva Accelerates MSP Momentum with New Security and Cyber Resilience Capabilities](https://intelligence.thearchon.eu/carousels/druva-accelerates-msp-momentum-with-new-security-and-cyber-resilience-) — Carousels · Resilience, Cybersecurity · 2026-09-27
 
-## Insights (79)
+## Insights (80)
+- [The Complexity Starts Before You Get the Job](https://intelligence.thearchon.eu/articles/the-complexity-starts-before-you-get-the-job) — Leadership & Organization · 2026-09-28
 - [From “We Have a Policy” to “We Follow a Policy”: The Compliance Gap Nobody Talks About](https://intelligence.thearchon.eu/articles/from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about) — Governance, Leadership & Organization · 2026-09-25
 - [Your New Employee Has Already Said Yes. What Has the Company Said Back?](https://intelligence.thearchon.eu/articles/your-new-employee-has-already-said-yes-what-has-the-company-said-back) — IT Operations · 2026-09-18
 - [The Colleague Who Knew Everything Just Resigned. Now What?](https://intelligence.thearchon.eu/articles/the-colleague-who-knew-everything-just-resigned-now-what) — IT Operations · 2026-09-16
@@ -102,7 +103,8 @@ _Last generated: Fri, 25 Sep 2026 19:03:04 GMT (2026-09-25T19:03:04.178Z) · sou
 - [The UX of Hiring: Digital Transformation or GDPR Nightmare?](https://intelligence.thearchon.eu/articles/ux-hiring-digital-transformation-gdpr-nightmare-dimitris-mikedis-ztlrf) — Governance · 2026-04-21
 - [The Silent Reality of Today’s Job Market: Delays, Silence, and Unrealistic Expectations](https://intelligence.thearchon.eu/articles/silent-reality-todays-job-market-delays-silence-dimitris-mikedis-5wmxf) — Leadership & Organization · 2026-04-16
 
-## Guides (21)
+## Guides (22)
+- [Organizational Impact Checklist for Generative AI in Customer Support](https://intelligence.thearchon.eu/guides/organizational-impact-checklist-for-generative-ai-in-customer-support) — AI, Governance, Leadership & Organization · 2026-09-28
 - [Pre‑Restructuring Checklist for IT Teams](https://intelligence.thearchon.eu/guides/prerestructuring-checklist-for-it-teams) — Leadership & Organization, IT Operations, Governance · 2026-09-25
 - [Closing a Critical Skills Gap Without Hiring](https://intelligence.thearchon.eu/guides/closing-a-critical-skills-gap-without-hiring) — Leadership & Organization · 2026-09-25
 - [Pre‑Delegation Checklist for Cloud Cost Governance](https://intelligence.thearchon.eu/guides/predelegation-checklist-for-cloud-cost-governance) — Cloud, Governance · 2026-09-25
@@ -125,7 +127,9 @@ _Last generated: Fri, 25 Sep 2026 19:03:04 GMT (2026-09-25T19:03:04.178Z) · sou
 - [Connecting AI Tools to Company Data: A Pre‑Connection Checklist](https://intelligence.thearchon.eu/guides/connecting-ai-tools-to-company-data-a-preconnection-checklist) — AI, Governance, Cybersecurity · 2026-09-21
 - [Before You Paste It Into AI](https://intelligence.thearchon.eu/guides/before-you-paste-it-into-ai) — Cybersecurity · 2026-09-21
 
-## Infographics (70)
+## Infographics (72)
+- [AI Agents Are Redefining IT Operations](https://intelligence.thearchon.eu/infographics/ai-agents-are-redefining-it-operations) — Networking, AI · 2026-09-27
+- [Druva Accelerates MSP Momentum with Integrated Security & Cyber‑Resilience](https://intelligence.thearchon.eu/infographics/druva-accelerates-msp-momentum-with-integrated-security-cyber-resilience) — Cybersecurity, Resilience · 2026-09-27
 - [Top 10 Single Sign‑On Solutions for 2026](https://intelligence.thearchon.eu/infographics/top-10-single-sign-on-solutions-for-2026) — Identity, Cybersecurity · 2026-09-21
 - [2026 Top 10 Privileged Access Management (PAM) Solutions](https://intelligence.thearchon.eu/infographics/2026-top-10-privileged-access-management-pam-solutions) — Identity, Cybersecurity · 2026-09-21
 - [From Complexity to Clarity: Building an Autonomous Enterprise for a Resilient Future](https://intelligence.thearchon.eu/infographics/from-complexity-to-clarity-building-an-autonomous-enterprise-for-a-resilient-fut) — Resilience, AI · 2026-09-20
@@ -197,7 +201,9 @@ _Last generated: Fri, 25 Sep 2026 19:03:04 GMT (2026-09-25T19:03:04.178Z) · sou
 - [The Employee Digital Lifecycle – From Hire to Retire](https://intelligence.thearchon.eu/infographics/the-employee-digital-lifecycle-from-hire-to-retire) — Identity, Cybersecurity, Governance · 2026-09-14
 - [Enterprise Governance of Employee‑Facing AI Agents](https://intelligence.thearchon.eu/infographics/enterprise-governance-of-employee-facing-ai-agents) — AI, Governance · 2026-09-14
 
-## Diagrams (19)
+## Diagrams (21)
+- [AI Governance Shifts to Pre‑Execution](https://intelligence.thearchon.eu/diagrams/ai-governance-shifts-to-pre-execution) — Cybersecurity · 2026-09-28
+- [Abnormal AI Expands AI Security Suite](https://intelligence.thearchon.eu/diagrams/abnormal-ai-expands-ai-security-suite) — AI, Cybersecurity · 2026-09-27
 - [Basic Project Management Process](https://intelligence.thearchon.eu/diagrams/basic-project-management-process) — IT Operations · 2026-09-22
 - [Security Incident Response Process](https://intelligence.thearchon.eu/diagrams/security-incident-response-process) — Cybersecurity, IT Operations · 2026-09-22
 - [Building Trusted Enterprise AI](https://intelligence.thearchon.eu/diagrams/building-trusted-enterprise-ai) — AI · 2026-09-21
@@ -218,7 +224,10 @@ _Last generated: Fri, 25 Sep 2026 19:03:04 GMT (2026-09-25T19:03:04.178Z) · sou
 - [Incident Management Process](https://intelligence.thearchon.eu/diagrams/incident-management-process) — IT Operations, Resilience · 2026-09-17
 - [IT Change Management Process](https://intelligence.thearchon.eu/diagrams/it-change-management-process) — IT Operations, Governance · 2026-09-17
 
-## Carousels (16)
+## Carousels (19)
+- [MegazoneCloud & Portal26: Joint AI Governance & Security Platform](https://intelligence.thearchon.eu/carousels/megazonecloud-portal26-joint-ai-governance-security-platform) — AI · 2026-09-28
+- [Proofpoint Acquires Acuvity: AI Security & Governance for the Agentic Workspace](https://intelligence.thearchon.eu/carousels/proofpoint-acquires-acuvity-ai-security-governance-for-the-agentic-wor) — AI, Governance, Cybersecurity · 2026-09-28
+- [Druva Accelerates MSP Momentum with New Security and Cyber Resilience Capabilities](https://intelligence.thearchon.eu/carousels/druva-accelerates-msp-momentum-with-new-security-and-cyber-resilience-) — Resilience, Cybersecurity · 2026-09-27
 - [Preemptive Cybersecurity & AI Security Platforms](https://intelligence.thearchon.eu/carousels/preemptive-cybersecurity-ai-security-platforms) — Cybersecurity, AI, Governance, Resilience · 2026-09-24
 - [Physical AI & Robotics for the Enterprise](https://intelligence.thearchon.eu/carousels/physical-ai-robotics-for-the-enterprise) — Cybersecurity, IT Operations, AI, Governance, Resilience, Leadership & Organization, Networking · 2026-09-24
 - [Optimizing the Project Management Process](https://intelligence.thearchon.eu/carousels/optimizing-the-project-management-process) — Governance, Resilience, IT Operations, Cloud · 2026-09-22
@@ -236,7 +245,10 @@ _Last generated: Fri, 25 Sep 2026 19:03:04 GMT (2026-09-25T19:03:04.178Z) · sou
 - [Why IT Service Management (ITSM) Is Essential for Modern Enterprises](https://intelligence.thearchon.eu/carousels/why-it-service-management-itsm-is-essential-for-modern-enterprises) — IT Operations, Governance, Resilience, Cloud, Cybersecurity · 2026-09-18
 - [AI Governance: Who Controls the AI Agent?](https://intelligence.thearchon.eu/carousels/ai-governance-who-controls-the-ai-agent) — AI, Governance, Cybersecurity, Resilience · 2026-09-18
 
-## Practical Intelligence (14)
+## Practical Intelligence (17)
+- [Risks of Broad Access and Standing Privileges](https://intelligence.thearchon.eu/quizzes/risks-of-broad-access-and-standing-privileges-5e586c) — Cybersecurity · 2026-09-28
+- [ITSM Success Factors](https://intelligence.thearchon.eu/comparisons/itsm-success-factors-edb15b) — Governance · 2026-09-28
+- [Improve Decision‑Making Efficiency](https://intelligence.thearchon.eu/checklists/improve-decision-making-efficiency-2dc195) — Leadership & Organization · 2026-09-28
 - [Cloud Transformation Challenges](https://intelligence.thearchon.eu/quizzes/cloud-transformation-challenges-0b5391) — Cloud · 2026-09-21
 - [Employee Technology Lifecycle Management](https://intelligence.thearchon.eu/comparisons/employee-technology-lifecycle-management-66c343) — Identity · 2026-09-21
 - [Human‑in‑the‑Loop Governance for Automated Interactions](https://intelligence.thearchon.eu/checklists/human-in-the-loop-governance-for-automated-interactions-fec6e1) — AI · 2026-09-21

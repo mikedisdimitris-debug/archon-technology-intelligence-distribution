@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-09-25T19:03:04.178Z",
+  "generatedAt": "2026-09-28T20:18:29.435Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,163 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 232,
+  "itemCount": 244,
   "familyCounts": {
-    "Insights": 79,
-    "Guides": 21,
-    "Infographics": 70,
-    "Diagrams": 19,
-    "Carousels": 16,
-    "Practical Intelligence": 14,
+    "Insights": 80,
+    "Guides": 22,
+    "Infographics": 72,
+    "Diagrams": 21,
+    "Carousels": 19,
+    "Practical Intelligence": 17,
     "Technology Evaluations": 13,
     "Other": 0
   },
   "latestItem": {
-    "title": "Pre‑Restructuring Checklist for IT Teams",
-    "url": "https://intelligence.thearchon.eu/guides/prerestructuring-checklist-for-it-teams",
-    "publishedAt": "2026-09-25T18:10:58.000Z"
+    "title": "MegazoneCloud & Portal26: Joint AI Governance & Security Platform",
+    "url": "https://intelligence.thearchon.eu/carousels/megazonecloud-portal26-joint-ai-governance-security-platform",
+    "publishedAt": "2026-09-28T15:32:00.000Z"
   },
   "items": [
+    {
+      "title": "MegazoneCloud & Portal26: Joint AI Governance & Security Platform",
+      "url": "https://intelligence.thearchon.eu/carousels/megazonecloud-portal26-joint-ai-governance-security-platform",
+      "guid": "https://intelligence.thearchon.eu/carousels/megazonecloud-portal26-joint-ai-governance-security-platform",
+      "family": "Carousels",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-09-28T15:32:00.000Z",
+      "description": "How two cloud leaders combine expertise to give CIOs, IT Directors and CISOs a ready‑to‑use framework for governing and protecting Generative AI workloads."
+    },
+    {
+      "title": "Organizational Impact Checklist for Generative AI in Customer Support",
+      "url": "https://intelligence.thearchon.eu/guides/organizational-impact-checklist-for-generative-ai-in-customer-support",
+      "guid": "https://intelligence.thearchon.eu/guides/organizational-impact-checklist-for-generative-ai-in-customer-support",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Governance",
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-09-28T10:49:27.000Z",
+      "description": "A concise, vendor‑agnostic guide to evaluate the organisational consequences of introducing generative AI tools for customer support, aligned with the EU AI Act, shadow‑AI risks, and emerging AI ethics standards."
+    },
+    {
+      "title": "Risks of Broad Access and Standing Privileges",
+      "url": "https://intelligence.thearchon.eu/quizzes/risks-of-broad-access-and-standing-privileges-5e586c",
+      "guid": "https://intelligence.thearchon.eu/quizzes/risks-of-broad-access-and-standing-privileges-5e586c",
+      "family": "Practical Intelligence",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-28T08:58:28.000Z",
+      "description": "Built from 3 related articles on Cybersecurity."
+    },
+    {
+      "title": "ITSM Success Factors",
+      "url": "https://intelligence.thearchon.eu/comparisons/itsm-success-factors-edb15b",
+      "guid": "https://intelligence.thearchon.eu/comparisons/itsm-success-factors-edb15b",
+      "family": "Practical Intelligence",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-09-28T08:58:23.000Z",
+      "description": "Built from 3 related articles on Governance."
+    },
+    {
+      "title": "Improve Decision‑Making Efficiency",
+      "url": "https://intelligence.thearchon.eu/checklists/improve-decision-making-efficiency-2dc195",
+      "guid": "https://intelligence.thearchon.eu/checklists/improve-decision-making-efficiency-2dc195",
+      "family": "Practical Intelligence",
+      "domains": [
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-09-28T08:58:15.000Z",
+      "description": "Built from 3 related articles on Leadership & Organization."
+    },
+    {
+      "title": "The Complexity Starts Before You Get the Job",
+      "url": "https://intelligence.thearchon.eu/articles/the-complexity-starts-before-you-get-the-job",
+      "guid": "https://intelligence.thearchon.eu/articles/the-complexity-starts-before-you-get-the-job",
+      "family": "Insights",
+      "domains": [
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-09-28T07:50:00.000Z",
+      "description": "When one vacancy describes an entire IT department — and applying for it becomes a process of its own."
+    },
+    {
+      "title": "Proofpoint Acquires Acuvity: AI Security & Governance for the Agentic Workspace",
+      "url": "https://intelligence.thearchon.eu/carousels/proofpoint-acquires-acuvity-ai-security-governance-for-the-agentic-wor",
+      "guid": "https://intelligence.thearchon.eu/carousels/proofpoint-acquires-acuvity-ai-security-governance-for-the-agentic-wor",
+      "family": "Carousels",
+      "domains": [
+        "AI",
+        "Governance",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-28T06:57:52.000Z",
+      "description": "An overview of the combined Proofpoint‑Acuvity solution, its architectural components, AI capabilities, and the operational roadmap for CIOs, IT Directors and CISOs."
+    },
+    {
+      "title": "AI Governance Shifts to Pre‑Execution",
+      "url": "https://intelligence.thearchon.eu/diagrams/ai-governance-shifts-to-pre-execution",
+      "guid": "https://intelligence.thearchon.eu/diagrams/ai-governance-shifts-to-pre-execution",
+      "family": "Diagrams",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-28T00:50:50.000Z",
+      "description": "Executive view of the core capabilities that now operate at the moment before AI model execution, linking policy, risk, validation, monitoring and compliance into a tight pre‑run loop."
+    },
+    {
+      "title": "AI Agents Are Redefining IT Operations",
+      "url": "https://intelligence.thearchon.eu/infographics/ai-agents-are-redefining-it-operations",
+      "guid": "https://intelligence.thearchon.eu/infographics/ai-agents-are-redefining-it-operations",
+      "family": "Infographics",
+      "domains": [
+        "Networking",
+        "AI"
+      ],
+      "publishedAt": "2026-09-27T22:14:19.000Z",
+      "description": "AI‑driven agents can configure, troubleshoot, and optimize IT infrastructure without human intervention. Executives must evaluate strategic, architectural, operational, governance, and talent dimensions to determine if their organization is prepared for this shift."
+    },
+    {
+      "title": "Druva Accelerates MSP Momentum with New Security and Cyber Resilience Capabilities",
+      "url": "https://intelligence.thearchon.eu/carousels/druva-accelerates-msp-momentum-with-new-security-and-cyber-resilience-",
+      "guid": "https://intelligence.thearchon.eu/carousels/druva-accelerates-msp-momentum-with-new-security-and-cyber-resilience-",
+      "family": "Carousels",
+      "domains": [
+        "Resilience",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-27T18:27:00.000Z",
+      "description": "A relationship‑focused view of Druva’s latest security and cyber‑resilience features and the concrete ways they enable Managed Service Providers to deepen client trust, expand service revenue, and improve overall resilience."
+    },
+    {
+      "title": "Druva Accelerates MSP Momentum with Integrated Security & Cyber‑Resilience",
+      "url": "https://intelligence.thearchon.eu/infographics/druva-accelerates-msp-momentum-with-integrated-security-cyber-resilience",
+      "guid": "https://intelligence.thearchon.eu/infographics/druva-accelerates-msp-momentum-with-integrated-security-cyber-resilience",
+      "family": "Infographics",
+      "domains": [
+        "Cybersecurity",
+        "Resilience"
+      ],
+      "publishedAt": "2026-09-27T18:26:54.000Z",
+      "description": "Druva adds native security and cyber‑resilience services—immutable backups, ransomware detection, and automated incident response—designed for MSPs. The portfolio enables providers to bundle protection with proactive defense, driving higher margins and stronger client trust."
+    },
+    {
+      "title": "Abnormal AI Expands AI Security Suite",
+      "url": "https://intelligence.thearchon.eu/diagrams/abnormal-ai-expands-ai-security-suite",
+      "guid": "https://intelligence.thearchon.eu/diagrams/abnormal-ai-expands-ai-security-suite",
+      "family": "Diagrams",
+      "domains": [
+        "AI",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-27T18:26:50.000Z",
+      "description": "Executive view of the expanded AI Security Suite architecture built on Abnormal AI’s Behavioral Security Platform, highlighting core components and their interactions."
+    },
     {
       "title": "Pre‑Restructuring Checklist for IT Teams",
       "url": "https://intelligence.thearchon.eu/guides/prerestructuring-checklist-for-it-teams",
