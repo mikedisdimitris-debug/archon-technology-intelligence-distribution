@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-09-29T07:39:21.899Z",
+  "generatedAt": "2026-09-29T12:16:48.771Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,68 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 245,
+  "itemCount": 249,
   "familyCounts": {
     "Insights": 80,
-    "Guides": 22,
+    "Guides": 23,
     "Infographics": 72,
-    "Diagrams": 22,
-    "Carousels": 19,
+    "Diagrams": 23,
+    "Carousels": 21,
     "Practical Intelligence": 17,
     "Technology Evaluations": 13,
     "Other": 0
   },
   "latestItem": {
-    "title": "Opaque Reports Boosts Developer Adoption of AgenTrust",
-    "url": "https://intelligence.thearchon.eu/diagrams/opaque-reports-boosts-developer-adoption-of-agentrust",
-    "publishedAt": "2026-09-28T22:03:46.000Z"
+    "title": "Verifying Readiness Before Handing Incident Ownership to a New Team",
+    "url": "https://intelligence.thearchon.eu/guides/verifying-readiness-before-handing-incident-ownership-to-a-new-team",
+    "publishedAt": "2026-09-29T09:33:48.000Z"
   },
   "items": [
+    {
+      "title": "Verifying Readiness Before Handing Incident Ownership to a New Team",
+      "url": "https://intelligence.thearchon.eu/guides/verifying-readiness-before-handing-incident-ownership-to-a-new-team",
+      "guid": "https://intelligence.thearchon.eu/guides/verifying-readiness-before-handing-incident-ownership-to-a-new-team",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-09-29T09:33:48.000Z",
+      "description": "A concise guide to confirm that a new internal or external team has the right composition, authority, security hygiene, and communication safeguards before they take charge of a cyber incident."
+    },
+    {
+      "title": "AI Resilience: From Buzzword to Architecture",
+      "url": "https://intelligence.thearchon.eu/carousels/ai-resilience-from-buzzword-to-architecture",
+      "guid": "https://intelligence.thearchon.eu/carousels/ai-resilience-from-buzzword-to-architecture",
+      "family": "Carousels",
+      "domains": [
+        "Resilience"
+      ],
+      "publishedAt": "2026-09-29T08:34:44.000Z",
+      "description": "A concise guide for CIOs, IT Directors, and CISOs on building resilient AI systems that sustain performance amid disruptions, data drift, and adversarial threats."
+    },
+    {
+      "title": "The Two Biggest Threats to Cybersecurity in 2026: AI—and Not Having AI",
+      "url": "https://intelligence.thearchon.eu/carousels/the-two-biggest-threats-to-cybersecurity-in-2026-ai-and-not-having-ai",
+      "guid": "https://intelligence.thearchon.eu/carousels/the-two-biggest-threats-to-cybersecurity-in-2026-ai-and-not-having-ai",
+      "family": "Carousels",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-29T02:00:15.000Z",
+      "description": "A concise process‑oriented view for CIOs, IT Directors and CISOs on the dual AI dilemma shaping 2026 security landscapes."
+    },
+    {
+      "title": "Executive Blueprint for a Cyber Resilience Framework",
+      "url": "https://intelligence.thearchon.eu/diagrams/executive-blueprint-for-a-cyber-resilience-framework",
+      "guid": "https://intelligence.thearchon.eu/diagrams/executive-blueprint-for-a-cyber-resilience-framework",
+      "family": "Diagrams",
+      "domains": [
+        "Resilience"
+      ],
+      "publishedAt": "2026-09-29T02:00:01.000Z",
+      "description": "A high‑level architecture that connects governance, risk assessment, threat intelligence, security controls, continuous monitoring, incident response, and customer communication into a feedback‑driven resilience loop."
+    },
     {
       "title": "Opaque Reports Boosts Developer Adoption of AgenTrust",
       "url": "https://intelligence.thearchon.eu/diagrams/opaque-reports-boosts-developer-adoption-of-agentrust",
