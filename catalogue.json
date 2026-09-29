@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-09-28T20:18:29.435Z",
+  "generatedAt": "2026-09-29T07:39:21.899Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,34 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 244,
+  "itemCount": 245,
   "familyCounts": {
     "Insights": 80,
     "Guides": 22,
     "Infographics": 72,
-    "Diagrams": 21,
+    "Diagrams": 22,
     "Carousels": 19,
     "Practical Intelligence": 17,
     "Technology Evaluations": 13,
     "Other": 0
   },
   "latestItem": {
-    "title": "MegazoneCloud & Portal26: Joint AI Governance & Security Platform",
-    "url": "https://intelligence.thearchon.eu/carousels/megazonecloud-portal26-joint-ai-governance-security-platform",
-    "publishedAt": "2026-09-28T15:32:00.000Z"
+    "title": "Opaque Reports Boosts Developer Adoption of AgenTrust",
+    "url": "https://intelligence.thearchon.eu/diagrams/opaque-reports-boosts-developer-adoption-of-agentrust",
+    "publishedAt": "2026-09-28T22:03:46.000Z"
   },
   "items": [
+    {
+      "title": "Opaque Reports Boosts Developer Adoption of AgenTrust",
+      "url": "https://intelligence.thearchon.eu/diagrams/opaque-reports-boosts-developer-adoption-of-agentrust",
+      "guid": "https://intelligence.thearchon.eu/diagrams/opaque-reports-boosts-developer-adoption-of-agentrust",
+      "family": "Diagrams",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-09-28T22:03:46.000Z",
+      "description": "Opaque Reports provides developers with actionable AI model insights and an integration SDK that connects directly to AgenTrust, accelerating governance policy enforcement, compliance auditing, and risk management across cloud deployments."
+    },
     {
       "title": "MegazoneCloud & Portal26: Joint AI Governance & Security Platform",
       "url": "https://intelligence.thearchon.eu/carousels/megazonecloud-portal26-joint-ai-governance-security-platform",
