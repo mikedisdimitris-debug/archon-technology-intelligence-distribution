@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-09-29T14:18:13.614Z",
+  "generatedAt": "2026-09-29T17:37:35.946Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,34 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 249,
+  "itemCount": 250,
   "familyCounts": {
     "Insights": 80,
     "Guides": 23,
     "Infographics": 72,
     "Diagrams": 23,
-    "Carousels": 21,
+    "Carousels": 22,
     "Practical Intelligence": 17,
     "Technology Evaluations": 13,
     "Other": 0
   },
   "latestItem": {
-    "title": "Verifying Readiness Before Handing Incident Ownership to a New Team",
-    "url": "https://intelligence.thearchon.eu/guides/verifying-readiness-before-handing-incident-ownership-to-a-new-team",
-    "publishedAt": "2026-09-29T09:33:48.000Z"
+    "title": "Fenix24 Accelerates Global Momentum as Enterprises Demand Proof of Recoverability",
+    "url": "https://intelligence.thearchon.eu/carousels/fenix24-accelerates-global-momentum-as-enterprises-demand-proof-of-rec",
+    "publishedAt": "2026-09-29T15:55:05.000Z"
   },
   "items": [
+    {
+      "title": "Fenix24 Accelerates Global Momentum as Enterprises Demand Proof of Recoverability",
+      "url": "https://intelligence.thearchon.eu/carousels/fenix24-accelerates-global-momentum-as-enterprises-demand-proof-of-rec",
+      "guid": "https://intelligence.thearchon.eu/carousels/fenix24-accelerates-global-momentum-as-enterprises-demand-proof-of-rec",
+      "family": "Carousels",
+      "domains": [
+        "Resilience"
+      ],
+      "publishedAt": "2026-09-29T15:55:05.000Z",
+      "description": "Enterprises are moving beyond prevention to demand verifiable proof that data can be restored quickly after an incident. Fenix24 provides continuous, automated recoverability testing that integrates with existing backup ecosystems, delivering confidence and compliance."
+    },
     {
       "title": "Verifying Readiness Before Handing Incident Ownership to a New Team",
       "url": "https://intelligence.thearchon.eu/guides/verifying-readiness-before-handing-incident-ownership-to-a-new-team",
