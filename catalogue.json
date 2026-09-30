@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-09-29T17:37:35.946Z",
+  "generatedAt": "2026-09-30T10:57:45.920Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,45 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 250,
+  "itemCount": 252,
   "familyCounts": {
     "Insights": 80,
     "Guides": 23,
     "Infographics": 72,
-    "Diagrams": 23,
-    "Carousels": 22,
+    "Diagrams": 24,
+    "Carousels": 23,
     "Practical Intelligence": 17,
     "Technology Evaluations": 13,
     "Other": 0
   },
   "latestItem": {
-    "title": "Fenix24 Accelerates Global Momentum as Enterprises Demand Proof of Recoverability",
-    "url": "https://intelligence.thearchon.eu/carousels/fenix24-accelerates-global-momentum-as-enterprises-demand-proof-of-rec",
-    "publishedAt": "2026-09-29T15:55:05.000Z"
+    "title": "E‑commerce Security: A Guide to Protecting Your Commerce Stack From Modern Cyber Threats",
+    "url": "https://intelligence.thearchon.eu/carousels/e-commerce-security-a-guide-to-protecting-your-commerce-stack-from-mod",
+    "publishedAt": "2026-09-29T20:50:10.000Z"
   },
   "items": [
+    {
+      "title": "E‑commerce Security: A Guide to Protecting Your Commerce Stack From Modern Cyber Threats",
+      "url": "https://intelligence.thearchon.eu/carousels/e-commerce-security-a-guide-to-protecting-your-commerce-stack-from-mod",
+      "guid": "https://intelligence.thearchon.eu/carousels/e-commerce-security-a-guide-to-protecting-your-commerce-stack-from-mod",
+      "family": "Carousels",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-29T20:50:10.000Z",
+      "description": "A concise, actionable process for CIOs, IT Directors, and CISOs to harden every layer of the e‑commerce ecosystem against the most prevalent and emerging cyber threats."
+    },
+    {
+      "title": "Domino Data Lab & EPAM Accelerate AI Adoption in Life Sciences",
+      "url": "https://intelligence.thearchon.eu/diagrams/domino-data-lab-epam-accelerate-ai-adoption-in-life-sciences",
+      "guid": "https://intelligence.thearchon.eu/diagrams/domino-data-lab-epam-accelerate-ai-adoption-in-life-sciences",
+      "family": "Diagrams",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-09-29T20:49:58.000Z",
+      "description": "A concise capability map showing how Domino’s AI platform and EPAM’s services combine to streamline data integration, model development, compliance, and deployment for life‑science organizations."
+    },
     {
       "title": "Fenix24 Accelerates Global Momentum as Enterprises Demand Proof of Recoverability",
       "url": "https://intelligence.thearchon.eu/carousels/fenix24-accelerates-global-momentum-as-enterprises-demand-proof-of-rec",

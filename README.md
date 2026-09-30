@@ -5,11 +5,13 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Tue, 29 Sep 2026 17:37:35 GMT (2026-09-29T17:37:35.946Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Wed, 30 Sep 2026 10:57:45 GMT (2026-09-30T10:57:45.920Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**250 indexed items** across families: Insights (80) · Guides (23) · Infographics (72) · Diagrams (23) · Carousels (22) · Practical Intelligence (17) · Technology Evaluations (13)
+**252 indexed items** across families: Insights (80) · Guides (23) · Infographics (72) · Diagrams (24) · Carousels (23) · Practical Intelligence (17) · Technology Evaluations (13)
 
 ## Newest
+- [E‑commerce Security: A Guide to Protecting Your Commerce Stack From Modern Cyber Threats](https://intelligence.thearchon.eu/carousels/e-commerce-security-a-guide-to-protecting-your-commerce-stack-from-mod) — Carousels · Cybersecurity · 2026-09-29
+- [Domino Data Lab & EPAM Accelerate AI Adoption in Life Sciences](https://intelligence.thearchon.eu/diagrams/domino-data-lab-epam-accelerate-ai-adoption-in-life-sciences) — Diagrams · AI · 2026-09-29
 - [Fenix24 Accelerates Global Momentum as Enterprises Demand Proof of Recoverability](https://intelligence.thearchon.eu/carousels/fenix24-accelerates-global-momentum-as-enterprises-demand-proof-of-rec) — Carousels · Resilience · 2026-09-29
 - [Verifying Readiness Before Handing Incident Ownership to a New Team](https://intelligence.thearchon.eu/guides/verifying-readiness-before-handing-incident-ownership-to-a-new-team) — Guides · Cybersecurity, IT Operations · 2026-09-29
 - [AI Resilience: From Buzzword to Architecture](https://intelligence.thearchon.eu/carousels/ai-resilience-from-buzzword-to-architecture) — Carousels · Resilience · 2026-09-29
@@ -18,8 +20,6 @@ _Last generated: Tue, 29 Sep 2026 17:37:35 GMT (2026-09-29T17:37:35.946Z) · sou
 - [Opaque Reports Boosts Developer Adoption of AgenTrust](https://intelligence.thearchon.eu/diagrams/opaque-reports-boosts-developer-adoption-of-agentrust) — Diagrams · AI · 2026-09-28
 - [MegazoneCloud & Portal26: Joint AI Governance & Security Platform](https://intelligence.thearchon.eu/carousels/megazonecloud-portal26-joint-ai-governance-security-platform) — Carousels · AI · 2026-09-28
 - [Organizational Impact Checklist for Generative AI in Customer Support](https://intelligence.thearchon.eu/guides/organizational-impact-checklist-for-generative-ai-in-customer-support) — Guides · AI, Governance, Leadership & Organization · 2026-09-28
-- [Risks of Broad Access and Standing Privileges](https://intelligence.thearchon.eu/quizzes/risks-of-broad-access-and-standing-privileges-5e586c) — Practical Intelligence · Cybersecurity · 2026-09-28
-- [ITSM Success Factors](https://intelligence.thearchon.eu/comparisons/itsm-success-factors-edb15b) — Practical Intelligence · Governance · 2026-09-28
 
 ## Insights (80)
 - [The Complexity Starts Before You Get the Job](https://intelligence.thearchon.eu/articles/the-complexity-starts-before-you-get-the-job) — Leadership & Organization · 2026-09-28
@@ -202,7 +202,8 @@ _Last generated: Tue, 29 Sep 2026 17:37:35 GMT (2026-09-29T17:37:35.946Z) · sou
 - [The Employee Digital Lifecycle – From Hire to Retire](https://intelligence.thearchon.eu/infographics/the-employee-digital-lifecycle-from-hire-to-retire) — Identity, Cybersecurity, Governance · 2026-09-14
 - [Enterprise Governance of Employee‑Facing AI Agents](https://intelligence.thearchon.eu/infographics/enterprise-governance-of-employee-facing-ai-agents) — AI, Governance · 2026-09-14
 
-## Diagrams (23)
+## Diagrams (24)
+- [Domino Data Lab & EPAM Accelerate AI Adoption in Life Sciences](https://intelligence.thearchon.eu/diagrams/domino-data-lab-epam-accelerate-ai-adoption-in-life-sciences) — AI · 2026-09-29
 - [Executive Blueprint for a Cyber Resilience Framework](https://intelligence.thearchon.eu/diagrams/executive-blueprint-for-a-cyber-resilience-framework) — Resilience · 2026-09-29
 - [Opaque Reports Boosts Developer Adoption of AgenTrust](https://intelligence.thearchon.eu/diagrams/opaque-reports-boosts-developer-adoption-of-agentrust) — AI · 2026-09-28
 - [AI Governance Shifts to Pre‑Execution](https://intelligence.thearchon.eu/diagrams/ai-governance-shifts-to-pre-execution) — Cybersecurity · 2026-09-28
@@ -227,7 +228,8 @@ _Last generated: Tue, 29 Sep 2026 17:37:35 GMT (2026-09-29T17:37:35.946Z) · sou
 - [Incident Management Process](https://intelligence.thearchon.eu/diagrams/incident-management-process) — IT Operations, Resilience · 2026-09-17
 - [IT Change Management Process](https://intelligence.thearchon.eu/diagrams/it-change-management-process) — IT Operations, Governance · 2026-09-17
 
-## Carousels (22)
+## Carousels (23)
+- [E‑commerce Security: A Guide to Protecting Your Commerce Stack From Modern Cyber Threats](https://intelligence.thearchon.eu/carousels/e-commerce-security-a-guide-to-protecting-your-commerce-stack-from-mod) — Cybersecurity · 2026-09-29
 - [Fenix24 Accelerates Global Momentum as Enterprises Demand Proof of Recoverability](https://intelligence.thearchon.eu/carousels/fenix24-accelerates-global-momentum-as-enterprises-demand-proof-of-rec) — Resilience · 2026-09-29
 - [AI Resilience: From Buzzword to Architecture](https://intelligence.thearchon.eu/carousels/ai-resilience-from-buzzword-to-architecture) — Resilience · 2026-09-29
 - [The Two Biggest Threats to Cybersecurity in 2026: AI—and Not Having AI](https://intelligence.thearchon.eu/carousels/the-two-biggest-threats-to-cybersecurity-in-2026-ai-and-not-having-ai) — Cybersecurity · 2026-09-29
