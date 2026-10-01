@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-09-30T10:57:45.920Z",
+  "generatedAt": "2026-10-01T01:40:37.090Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,126 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 252,
+  "itemCount": 261,
   "familyCounts": {
-    "Insights": 80,
-    "Guides": 23,
+    "Insights": 81,
+    "Guides": 24,
     "Infographics": 72,
-    "Diagrams": 24,
-    "Carousels": 23,
+    "Diagrams": 27,
+    "Carousels": 27,
     "Practical Intelligence": 17,
     "Technology Evaluations": 13,
     "Other": 0
   },
   "latestItem": {
-    "title": "E‑commerce Security: A Guide to Protecting Your Commerce Stack From Modern Cyber Threats",
-    "url": "https://intelligence.thearchon.eu/carousels/e-commerce-security-a-guide-to-protecting-your-commerce-stack-from-mod",
-    "publishedAt": "2026-09-29T20:50:10.000Z"
+    "title": "IT Service Management Market Outlook 2024‑2031",
+    "url": "https://intelligence.thearchon.eu/carousels/it-service-management-market-outlook-2024-2031",
+    "publishedAt": "2026-09-30T19:23:34.000Z"
   },
   "items": [
+    {
+      "title": "IT Service Management Market Outlook 2024‑2031",
+      "url": "https://intelligence.thearchon.eu/carousels/it-service-management-market-outlook-2024-2031",
+      "guid": "https://intelligence.thearchon.eu/carousels/it-service-management-market-outlook-2024-2031",
+      "family": "Carousels",
+      "domains": [
+        "IT Operations",
+        "AI"
+      ],
+      "publishedAt": "2026-09-30T19:23:34.000Z",
+      "description": "A concise architecture guide for CIOs, IT Directors and CISOs on the expanding ITSM market, key technology layers, and AI‑enabled design principles."
+    },
+    {
+      "title": "Enterprise AI Data Protection Capability",
+      "url": "https://intelligence.thearchon.eu/diagrams/enterprise-ai-data-protection-capability",
+      "guid": "https://intelligence.thearchon.eu/diagrams/enterprise-ai-data-protection-capability",
+      "family": "Diagrams",
+      "domains": [
+        "AI",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-30T19:23:25.000Z",
+      "description": "Shows how VAST’s security suite isolates, encrypts, and governs enterprise‑sensitive data so AI models can be trained and served without exposing confidential information."
+    },
+    {
+      "title": "SASE Gateway by KDDI: How SP Interconnect Simplifies Closed‑Network Zero Trust",
+      "url": "https://intelligence.thearchon.eu/carousels/sase-gateway-by-kddi-how-sp-interconnect-simplifies-closed-network-zer",
+      "guid": "https://intelligence.thearchon.eu/carousels/sase-gateway-by-kddi-how-sp-interconnect-simplifies-closed-network-zer",
+      "family": "Carousels",
+      "domains": [
+        "Networking"
+      ],
+      "publishedAt": "2026-09-30T13:47:15.000Z",
+      "description": "Step‑by‑step illustration of KDDI’s SASE Gateway combined with Service Provider (SP) Interconnect to deliver Zero Trust across closed networks, reduce latency, and streamline policy enforcement."
+    },
+    {
+      "title": "Medical Device Cybersecurity Market Outlook to 2034",
+      "url": "https://intelligence.thearchon.eu/diagrams/medical-device-cybersecurity-market-outlook-to-2034",
+      "guid": "https://intelligence.thearchon.eu/diagrams/medical-device-cybersecurity-market-outlook-to-2034",
+      "family": "Diagrams",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-30T13:47:06.000Z",
+      "description": "A high‑level view of the market forces, regulatory backdrop, and technology layers that shape the medical device cybersecurity solutions market through 2034."
+    },
+    {
+      "title": "Pre‑Automation Checklist for Critical Business Processes",
+      "url": "https://intelligence.thearchon.eu/guides/preautomation-checklist-for-critical-business-processes",
+      "guid": "https://intelligence.thearchon.eu/guides/preautomation-checklist-for-critical-business-processes",
+      "family": "Guides",
+      "domains": [
+        "Governance",
+        "Resilience"
+      ],
+      "publishedAt": "2026-09-30T09:33:45.000Z",
+      "description": "A short, vendor‑agnostic guide that helps decision‑makers verify that a critical process is safe to automate. It draws on CISA alerts, CIS Critical Security Controls, and NIST SP 800‑53 guidance."
+    },
+    {
+      "title": "When an AI Agent Crosses the Boundary",
+      "url": "https://intelligence.thearchon.eu/articles/when-an-ai-agent-crosses-the-boundary",
+      "guid": "https://intelligence.thearchon.eu/articles/when-an-ai-agent-crosses-the-boundary",
+      "family": "Insights",
+      "domains": [
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-09-30T07:26:00.000Z",
+      "description": "A Personal Experience in AI Agent Governance"
+    },
+    {
+      "title": "When the Grid Goes Dark, the Boardroom Becomes the Battlefield",
+      "url": "https://intelligence.thearchon.eu/carousels/when-the-grid-goes-dark-the-boardroom-becomes-the-battlefield",
+      "guid": "https://intelligence.thearchon.eu/carousels/when-the-grid-goes-dark-the-boardroom-becomes-the-battlefield",
+      "family": "Carousels",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-09-30T06:45:59.000Z",
+      "description": "A relationship‑focused guide for board members, CISOs, and IT leaders on aligning cyber governance with grid resilience using a curated 100+ title library."
+    },
+    {
+      "title": "Reco Secures $55M to Embed AI Governance in Agents",
+      "url": "https://intelligence.thearchon.eu/diagrams/reco-secures-55m-to-embed-ai-governance-in-agents",
+      "guid": "https://intelligence.thearchon.eu/diagrams/reco-secures-55m-to-embed-ai-governance-in-agents",
+      "family": "Diagrams",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-09-30T06:45:48.000Z",
+      "description": "Reco has raised $55 million to extend its AI governance framework across deployed AI agents, linking compliance, risk control, and market advantage."
+    },
+    {
+      "title": "CISO’s Guide to Privileged Access Management",
+      "url": "https://intelligence.thearchon.eu/carousels/ciso-s-guide-to-privileged-access-management",
+      "guid": "https://intelligence.thearchon.eu/carousels/ciso-s-guide-to-privileged-access-management",
+      "family": "Carousels",
+      "domains": [
+        "Identity"
+      ],
+      "publishedAt": "2026-09-30T00:29:58.000Z",
+      "description": "A concise, architecture‑focused overview of the core components and integration points of Privileged Access Management (PAM) that CIOs, IT Directors and CISOs can use to harden their most critical accounts."
+    },
     {
       "title": "E‑commerce Security: A Guide to Protecting Your Commerce Stack From Modern Cyber Threats",
       "url": "https://intelligence.thearchon.eu/carousels/e-commerce-security-a-guide-to-protecting-your-commerce-stack-from-mod",

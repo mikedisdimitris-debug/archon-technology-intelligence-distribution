@@ -5,23 +5,24 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Wed, 30 Sep 2026 10:57:45 GMT (2026-09-30T10:57:45.920Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Thu, 01 Oct 2026 01:40:37 GMT (2026-10-01T01:40:37.090Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**252 indexed items** across families: Insights (80) · Guides (23) · Infographics (72) · Diagrams (24) · Carousels (23) · Practical Intelligence (17) · Technology Evaluations (13)
+**261 indexed items** across families: Insights (81) · Guides (24) · Infographics (72) · Diagrams (27) · Carousels (27) · Practical Intelligence (17) · Technology Evaluations (13)
 
 ## Newest
+- [IT Service Management Market Outlook 2024‑2031](https://intelligence.thearchon.eu/carousels/it-service-management-market-outlook-2024-2031) — Carousels · IT Operations, AI · 2026-09-30
+- [Enterprise AI Data Protection Capability](https://intelligence.thearchon.eu/diagrams/enterprise-ai-data-protection-capability) — Diagrams · AI, Cybersecurity · 2026-09-30
+- [SASE Gateway by KDDI: How SP Interconnect Simplifies Closed‑Network Zero Trust](https://intelligence.thearchon.eu/carousels/sase-gateway-by-kddi-how-sp-interconnect-simplifies-closed-network-zer) — Carousels · Networking · 2026-09-30
+- [Medical Device Cybersecurity Market Outlook to 2034](https://intelligence.thearchon.eu/diagrams/medical-device-cybersecurity-market-outlook-to-2034) — Diagrams · Cybersecurity · 2026-09-30
+- [Pre‑Automation Checklist for Critical Business Processes](https://intelligence.thearchon.eu/guides/preautomation-checklist-for-critical-business-processes) — Guides · Governance, Resilience · 2026-09-30
+- [When an AI Agent Crosses the Boundary](https://intelligence.thearchon.eu/articles/when-an-ai-agent-crosses-the-boundary) — Insights · AI, Governance · 2026-09-30
+- [When the Grid Goes Dark, the Boardroom Becomes the Battlefield](https://intelligence.thearchon.eu/carousels/when-the-grid-goes-dark-the-boardroom-becomes-the-battlefield) — Carousels · Cybersecurity · 2026-09-30
+- [Reco Secures $55M to Embed AI Governance in Agents](https://intelligence.thearchon.eu/diagrams/reco-secures-55m-to-embed-ai-governance-in-agents) — Diagrams · AI · 2026-09-30
+- [CISO’s Guide to Privileged Access Management](https://intelligence.thearchon.eu/carousels/ciso-s-guide-to-privileged-access-management) — Carousels · Identity · 2026-09-30
 - [E‑commerce Security: A Guide to Protecting Your Commerce Stack From Modern Cyber Threats](https://intelligence.thearchon.eu/carousels/e-commerce-security-a-guide-to-protecting-your-commerce-stack-from-mod) — Carousels · Cybersecurity · 2026-09-29
-- [Domino Data Lab & EPAM Accelerate AI Adoption in Life Sciences](https://intelligence.thearchon.eu/diagrams/domino-data-lab-epam-accelerate-ai-adoption-in-life-sciences) — Diagrams · AI · 2026-09-29
-- [Fenix24 Accelerates Global Momentum as Enterprises Demand Proof of Recoverability](https://intelligence.thearchon.eu/carousels/fenix24-accelerates-global-momentum-as-enterprises-demand-proof-of-rec) — Carousels · Resilience · 2026-09-29
-- [Verifying Readiness Before Handing Incident Ownership to a New Team](https://intelligence.thearchon.eu/guides/verifying-readiness-before-handing-incident-ownership-to-a-new-team) — Guides · Cybersecurity, IT Operations · 2026-09-29
-- [AI Resilience: From Buzzword to Architecture](https://intelligence.thearchon.eu/carousels/ai-resilience-from-buzzword-to-architecture) — Carousels · Resilience · 2026-09-29
-- [The Two Biggest Threats to Cybersecurity in 2026: AI—and Not Having AI](https://intelligence.thearchon.eu/carousels/the-two-biggest-threats-to-cybersecurity-in-2026-ai-and-not-having-ai) — Carousels · Cybersecurity · 2026-09-29
-- [Executive Blueprint for a Cyber Resilience Framework](https://intelligence.thearchon.eu/diagrams/executive-blueprint-for-a-cyber-resilience-framework) — Diagrams · Resilience · 2026-09-29
-- [Opaque Reports Boosts Developer Adoption of AgenTrust](https://intelligence.thearchon.eu/diagrams/opaque-reports-boosts-developer-adoption-of-agentrust) — Diagrams · AI · 2026-09-28
-- [MegazoneCloud & Portal26: Joint AI Governance & Security Platform](https://intelligence.thearchon.eu/carousels/megazonecloud-portal26-joint-ai-governance-security-platform) — Carousels · AI · 2026-09-28
-- [Organizational Impact Checklist for Generative AI in Customer Support](https://intelligence.thearchon.eu/guides/organizational-impact-checklist-for-generative-ai-in-customer-support) — Guides · AI, Governance, Leadership & Organization · 2026-09-28
 
-## Insights (80)
+## Insights (81)
+- [When an AI Agent Crosses the Boundary](https://intelligence.thearchon.eu/articles/when-an-ai-agent-crosses-the-boundary) — AI, Governance · 2026-09-30
 - [The Complexity Starts Before You Get the Job](https://intelligence.thearchon.eu/articles/the-complexity-starts-before-you-get-the-job) — Leadership & Organization · 2026-09-28
 - [From “We Have a Policy” to “We Follow a Policy”: The Compliance Gap Nobody Talks About](https://intelligence.thearchon.eu/articles/from-we-have-a-policy-to-we-follow-a-policy-the-compliance-gap-nobody-talks-about) — Governance, Leadership & Organization · 2026-09-25
 - [Your New Employee Has Already Said Yes. What Has the Company Said Back?](https://intelligence.thearchon.eu/articles/your-new-employee-has-already-said-yes-what-has-the-company-said-back) — IT Operations · 2026-09-18
@@ -103,7 +104,8 @@ _Last generated: Wed, 30 Sep 2026 10:57:45 GMT (2026-09-30T10:57:45.920Z) · sou
 - [The UX of Hiring: Digital Transformation or GDPR Nightmare?](https://intelligence.thearchon.eu/articles/ux-hiring-digital-transformation-gdpr-nightmare-dimitris-mikedis-ztlrf) — Governance · 2026-04-21
 - [The Silent Reality of Today’s Job Market: Delays, Silence, and Unrealistic Expectations](https://intelligence.thearchon.eu/articles/silent-reality-todays-job-market-delays-silence-dimitris-mikedis-5wmxf) — Leadership & Organization · 2026-04-16
 
-## Guides (23)
+## Guides (24)
+- [Pre‑Automation Checklist for Critical Business Processes](https://intelligence.thearchon.eu/guides/preautomation-checklist-for-critical-business-processes) — Governance, Resilience · 2026-09-30
 - [Verifying Readiness Before Handing Incident Ownership to a New Team](https://intelligence.thearchon.eu/guides/verifying-readiness-before-handing-incident-ownership-to-a-new-team) — Cybersecurity, IT Operations · 2026-09-29
 - [Organizational Impact Checklist for Generative AI in Customer Support](https://intelligence.thearchon.eu/guides/organizational-impact-checklist-for-generative-ai-in-customer-support) — AI, Governance, Leadership & Organization · 2026-09-28
 - [Pre‑Restructuring Checklist for IT Teams](https://intelligence.thearchon.eu/guides/prerestructuring-checklist-for-it-teams) — Leadership & Organization, IT Operations, Governance · 2026-09-25
@@ -202,7 +204,10 @@ _Last generated: Wed, 30 Sep 2026 10:57:45 GMT (2026-09-30T10:57:45.920Z) · sou
 - [The Employee Digital Lifecycle – From Hire to Retire](https://intelligence.thearchon.eu/infographics/the-employee-digital-lifecycle-from-hire-to-retire) — Identity, Cybersecurity, Governance · 2026-09-14
 - [Enterprise Governance of Employee‑Facing AI Agents](https://intelligence.thearchon.eu/infographics/enterprise-governance-of-employee-facing-ai-agents) — AI, Governance · 2026-09-14
 
-## Diagrams (24)
+## Diagrams (27)
+- [Enterprise AI Data Protection Capability](https://intelligence.thearchon.eu/diagrams/enterprise-ai-data-protection-capability) — AI, Cybersecurity · 2026-09-30
+- [Medical Device Cybersecurity Market Outlook to 2034](https://intelligence.thearchon.eu/diagrams/medical-device-cybersecurity-market-outlook-to-2034) — Cybersecurity · 2026-09-30
+- [Reco Secures $55M to Embed AI Governance in Agents](https://intelligence.thearchon.eu/diagrams/reco-secures-55m-to-embed-ai-governance-in-agents) — AI · 2026-09-30
 - [Domino Data Lab & EPAM Accelerate AI Adoption in Life Sciences](https://intelligence.thearchon.eu/diagrams/domino-data-lab-epam-accelerate-ai-adoption-in-life-sciences) — AI · 2026-09-29
 - [Executive Blueprint for a Cyber Resilience Framework](https://intelligence.thearchon.eu/diagrams/executive-blueprint-for-a-cyber-resilience-framework) — Resilience · 2026-09-29
 - [Opaque Reports Boosts Developer Adoption of AgenTrust](https://intelligence.thearchon.eu/diagrams/opaque-reports-boosts-developer-adoption-of-agentrust) — AI · 2026-09-28
@@ -228,7 +233,11 @@ _Last generated: Wed, 30 Sep 2026 10:57:45 GMT (2026-09-30T10:57:45.920Z) · sou
 - [Incident Management Process](https://intelligence.thearchon.eu/diagrams/incident-management-process) — IT Operations, Resilience · 2026-09-17
 - [IT Change Management Process](https://intelligence.thearchon.eu/diagrams/it-change-management-process) — IT Operations, Governance · 2026-09-17
 
-## Carousels (23)
+## Carousels (27)
+- [IT Service Management Market Outlook 2024‑2031](https://intelligence.thearchon.eu/carousels/it-service-management-market-outlook-2024-2031) — IT Operations, AI · 2026-09-30
+- [SASE Gateway by KDDI: How SP Interconnect Simplifies Closed‑Network Zero Trust](https://intelligence.thearchon.eu/carousels/sase-gateway-by-kddi-how-sp-interconnect-simplifies-closed-network-zer) — Networking · 2026-09-30
+- [When the Grid Goes Dark, the Boardroom Becomes the Battlefield](https://intelligence.thearchon.eu/carousels/when-the-grid-goes-dark-the-boardroom-becomes-the-battlefield) — Cybersecurity · 2026-09-30
+- [CISO’s Guide to Privileged Access Management](https://intelligence.thearchon.eu/carousels/ciso-s-guide-to-privileged-access-management) — Identity · 2026-09-30
 - [E‑commerce Security: A Guide to Protecting Your Commerce Stack From Modern Cyber Threats](https://intelligence.thearchon.eu/carousels/e-commerce-security-a-guide-to-protecting-your-commerce-stack-from-mod) — Cybersecurity · 2026-09-29
 - [Fenix24 Accelerates Global Momentum as Enterprises Demand Proof of Recoverability](https://intelligence.thearchon.eu/carousels/fenix24-accelerates-global-momentum-as-enterprises-demand-proof-of-rec) — Resilience · 2026-09-29
 - [AI Resilience: From Buzzword to Architecture](https://intelligence.thearchon.eu/carousels/ai-resilience-from-buzzword-to-architecture) — Resilience · 2026-09-29
