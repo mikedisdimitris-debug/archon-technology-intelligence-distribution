@@ -5,11 +5,14 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Thu, 01 Oct 2026 11:25:11 GMT (2026-10-01T11:25:11.353Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Thu, 01 Oct 2026 16:52:46 GMT (2026-10-01T16:52:46.222Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**263 indexed items** across families: Insights (81) · Guides (24) · Infographics (72) · Diagrams (28) · Carousels (28) · Practical Intelligence (17) · Technology Evaluations (13)
+**266 indexed items** across families: Insights (81) · Guides (25) · Infographics (72) · Diagrams (29) · Carousels (29) · Practical Intelligence (17) · Technology Evaluations (13)
 
 ## Newest
+- [Zero Trust Ends at the Browser – Closing the Hidden Gap](https://intelligence.thearchon.eu/carousels/zero-trust-ends-at-the-browser-closing-the-hidden-gap) — Carousels · Cybersecurity · 2026-10-01
+- [Agentic AI Transforming Organizational Operating Model](https://intelligence.thearchon.eu/diagrams/agentic-ai-transforming-organizational-operating-model) — Diagrams · AI · 2026-10-01
+- [Deciding Whether to Create a Dedicated Cloud‑Cost Center](https://intelligence.thearchon.eu/guides/deciding-whether-to-create-a-dedicated-cloudcost-center) — Guides · Cloud, Governance, IT Operations · 2026-10-01
 - [The Security Problem With Vibe Coding Isn’t AI – It’s Unchecked Trust](https://intelligence.thearchon.eu/carousels/the-security-problem-with-vibe-coding-isn-t-ai-it-s-unchecked-trust) — Carousels · AI, Cybersecurity · 2026-10-01
 - [Closing the AI Risk & Governance Gap](https://intelligence.thearchon.eu/diagrams/closing-the-ai-risk-governance-gap) — Diagrams · Governance · 2026-09-30
 - [IT Service Management Market Outlook 2024‑2031](https://intelligence.thearchon.eu/carousels/it-service-management-market-outlook-2024-2031) — Carousels · IT Operations, AI · 2026-09-30
@@ -17,9 +20,6 @@ _Last generated: Thu, 01 Oct 2026 11:25:11 GMT (2026-10-01T11:25:11.353Z) · sou
 - [SASE Gateway by KDDI: How SP Interconnect Simplifies Closed‑Network Zero Trust](https://intelligence.thearchon.eu/carousels/sase-gateway-by-kddi-how-sp-interconnect-simplifies-closed-network-zer) — Carousels · Networking · 2026-09-30
 - [Medical Device Cybersecurity Market Outlook to 2034](https://intelligence.thearchon.eu/diagrams/medical-device-cybersecurity-market-outlook-to-2034) — Diagrams · Cybersecurity · 2026-09-30
 - [Pre‑Automation Checklist for Critical Business Processes](https://intelligence.thearchon.eu/guides/preautomation-checklist-for-critical-business-processes) — Guides · Governance, Resilience · 2026-09-30
-- [When an AI Agent Crosses the Boundary](https://intelligence.thearchon.eu/articles/when-an-ai-agent-crosses-the-boundary) — Insights · AI, Governance · 2026-09-30
-- [When the Grid Goes Dark, the Boardroom Becomes the Battlefield](https://intelligence.thearchon.eu/carousels/when-the-grid-goes-dark-the-boardroom-becomes-the-battlefield) — Carousels · Cybersecurity · 2026-09-30
-- [Reco Secures $55M to Embed AI Governance in Agents](https://intelligence.thearchon.eu/diagrams/reco-secures-55m-to-embed-ai-governance-in-agents) — Diagrams · AI · 2026-09-30
 
 ## Insights (81)
 - [When an AI Agent Crosses the Boundary](https://intelligence.thearchon.eu/articles/when-an-ai-agent-crosses-the-boundary) — AI, Governance · 2026-09-30
@@ -104,7 +104,8 @@ _Last generated: Thu, 01 Oct 2026 11:25:11 GMT (2026-10-01T11:25:11.353Z) · sou
 - [The UX of Hiring: Digital Transformation or GDPR Nightmare?](https://intelligence.thearchon.eu/articles/ux-hiring-digital-transformation-gdpr-nightmare-dimitris-mikedis-ztlrf) — Governance · 2026-04-21
 - [The Silent Reality of Today’s Job Market: Delays, Silence, and Unrealistic Expectations](https://intelligence.thearchon.eu/articles/silent-reality-todays-job-market-delays-silence-dimitris-mikedis-5wmxf) — Leadership & Organization · 2026-04-16
 
-## Guides (24)
+## Guides (25)
+- [Deciding Whether to Create a Dedicated Cloud‑Cost Center](https://intelligence.thearchon.eu/guides/deciding-whether-to-create-a-dedicated-cloudcost-center) — Cloud, Governance, IT Operations · 2026-10-01
 - [Pre‑Automation Checklist for Critical Business Processes](https://intelligence.thearchon.eu/guides/preautomation-checklist-for-critical-business-processes) — Governance, Resilience · 2026-09-30
 - [Verifying Readiness Before Handing Incident Ownership to a New Team](https://intelligence.thearchon.eu/guides/verifying-readiness-before-handing-incident-ownership-to-a-new-team) — Cybersecurity, IT Operations · 2026-09-29
 - [Organizational Impact Checklist for Generative AI in Customer Support](https://intelligence.thearchon.eu/guides/organizational-impact-checklist-for-generative-ai-in-customer-support) — AI, Governance, Leadership & Organization · 2026-09-28
@@ -204,7 +205,8 @@ _Last generated: Thu, 01 Oct 2026 11:25:11 GMT (2026-10-01T11:25:11.353Z) · sou
 - [The Employee Digital Lifecycle – From Hire to Retire](https://intelligence.thearchon.eu/infographics/the-employee-digital-lifecycle-from-hire-to-retire) — Identity, Cybersecurity, Governance · 2026-09-14
 - [Enterprise Governance of Employee‑Facing AI Agents](https://intelligence.thearchon.eu/infographics/enterprise-governance-of-employee-facing-ai-agents) — AI, Governance · 2026-09-14
 
-## Diagrams (28)
+## Diagrams (29)
+- [Agentic AI Transforming Organizational Operating Model](https://intelligence.thearchon.eu/diagrams/agentic-ai-transforming-organizational-operating-model) — AI · 2026-10-01
 - [Closing the AI Risk & Governance Gap](https://intelligence.thearchon.eu/diagrams/closing-the-ai-risk-governance-gap) — Governance · 2026-09-30
 - [Enterprise AI Data Protection Capability](https://intelligence.thearchon.eu/diagrams/enterprise-ai-data-protection-capability) — AI, Cybersecurity · 2026-09-30
 - [Medical Device Cybersecurity Market Outlook to 2034](https://intelligence.thearchon.eu/diagrams/medical-device-cybersecurity-market-outlook-to-2034) — Cybersecurity · 2026-09-30
@@ -234,7 +236,8 @@ _Last generated: Thu, 01 Oct 2026 11:25:11 GMT (2026-10-01T11:25:11.353Z) · sou
 - [Incident Management Process](https://intelligence.thearchon.eu/diagrams/incident-management-process) — IT Operations, Resilience · 2026-09-17
 - [IT Change Management Process](https://intelligence.thearchon.eu/diagrams/it-change-management-process) — IT Operations, Governance · 2026-09-17
 
-## Carousels (28)
+## Carousels (29)
+- [Zero Trust Ends at the Browser – Closing the Hidden Gap](https://intelligence.thearchon.eu/carousels/zero-trust-ends-at-the-browser-closing-the-hidden-gap) — Cybersecurity · 2026-10-01
 - [The Security Problem With Vibe Coding Isn’t AI – It’s Unchecked Trust](https://intelligence.thearchon.eu/carousels/the-security-problem-with-vibe-coding-isn-t-ai-it-s-unchecked-trust) — AI, Cybersecurity · 2026-10-01
 - [IT Service Management Market Outlook 2024‑2031](https://intelligence.thearchon.eu/carousels/it-service-management-market-outlook-2024-2031) — IT Operations, AI · 2026-09-30
 - [SASE Gateway by KDDI: How SP Interconnect Simplifies Closed‑Network Zero Trust](https://intelligence.thearchon.eu/carousels/sase-gateway-by-kddi-how-sp-interconnect-simplifies-closed-network-zer) — Networking · 2026-09-30

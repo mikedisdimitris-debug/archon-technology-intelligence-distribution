@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-10-01T11:25:11.353Z",
+  "generatedAt": "2026-10-01T16:52:46.222Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,58 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 263,
+  "itemCount": 266,
   "familyCounts": {
     "Insights": 81,
-    "Guides": 24,
+    "Guides": 25,
     "Infographics": 72,
-    "Diagrams": 28,
-    "Carousels": 28,
+    "Diagrams": 29,
+    "Carousels": 29,
     "Practical Intelligence": 17,
     "Technology Evaluations": 13,
     "Other": 0
   },
   "latestItem": {
-    "title": "The Security Problem With Vibe Coding Isn’t AI – It’s Unchecked Trust",
-    "url": "https://intelligence.thearchon.eu/carousels/the-security-problem-with-vibe-coding-isn-t-ai-it-s-unchecked-trust",
-    "publishedAt": "2026-10-01T05:59:44.000Z"
+    "title": "Zero Trust Ends at the Browser – Closing the Hidden Gap",
+    "url": "https://intelligence.thearchon.eu/carousels/zero-trust-ends-at-the-browser-closing-the-hidden-gap",
+    "publishedAt": "2026-10-01T13:21:25.000Z"
   },
   "items": [
+    {
+      "title": "Zero Trust Ends at the Browser – Closing the Hidden Gap",
+      "url": "https://intelligence.thearchon.eu/carousels/zero-trust-ends-at-the-browser-closing-the-hidden-gap",
+      "guid": "https://intelligence.thearchon.eu/carousels/zero-trust-ends-at-the-browser-closing-the-hidden-gap",
+      "family": "Carousels",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-01T13:21:25.000Z",
+      "description": "Zero Trust frameworks secure identity, device, and network, but most stop short of continuous verification inside the browser. This carousel maps the process needed to bring the browser under Zero Trust control, reducing credential theft, SaaS‑driven breaches, and data exfiltration."
+    },
+    {
+      "title": "Agentic AI Transforming Organizational Operating Model",
+      "url": "https://intelligence.thearchon.eu/diagrams/agentic-ai-transforming-organizational-operating-model",
+      "guid": "https://intelligence.thearchon.eu/diagrams/agentic-ai-transforming-organizational-operating-model",
+      "family": "Diagrams",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-01T13:21:12.000Z",
+      "description": "A high‑level process showing how organizations define objectives, embed an agentic AI platform, let the AI autonomously generate and validate insights, implement AI‑driven actions, and iterate through refinement loops to achieve an optimized operating model."
+    },
+    {
+      "title": "Deciding Whether to Create a Dedicated Cloud‑Cost Center",
+      "url": "https://intelligence.thearchon.eu/guides/deciding-whether-to-create-a-dedicated-cloudcost-center",
+      "guid": "https://intelligence.thearchon.eu/guides/deciding-whether-to-create-a-dedicated-cloudcost-center",
+      "family": "Guides",
+      "domains": [
+        "Cloud",
+        "Governance",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-10-01T09:33:48.000Z",
+      "description": "A quick, fact‑based framework for evaluating if your organization should set up a dedicated team to own cloud‑cost management, based on CSA’s self‑assessment levels and NIST‑backed support for small‑to‑medium enterprises."
+    },
     {
       "title": "The Security Problem With Vibe Coding Isn’t AI – It’s Unchecked Trust",
       "url": "https://intelligence.thearchon.eu/carousels/the-security-problem-with-vibe-coding-isn-t-ai-it-s-unchecked-trust",
