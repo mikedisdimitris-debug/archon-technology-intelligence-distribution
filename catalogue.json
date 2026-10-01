@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-10-01T01:40:37.090Z",
+  "generatedAt": "2026-10-01T11:25:11.353Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,46 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 261,
+  "itemCount": 263,
   "familyCounts": {
     "Insights": 81,
     "Guides": 24,
     "Infographics": 72,
-    "Diagrams": 27,
-    "Carousels": 27,
+    "Diagrams": 28,
+    "Carousels": 28,
     "Practical Intelligence": 17,
     "Technology Evaluations": 13,
     "Other": 0
   },
   "latestItem": {
-    "title": "IT Service Management Market Outlook 2024‑2031",
-    "url": "https://intelligence.thearchon.eu/carousels/it-service-management-market-outlook-2024-2031",
-    "publishedAt": "2026-09-30T19:23:34.000Z"
+    "title": "The Security Problem With Vibe Coding Isn’t AI – It’s Unchecked Trust",
+    "url": "https://intelligence.thearchon.eu/carousels/the-security-problem-with-vibe-coding-isn-t-ai-it-s-unchecked-trust",
+    "publishedAt": "2026-10-01T05:59:44.000Z"
   },
   "items": [
+    {
+      "title": "The Security Problem With Vibe Coding Isn’t AI – It’s Unchecked Trust",
+      "url": "https://intelligence.thearchon.eu/carousels/the-security-problem-with-vibe-coding-isn-t-ai-it-s-unchecked-trust",
+      "guid": "https://intelligence.thearchon.eu/carousels/the-security-problem-with-vibe-coding-isn-t-ai-it-s-unchecked-trust",
+      "family": "Carousels",
+      "domains": [
+        "AI",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-01T05:59:44.000Z",
+      "description": "A relationship‑focused look at how Vibe‑driven code generation bypasses traditional safeguards, exposing AI initiatives to supply‑chain and data‑integrity threats."
+    },
+    {
+      "title": "Closing the AI Risk & Governance Gap",
+      "url": "https://intelligence.thearchon.eu/diagrams/closing-the-ai-risk-governance-gap",
+      "guid": "https://intelligence.thearchon.eu/diagrams/closing-the-ai-risk-governance-gap",
+      "family": "Diagrams",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-09-30T23:52:52.000Z",
+      "description": "A concise view of the core entities and their inter‑relationships that enable an organization to embed risk management and governance throughout the AI lifecycle."
+    },
     {
       "title": "IT Service Management Market Outlook 2024‑2031",
       "url": "https://intelligence.thearchon.eu/carousels/it-service-management-market-outlook-2024-2031",

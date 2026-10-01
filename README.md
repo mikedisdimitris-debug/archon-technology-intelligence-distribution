@@ -5,11 +5,13 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Thu, 01 Oct 2026 01:40:37 GMT (2026-10-01T01:40:37.090Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Thu, 01 Oct 2026 11:25:11 GMT (2026-10-01T11:25:11.353Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**261 indexed items** across families: Insights (81) · Guides (24) · Infographics (72) · Diagrams (27) · Carousels (27) · Practical Intelligence (17) · Technology Evaluations (13)
+**263 indexed items** across families: Insights (81) · Guides (24) · Infographics (72) · Diagrams (28) · Carousels (28) · Practical Intelligence (17) · Technology Evaluations (13)
 
 ## Newest
+- [The Security Problem With Vibe Coding Isn’t AI – It’s Unchecked Trust](https://intelligence.thearchon.eu/carousels/the-security-problem-with-vibe-coding-isn-t-ai-it-s-unchecked-trust) — Carousels · AI, Cybersecurity · 2026-10-01
+- [Closing the AI Risk & Governance Gap](https://intelligence.thearchon.eu/diagrams/closing-the-ai-risk-governance-gap) — Diagrams · Governance · 2026-09-30
 - [IT Service Management Market Outlook 2024‑2031](https://intelligence.thearchon.eu/carousels/it-service-management-market-outlook-2024-2031) — Carousels · IT Operations, AI · 2026-09-30
 - [Enterprise AI Data Protection Capability](https://intelligence.thearchon.eu/diagrams/enterprise-ai-data-protection-capability) — Diagrams · AI, Cybersecurity · 2026-09-30
 - [SASE Gateway by KDDI: How SP Interconnect Simplifies Closed‑Network Zero Trust](https://intelligence.thearchon.eu/carousels/sase-gateway-by-kddi-how-sp-interconnect-simplifies-closed-network-zer) — Carousels · Networking · 2026-09-30
@@ -18,8 +20,6 @@ _Last generated: Thu, 01 Oct 2026 01:40:37 GMT (2026-10-01T01:40:37.090Z) · sou
 - [When an AI Agent Crosses the Boundary](https://intelligence.thearchon.eu/articles/when-an-ai-agent-crosses-the-boundary) — Insights · AI, Governance · 2026-09-30
 - [When the Grid Goes Dark, the Boardroom Becomes the Battlefield](https://intelligence.thearchon.eu/carousels/when-the-grid-goes-dark-the-boardroom-becomes-the-battlefield) — Carousels · Cybersecurity · 2026-09-30
 - [Reco Secures $55M to Embed AI Governance in Agents](https://intelligence.thearchon.eu/diagrams/reco-secures-55m-to-embed-ai-governance-in-agents) — Diagrams · AI · 2026-09-30
-- [CISO’s Guide to Privileged Access Management](https://intelligence.thearchon.eu/carousels/ciso-s-guide-to-privileged-access-management) — Carousels · Identity · 2026-09-30
-- [E‑commerce Security: A Guide to Protecting Your Commerce Stack From Modern Cyber Threats](https://intelligence.thearchon.eu/carousels/e-commerce-security-a-guide-to-protecting-your-commerce-stack-from-mod) — Carousels · Cybersecurity · 2026-09-29
 
 ## Insights (81)
 - [When an AI Agent Crosses the Boundary](https://intelligence.thearchon.eu/articles/when-an-ai-agent-crosses-the-boundary) — AI, Governance · 2026-09-30
@@ -204,7 +204,8 @@ _Last generated: Thu, 01 Oct 2026 01:40:37 GMT (2026-10-01T01:40:37.090Z) · sou
 - [The Employee Digital Lifecycle – From Hire to Retire](https://intelligence.thearchon.eu/infographics/the-employee-digital-lifecycle-from-hire-to-retire) — Identity, Cybersecurity, Governance · 2026-09-14
 - [Enterprise Governance of Employee‑Facing AI Agents](https://intelligence.thearchon.eu/infographics/enterprise-governance-of-employee-facing-ai-agents) — AI, Governance · 2026-09-14
 
-## Diagrams (27)
+## Diagrams (28)
+- [Closing the AI Risk & Governance Gap](https://intelligence.thearchon.eu/diagrams/closing-the-ai-risk-governance-gap) — Governance · 2026-09-30
 - [Enterprise AI Data Protection Capability](https://intelligence.thearchon.eu/diagrams/enterprise-ai-data-protection-capability) — AI, Cybersecurity · 2026-09-30
 - [Medical Device Cybersecurity Market Outlook to 2034](https://intelligence.thearchon.eu/diagrams/medical-device-cybersecurity-market-outlook-to-2034) — Cybersecurity · 2026-09-30
 - [Reco Secures $55M to Embed AI Governance in Agents](https://intelligence.thearchon.eu/diagrams/reco-secures-55m-to-embed-ai-governance-in-agents) — AI · 2026-09-30
@@ -233,7 +234,8 @@ _Last generated: Thu, 01 Oct 2026 01:40:37 GMT (2026-10-01T01:40:37.090Z) · sou
 - [Incident Management Process](https://intelligence.thearchon.eu/diagrams/incident-management-process) — IT Operations, Resilience · 2026-09-17
 - [IT Change Management Process](https://intelligence.thearchon.eu/diagrams/it-change-management-process) — IT Operations, Governance · 2026-09-17
 
-## Carousels (27)
+## Carousels (28)
+- [The Security Problem With Vibe Coding Isn’t AI – It’s Unchecked Trust](https://intelligence.thearchon.eu/carousels/the-security-problem-with-vibe-coding-isn-t-ai-it-s-unchecked-trust) — AI, Cybersecurity · 2026-10-01
 - [IT Service Management Market Outlook 2024‑2031](https://intelligence.thearchon.eu/carousels/it-service-management-market-outlook-2024-2031) — IT Operations, AI · 2026-09-30
 - [SASE Gateway by KDDI: How SP Interconnect Simplifies Closed‑Network Zero Trust](https://intelligence.thearchon.eu/carousels/sase-gateway-by-kddi-how-sp-interconnect-simplifies-closed-network-zer) — Networking · 2026-09-30
 - [When the Grid Goes Dark, the Boardroom Becomes the Battlefield](https://intelligence.thearchon.eu/carousels/when-the-grid-goes-dark-the-boardroom-becomes-the-battlefield) — Cybersecurity · 2026-09-30
