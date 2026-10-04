@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-10-01T16:52:46.222Z",
+  "generatedAt": "2026-10-04T09:58:27.880Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,181 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 266,
+  "itemCount": 280,
   "familyCounts": {
-    "Insights": 81,
-    "Guides": 25,
+    "Insights": 82,
+    "Guides": 27,
     "Infographics": 72,
-    "Diagrams": 29,
-    "Carousels": 29,
+    "Diagrams": 33,
+    "Carousels": 36,
     "Practical Intelligence": 17,
     "Technology Evaluations": 13,
     "Other": 0
   },
   "latestItem": {
-    "title": "Zero Trust Ends at the Browser – Closing the Hidden Gap",
-    "url": "https://intelligence.thearchon.eu/carousels/zero-trust-ends-at-the-browser-closing-the-hidden-gap",
-    "publishedAt": "2026-10-01T13:21:25.000Z"
+    "title": "Assessing Organizational Readiness for a Zero‑Trust Culture Shift",
+    "url": "https://intelligence.thearchon.eu/guides/assessing-organizational-readiness-for-a-zerotrust-culture-shift",
+    "publishedAt": "2026-10-04T09:33:50.000Z"
   },
   "items": [
+    {
+      "title": "Assessing Organizational Readiness for a Zero‑Trust Culture Shift",
+      "url": "https://intelligence.thearchon.eu/guides/assessing-organizational-readiness-for-a-zerotrust-culture-shift",
+      "guid": "https://intelligence.thearchon.eu/guides/assessing-organizational-readiness-for-a-zerotrust-culture-shift",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "Governance",
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-10-04T09:33:50.000Z",
+      "description": "Use the CISA Zero Trust Maturity Model and NCSC’s practical steps to gauge whether your organization’s people, processes, and policies are prepared for the cultural change zero‑trust demands."
+    },
+    {
+      "title": "Zenity Weekly Recap Process",
+      "url": "https://intelligence.thearchon.eu/diagrams/zenity-weekly-recap-process",
+      "guid": "https://intelligence.thearchon.eu/diagrams/zenity-weekly-recap-process",
+      "family": "Diagrams",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-10-04T06:58:30.000Z",
+      "description": "An executive view of the end‑to‑end workflow that collects source data, applies AI to draft the weekly recap, validates the draft, and publishes the final recap, with a built‑in feedback loop for revisions."
+    },
+    {
+      "title": "7 Best AI Agent Security Platforms for Managing Agent Identities and Permissions in 2026",
+      "url": "https://intelligence.thearchon.eu/carousels/7-best-ai-agent-security-platforms-for-managing-agent-identities-and-p",
+      "guid": "https://intelligence.thearchon.eu/carousels/7-best-ai-agent-security-platforms-for-managing-agent-identities-and-p",
+      "family": "Carousels",
+      "domains": [
+        "Identity"
+      ],
+      "publishedAt": "2026-10-03T17:58:33.000Z",
+      "description": "A relationship‑focused overview of the top platforms that secure AI agent identities, enforce least‑privilege permissions, and integrate with existing IAM ecosystems."
+    },
+    {
+      "title": "Rubrik’s Enterprise “Undo” Button – Resilience Through Integrated Backup",
+      "url": "https://intelligence.thearchon.eu/diagrams/rubrik-s-enterprise-undo-button-resilience-through-integrated-backup",
+      "guid": "https://intelligence.thearchon.eu/diagrams/rubrik-s-enterprise-undo-button-resilience-through-integrated-backup",
+      "family": "Diagrams",
+      "domains": [
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-03T13:25:17.000Z",
+      "description": "A high‑level view of how Rubrik’s backup platform, immutable storage, and security orchestration combine to give enterprises a single “undo” button that restores data instantly after ransomware or other security events."
+    },
+    {
+      "title": "Lean and Mean: How a Minimum Viable Company Accelerates Recovery and Boosts Resilience",
+      "url": "https://intelligence.thearchon.eu/carousels/lean-and-mean-how-a-minimum-viable-company-accelerates-recovery-and-bo",
+      "guid": "https://intelligence.thearchon.eu/carousels/lean-and-mean-how-a-minimum-viable-company-accelerates-recovery-and-bo",
+      "family": "Carousels",
+      "domains": [
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-03T08:09:53.000Z",
+      "description": "Explore the Minimum Viable Company (MVC) model as a strategic capability that reduces waste, shortens decision cycles, and strengthens organizational resilience in volatile markets."
+    },
+    {
+      "title": "Versa Unified SASE Reviews & Ratings 2026",
+      "url": "https://intelligence.thearchon.eu/carousels/versa-unified-sase-reviews-ratings-2026",
+      "guid": "https://intelligence.thearchon.eu/carousels/versa-unified-sase-reviews-ratings-2026",
+      "family": "Carousels",
+      "domains": [
+        "Networking"
+      ],
+      "publishedAt": "2026-10-02T22:59:29.000Z",
+      "description": "An architecture‑focused overview of Versa Unified Secure Access Service Edge (SASE) as of 2026, highlighting its layered design, core capabilities, integration benefits, analyst recognition, and customer sentiment."
+    },
+    {
+      "title": "Beyond Operational Obsolescence: The New Paradigm of IT Management in the AI Era",
+      "url": "https://intelligence.thearchon.eu/carousels/beyond-operational-obsolescence-the-new-paradigm-of-it-management-in-t",
+      "guid": "https://intelligence.thearchon.eu/carousels/beyond-operational-obsolescence-the-new-paradigm-of-it-management-in-t",
+      "family": "Carousels",
+      "domains": [
+        "IT Operations"
+      ],
+      "publishedAt": "2026-10-02T18:26:47.000Z",
+      "description": "A step‑by‑step view of the process changes CIOs, IT Directors and CISOs must adopt to keep operations relevant as generative AI becomes a core service layer."
+    },
+    {
+      "title": "Shadow AI Security Platforms vs AI SOC Tools",
+      "url": "https://intelligence.thearchon.eu/diagrams/shadow-ai-security-platforms-vs-ai-soc-tools",
+      "guid": "https://intelligence.thearchon.eu/diagrams/shadow-ai-security-platforms-vs-ai-soc-tools",
+      "family": "Diagrams",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-10-02T18:26:37.000Z",
+      "description": "Shows the core capabilities of autonomous Shadow AI security platforms and AI‑SOC toolsets, and how they interrelate with governance functions such as policy enforcement, data governance, incident response and human oversight."
+    },
+    {
+      "title": "Zero Trust Resilience Against AI‑Assisted Attacks",
+      "url": "https://intelligence.thearchon.eu/carousels/zero-trust-resilience-against-ai-assisted-attacks",
+      "guid": "https://intelligence.thearchon.eu/carousels/zero-trust-resilience-against-ai-assisted-attacks",
+      "family": "Carousels",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-02T12:40:04.000Z",
+      "description": "A concise briefing for CIOs, IT Directors, and CISOs on how Zero Trust architecture counters emerging AI‑driven threat techniques and how teams should coordinate to sustain security posture."
+    },
+    {
+      "title": "Runtime Identity for AI Agents",
+      "url": "https://intelligence.thearchon.eu/diagrams/runtime-identity-for-ai-agents",
+      "guid": "https://intelligence.thearchon.eu/diagrams/runtime-identity-for-ai-agents",
+      "family": "Diagrams",
+      "domains": [
+        "Identity"
+      ],
+      "publishedAt": "2026-10-02T12:39:54.000Z",
+      "description": "Executive view of the architecture that equips AI agents with dynamic, verifiable identity at runtime, enabling fine‑grained policy enforcement and auditability."
+    },
+    {
+      "title": "Checklist for Verifying Identity‑Proofing Processes Before Onboarding New Users",
+      "url": "https://intelligence.thearchon.eu/guides/checklist-for-verifying-identityproofing-processes-before-onboarding-new-users",
+      "guid": "https://intelligence.thearchon.eu/guides/checklist-for-verifying-identityproofing-processes-before-onboarding-new-users",
+      "family": "Guides",
+      "domains": [
+        "Identity",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-02T09:33:47.000Z",
+      "description": "A short, vendor‑agnostic guide to confirm that your identity‑proofing steps are aligned with NIST digital‑identity standards, include multi‑factor authentication, and evaluate passwordless passkey use before granting access to new users."
+    },
+    {
+      "title": "Business Continuity Market Forecast to Hit $72.96 Billion by 2030",
+      "url": "https://intelligence.thearchon.eu/carousels/business-continuity-market-forecast-to-hit-72-96-billion-by-2030",
+      "guid": "https://intelligence.thearchon.eu/carousels/business-continuity-market-forecast-to-hit-72-96-billion-by-2030",
+      "family": "Carousels",
+      "domains": [
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-02T05:42:04.000Z",
+      "description": "A concise capability‑focused view of the rapid growth in the business continuity market, the forces driving it, and the actions CIOs, IT Directors and CISOs should take to embed resilience."
+    },
+    {
+      "title": "When a Browser Tab Became a SaaS Incident",
+      "url": "https://intelligence.thearchon.eu/articles/when-a-browser-tab-became-a-saas-incident",
+      "guid": "https://intelligence.thearchon.eu/articles/when-a-browser-tab-became-a-saas-incident",
+      "family": "Insights",
+      "domains": [
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-02T05:24:00.000Z",
+      "description": "A Personal Experience in Operational Governance"
+    },
+    {
+      "title": "IGEL Now & Next® Workspace & Endpoint Security Summit – Dubai",
+      "url": "https://intelligence.thearchon.eu/carousels/igel-now-next-workspace-endpoint-security-summit-dubai",
+      "guid": "https://intelligence.thearchon.eu/carousels/igel-now-next-workspace-endpoint-security-summit-dubai",
+      "family": "Carousels",
+      "domains": [
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-01T19:33:43.000Z",
+      "description": "A concise architecture‑focused overview of the IGEL summit, highlighting how unified thin‑client design, zero‑trust controls, and AI‑driven analytics build resilient workspaces and endpoint security."
+    },
     {
       "title": "Zero Trust Ends at the Browser – Closing the Hidden Gap",
       "url": "https://intelligence.thearchon.eu/carousels/zero-trust-ends-at-the-browser-closing-the-hidden-gap",
