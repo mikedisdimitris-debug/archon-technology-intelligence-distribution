@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-10-04T09:58:27.880Z",
+  "generatedAt": "2026-10-04T10:14:39.736Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,69 +9,23 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 280,
+  "itemCount": 276,
   "familyCounts": {
     "Insights": 82,
-    "Guides": 27,
+    "Guides": 26,
     "Infographics": 72,
-    "Diagrams": 33,
-    "Carousels": 36,
+    "Diagrams": 31,
+    "Carousels": 35,
     "Practical Intelligence": 17,
     "Technology Evaluations": 13,
     "Other": 0
   },
   "latestItem": {
-    "title": "Assessing Organizational Readiness for a Zero‑Trust Culture Shift",
-    "url": "https://intelligence.thearchon.eu/guides/assessing-organizational-readiness-for-a-zerotrust-culture-shift",
-    "publishedAt": "2026-10-04T09:33:50.000Z"
+    "title": "Lean and Mean: How a Minimum Viable Company Accelerates Recovery and Boosts Resilience",
+    "url": "https://intelligence.thearchon.eu/carousels/lean-and-mean-how-a-minimum-viable-company-accelerates-recovery-and-bo",
+    "publishedAt": "2026-10-03T08:09:53.000Z"
   },
   "items": [
-    {
-      "title": "Assessing Organizational Readiness for a Zero‑Trust Culture Shift",
-      "url": "https://intelligence.thearchon.eu/guides/assessing-organizational-readiness-for-a-zerotrust-culture-shift",
-      "guid": "https://intelligence.thearchon.eu/guides/assessing-organizational-readiness-for-a-zerotrust-culture-shift",
-      "family": "Guides",
-      "domains": [
-        "Cybersecurity",
-        "Governance",
-        "Leadership & Organization"
-      ],
-      "publishedAt": "2026-10-04T09:33:50.000Z",
-      "description": "Use the CISA Zero Trust Maturity Model and NCSC’s practical steps to gauge whether your organization’s people, processes, and policies are prepared for the cultural change zero‑trust demands."
-    },
-    {
-      "title": "Zenity Weekly Recap Process",
-      "url": "https://intelligence.thearchon.eu/diagrams/zenity-weekly-recap-process",
-      "guid": "https://intelligence.thearchon.eu/diagrams/zenity-weekly-recap-process",
-      "family": "Diagrams",
-      "domains": [
-        "Governance"
-      ],
-      "publishedAt": "2026-10-04T06:58:30.000Z",
-      "description": "An executive view of the end‑to‑end workflow that collects source data, applies AI to draft the weekly recap, validates the draft, and publishes the final recap, with a built‑in feedback loop for revisions."
-    },
-    {
-      "title": "7 Best AI Agent Security Platforms for Managing Agent Identities and Permissions in 2026",
-      "url": "https://intelligence.thearchon.eu/carousels/7-best-ai-agent-security-platforms-for-managing-agent-identities-and-p",
-      "guid": "https://intelligence.thearchon.eu/carousels/7-best-ai-agent-security-platforms-for-managing-agent-identities-and-p",
-      "family": "Carousels",
-      "domains": [
-        "Identity"
-      ],
-      "publishedAt": "2026-10-03T17:58:33.000Z",
-      "description": "A relationship‑focused overview of the top platforms that secure AI agent identities, enforce least‑privilege permissions, and integrate with existing IAM ecosystems."
-    },
-    {
-      "title": "Rubrik’s Enterprise “Undo” Button – Resilience Through Integrated Backup",
-      "url": "https://intelligence.thearchon.eu/diagrams/rubrik-s-enterprise-undo-button-resilience-through-integrated-backup",
-      "guid": "https://intelligence.thearchon.eu/diagrams/rubrik-s-enterprise-undo-button-resilience-through-integrated-backup",
-      "family": "Diagrams",
-      "domains": [
-        "Resilience"
-      ],
-      "publishedAt": "2026-10-03T13:25:17.000Z",
-      "description": "A high‑level view of how Rubrik’s backup platform, immutable storage, and security orchestration combine to give enterprises a single “undo” button that restores data instantly after ransomware or other security events."
-    },
     {
       "title": "Lean and Mean: How a Minimum Viable Company Accelerates Recovery and Boosts Resilience",
       "url": "https://intelligence.thearchon.eu/carousels/lean-and-mean-how-a-minimum-viable-company-accelerates-recovery-and-bo",
