@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-10-04T12:51:52.370Z",
+  "generatedAt": "2026-10-05T15:46:08.249Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,123 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 280,
+  "itemCount": 289,
   "familyCounts": {
-    "Insights": 82,
-    "Guides": 27,
+    "Insights": 83,
+    "Guides": 28,
     "Infographics": 72,
-    "Diagrams": 33,
-    "Carousels": 36,
-    "Practical Intelligence": 17,
+    "Diagrams": 34,
+    "Carousels": 39,
+    "Practical Intelligence": 20,
     "Technology Evaluations": 13,
     "Other": 0
   },
   "latestItem": {
-    "title": "Assessing Organizational Readiness for a Zero‑Trust Culture Shift",
-    "url": "https://intelligence.thearchon.eu/guides/assessing-organizational-readiness-for-a-zerotrust-culture-shift",
-    "publishedAt": "2026-10-04T09:33:50.000Z"
+    "title": "What to Check Before Outsourcing Your Incident Management Function",
+    "url": "https://intelligence.thearchon.eu/guides/what-to-check-before-outsourcing-your-incident-management-function",
+    "publishedAt": "2026-10-05T09:33:48.000Z"
   },
   "items": [
+    {
+      "title": "What to Check Before Outsourcing Your Incident Management Function",
+      "url": "https://intelligence.thearchon.eu/guides/what-to-check-before-outsourcing-your-incident-management-function",
+      "guid": "https://intelligence.thearchon.eu/guides/what-to-check-before-outsourcing-your-incident-management-function",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-05T09:33:48.000Z",
+      "description": "A concise, vendor‑agnostic checklist that helps you confirm an outsourcer aligns with U.S. and U.K. baseline cybersecurity practices, NIST security controls, and NCSC incident‑management guidance before you hand over incident response duties."
+    },
+    {
+      "title": "The Importance of Governance in Organizational Transformation",
+      "url": "https://intelligence.thearchon.eu/quizzes/the-importance-of-governance-in-organizational-transformation-7a6564",
+      "guid": "https://intelligence.thearchon.eu/quizzes/the-importance-of-governance-in-organizational-transformation-7a6564",
+      "family": "Practical Intelligence",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-10-05T08:58:24.000Z",
+      "description": "Built from 3 related articles on Governance."
+    },
+    {
+      "title": "Governance Models Across IT Transformation Frameworks",
+      "url": "https://intelligence.thearchon.eu/comparisons/governance-models-across-it-transformation-frameworks-9a891a",
+      "guid": "https://intelligence.thearchon.eu/comparisons/governance-models-across-it-transformation-frameworks-9a891a",
+      "family": "Practical Intelligence",
+      "domains": [
+        "IT Operations"
+      ],
+      "publishedAt": "2026-10-05T08:58:19.000Z",
+      "description": "Built from 3 related articles on IT Operations."
+    },
+    {
+      "title": "Governance Checklist for Cloud Migration",
+      "url": "https://intelligence.thearchon.eu/checklists/governance-checklist-for-cloud-migration-80634d",
+      "guid": "https://intelligence.thearchon.eu/checklists/governance-checklist-for-cloud-migration-80634d",
+      "family": "Practical Intelligence",
+      "domains": [
+        "Cloud"
+      ],
+      "publishedAt": "2026-10-05T08:58:15.000Z",
+      "description": "Built from 3 related articles on Cloud."
+    },
+    {
+      "title": "The New Inequality Inside Companies: Those Who Understand Technology vs Those Who Just Use It",
+      "url": "https://intelligence.thearchon.eu/articles/the-new-inequality-inside-companies-those-who-understand-technology-vs-those-who-just-use-it",
+      "guid": "https://intelligence.thearchon.eu/articles/the-new-inequality-inside-companies-those-who-understand-technology-vs-those-who-just-use-it",
+      "family": "Insights",
+      "domains": [
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-10-05T07:43:00.000Z",
+      "description": "Almost every organization now says the same thing: \"Our people have access to the technology.\""
+    },
+    {
+      "title": "Microsoft Digital Defence Report 2026 – Moving Cybersecurity Beyond the Perimeter",
+      "url": "https://intelligence.thearchon.eu/carousels/microsoft-digital-defence-report-2026-moving-cybersecurity-beyond-the-",
+      "guid": "https://intelligence.thearchon.eu/carousels/microsoft-digital-defence-report-2026-moving-cybersecurity-beyond-the-",
+      "family": "Carousels",
+      "domains": [
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-05T07:06:22.000Z",
+      "description": "A capability‑focused view on why traditional perimeter security no longer protects enterprises and how resilience, zero‑trust, and automated response become the new foundation."
+    },
+    {
+      "title": "CrowdStrike vs Microsoft Defender vs SentinelOne – $1M EDR Gap (2026)",
+      "url": "https://intelligence.thearchon.eu/diagrams/crowdstrike-vs-microsoft-defender-vs-sentinelone-1m-edr-gap-2026",
+      "guid": "https://intelligence.thearchon.eu/diagrams/crowdstrike-vs-microsoft-defender-vs-sentinelone-1m-edr-gap-2026",
+      "family": "Diagrams",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-05T00:57:57.000Z",
+      "description": "High‑level architecture showing how the three leading EDR platforms are integrated into the enterprise security stack, the resulting detection gap, and the remediation budget it creates."
+    },
+    {
+      "title": "AI‑Native Defense Platform – GTT Architecture",
+      "url": "https://intelligence.thearchon.eu/carousels/ai-native-defense-platform-gtt-architecture",
+      "guid": "https://intelligence.thearchon.eu/carousels/ai-native-defense-platform-gtt-architecture",
+      "family": "Carousels",
+      "domains": [
+        "Networking",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-04T21:30:20.000Z",
+      "description": "A deep‑dive into GTT’s AI‑native platform, its component layout, data flow, automation loops, and the operational advantages for enterprise network teams."
+    },
+    {
+      "title": "Strike48 On‑Premises Appliance for Autonomous Security Operations",
+      "url": "https://intelligence.thearchon.eu/carousels/strike48-on-premises-appliance-for-autonomous-security-operations",
+      "guid": "https://intelligence.thearchon.eu/carousels/strike48-on-premises-appliance-for-autonomous-security-operations",
+      "family": "Carousels",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-04T17:37:05.000Z",
+      "description": "Explore how Strike48’s new on‑premises appliance enables autonomous security operations while keeping data inside the enterprise perimeter. The carousel walks CIOs, IT Directors and CISOs through the problem, solution, workflow and implementation steps."
+    },
     {
       "title": "Assessing Organizational Readiness for a Zero‑Trust Culture Shift",
       "url": "https://intelligence.thearchon.eu/guides/assessing-organizational-readiness-for-a-zerotrust-culture-shift",
