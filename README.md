@@ -5,11 +5,14 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Mon, 05 Oct 2026 15:46:08 GMT (2026-10-05T15:46:08.249Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Tue, 06 Oct 2026 11:50:17 GMT (2026-10-06T11:50:17.905Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**289 indexed items** across families: Insights (83) · Guides (28) · Infographics (72) · Diagrams (34) · Carousels (39) · Practical Intelligence (20) · Technology Evaluations (13)
+**292 indexed items** across families: Insights (83) · Guides (29) · Infographics (72) · Diagrams (35) · Carousels (40) · Practical Intelligence (20) · Technology Evaluations (13)
 
 ## Newest
+- [Pre‑Migration Checklist for Critical Workloads in a Multi‑Cloud Strategy](https://intelligence.thearchon.eu/guides/premigration-checklist-for-critical-workloads-in-a-multicloud-strategy) — Guides · Cloud, Governance, Resilience, Cybersecurity · 2026-10-06
+- [Supply‑Chain Cyber Resilience](https://intelligence.thearchon.eu/diagrams/supply-chain-cyber-resilience) — Diagrams · Resilience · 2026-10-05
+- [From Data Protection to Cyber Resilience](https://intelligence.thearchon.eu/carousels/from-data-protection-to-cyber-resilience) — Carousels · Resilience · 2026-10-05
 - [What to Check Before Outsourcing Your Incident Management Function](https://intelligence.thearchon.eu/guides/what-to-check-before-outsourcing-your-incident-management-function) — Guides · Cybersecurity · 2026-10-05
 - [The Importance of Governance in Organizational Transformation](https://intelligence.thearchon.eu/quizzes/the-importance-of-governance-in-organizational-transformation-7a6564) — Practical Intelligence · Governance · 2026-10-05
 - [Governance Models Across IT Transformation Frameworks](https://intelligence.thearchon.eu/comparisons/governance-models-across-it-transformation-frameworks-9a891a) — Practical Intelligence · IT Operations · 2026-10-05
@@ -17,9 +20,6 @@ _Last generated: Mon, 05 Oct 2026 15:46:08 GMT (2026-10-05T15:46:08.249Z) · sou
 - [The New Inequality Inside Companies: Those Who Understand Technology vs Those Who Just Use It](https://intelligence.thearchon.eu/articles/the-new-inequality-inside-companies-those-who-understand-technology-vs-those-who-just-use-it) — Insights · Leadership & Organization · 2026-10-05
 - [Microsoft Digital Defence Report 2026 – Moving Cybersecurity Beyond the Perimeter](https://intelligence.thearchon.eu/carousels/microsoft-digital-defence-report-2026-moving-cybersecurity-beyond-the-) — Carousels · Resilience · 2026-10-05
 - [CrowdStrike vs Microsoft Defender vs SentinelOne – $1M EDR Gap (2026)](https://intelligence.thearchon.eu/diagrams/crowdstrike-vs-microsoft-defender-vs-sentinelone-1m-edr-gap-2026) — Diagrams · Cybersecurity · 2026-10-05
-- [AI‑Native Defense Platform – GTT Architecture](https://intelligence.thearchon.eu/carousels/ai-native-defense-platform-gtt-architecture) — Carousels · Networking, Cybersecurity · 2026-10-04
-- [Strike48 On‑Premises Appliance for Autonomous Security Operations](https://intelligence.thearchon.eu/carousels/strike48-on-premises-appliance-for-autonomous-security-operations) — Carousels · Cybersecurity · 2026-10-04
-- [Assessing Organizational Readiness for a Zero‑Trust Culture Shift](https://intelligence.thearchon.eu/guides/assessing-organizational-readiness-for-a-zerotrust-culture-shift) — Guides · Cybersecurity, Governance, Leadership & Organization · 2026-10-04
 
 ## Insights (83)
 - [The New Inequality Inside Companies: Those Who Understand Technology vs Those Who Just Use It](https://intelligence.thearchon.eu/articles/the-new-inequality-inside-companies-those-who-understand-technology-vs-those-who-just-use-it) — Leadership & Organization · 2026-10-05
@@ -106,7 +106,8 @@ _Last generated: Mon, 05 Oct 2026 15:46:08 GMT (2026-10-05T15:46:08.249Z) · sou
 - [The UX of Hiring: Digital Transformation or GDPR Nightmare?](https://intelligence.thearchon.eu/articles/ux-hiring-digital-transformation-gdpr-nightmare-dimitris-mikedis-ztlrf) — Governance · 2026-04-21
 - [The Silent Reality of Today’s Job Market: Delays, Silence, and Unrealistic Expectations](https://intelligence.thearchon.eu/articles/silent-reality-todays-job-market-delays-silence-dimitris-mikedis-5wmxf) — Leadership & Organization · 2026-04-16
 
-## Guides (28)
+## Guides (29)
+- [Pre‑Migration Checklist for Critical Workloads in a Multi‑Cloud Strategy](https://intelligence.thearchon.eu/guides/premigration-checklist-for-critical-workloads-in-a-multicloud-strategy) — Cloud, Governance, Resilience, Cybersecurity · 2026-10-06
 - [What to Check Before Outsourcing Your Incident Management Function](https://intelligence.thearchon.eu/guides/what-to-check-before-outsourcing-your-incident-management-function) — Cybersecurity · 2026-10-05
 - [Assessing Organizational Readiness for a Zero‑Trust Culture Shift](https://intelligence.thearchon.eu/guides/assessing-organizational-readiness-for-a-zerotrust-culture-shift) — Cybersecurity, Governance, Leadership & Organization · 2026-10-04
 - [Checklist for Verifying Identity‑Proofing Processes Before Onboarding New Users](https://intelligence.thearchon.eu/guides/checklist-for-verifying-identityproofing-processes-before-onboarding-new-users) — Identity, Cybersecurity · 2026-10-02
@@ -210,7 +211,8 @@ _Last generated: Mon, 05 Oct 2026 15:46:08 GMT (2026-10-05T15:46:08.249Z) · sou
 - [The Employee Digital Lifecycle – From Hire to Retire](https://intelligence.thearchon.eu/infographics/the-employee-digital-lifecycle-from-hire-to-retire) — Identity, Cybersecurity, Governance · 2026-09-14
 - [Enterprise Governance of Employee‑Facing AI Agents](https://intelligence.thearchon.eu/infographics/enterprise-governance-of-employee-facing-ai-agents) — AI, Governance · 2026-09-14
 
-## Diagrams (34)
+## Diagrams (35)
+- [Supply‑Chain Cyber Resilience](https://intelligence.thearchon.eu/diagrams/supply-chain-cyber-resilience) — Resilience · 2026-10-05
 - [CrowdStrike vs Microsoft Defender vs SentinelOne – $1M EDR Gap (2026)](https://intelligence.thearchon.eu/diagrams/crowdstrike-vs-microsoft-defender-vs-sentinelone-1m-edr-gap-2026) — Cybersecurity · 2026-10-05
 - [Zenity Weekly Recap Process](https://intelligence.thearchon.eu/diagrams/zenity-weekly-recap-process) — Governance · 2026-10-04
 - [Rubrik’s Enterprise “Undo” Button – Resilience Through Integrated Backup](https://intelligence.thearchon.eu/diagrams/rubrik-s-enterprise-undo-button-resilience-through-integrated-backup) — Resilience · 2026-10-03
@@ -246,7 +248,8 @@ _Last generated: Mon, 05 Oct 2026 15:46:08 GMT (2026-10-05T15:46:08.249Z) · sou
 - [Incident Management Process](https://intelligence.thearchon.eu/diagrams/incident-management-process) — IT Operations, Resilience · 2026-09-17
 - [IT Change Management Process](https://intelligence.thearchon.eu/diagrams/it-change-management-process) — IT Operations, Governance · 2026-09-17
 
-## Carousels (39)
+## Carousels (40)
+- [From Data Protection to Cyber Resilience](https://intelligence.thearchon.eu/carousels/from-data-protection-to-cyber-resilience) — Resilience · 2026-10-05
 - [Microsoft Digital Defence Report 2026 – Moving Cybersecurity Beyond the Perimeter](https://intelligence.thearchon.eu/carousels/microsoft-digital-defence-report-2026-moving-cybersecurity-beyond-the-) — Resilience · 2026-10-05
 - [AI‑Native Defense Platform – GTT Architecture](https://intelligence.thearchon.eu/carousels/ai-native-defense-platform-gtt-architecture) — Networking, Cybersecurity · 2026-10-04
 - [Strike48 On‑Premises Appliance for Autonomous Security Operations](https://intelligence.thearchon.eu/carousels/strike48-on-premises-appliance-for-autonomous-security-operations) — Cybersecurity · 2026-10-04

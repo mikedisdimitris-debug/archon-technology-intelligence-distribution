@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-10-05T15:46:08.249Z",
+  "generatedAt": "2026-10-06T11:50:17.905Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,59 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 289,
+  "itemCount": 292,
   "familyCounts": {
     "Insights": 83,
-    "Guides": 28,
+    "Guides": 29,
     "Infographics": 72,
-    "Diagrams": 34,
-    "Carousels": 39,
+    "Diagrams": 35,
+    "Carousels": 40,
     "Practical Intelligence": 20,
     "Technology Evaluations": 13,
     "Other": 0
   },
   "latestItem": {
-    "title": "What to Check Before Outsourcing Your Incident Management Function",
-    "url": "https://intelligence.thearchon.eu/guides/what-to-check-before-outsourcing-your-incident-management-function",
-    "publishedAt": "2026-10-05T09:33:48.000Z"
+    "title": "Pre‑Migration Checklist for Critical Workloads in a Multi‑Cloud Strategy",
+    "url": "https://intelligence.thearchon.eu/guides/premigration-checklist-for-critical-workloads-in-a-multicloud-strategy",
+    "publishedAt": "2026-10-06T09:34:01.000Z"
   },
   "items": [
+    {
+      "title": "Pre‑Migration Checklist for Critical Workloads in a Multi‑Cloud Strategy",
+      "url": "https://intelligence.thearchon.eu/guides/premigration-checklist-for-critical-workloads-in-a-multicloud-strategy",
+      "guid": "https://intelligence.thearchon.eu/guides/premigration-checklist-for-critical-workloads-in-a-multicloud-strategy",
+      "family": "Guides",
+      "domains": [
+        "Cloud",
+        "Governance",
+        "Resilience",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-06T09:34:01.000Z",
+      "description": "Use CSA’s Cloud Controls Matrix, CAIQ, and STAR certification levels to evaluate providers, and verify that services have no known critical vulnerabilities or weak authorization controls."
+    },
+    {
+      "title": "Supply‑Chain Cyber Resilience",
+      "url": "https://intelligence.thearchon.eu/diagrams/supply-chain-cyber-resilience",
+      "guid": "https://intelligence.thearchon.eu/diagrams/supply-chain-cyber-resilience",
+      "family": "Diagrams",
+      "domains": [
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-05T22:40:11.000Z",
+      "description": "A capability map that shows how governance, risk, supplier management, automation and executive oversight combine to move supply‑chain cyber‑resilience from paper promises to real‑world performance."
+    },
+    {
+      "title": "From Data Protection to Cyber Resilience",
+      "url": "https://intelligence.thearchon.eu/carousels/from-data-protection-to-cyber-resilience",
+      "guid": "https://intelligence.thearchon.eu/carousels/from-data-protection-to-cyber-resilience",
+      "family": "Carousels",
+      "domains": [
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-05T16:04:05.000Z",
+      "description": "A concise guide for CIOs, IT Directors, and CISOs on shifting from static data protection to proactive cyber‑resilience through validated recovery testing."
+    },
     {
       "title": "What to Check Before Outsourcing Your Incident Management Function",
       "url": "https://intelligence.thearchon.eu/guides/what-to-check-before-outsourcing-your-incident-management-function",
