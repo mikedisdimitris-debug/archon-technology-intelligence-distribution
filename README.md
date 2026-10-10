@@ -5,21 +5,21 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Fri, 09 Oct 2026 21:40:00 GMT (2026-10-09T21:40:00.225Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Sat, 10 Oct 2026 09:54:54 GMT (2026-10-10T09:54:54.246Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**311 indexed items** across families: Insights (84) · Guides (30) · Infographics (72) · Diagrams (43) · Carousels (48) · Practical Intelligence (20) · Technology Evaluations (14)
+**437 indexed items** across families: Insights (84) · Guides (31) · Infographics (72) · Diagrams (43) · Carousels (48) · Practical Intelligence (20) · Technology Evaluations (14) · Other (125)
 
 ## Newest
-- [AI-Driven SOC Market Landscape 2024‑2031](https://intelligence.thearchon.eu/diagrams/ai-driven-soc-market-landscape-2024-2031) — Diagrams · AI · 2026-10-09
-- [Acronis Cyber Protect: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/acronis-cyber-protect) — Technology Evaluations · Cybersecurity, Resilience, IT Operations · 2026-10-09
-- [Mission‑Critical Database Sessions at Oracle AI World 2026](https://intelligence.thearchon.eu/diagrams/mission-critical-database-sessions-at-oracle-ai-world-2026) — Diagrams · Resilience · 2026-10-08
-- [Orange Spain’s 1,000 AI Agents Put Enterprise Governance to the Test](https://intelligence.thearchon.eu/carousels/orange-spain-s-1-000-ai-agents-put-enterprise-governance-to-the-test) — Carousels · AI · 2026-10-08
-- [Top 10 Best API Security Tools in 2026](https://intelligence.thearchon.eu/carousels/top-10-best-api-security-tools-in-2026) — Carousels · Cybersecurity · 2026-10-08
-- [U.S. Agentic AI Market: Hype vs Enterprise Reality](https://intelligence.thearchon.eu/diagrams/u-s-agentic-ai-market-hype-vs-enterprise-reality) — Diagrams · AI · 2026-10-08
-- [From “We Have a Culture” to “We Have Behaviors”](https://intelligence.thearchon.eu/articles/from-we-have-a-culture-to-we-have-behaviors) — Insights · Leadership & Organization · 2026-10-08
-- [Enterprise Identity Has a UX Problem](https://intelligence.thearchon.eu/carousels/enterprise-identity-has-a-ux-problem) — Carousels · Identity · 2026-10-07
-- [Windows 365 Expanded Resilience Suite](https://intelligence.thearchon.eu/diagrams/windows-365-expanded-resilience-suite) — Diagrams · Resilience · 2026-10-07
-- [Denmark National ID System Breach – Process Insights](https://intelligence.thearchon.eu/carousels/denmark-national-id-system-breach-process-insights) — Carousels · Cybersecurity · 2026-10-07
+- [When to Elevate a Security Incident to Executive Management](https://intelligence.thearchon.eu/guides/when-to-elevate-a-security-incident-to-executive-management) — Guides · Cybersecurity, Governance, Leadership & Organization · 2026-10-10
+- [Pre‑Migration Checklist for Critical Workloads in a Multi‑Cloud Strategy](https://intelligence.thearchon.eu/playbooks/premigration-checklist-for-critical-workloads-in-a-multicloud-strategy) — Other · Cybersecurity, Cloud, Governance, Resilience, Leadership & Organization · 2026-10-10
+- [Change Freeze Activation and Release](https://intelligence.thearchon.eu/playbooks/change-freeze-activation-release) — Other · IT Operations, Governance · 2026-10-10
+- [Collaboration Platform Data Exposure Response](https://intelligence.thearchon.eu/playbooks/collaboration-platform-data-exposure-response) — Other · Cybersecurity, Cloud · 2026-10-10
+- [Compromised Mailbox Response](https://intelligence.thearchon.eu/playbooks/compromised-mailbox-response) — Other · Cybersecurity, Identity · 2026-10-10
+- [Critical SaaS / Vendor Outage Response](https://intelligence.thearchon.eu/playbooks/critical-saas-vendor-outage-response) — Other · IT Operations, Resilience · 2026-10-10
+- [Cross-Border Personal Data Breach Coordination](https://intelligence.thearchon.eu/playbooks/cross-border-personal-data-breach-coordination) — Other · Governance · 2026-10-10
+- [Emergency Change Control](https://intelligence.thearchon.eu/playbooks/emergency-change-control) — Other · IT Operations, Governance · 2026-10-10
+- [Engineering Workstation Compromise Response](https://intelligence.thearchon.eu/playbooks/engineering-workstation-compromise-response) — Other · Cybersecurity, IT Operations · 2026-10-10
+- [Executive Impersonation Payment Fraud Response](https://intelligence.thearchon.eu/playbooks/executive-impersonation-payment-fraud-response) — Other · Cybersecurity, Governance · 2026-10-10
 
 ## Insights (84)
 - [From “We Have a Culture” to “We Have Behaviors”](https://intelligence.thearchon.eu/articles/from-we-have-a-culture-to-we-have-behaviors) — Leadership & Organization · 2026-10-08
@@ -107,7 +107,8 @@ _Last generated: Fri, 09 Oct 2026 21:40:00 GMT (2026-10-09T21:40:00.225Z) · sou
 - [The UX of Hiring: Digital Transformation or GDPR Nightmare?](https://intelligence.thearchon.eu/articles/ux-hiring-digital-transformation-gdpr-nightmare-dimitris-mikedis-ztlrf) — Governance · 2026-04-21
 - [The Silent Reality of Today’s Job Market: Delays, Silence, and Unrealistic Expectations](https://intelligence.thearchon.eu/articles/silent-reality-todays-job-market-delays-silence-dimitris-mikedis-5wmxf) — Leadership & Organization · 2026-04-16
 
-## Guides (30)
+## Guides (31)
+- [When to Elevate a Security Incident to Executive Management](https://intelligence.thearchon.eu/guides/when-to-elevate-a-security-incident-to-executive-management) — Cybersecurity, Governance, Leadership & Organization · 2026-10-10
 - [Evaluating the Need for a Dedicated Cloud‑Native Security Team](https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-cloudnative-security-team) — Cybersecurity, Cloud, Governance · 2026-10-07
 - [Pre‑Migration Checklist for Critical Workloads in a Multi‑Cloud Strategy](https://intelligence.thearchon.eu/guides/premigration-checklist-for-critical-workloads-in-a-multicloud-strategy) — Cloud, Governance, Resilience, Cybersecurity · 2026-10-06
 - [What to Check Before Outsourcing Your Incident Management Function](https://intelligence.thearchon.eu/guides/what-to-check-before-outsourcing-your-incident-management-function) — Cybersecurity · 2026-10-05
@@ -345,6 +346,133 @@ _Last generated: Fri, 09 Oct 2026 21:40:00 GMT (2026-10-09T21:40:00.225Z) · sou
 - [ManageEngine OpManager: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-opmanager) — IT Operations, Networking
 - [ManageEngine PAM360: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-pam360) — Identity, Cybersecurity, Governance
 - [ManageEngine ServiceDesk Plus: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-servicedesk-plus) — IT Operations, Governance
+
+## Other (125)
+- [Pre‑Migration Checklist for Critical Workloads in a Multi‑Cloud Strategy](https://intelligence.thearchon.eu/playbooks/premigration-checklist-for-critical-workloads-in-a-multicloud-strategy) — Cybersecurity, Cloud, Governance, Resilience, Leadership & Organization · 2026-10-10
+- [Change Freeze Activation and Release](https://intelligence.thearchon.eu/playbooks/change-freeze-activation-release) — IT Operations, Governance · 2026-10-10
+- [Collaboration Platform Data Exposure Response](https://intelligence.thearchon.eu/playbooks/collaboration-platform-data-exposure-response) — Cybersecurity, Cloud · 2026-10-10
+- [Compromised Mailbox Response](https://intelligence.thearchon.eu/playbooks/compromised-mailbox-response) — Cybersecurity, Identity · 2026-10-10
+- [Critical SaaS / Vendor Outage Response](https://intelligence.thearchon.eu/playbooks/critical-saas-vendor-outage-response) — IT Operations, Resilience · 2026-10-10
+- [Cross-Border Personal Data Breach Coordination](https://intelligence.thearchon.eu/playbooks/cross-border-personal-data-breach-coordination) — Governance · 2026-10-10
+- [Emergency Change Control](https://intelligence.thearchon.eu/playbooks/emergency-change-control) — IT Operations, Governance · 2026-10-10
+- [Engineering Workstation Compromise Response](https://intelligence.thearchon.eu/playbooks/engineering-workstation-compromise-response) — Cybersecurity, IT Operations · 2026-10-10
+- [Executive Impersonation Payment Fraud Response](https://intelligence.thearchon.eu/playbooks/executive-impersonation-payment-fraud-response) — Cybersecurity, Governance · 2026-10-10
+- [High-Risk Change Approval and Execution](https://intelligence.thearchon.eu/playbooks/high-risk-change-approval-execution) — IT Operations, Governance · 2026-10-10
+- [Internal Payment Instruction Fraud Response](https://intelligence.thearchon.eu/playbooks/internal-payment-instruction-fraud-response) — Cybersecurity, Governance · 2026-10-10
+- [Investigation Evidence Preservation](https://intelligence.thearchon.eu/playbooks/investigation-evidence-preservation) — Governance, Cybersecurity · 2026-10-10
+- [Invoice / Payment Diversion Fraud Response](https://intelligence.thearchon.eu/playbooks/invoice-payment-diversion-fraud-response) — Cybersecurity, Governance · 2026-10-10
+- [IT-to-OT Lateral Movement Response](https://intelligence.thearchon.eu/playbooks/it-to-ot-lateral-movement-response) — Cybersecurity, Networking · 2026-10-10
+- [Malicious Mailbox Forwarding Rule Response](https://intelligence.thearchon.eu/playbooks/malicious-mailbox-forwarding-rule-response) — Cybersecurity, Identity · 2026-10-10
+- [Mass Email-Borne Malware Campaign Response](https://intelligence.thearchon.eu/playbooks/mass-email-borne-malware-campaign-response) — Cybersecurity · 2026-10-10
+- [Mass Endpoint Failure Response](https://intelligence.thearchon.eu/playbooks/mass-endpoint-failure-response) — IT Operations, Resilience · 2026-10-10
+- [OAuth / Third-Party Application Abuse Response](https://intelligence.thearchon.eu/playbooks/oauth-third-party-application-abuse-response) — Identity, Cybersecurity · 2026-10-10
+- [OT / ICS Cyber Incident Response](https://intelligence.thearchon.eu/playbooks/ot-ics-cyber-incident-response) — Cybersecurity, IT Operations · 2026-10-10
+- [OT Isolation and Safe Shutdown Decision](https://intelligence.thearchon.eu/playbooks/ot-isolation-safe-shutdown-decision) — Resilience, Cybersecurity · 2026-10-10
+- [OT Protocol / Network Anomaly Response](https://intelligence.thearchon.eu/playbooks/ot-protocol-network-anomaly-response) — Networking, Cybersecurity · 2026-10-10
+- [Personal Data Breach Assessment](https://intelligence.thearchon.eu/playbooks/personal-data-breach-assessment) — Governance, Cybersecurity · 2026-10-10
+- [Personal Data Breach Regulatory Notification](https://intelligence.thearchon.eu/playbooks/personal-data-breach-regulatory-notification) — Governance · 2026-10-10
+- [Privileged Workstation Compromise Response](https://intelligence.thearchon.eu/playbooks/privileged-workstation-compromise-response) — Cybersecurity, Identity · 2026-10-10
+- [Production Rollback Execution](https://intelligence.thearchon.eu/playbooks/production-rollback-execution) — IT Operations, Resilience · 2026-10-10
+- [Regulatory Information Request Response](https://intelligence.thearchon.eu/playbooks/regulatory-information-request-response) — Governance · 2026-10-10
+- [Regulatory Inspection Technology Readiness](https://intelligence.thearchon.eu/playbooks/regulatory-inspection-technology-readiness) — Governance · 2026-10-10
+- [Remote Wipe and Device Retirement](https://intelligence.thearchon.eu/playbooks/remote-wipe-device-retirement) — IT Operations, Cybersecurity · 2026-10-10
+- [Safety-Impacting OT Cyber Incident Response](https://intelligence.thearchon.eu/playbooks/safety-impacting-ot-cyber-incident-response) — Cybersecurity, Resilience · 2026-10-10
+- [Software Supply-Chain Compromise Response](https://intelligence.thearchon.eu/playbooks/software-supply-chain-compromise-response) — Cybersecurity · 2026-10-10
+- [Technology Audit Finding Response](https://intelligence.thearchon.eu/playbooks/technology-audit-finding-response) — Governance · 2026-10-10
+- [Third-Party Data Breach Response](https://intelligence.thearchon.eu/playbooks/third-party-data-breach-response) — Cybersecurity, Governance · 2026-10-10
+- [Unauthorized Personal Data Access Response](https://intelligence.thearchon.eu/playbooks/unauthorized-personal-data-access-response) — Cybersecurity, Governance · 2026-10-10
+- [Unmanaged / Non-Compliant Device Response](https://intelligence.thearchon.eu/playbooks/unmanaged-noncompliant-device-response) — Cybersecurity, Identity · 2026-10-10
+- [Urgent Financial Hold and Recall Coordination](https://intelligence.thearchon.eu/playbooks/urgent-financial-hold-recall-coordination) — Governance, Cybersecurity · 2026-10-10
+- [Vendor Access Revocation / Kill-Switch](https://intelligence.thearchon.eu/playbooks/vendor-access-revocation-kill-switch) — Identity, Cybersecurity · 2026-10-10
+- [Vendor Bank Detail Change Fraud Response](https://intelligence.thearchon.eu/playbooks/vendor-bank-detail-change-fraud-response) — Cybersecurity, Governance · 2026-10-10
+- [Vendor / Third-Party Compromise Response](https://intelligence.thearchon.eu/playbooks/vendor-third-party-compromise-response) — Cybersecurity, Governance · 2026-10-10
+- [Widespread Change Failure Response](https://intelligence.thearchon.eu/playbooks/widespread-change-failure-response) — IT Operations, Resilience · 2026-10-10
+- [Account / Credential Compromise Response](https://intelligence.thearchon.eu/playbooks/account-credential-compromise-response) — Identity, Cybersecurity · 2026-10-10
+- [Change-Related Incident Response](https://intelligence.thearchon.eu/playbooks/change-related-incident-response) — IT Operations, Networking, Governance · 2026-10-10
+- [Circuit / ISP Failure Response](https://intelligence.thearchon.eu/playbooks/circuit-isp-failure-response) — Networking, Resilience, IT Operations · 2026-10-10
+- [Core Device Failure Response](https://intelligence.thearchon.eu/playbooks/core-network-device-failure-response) — Networking, IT Operations, Resilience · 2026-10-10
+- [Data Exfiltration / Data Breach Response](https://intelligence.thearchon.eu/playbooks/data-exfiltration-breach-response) — Cybersecurity, Governance · 2026-10-10
+- [DDoS / Traffic Flood Response](https://intelligence.thearchon.eu/playbooks/ddos-traffic-flood-response) — Networking, Cybersecurity, Resilience · 2026-10-10
+- [Insider Threat / Anomalous Internal Activity Response](https://intelligence.thearchon.eu/playbooks/insider-anomalous-activity-response) — Cybersecurity, Governance, Identity · 2026-10-10
+- [Major Incident Management & Escalation](https://intelligence.thearchon.eu/playbooks/major-incident-management-escalation) — IT Operations, Cybersecurity, Resilience, Governance · 2026-10-10
+- [Major Network Outage / Link Failure](https://intelligence.thearchon.eu/playbooks/major-network-outage-link-failure) — Networking, Resilience, IT Operations · 2026-10-10
+- [Malware / Endpoint Compromise Response](https://intelligence.thearchon.eu/playbooks/malware-endpoint-compromise-response) — Cybersecurity, IT Operations · 2026-10-10
+- [High Latency / Performance Degradation Response](https://intelligence.thearchon.eu/playbooks/network-performance-degradation-response) — Networking, IT Operations · 2026-10-10
+- [Phishing / Business Email Compromise Response](https://intelligence.thearchon.eu/playbooks/phishing-bec-response) — Cybersecurity, Identity · 2026-10-10
+- [Power / Environmental Network Incident Response](https://intelligence.thearchon.eu/playbooks/power-environmental-network-incident-response) — Networking, Resilience, IT Operations · 2026-10-10
+- [Ransomware / Destructive Malware Response](https://intelligence.thearchon.eu/playbooks/ransomware-destructive-malware-response) — Cybersecurity, Resilience, IT Operations · 2026-10-10
+- [E-Commerce Security Control Readiness](https://intelligence.thearchon.eu/playbooks/ecommerce-security-control-readiness) — Cybersecurity, IT Operations, Governance · 2026-10-10
+- [External Partner Connectivity Readiness](https://intelligence.thearchon.eu/playbooks/external-partner-connectivity-readiness) — Cybersecurity, Networking, Governance · 2026-10-10
+- [Security Exception Lifecycle Control](https://intelligence.thearchon.eu/playbooks/security-exception-lifecycle-control) — Cybersecurity, Governance · 2026-10-10
+- [Third-Party Unmanaged Endpoint Access Control](https://intelligence.thearchon.eu/playbooks/third-party-unmanaged-endpoint-access-control) — Cybersecurity, Identity, Governance · 2026-10-10
+- [Integration Trust Validation](https://intelligence.thearchon.eu/playbooks/integration-trust-validation) — IT Operations, Governance · 2026-10-10
+- [Legacy ERP Exit and Cutover Readiness](https://intelligence.thearchon.eu/playbooks/legacy-erp-exit-cutover-readiness) — IT Operations, Governance, Resilience · 2026-10-10
+- [AI-Assisted Code Release Control](https://intelligence.thearchon.eu/playbooks/ai-assisted-code-release-control) — AI, Cybersecurity, IT Operations · 2026-10-10
+- [Cross-System Evidence Arbitration Readiness](https://intelligence.thearchon.eu/playbooks/cross-system-evidence-arbitration-readiness) — Governance, IT Operations · 2026-10-10
+- [Trading Platform Control Environment Readiness](https://intelligence.thearchon.eu/playbooks/trading-platform-control-environment-readiness) — Governance, Cybersecurity, IT Operations · 2026-10-10
+- [Unowned Technology Issue Recovery](https://intelligence.thearchon.eu/playbooks/unowned-technology-issue-recovery) — Governance, IT Operations · 2026-10-10
+- [AI Decision Challenge and Reversal](https://intelligence.thearchon.eu/playbooks/ai-decision-challenge-and-reversal) — AI, Governance · 2026-10-10
+- [Critical Knowledge Departure Response](https://intelligence.thearchon.eu/playbooks/critical-knowledge-departure-response) — IT Operations, Resilience, Governance · 2026-10-10
+- [Employee Technology Lifecycle Control](https://intelligence.thearchon.eu/playbooks/employee-technology-lifecycle-control) — Identity, IT Operations, Governance · 2026-10-10
+- [Policy-to-Operating-Control Validation](https://intelligence.thearchon.eu/playbooks/policy-to-operating-control-validation) — Governance, Cybersecurity · 2026-10-10
+- [Reduced-Workforce Continuity Readiness](https://intelligence.thearchon.eu/playbooks/reduced-workforce-continuity-readiness) — Resilience, IT Operations, Governance · 2026-10-10
+- [Transformation Initiative Overload Control](https://intelligence.thearchon.eu/playbooks/transformation-initiative-overload-control) — Governance, Leadership & Organization, IT Operations · 2026-10-10
+- [VPN to Zero-Trust Access Transition](https://intelligence.thearchon.eu/playbooks/vpn-to-zero-trust-access-transition) — Networking, Cybersecurity, Identity · 2026-10-10
+- [AI Agent Execution Boundary Readiness](https://intelligence.thearchon.eu/playbooks/ai-agent-execution-boundary-readiness) — AI, Governance, Cybersecurity · 2026-10-10
+- [Lost or Stolen Corporate Device Response](https://intelligence.thearchon.eu/playbooks/lost-or-stolen-corporate-device-response) — Cybersecurity, IT Operations, Governance · 2026-10-10
+- [Privileged Access Hardening Readiness](https://intelligence.thearchon.eu/playbooks/privileged-access-hardening-readiness) — Identity, Cybersecurity · 2026-10-10
+- [SaaS Resource Exhaustion Response](https://intelligence.thearchon.eu/playbooks/saas-resource-exhaustion-response) — IT Operations, Cloud, Governance · 2026-10-10
+- [Synthetic Impersonation High-Risk Request Response](https://intelligence.thearchon.eu/playbooks/synthetic-impersonation-high-risk-request-response) — Cybersecurity, AI, Governance · 2026-10-10
+- [Generative AI Marketing Governance Readiness](https://intelligence.thearchon.eu/playbooks/generative-ai-marketing-governance-readiness) — Governance, AI · 2026-10-10
+- [Cloud Cost Function Decision](https://intelligence.thearchon.eu/playbooks/cloud-cost-function-decision) — Cloud, Governance, IT Operations · 2026-10-10
+- [Zero-Trust Organizational Readiness](https://intelligence.thearchon.eu/playbooks/zero-trust-organizational-readiness) — Cybersecurity, Governance, Leadership & Organization · 2026-10-10
+- [Multi-Cloud Cost Framework Readiness](https://intelligence.thearchon.eu/playbooks/multicloud-cost-framework-readiness) — Cloud, Governance · 2026-10-10
+- [Customer-Facing Generative AI Readiness](https://intelligence.thearchon.eu/playbooks/customer-facing-generative-ai-readiness) — Governance, AI · 2026-10-10
+- [Critical Technology Skills Gap Response](https://intelligence.thearchon.eu/playbooks/critical-technology-skills-gap-response) — Leadership & Organization · 2026-10-10
+- [Service Mesh Adoption Readiness](https://intelligence.thearchon.eu/playbooks/service-mesh-adoption-readiness) — Cloud, Networking, IT Operations · 2026-10-10
+- [Cloud Security Team Decision](https://intelligence.thearchon.eu/playbooks/cloud-security-team-decision) — Cybersecurity, Cloud, Governance · 2026-10-10
+- [Data Ethics Review Gate](https://intelligence.thearchon.eu/playbooks/data-ethics-review-gate) — Leadership & Organization, Governance, AI · 2026-10-10
+- [Before Pasting Data Into AI](https://intelligence.thearchon.eu/playbooks/before-pasting-data-into-ai) — Cybersecurity, AI, Governance · 2026-10-10
+- [Multi-Cloud Observability Stack Readiness](https://intelligence.thearchon.eu/playbooks/multicloud-observability-stack-readiness) — Cloud, IT Operations, Cybersecurity · 2026-10-10
+- [IT Service Continuity Framework Readiness](https://intelligence.thearchon.eu/playbooks/it-service-continuity-framework-readiness) — Resilience, IT Operations, Governance · 2026-10-10
+- [Technology Risk Ownership Assignment](https://intelligence.thearchon.eu/playbooks/technology-risk-ownership-assignment) — Cybersecurity, Governance · 2026-10-10
+- [AI Employee Feedback Governance Readiness](https://intelligence.thearchon.eu/playbooks/ai-employee-feedback-governance-readiness) — Governance, AI · 2026-10-10
+- [Generative AI Customer Support Readiness](https://intelligence.thearchon.eu/playbooks/generative-ai-customer-support-readiness) — AI, Governance, Leadership & Organization · 2026-10-10
+- [IT Team Restructure Control Readiness](https://intelligence.thearchon.eu/playbooks/it-team-restructure-control-readiness) — Leadership & Organization, IT Operations, Governance · 2026-10-10
+- [Vendor-Agnostic Incident Response Readiness](https://intelligence.thearchon.eu/playbooks/vendor-agnostic-incident-response-readiness) — Cybersecurity, Resilience · 2026-10-10
+- [Remote Endpoint Access Readiness](https://intelligence.thearchon.eu/playbooks/remote-endpoint-access-readiness) — Cybersecurity, Identity · 2026-10-10
+- [Cloud Cost Governance Delegation Readiness](https://intelligence.thearchon.eu/playbooks/cloud-cost-governance-delegation-readiness) — Cloud, Governance · 2026-10-10
+- [Technology Vendor Contract Readiness](https://intelligence.thearchon.eu/playbooks/technology-vendor-contract-readiness) — Governance, Cybersecurity, AI · 2026-10-10
+- [Critical Process Automation Readiness](https://intelligence.thearchon.eu/playbooks/critical-process-automation-readiness) — Governance, Resilience · 2026-10-10
+- [Critical Workload Cloud Migration Readiness](https://intelligence.thearchon.eu/playbooks/critical-workload-cloud-migration-readiness) — Cloud, Governance, Resilience, Cybersecurity · 2026-10-10
+- [AI Model Governance Readiness](https://intelligence.thearchon.eu/playbooks/ai-model-governance-readiness) — Governance, AI · 2026-10-10
+- [Zero-Trust Access Readiness](https://intelligence.thearchon.eu/playbooks/zero-trust-access-readiness) — Cybersecurity, Identity, Cloud · 2026-10-10
+- [Incident Ownership Handover Readiness](https://intelligence.thearchon.eu/playbooks/incident-ownership-handover-readiness) — Cybersecurity, IT Operations · 2026-10-10
+- [Backup and Recovery Readiness](https://intelligence.thearchon.eu/playbooks/backup-and-recovery-readiness) — IT Operations, Resilience · 2026-10-10
+- [Connecting AI Tools to Company Data](https://intelligence.thearchon.eu/playbooks/connecting-ai-tools-to-company-data) — AI, Governance, Cybersecurity · 2026-10-10
+- [Identity Proofing Before User Onboarding](https://intelligence.thearchon.eu/playbooks/identity-proofing-before-user-onboarding) — Identity, Cybersecurity · 2026-10-10
+- [Outsourcing an Incident Management Function](https://intelligence.thearchon.eu/playbooks/outsourcing-incident-management-function) — Cybersecurity · 2026-10-10
+- [AI Agent Harmful or Unexpected Action Response](https://intelligence.thearchon.eu/playbooks/ai-agent-harmful-unexpected-action-response) — AI · 2026-10-10
+- [AI-Generated Content Business Impact Response](https://intelligence.thearchon.eu/playbooks/ai-generated-content-business-impact-response) — AI · 2026-10-10
+- [AI Prompt Injection With Operational Impact Response](https://intelligence.thearchon.eu/playbooks/ai-prompt-injection-operational-impact-response) — AI · 2026-10-10
+- [AI System Data Leakage Incident Response](https://intelligence.thearchon.eu/playbooks/ai-system-data-leakage-incident-response) — AI · 2026-10-10
+- [Cloud Destructive Activity Response](https://intelligence.thearchon.eu/playbooks/cloud-destructive-activity-response) — Cloud · 2026-10-10
+- [Compromised Cloud Workload Identity Response](https://intelligence.thearchon.eu/playbooks/compromised-cloud-workload-identity-response) — Cloud · 2026-10-10
+- [Crisis Technology Communication Activation](https://intelligence.thearchon.eu/playbooks/crisis-technology-communication-activation) — Resilience · 2026-10-10
+- [Critical KEV / Zero-Day Response](https://intelligence.thearchon.eu/playbooks/critical-kev-zero-day-response) — Cybersecurity · 2026-10-10
+- [Cross-Account Cloud Lateral Movement Response](https://intelligence.thearchon.eu/playbooks/cross-account-cloud-lateral-movement-response) — Cloud · 2026-10-10
+- [Disaster Recovery Activation](https://intelligence.thearchon.eu/playbooks/disaster-recovery-activation) — Resilience · 2026-10-10
+- [Emergency Break-Glass Access Activation](https://intelligence.thearchon.eu/playbooks/emergency-break-glass-access-activation) — Identity · 2026-10-10
+- [Emergency Patching Decision and Execution](https://intelligence.thearchon.eu/playbooks/emergency-patching-decision-execution) — IT Operations · 2026-10-10
+- [Exposed Cloud Storage or Resource Response](https://intelligence.thearchon.eu/playbooks/exposed-cloud-storage-resource-response) — Cloud · 2026-10-10
+- [External Attack Surface Critical Finding Response](https://intelligence.thearchon.eu/playbooks/external-attack-surface-critical-finding-response) — Cybersecurity · 2026-10-10
+- [MFA Bypass or Authentication Factor Compromise Response](https://intelligence.thearchon.eu/playbooks/mfa-bypass-authentication-factor-compromise-response) — Identity · 2026-10-10
+- [Service Account Compromise Response](https://intelligence.thearchon.eu/playbooks/service-account-compromise-response) — Identity · 2026-10-10
+- [Service Failover and Failback Control](https://intelligence.thearchon.eu/playbooks/service-failover-failback-control) — Resilience · 2026-10-10
+- [Shadow AI Discovery and Containment](https://intelligence.thearchon.eu/playbooks/shadow-ai-discovery-containment) — AI · 2026-10-10
+- [Suspicious Cloud API Activity Response](https://intelligence.thearchon.eu/playbooks/suspicious-cloud-api-activity-response) — Cloud · 2026-10-10
+- [Unpatchable System Risk Treatment](https://intelligence.thearchon.eu/playbooks/unpatchable-system-risk-treatment) — Cybersecurity · 2026-10-10
+- [Vulnerability Exception Handling](https://intelligence.thearchon.eu/playbooks/vulnerability-exception-handling) — Governance · 2026-10-10
 
 ---
 

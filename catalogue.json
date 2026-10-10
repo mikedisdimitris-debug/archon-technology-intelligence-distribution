@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-10-09T21:40:00.225Z",
+  "generatedAt": "2026-10-10T09:54:54.246Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,1549 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 311,
+  "itemCount": 437,
   "familyCounts": {
     "Insights": 84,
-    "Guides": 30,
+    "Guides": 31,
     "Infographics": 72,
     "Diagrams": 43,
     "Carousels": 48,
     "Practical Intelligence": 20,
     "Technology Evaluations": 14,
-    "Other": 0
+    "Other": 125
   },
   "latestItem": {
-    "title": "AI-Driven SOC Market Landscape 2024‑2031",
-    "url": "https://intelligence.thearchon.eu/diagrams/ai-driven-soc-market-landscape-2024-2031",
-    "publishedAt": "2026-10-09T09:09:13.000Z"
+    "title": "When to Elevate a Security Incident to Executive Management",
+    "url": "https://intelligence.thearchon.eu/guides/when-to-elevate-a-security-incident-to-executive-management",
+    "publishedAt": "2026-10-10T09:33:46.000Z"
   },
   "items": [
+    {
+      "title": "When to Elevate a Security Incident to Executive Management",
+      "url": "https://intelligence.thearchon.eu/guides/when-to-elevate-a-security-incident-to-executive-management",
+      "guid": "https://intelligence.thearchon.eu/guides/when-to-elevate-a-security-incident-to-executive-management",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "Governance",
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-10-10T09:33:46.000Z",
+      "description": "Use incident‑handling best practices to decide if an incident warrants executive attention. Follow a concise process of data gathering, impact assessment, and escalation based on the severity of the breach and its effect on customers or operations."
+    },
+    {
+      "title": "Pre‑Migration Checklist for Critical Workloads in a Multi‑Cloud Strategy",
+      "url": "https://intelligence.thearchon.eu/playbooks/premigration-checklist-for-critical-workloads-in-a-multicloud-strategy",
+      "guid": "https://intelligence.thearchon.eu/playbooks/premigration-checklist-for-critical-workloads-in-a-multicloud-strategy",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Cloud",
+        "Governance",
+        "Resilience",
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-10-10T07:55:04.000Z",
+      "description": "Validate security controls, assess vendor risks, and harden network exposure before moving critical workloads to multiple clouds."
+    },
+    {
+      "title": "Change Freeze Activation and Release",
+      "url": "https://intelligence.thearchon.eu/playbooks/change-freeze-activation-release",
+      "guid": "https://intelligence.thearchon.eu/playbooks/change-freeze-activation-release",
+      "family": "Other",
+      "domains": [
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for change freeze activation and release, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Collaboration Platform Data Exposure Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/collaboration-platform-data-exposure-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/collaboration-platform-data-exposure-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Cloud"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for collaboration platform data exposure response, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Compromised Mailbox Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/compromised-mailbox-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/compromised-mailbox-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Identity"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for compromised mailbox response, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Critical SaaS / Vendor Outage Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/critical-saas-vendor-outage-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/critical-saas-vendor-outage-response",
+      "family": "Other",
+      "domains": [
+        "IT Operations",
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for critical saas / vendor outage response, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Cross-Border Personal Data Breach Coordination",
+      "url": "https://intelligence.thearchon.eu/playbooks/cross-border-personal-data-breach-coordination",
+      "guid": "https://intelligence.thearchon.eu/playbooks/cross-border-personal-data-breach-coordination",
+      "family": "Other",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for cross-border personal data breach coordination, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Emergency Change Control",
+      "url": "https://intelligence.thearchon.eu/playbooks/emergency-change-control",
+      "guid": "https://intelligence.thearchon.eu/playbooks/emergency-change-control",
+      "family": "Other",
+      "domains": [
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for emergency change control, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Engineering Workstation Compromise Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/engineering-workstation-compromise-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/engineering-workstation-compromise-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for engineering workstation compromise response, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Executive Impersonation Payment Fraud Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/executive-impersonation-payment-fraud-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/executive-impersonation-payment-fraud-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for executive impersonation payment fraud response, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "High-Risk Change Approval and Execution",
+      "url": "https://intelligence.thearchon.eu/playbooks/high-risk-change-approval-execution",
+      "guid": "https://intelligence.thearchon.eu/playbooks/high-risk-change-approval-execution",
+      "family": "Other",
+      "domains": [
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for high-risk change approval and execution, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Internal Payment Instruction Fraud Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/internal-payment-instruction-fraud-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/internal-payment-instruction-fraud-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for internal payment instruction fraud response, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Investigation Evidence Preservation",
+      "url": "https://intelligence.thearchon.eu/playbooks/investigation-evidence-preservation",
+      "guid": "https://intelligence.thearchon.eu/playbooks/investigation-evidence-preservation",
+      "family": "Other",
+      "domains": [
+        "Governance",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for investigation evidence preservation, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Invoice / Payment Diversion Fraud Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/invoice-payment-diversion-fraud-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/invoice-payment-diversion-fraud-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for invoice / payment diversion fraud response, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "IT-to-OT Lateral Movement Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/it-to-ot-lateral-movement-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/it-to-ot-lateral-movement-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Networking"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for it-to-ot lateral movement response, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Malicious Mailbox Forwarding Rule Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/malicious-mailbox-forwarding-rule-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/malicious-mailbox-forwarding-rule-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Identity"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for malicious mailbox forwarding rule response, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Mass Email-Borne Malware Campaign Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/mass-email-borne-malware-campaign-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/mass-email-borne-malware-campaign-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for mass email-borne malware campaign response, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Mass Endpoint Failure Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/mass-endpoint-failure-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/mass-endpoint-failure-response",
+      "family": "Other",
+      "domains": [
+        "IT Operations",
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for mass endpoint failure response, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "OAuth / Third-Party Application Abuse Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/oauth-third-party-application-abuse-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/oauth-third-party-application-abuse-response",
+      "family": "Other",
+      "domains": [
+        "Identity",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for oauth / third-party application abuse response, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "OT / ICS Cyber Incident Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/ot-ics-cyber-incident-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/ot-ics-cyber-incident-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for ot / ics cyber incident response, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "OT Isolation and Safe Shutdown Decision",
+      "url": "https://intelligence.thearchon.eu/playbooks/ot-isolation-safe-shutdown-decision",
+      "guid": "https://intelligence.thearchon.eu/playbooks/ot-isolation-safe-shutdown-decision",
+      "family": "Other",
+      "domains": [
+        "Resilience",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for ot isolation and safe shutdown decision, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "OT Protocol / Network Anomaly Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/ot-protocol-network-anomaly-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/ot-protocol-network-anomaly-response",
+      "family": "Other",
+      "domains": [
+        "Networking",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for ot protocol / network anomaly response, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Personal Data Breach Assessment",
+      "url": "https://intelligence.thearchon.eu/playbooks/personal-data-breach-assessment",
+      "guid": "https://intelligence.thearchon.eu/playbooks/personal-data-breach-assessment",
+      "family": "Other",
+      "domains": [
+        "Governance",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for personal data breach assessment, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Personal Data Breach Regulatory Notification",
+      "url": "https://intelligence.thearchon.eu/playbooks/personal-data-breach-regulatory-notification",
+      "guid": "https://intelligence.thearchon.eu/playbooks/personal-data-breach-regulatory-notification",
+      "family": "Other",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for personal data breach regulatory notification, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Privileged Workstation Compromise Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/privileged-workstation-compromise-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/privileged-workstation-compromise-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Identity"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for privileged workstation compromise response, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Production Rollback Execution",
+      "url": "https://intelligence.thearchon.eu/playbooks/production-rollback-execution",
+      "guid": "https://intelligence.thearchon.eu/playbooks/production-rollback-execution",
+      "family": "Other",
+      "domains": [
+        "IT Operations",
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for production rollback execution, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Regulatory Information Request Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/regulatory-information-request-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/regulatory-information-request-response",
+      "family": "Other",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for regulatory information request response, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Regulatory Inspection Technology Readiness",
+      "url": "https://intelligence.thearchon.eu/playbooks/regulatory-inspection-technology-readiness",
+      "guid": "https://intelligence.thearchon.eu/playbooks/regulatory-inspection-technology-readiness",
+      "family": "Other",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for regulatory inspection technology readiness, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Remote Wipe and Device Retirement",
+      "url": "https://intelligence.thearchon.eu/playbooks/remote-wipe-device-retirement",
+      "guid": "https://intelligence.thearchon.eu/playbooks/remote-wipe-device-retirement",
+      "family": "Other",
+      "domains": [
+        "IT Operations",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for remote wipe and device retirement, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Safety-Impacting OT Cyber Incident Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/safety-impacting-ot-cyber-incident-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/safety-impacting-ot-cyber-incident-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for safety-impacting ot cyber incident response, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Software Supply-Chain Compromise Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/software-supply-chain-compromise-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/software-supply-chain-compromise-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for software supply-chain compromise response, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Technology Audit Finding Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/technology-audit-finding-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/technology-audit-finding-response",
+      "family": "Other",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for technology audit finding response, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Third-Party Data Breach Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/third-party-data-breach-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/third-party-data-breach-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for third-party data breach response, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Unauthorized Personal Data Access Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/unauthorized-personal-data-access-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/unauthorized-personal-data-access-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for unauthorized personal data access response, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Unmanaged / Non-Compliant Device Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/unmanaged-noncompliant-device-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/unmanaged-noncompliant-device-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Identity"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for unmanaged / non-compliant device response, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Urgent Financial Hold and Recall Coordination",
+      "url": "https://intelligence.thearchon.eu/playbooks/urgent-financial-hold-recall-coordination",
+      "guid": "https://intelligence.thearchon.eu/playbooks/urgent-financial-hold-recall-coordination",
+      "family": "Other",
+      "domains": [
+        "Governance",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for urgent financial hold and recall coordination, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Vendor Access Revocation / Kill-Switch",
+      "url": "https://intelligence.thearchon.eu/playbooks/vendor-access-revocation-kill-switch",
+      "guid": "https://intelligence.thearchon.eu/playbooks/vendor-access-revocation-kill-switch",
+      "family": "Other",
+      "domains": [
+        "Identity",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for vendor access revocation / kill-switch, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Vendor Bank Detail Change Fraud Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/vendor-bank-detail-change-fraud-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/vendor-bank-detail-change-fraud-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for vendor bank detail change fraud response, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Vendor / Third-Party Compromise Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/vendor-third-party-compromise-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/vendor-third-party-compromise-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for vendor / third-party compromise response, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Widespread Change Failure Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/widespread-change-failure-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/widespread-change-failure-response",
+      "family": "Other",
+      "domains": [
+        "IT Operations",
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-10T05:30:00.000Z",
+      "description": "Operational playbook for widespread change failure response, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Account / Credential Compromise Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/account-credential-compromise-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/account-credential-compromise-response",
+      "family": "Other",
+      "domains": [
+        "Identity",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-10T01:15:20.000Z",
+      "description": "SOC response for suspected compromised user or privileged credentials, including session containment, authentication recovery, access review, lateral-movement scoping, and evidence capture."
+    },
+    {
+      "title": "Change-Related Incident Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/change-related-incident-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/change-related-incident-response",
+      "family": "Other",
+      "domains": [
+        "IT Operations",
+        "Networking",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T01:15:20.000Z",
+      "description": "NOC response for service degradation or outage associated with a recent planned or emergency change, with evidence-based rollback decisions and controlled restoration."
+    },
+    {
+      "title": "Circuit / ISP Failure Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/circuit-isp-failure-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/circuit-isp-failure-response",
+      "family": "Other",
+      "domains": [
+        "Networking",
+        "Resilience",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-10-10T01:15:20.000Z",
+      "description": "NOC response for carrier circuit or ISP failure, covering provider demarcation, alternate-path use, evidence, escalation, and service restoration."
+    },
+    {
+      "title": "Core Device Failure Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/core-network-device-failure-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/core-network-device-failure-response",
+      "family": "Other",
+      "domains": [
+        "Networking",
+        "IT Operations",
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-10T01:15:20.000Z",
+      "description": "NOC response for failure of a core router, switch, firewall, or equivalent network control point, covering redundancy, state capture, replacement or recovery, and validation."
+    },
+    {
+      "title": "Data Exfiltration / Data Breach Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/data-exfiltration-breach-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/data-exfiltration-breach-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T01:15:20.000Z",
+      "description": "SOC and governance response for suspected unauthorized disclosure or exfiltration, covering containment, scope, evidence, data assessment, and regulatory decision support."
+    },
+    {
+      "title": "DDoS / Traffic Flood Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/ddos-traffic-flood-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/ddos-traffic-flood-response",
+      "family": "Other",
+      "domains": [
+        "Networking",
+        "Cybersecurity",
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-10T01:15:20.000Z",
+      "description": "Joint SOC/NOC response for denial-of-service or traffic-flood conditions, covering validation, mitigation activation, provider coordination, service protection, and evidence capture."
+    },
+    {
+      "title": "Insider Threat / Anomalous Internal Activity Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/insider-anomalous-activity-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/insider-anomalous-activity-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Governance",
+        "Identity"
+      ],
+      "publishedAt": "2026-10-10T01:15:20.000Z",
+      "description": "Cross-functional response for anomalous internal access, bulk data activity, privilege misuse, or other indicators that may involve a trusted insider."
+    },
+    {
+      "title": "Major Incident Management & Escalation",
+      "url": "https://intelligence.thearchon.eu/playbooks/major-incident-management-escalation",
+      "guid": "https://intelligence.thearchon.eu/playbooks/major-incident-management-escalation",
+      "family": "Other",
+      "domains": [
+        "IT Operations",
+        "Cybersecurity",
+        "Resilience",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T01:15:20.000Z",
+      "description": "Cross-functional major-incident playbook for critical events that require unified command, technical workstreams, executive communication, evidence continuity, and controlled recovery."
+    },
+    {
+      "title": "Major Network Outage / Link Failure",
+      "url": "https://intelligence.thearchon.eu/playbooks/major-network-outage-link-failure",
+      "guid": "https://intelligence.thearchon.eu/playbooks/major-network-outage-link-failure",
+      "family": "Other",
+      "domains": [
+        "Networking",
+        "Resilience",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-10-10T01:15:20.000Z",
+      "description": "NOC response for loss of a critical network path, site, or connectivity dependency, covering impact confirmation, failover, diagnosis, escalation, and restoration evidence."
+    },
+    {
+      "title": "Malware / Endpoint Compromise Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/malware-endpoint-compromise-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/malware-endpoint-compromise-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-10-10T01:15:20.000Z",
+      "description": "SOC response for malicious or unauthorized endpoint activity that is not necessarily ransomware, covering isolation, evidence, eradication, scoping, and safe return to service."
+    },
+    {
+      "title": "High Latency / Performance Degradation Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/network-performance-degradation-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/network-performance-degradation-response",
+      "family": "Other",
+      "domains": [
+        "Networking",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-10-10T01:15:20.000Z",
+      "description": "NOC response for severe network degradation without complete outage, covering symptom validation, dependency isolation, saturation analysis, controlled mitigation, and recovery verification."
+    },
+    {
+      "title": "Phishing / Business Email Compromise Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/phishing-bec-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/phishing-bec-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Identity"
+      ],
+      "publishedAt": "2026-10-10T01:15:20.000Z",
+      "description": "SOC response for suspected phishing or business email compromise, covering message triage, identity containment, mailbox review, scoping, evidence preservation, and recovery."
+    },
+    {
+      "title": "Power / Environmental Network Incident Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/power-environmental-network-incident-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/power-environmental-network-incident-response",
+      "family": "Other",
+      "domains": [
+        "Networking",
+        "Resilience",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-10-10T01:15:20.000Z",
+      "description": "NOC and facilities response for power, UPS, cooling, temperature, water, or physical-site conditions that threaten network availability and equipment integrity."
+    },
+    {
+      "title": "Ransomware / Destructive Malware Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/ransomware-destructive-malware-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/ransomware-destructive-malware-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Resilience",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-10-10T01:15:20.000Z",
+      "description": "SOC response for ransomware or destructive malware with rapid isolation, evidence preservation, scope assessment, recovery governance, and coordinated communication."
+    },
+    {
+      "title": "E-Commerce Security Control Readiness",
+      "url": "https://intelligence.thearchon.eu/playbooks/ecommerce-security-control-readiness",
+      "guid": "https://intelligence.thearchon.eu/playbooks/ecommerce-security-control-readiness",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T01:08:13.000Z",
+      "description": "A focused readiness sequence for protecting payment flows, customer data, public APIs and the web application layer before an e-commerce service is exposed to modern attack paths."
+    },
+    {
+      "title": "External Partner Connectivity Readiness",
+      "url": "https://intelligence.thearchon.eu/playbooks/external-partner-connectivity-readiness",
+      "guid": "https://intelligence.thearchon.eu/playbooks/external-partner-connectivity-readiness",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Networking",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T01:08:13.000Z",
+      "description": "A governance and security sequence for introducing or changing business-critical partner connectivity without treating it as a simple network request."
+    },
+    {
+      "title": "Security Exception Lifecycle Control",
+      "url": "https://intelligence.thearchon.eu/playbooks/security-exception-lifecycle-control",
+      "guid": "https://intelligence.thearchon.eu/playbooks/security-exception-lifecycle-control",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T01:08:13.000Z",
+      "description": "A controlled sequence for approving, constraining, reviewing and retiring temporary security exceptions before they become invisible permanent architecture."
+    },
+    {
+      "title": "Third-Party Unmanaged Endpoint Access Control",
+      "url": "https://intelligence.thearchon.eu/playbooks/third-party-unmanaged-endpoint-access-control",
+      "guid": "https://intelligence.thearchon.eu/playbooks/third-party-unmanaged-endpoint-access-control",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Identity",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T01:08:13.000Z",
+      "description": "A decision and containment sequence for supporting a legitimate third-party endpoint requirement without turning an unmanaged device into an uncontrolled enterprise access path."
+    },
+    {
+      "title": "Integration Trust Validation",
+      "url": "https://intelligence.thearchon.eu/playbooks/integration-trust-validation",
+      "guid": "https://intelligence.thearchon.eu/playbooks/integration-trust-validation",
+      "family": "Other",
+      "domains": [
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T01:04:42.000Z",
+      "description": "An operational validation sequence for proving that integrations deliver correct business outcomes rather than merely successful technical messages."
+    },
+    {
+      "title": "Legacy ERP Exit and Cutover Readiness",
+      "url": "https://intelligence.thearchon.eu/playbooks/legacy-erp-exit-cutover-readiness",
+      "guid": "https://intelligence.thearchon.eu/playbooks/legacy-erp-exit-cutover-readiness",
+      "family": "Other",
+      "domains": [
+        "IT Operations",
+        "Governance",
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-10T01:04:42.000Z",
+      "description": "A controlled migration and cutover sequence for replacing a legacy ERP while preserving financial integrity, recovery capability, and accountable go/no-go decisions."
+    },
+    {
+      "title": "AI-Assisted Code Release Control",
+      "url": "https://intelligence.thearchon.eu/playbooks/ai-assisted-code-release-control",
+      "guid": "https://intelligence.thearchon.eu/playbooks/ai-assisted-code-release-control",
+      "family": "Other",
+      "domains": [
+        "AI",
+        "Cybersecurity",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-10-10T01:03:54.000Z",
+      "description": "A secure delivery sequence for reviewing, testing, and releasing code produced or modified with AI coding assistants."
+    },
+    {
+      "title": "Cross-System Evidence Arbitration Readiness",
+      "url": "https://intelligence.thearchon.eu/playbooks/cross-system-evidence-arbitration-readiness",
+      "guid": "https://intelligence.thearchon.eu/playbooks/cross-system-evidence-arbitration-readiness",
+      "family": "Other",
+      "domains": [
+        "Governance",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-10-10T01:03:54.000Z",
+      "description": "A governance sequence for environments where ERP, ETRM, BI, market data, spreadsheets, or external confirmations can disagree about the same material business fact."
+    },
+    {
+      "title": "Trading Platform Control Environment Readiness",
+      "url": "https://intelligence.thearchon.eu/playbooks/trading-platform-control-environment-readiness",
+      "guid": "https://intelligence.thearchon.eu/playbooks/trading-platform-control-environment-readiness",
+      "family": "Other",
+      "domains": [
+        "Governance",
+        "Cybersecurity",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-10-10T01:03:54.000Z",
+      "description": "A control-readiness sequence for regulated trading platforms where the application works but access, logging, segregation, vendor evidence, or change controls may not."
+    },
+    {
+      "title": "Unowned Technology Issue Recovery",
+      "url": "https://intelligence.thearchon.eu/playbooks/unowned-technology-issue-recovery",
+      "guid": "https://intelligence.thearchon.eu/playbooks/unowned-technology-issue-recovery",
+      "family": "Other",
+      "domains": [
+        "Governance",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-10-10T01:03:54.000Z",
+      "description": "A governance sequence for converting unresolved technology issues from shared discussion into explicit accountable remediation."
+    },
+    {
+      "title": "AI Decision Challenge and Reversal",
+      "url": "https://intelligence.thearchon.eu/playbooks/ai-decision-challenge-and-reversal",
+      "guid": "https://intelligence.thearchon.eu/playbooks/ai-decision-challenge-and-reversal",
+      "family": "Other",
+      "domains": [
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T01:03:13.000Z",
+      "description": "A human-oversight response for challenging, reviewing, reversing, and learning from a materially wrong AI-assisted decision."
+    },
+    {
+      "title": "Critical Knowledge Departure Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/critical-knowledge-departure-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/critical-knowledge-departure-response",
+      "family": "Other",
+      "domains": [
+        "IT Operations",
+        "Resilience",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T01:03:13.000Z",
+      "description": "A continuity sequence for capturing and transferring operational knowledge when a key technology owner is leaving or becoming unavailable."
+    },
+    {
+      "title": "Employee Technology Lifecycle Control",
+      "url": "https://intelligence.thearchon.eu/playbooks/employee-technology-lifecycle-control",
+      "guid": "https://intelligence.thearchon.eu/playbooks/employee-technology-lifecycle-control",
+      "family": "Other",
+      "domains": [
+        "Identity",
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T01:03:13.000Z",
+      "description": "A joiner-mover-leaver control sequence covering devices, licenses, accounts, and access from assignment through recovery."
+    },
+    {
+      "title": "Policy-to-Operating-Control Validation",
+      "url": "https://intelligence.thearchon.eu/playbooks/policy-to-operating-control-validation",
+      "guid": "https://intelligence.thearchon.eu/playbooks/policy-to-operating-control-validation",
+      "family": "Other",
+      "domains": [
+        "Governance",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-10T01:03:13.000Z",
+      "description": "A practical validation sequence for proving that documented technology and security policies are operating as real controls."
+    },
+    {
+      "title": "Reduced-Workforce Continuity Readiness",
+      "url": "https://intelligence.thearchon.eu/playbooks/reduced-workforce-continuity-readiness",
+      "guid": "https://intelligence.thearchon.eu/playbooks/reduced-workforce-continuity-readiness",
+      "family": "Other",
+      "domains": [
+        "Resilience",
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T01:03:13.000Z",
+      "description": "A resilience sequence for ensuring critical services and decisions remain executable during predictable periods of reduced workforce availability."
+    },
+    {
+      "title": "Transformation Initiative Overload Control",
+      "url": "https://intelligence.thearchon.eu/playbooks/transformation-initiative-overload-control",
+      "guid": "https://intelligence.thearchon.eu/playbooks/transformation-initiative-overload-control",
+      "family": "Other",
+      "domains": [
+        "Governance",
+        "Leadership & Organization",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-10-10T01:03:13.000Z",
+      "description": "A governance sequence for detecting and reducing portfolio overload when concurrent technology initiatives exceed shared delivery capacity."
+    },
+    {
+      "title": "VPN to Zero-Trust Access Transition",
+      "url": "https://intelligence.thearchon.eu/playbooks/vpn-to-zero-trust-access-transition",
+      "guid": "https://intelligence.thearchon.eu/playbooks/vpn-to-zero-trust-access-transition",
+      "family": "Other",
+      "domains": [
+        "Networking",
+        "Cybersecurity",
+        "Identity"
+      ],
+      "publishedAt": "2026-10-10T01:03:13.000Z",
+      "description": "A controlled sequence for replacing broad network-level remote access with resource-focused, identity-aware access."
+    },
+    {
+      "title": "AI Agent Execution Boundary Readiness",
+      "url": "https://intelligence.thearchon.eu/playbooks/ai-agent-execution-boundary-readiness",
+      "guid": "https://intelligence.thearchon.eu/playbooks/ai-agent-execution-boundary-readiness",
+      "family": "Other",
+      "domains": [
+        "AI",
+        "Governance",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-10T00:57:01.000Z",
+      "description": "Control sequence for AI agents with access to repositories, cloud platforms, databases, or other systems where agent actions can change real operational state."
+    },
+    {
+      "title": "Lost or Stolen Corporate Device Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/lost-or-stolen-corporate-device-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/lost-or-stolen-corporate-device-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T00:57:01.000Z",
+      "description": "Ready-to-use response sequence for containing access, establishing device protection state, assessing data exposure, recovering the user, and preserving an auditable incident record."
+    },
+    {
+      "title": "Privileged Access Hardening Readiness",
+      "url": "https://intelligence.thearchon.eu/playbooks/privileged-access-hardening-readiness",
+      "guid": "https://intelligence.thearchon.eu/playbooks/privileged-access-hardening-readiness",
+      "family": "Other",
+      "domains": [
+        "Identity",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-10T00:57:01.000Z",
+      "description": "Operational sequence for reducing standing administrative privilege and strengthening privileged authentication, elevation, credential handling, and session evidence."
+    },
+    {
+      "title": "SaaS Resource Exhaustion Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/saas-resource-exhaustion-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/saas-resource-exhaustion-response",
+      "family": "Other",
+      "domains": [
+        "IT Operations",
+        "Cloud",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T00:57:01.000Z",
+      "description": "Operational response for abnormal SaaS or cloud consumption that threatens service limits, availability, or cost, with containment, monitoring, ownership, and safe cleanup."
+    },
+    {
+      "title": "Synthetic Impersonation High-Risk Request Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/synthetic-impersonation-high-risk-request-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/synthetic-impersonation-high-risk-request-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T00:57:01.000Z",
+      "description": "Response sequence for high-risk requests delivered through voice, video, email, or chat where identity may be spoofed and the requested action requires independent authorization."
+    },
+    {
+      "title": "Generative AI Marketing Governance Readiness",
+      "url": "https://intelligence.thearchon.eu/playbooks/generative-ai-marketing-governance-readiness",
+      "guid": "https://intelligence.thearchon.eu/playbooks/generative-ai-marketing-governance-readiness",
+      "family": "Other",
+      "domains": [
+        "Governance",
+        "AI"
+      ],
+      "publishedAt": "2026-10-10T00:49:08.000Z",
+      "description": "A governance sequence for inventorying generative AI used in marketing, classifying risk, applying secure lifecycle controls, assigning ownership, and deciding whether continued or expanded use is acceptable."
+    },
+    {
+      "title": "Cloud Cost Function Decision",
+      "url": "https://intelligence.thearchon.eu/playbooks/cloud-cost-function-decision",
+      "guid": "https://intelligence.thearchon.eu/playbooks/cloud-cost-function-decision",
+      "family": "Other",
+      "domains": [
+        "Cloud",
+        "Governance",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-10-10T00:48:58.000Z",
+      "description": "A decision sequence for determining whether cloud-cost governance needs a dedicated internal function or can be sustained through existing ownership and external support."
+    },
+    {
+      "title": "Zero-Trust Organizational Readiness",
+      "url": "https://intelligence.thearchon.eu/playbooks/zero-trust-organizational-readiness",
+      "guid": "https://intelligence.thearchon.eu/playbooks/zero-trust-organizational-readiness",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Governance",
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-10-10T00:48:48.000Z",
+      "description": "A readiness sequence for deciding whether the organization has the architecture knowledge, identity inventory, policy enforcement, monitoring, and leadership commitment needed to begin a zero-trust transformation."
+    },
+    {
+      "title": "Multi-Cloud Cost Framework Readiness",
+      "url": "https://intelligence.thearchon.eu/playbooks/multicloud-cost-framework-readiness",
+      "guid": "https://intelligence.thearchon.eu/playbooks/multicloud-cost-framework-readiness",
+      "family": "Other",
+      "domains": [
+        "Cloud",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T00:48:31.000Z",
+      "description": "A governance sequence for selecting a cloud-cost management approach that remains usable across providers while preserving shared-responsibility, security, usage visibility, and comparable pilot evidence."
+    },
+    {
+      "title": "Customer-Facing Generative AI Readiness",
+      "url": "https://intelligence.thearchon.eu/playbooks/customer-facing-generative-ai-readiness",
+      "guid": "https://intelligence.thearchon.eu/playbooks/customer-facing-generative-ai-readiness",
+      "family": "Other",
+      "domains": [
+        "Governance",
+        "AI"
+      ],
+      "publishedAt": "2026-10-10T00:48:21.000Z",
+      "description": "A pre-release governance sequence for classifying customer-facing generative AI, screening prohibited uses, documenting transparency, assessing customer impact, and establishing monitoring and incident response."
+    },
+    {
+      "title": "Critical Technology Skills Gap Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/critical-technology-skills-gap-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/critical-technology-skills-gap-response",
+      "family": "Other",
+      "domains": [
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-10-10T00:48:11.000Z",
+      "description": "A leadership sequence for responding to an urgent technology capability gap by identifying the exact missing function, assessing internal talent, selecting development or external support, and measuring whether capability is restored."
+    },
+    {
+      "title": "Service Mesh Adoption Readiness",
+      "url": "https://intelligence.thearchon.eu/playbooks/service-mesh-adoption-readiness",
+      "guid": "https://intelligence.thearchon.eu/playbooks/service-mesh-adoption-readiness",
+      "family": "Other",
+      "domains": [
+        "Cloud",
+        "Networking",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-10-10T00:48:01.000Z",
+      "description": "A pre-adoption sequence for defining microservice security and resilience requirements, comparing architecture options, validating portability, piloting the design, and recording operational readiness."
+    },
+    {
+      "title": "Cloud Security Team Decision",
+      "url": "https://intelligence.thearchon.eu/playbooks/cloud-security-team-decision",
+      "guid": "https://intelligence.thearchon.eu/playbooks/cloud-security-team-decision",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Cloud",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T00:47:51.000Z",
+      "description": "A decision sequence for determining whether persistent cloud-security obligations justify a dedicated team or can be covered through existing staff, targeted development, or external support."
+    },
+    {
+      "title": "Data Ethics Review Gate",
+      "url": "https://intelligence.thearchon.eu/playbooks/data-ethics-review-gate",
+      "guid": "https://intelligence.thearchon.eu/playbooks/data-ethics-review-gate",
+      "family": "Other",
+      "domains": [
+        "Leadership & Organization",
+        "Governance",
+        "AI"
+      ],
+      "publishedAt": "2026-10-10T00:47:39.000Z",
+      "description": "A leadership-owned sequence for establishing a repeatable data-ethics decision gate using privacy-risk mapping, a defined charter, cross-functional review, lifecycle integration, and evidence of the decision."
+    },
+    {
+      "title": "Before Pasting Data Into AI",
+      "url": "https://intelligence.thearchon.eu/playbooks/before-pasting-data-into-ai",
+      "guid": "https://intelligence.thearchon.eu/playbooks/before-pasting-data-into-ai",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T00:47:29.000Z",
+      "description": "A point-of-use sequence for deciding whether information can safely be entered into an AI tool by checking classification, secrets, minimization, tool approval, and human accountability."
+    },
+    {
+      "title": "Multi-Cloud Observability Stack Readiness",
+      "url": "https://intelligence.thearchon.eu/playbooks/multicloud-observability-stack-readiness",
+      "guid": "https://intelligence.thearchon.eu/playbooks/multicloud-observability-stack-readiness",
+      "family": "Other",
+      "domains": [
+        "Cloud",
+        "IT Operations",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-10T00:47:11.000Z",
+      "description": "A pre-adoption sequence for checking data protection, tenant separation, governance, operational security, supply-chain assurance, and pilot evidence before standardizing a multi-cloud observability stack."
+    },
+    {
+      "title": "IT Service Continuity Framework Readiness",
+      "url": "https://intelligence.thearchon.eu/playbooks/it-service-continuity-framework-readiness",
+      "guid": "https://intelligence.thearchon.eu/playbooks/it-service-continuity-framework-readiness",
+      "family": "Other",
+      "domains": [
+        "Resilience",
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T00:47:01.000Z",
+      "description": "A vendor-neutral sequence for structuring service continuity around cybersecurity functions, third-party dependencies, AI-related risks, governance ownership, and tested recovery evidence."
+    },
+    {
+      "title": "Technology Risk Ownership Assignment",
+      "url": "https://intelligence.thearchon.eu/playbooks/technology-risk-ownership-assignment",
+      "guid": "https://intelligence.thearchon.eu/playbooks/technology-risk-ownership-assignment",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T00:46:51.000Z",
+      "description": "A governance sequence for assigning a technology risk to an accountable owner by tracing the affected technology, implemented controls, inherited responsibilities, authority, and risk-register evidence."
+    },
+    {
+      "title": "AI Employee Feedback Governance Readiness",
+      "url": "https://intelligence.thearchon.eu/playbooks/ai-employee-feedback-governance-readiness",
+      "guid": "https://intelligence.thearchon.eu/playbooks/ai-employee-feedback-governance-readiness",
+      "family": "Other",
+      "domains": [
+        "Governance",
+        "AI"
+      ],
+      "publishedAt": "2026-10-10T00:46:41.000Z",
+      "description": "A governance sequence for deciding whether AI-generated employee feedback can be used without prohibited practices, uncontrolled employee-data exposure, missing human oversight, or inadequate monitoring."
+    },
+    {
+      "title": "Generative AI Customer Support Readiness",
+      "url": "https://intelligence.thearchon.eu/playbooks/generative-ai-customer-support-readiness",
+      "guid": "https://intelligence.thearchon.eu/playbooks/generative-ai-customer-support-readiness",
+      "family": "Other",
+      "domains": [
+        "AI",
+        "Governance",
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-10-10T00:46:17.000Z",
+      "description": "A governance sequence for classifying a customer-support AI use case, identifying shadow AI, checking data and security controls, assigning oversight, and deciding whether a controlled rollout may proceed."
+    },
+    {
+      "title": "IT Team Restructure Control Readiness",
+      "url": "https://intelligence.thearchon.eu/playbooks/it-team-restructure-control-readiness",
+      "guid": "https://intelligence.thearchon.eu/playbooks/it-team-restructure-control-readiness",
+      "family": "Other",
+      "domains": [
+        "Leadership & Organization",
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T00:46:06.000Z",
+      "description": "A governance sequence for checking security responsibilities, risk coverage, control ownership, configuration baselines, and skill gaps before changing an IT team structure."
+    },
+    {
+      "title": "Vendor-Agnostic Incident Response Readiness",
+      "url": "https://intelligence.thearchon.eu/playbooks/vendor-agnostic-incident-response-readiness",
+      "guid": "https://intelligence.thearchon.eu/playbooks/vendor-agnostic-incident-response-readiness",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-10T00:45:53.000Z",
+      "description": "A practical sequence for creating an incident-response process that remains usable across changing technology stacks by defining lifecycle actions, neutral controls, roles, and exercise evidence."
+    },
+    {
+      "title": "Remote Endpoint Access Readiness",
+      "url": "https://intelligence.thearchon.eu/playbooks/remote-endpoint-access-readiness",
+      "guid": "https://intelligence.thearchon.eu/playbooks/remote-endpoint-access-readiness",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Identity"
+      ],
+      "publishedAt": "2026-10-10T00:45:42.000Z",
+      "description": "A security sequence for deciding whether corporate and personal endpoints are sufficiently understood and controlled before they receive remote access to organizational resources."
+    },
+    {
+      "title": "Cloud Cost Governance Delegation Readiness",
+      "url": "https://intelligence.thearchon.eu/playbooks/cloud-cost-governance-delegation-readiness",
+      "guid": "https://intelligence.thearchon.eu/playbooks/cloud-cost-governance-delegation-readiness",
+      "family": "Other",
+      "domains": [
+        "Cloud",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T00:45:32.000Z",
+      "description": "A control sequence for deciding whether cloud-cost responsibility can safely move to a business unit without losing governance, separation of duties, security oversight, or spend visibility."
+    },
+    {
+      "title": "Technology Vendor Contract Readiness",
+      "url": "https://intelligence.thearchon.eu/playbooks/technology-vendor-contract-readiness",
+      "guid": "https://intelligence.thearchon.eu/playbooks/technology-vendor-contract-readiness",
+      "family": "Other",
+      "domains": [
+        "Governance",
+        "Cybersecurity",
+        "AI"
+      ],
+      "publishedAt": "2026-10-10T00:45:22.000Z",
+      "description": "A pre-signature sequence for verifying supply-chain risk, contractual security controls, responsibilities, AI risk, and continuing assurance before committing to a technology vendor."
+    },
+    {
+      "title": "Critical Process Automation Readiness",
+      "url": "https://intelligence.thearchon.eu/playbooks/critical-process-automation-readiness",
+      "guid": "https://intelligence.thearchon.eu/playbooks/critical-process-automation-readiness",
+      "family": "Other",
+      "domains": [
+        "Governance",
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-10T00:42:55.000Z",
+      "description": "A security and risk sequence for deciding whether a critical business process is ready to be automated without carrying known compromise or control gaps into the workflow."
+    },
+    {
+      "title": "Critical Workload Cloud Migration Readiness",
+      "url": "https://intelligence.thearchon.eu/playbooks/critical-workload-cloud-migration-readiness",
+      "guid": "https://intelligence.thearchon.eu/playbooks/critical-workload-cloud-migration-readiness",
+      "family": "Other",
+      "domains": [
+        "Cloud",
+        "Governance",
+        "Resilience",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-10T00:42:44.000Z",
+      "description": "A pre-migration sequence for validating cloud controls, provider evidence, vulnerabilities, authorization, risk, and pilot results before moving a critical workload."
+    },
+    {
+      "title": "AI Model Governance Readiness",
+      "url": "https://intelligence.thearchon.eu/playbooks/ai-model-governance-readiness",
+      "guid": "https://intelligence.thearchon.eu/playbooks/ai-model-governance-readiness",
+      "family": "Other",
+      "domains": [
+        "Governance",
+        "AI"
+      ],
+      "publishedAt": "2026-10-10T00:41:29.000Z",
+      "description": "A decision sequence for classifying an AI use case, establishing lifecycle risk controls, checking privacy obligations, and deciding whether deployment may proceed."
+    },
+    {
+      "title": "Zero-Trust Access Readiness",
+      "url": "https://intelligence.thearchon.eu/playbooks/zero-trust-access-readiness",
+      "guid": "https://intelligence.thearchon.eu/playbooks/zero-trust-access-readiness",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Identity",
+        "Cloud"
+      ],
+      "publishedAt": "2026-10-10T00:41:17.000Z",
+      "description": "A concrete sequence for deciding whether identity, device, policy, and monitoring controls are ready before replacing implicit network trust with per-request access decisions."
+    },
+    {
+      "title": "Incident Ownership Handover Readiness",
+      "url": "https://intelligence.thearchon.eu/playbooks/incident-ownership-handover-readiness",
+      "guid": "https://intelligence.thearchon.eu/playbooks/incident-ownership-handover-readiness",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-10-10T00:40:11.000Z",
+      "description": "A practical sequence for confirming that a new internal or external response team is ready before incident ownership and response authority are handed over."
+    },
+    {
+      "title": "Backup and Recovery Readiness",
+      "url": "https://intelligence.thearchon.eu/playbooks/backup-and-recovery-readiness",
+      "guid": "https://intelligence.thearchon.eu/playbooks/backup-and-recovery-readiness",
+      "family": "Other",
+      "domains": [
+        "IT Operations",
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-10T00:39:59.000Z",
+      "description": "A ready-to-use sequence for validating that critical data can be recovered after ransomware or another destructive event before relying on the backup strategy."
+    },
+    {
+      "title": "Connecting AI Tools to Company Data",
+      "url": "https://intelligence.thearchon.eu/playbooks/connecting-ai-tools-to-company-data",
+      "guid": "https://intelligence.thearchon.eu/playbooks/connecting-ai-tools-to-company-data",
+      "family": "Other",
+      "domains": [
+        "AI",
+        "Governance",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-10T00:27:54.000Z",
+      "description": "A short, vendor‑agnostic guide to evaluate AI tools against the EU AI Act, FTC privacy expectations, and the NIST AI Risk Management Framework before they access corporate data."
+    },
+    {
+      "title": "Identity Proofing Before User Onboarding",
+      "url": "https://intelligence.thearchon.eu/playbooks/identity-proofing-before-user-onboarding",
+      "guid": "https://intelligence.thearchon.eu/playbooks/identity-proofing-before-user-onboarding",
+      "family": "Other",
+      "domains": [
+        "Identity",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-10T00:27:54.000Z",
+      "description": "A practical sequence for verifying identity and authentication controls before activating access for a new user."
+    },
+    {
+      "title": "Outsourcing an Incident Management Function",
+      "url": "https://intelligence.thearchon.eu/playbooks/outsourcing-incident-management-function",
+      "guid": "https://intelligence.thearchon.eu/playbooks/outsourcing-incident-management-function",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-10T00:17:19.000Z",
+      "description": "A practical sequence for validating an incident-management provider before handing over response responsibility."
+    },
+    {
+      "title": "AI Agent Harmful or Unexpected Action Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/ai-agent-harmful-unexpected-action-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/ai-agent-harmful-unexpected-action-response",
+      "family": "Other",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-10T00:00:00.000Z",
+      "description": "Operational response playbook for ai agent harmful or unexpected action response, with accountable containment, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "AI-Generated Content Business Impact Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/ai-generated-content-business-impact-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/ai-generated-content-business-impact-response",
+      "family": "Other",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-10T00:00:00.000Z",
+      "description": "Operational response playbook for ai-generated content business impact response, with accountable containment, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "AI Prompt Injection With Operational Impact Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/ai-prompt-injection-operational-impact-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/ai-prompt-injection-operational-impact-response",
+      "family": "Other",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-10T00:00:00.000Z",
+      "description": "Operational response playbook for ai prompt injection with operational impact response, with accountable containment, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "AI System Data Leakage Incident Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/ai-system-data-leakage-incident-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/ai-system-data-leakage-incident-response",
+      "family": "Other",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-10T00:00:00.000Z",
+      "description": "Operational response playbook for ai system data leakage incident response, with accountable containment, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Cloud Destructive Activity Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/cloud-destructive-activity-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/cloud-destructive-activity-response",
+      "family": "Other",
+      "domains": [
+        "Cloud"
+      ],
+      "publishedAt": "2026-10-10T00:00:00.000Z",
+      "description": "Operational response playbook for cloud destructive activity response, with accountable containment, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Compromised Cloud Workload Identity Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/compromised-cloud-workload-identity-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/compromised-cloud-workload-identity-response",
+      "family": "Other",
+      "domains": [
+        "Cloud"
+      ],
+      "publishedAt": "2026-10-10T00:00:00.000Z",
+      "description": "Operational response playbook for compromised cloud workload identity response, with accountable containment, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Crisis Technology Communication Activation",
+      "url": "https://intelligence.thearchon.eu/playbooks/crisis-technology-communication-activation",
+      "guid": "https://intelligence.thearchon.eu/playbooks/crisis-technology-communication-activation",
+      "family": "Other",
+      "domains": [
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-10T00:00:00.000Z",
+      "description": "Operational response playbook for crisis technology communication activation, with accountable containment, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Critical KEV / Zero-Day Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/critical-kev-zero-day-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/critical-kev-zero-day-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-10T00:00:00.000Z",
+      "description": "Operational response playbook for critical kev / zero-day response, with accountable containment, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Cross-Account Cloud Lateral Movement Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/cross-account-cloud-lateral-movement-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/cross-account-cloud-lateral-movement-response",
+      "family": "Other",
+      "domains": [
+        "Cloud"
+      ],
+      "publishedAt": "2026-10-10T00:00:00.000Z",
+      "description": "Operational response playbook for cross-account cloud lateral movement response, with accountable containment, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Disaster Recovery Activation",
+      "url": "https://intelligence.thearchon.eu/playbooks/disaster-recovery-activation",
+      "guid": "https://intelligence.thearchon.eu/playbooks/disaster-recovery-activation",
+      "family": "Other",
+      "domains": [
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-10T00:00:00.000Z",
+      "description": "Operational response playbook for disaster recovery activation, with accountable containment, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Emergency Break-Glass Access Activation",
+      "url": "https://intelligence.thearchon.eu/playbooks/emergency-break-glass-access-activation",
+      "guid": "https://intelligence.thearchon.eu/playbooks/emergency-break-glass-access-activation",
+      "family": "Other",
+      "domains": [
+        "Identity"
+      ],
+      "publishedAt": "2026-10-10T00:00:00.000Z",
+      "description": "Operational response playbook for emergency break-glass access activation, with accountable containment, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Emergency Patching Decision and Execution",
+      "url": "https://intelligence.thearchon.eu/playbooks/emergency-patching-decision-execution",
+      "guid": "https://intelligence.thearchon.eu/playbooks/emergency-patching-decision-execution",
+      "family": "Other",
+      "domains": [
+        "IT Operations"
+      ],
+      "publishedAt": "2026-10-10T00:00:00.000Z",
+      "description": "Operational response playbook for emergency patching decision and execution, with accountable containment, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Exposed Cloud Storage or Resource Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/exposed-cloud-storage-resource-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/exposed-cloud-storage-resource-response",
+      "family": "Other",
+      "domains": [
+        "Cloud"
+      ],
+      "publishedAt": "2026-10-10T00:00:00.000Z",
+      "description": "Operational response playbook for exposed cloud storage or resource response, with accountable containment, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "External Attack Surface Critical Finding Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/external-attack-surface-critical-finding-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/external-attack-surface-critical-finding-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-10T00:00:00.000Z",
+      "description": "Operational response playbook for external attack surface critical finding response, with accountable containment, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "MFA Bypass or Authentication Factor Compromise Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/mfa-bypass-authentication-factor-compromise-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/mfa-bypass-authentication-factor-compromise-response",
+      "family": "Other",
+      "domains": [
+        "Identity"
+      ],
+      "publishedAt": "2026-10-10T00:00:00.000Z",
+      "description": "Operational response playbook for mfa bypass or authentication factor compromise response, with accountable containment, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Service Account Compromise Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/service-account-compromise-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/service-account-compromise-response",
+      "family": "Other",
+      "domains": [
+        "Identity"
+      ],
+      "publishedAt": "2026-10-10T00:00:00.000Z",
+      "description": "Operational response playbook for service account compromise response, with accountable containment, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Service Failover and Failback Control",
+      "url": "https://intelligence.thearchon.eu/playbooks/service-failover-failback-control",
+      "guid": "https://intelligence.thearchon.eu/playbooks/service-failover-failback-control",
+      "family": "Other",
+      "domains": [
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-10T00:00:00.000Z",
+      "description": "Operational response playbook for service failover and failback control, with accountable containment, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Shadow AI Discovery and Containment",
+      "url": "https://intelligence.thearchon.eu/playbooks/shadow-ai-discovery-containment",
+      "guid": "https://intelligence.thearchon.eu/playbooks/shadow-ai-discovery-containment",
+      "family": "Other",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-10T00:00:00.000Z",
+      "description": "Operational response playbook for shadow ai discovery and containment, with accountable containment, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Suspicious Cloud API Activity Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/suspicious-cloud-api-activity-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/suspicious-cloud-api-activity-response",
+      "family": "Other",
+      "domains": [
+        "Cloud"
+      ],
+      "publishedAt": "2026-10-10T00:00:00.000Z",
+      "description": "Operational response playbook for suspicious cloud api activity response, with accountable containment, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Unpatchable System Risk Treatment",
+      "url": "https://intelligence.thearchon.eu/playbooks/unpatchable-system-risk-treatment",
+      "guid": "https://intelligence.thearchon.eu/playbooks/unpatchable-system-risk-treatment",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-10T00:00:00.000Z",
+      "description": "Operational response playbook for unpatchable system risk treatment, with accountable containment, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Vulnerability Exception Handling",
+      "url": "https://intelligence.thearchon.eu/playbooks/vulnerability-exception-handling",
+      "guid": "https://intelligence.thearchon.eu/playbooks/vulnerability-exception-handling",
+      "family": "Other",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-10-10T00:00:00.000Z",
+      "description": "Operational response playbook for vulnerability exception handling, with accountable containment, evidence preservation and controlled recovery."
+    },
     {
       "title": "AI-Driven SOC Market Landscape 2024‑2031",
       "url": "https://intelligence.thearchon.eu/diagrams/ai-driven-soc-market-landscape-2024-2031",
