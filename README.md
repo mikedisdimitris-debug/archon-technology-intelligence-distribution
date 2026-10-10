@@ -5,11 +5,13 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Sat, 10 Oct 2026 10:13:13 GMT (2026-10-10T10:13:13.333Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Sat, 10 Oct 2026 15:51:54 GMT (2026-10-10T15:51:54.857Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**436 indexed items** across families: Insights (84) · Guides (30) · Infographics (72) · Diagrams (43) · Carousels (48) · Practical Intelligence (20) · Technology Evaluations (14) · Other (125)
+**438 indexed items** across families: Insights (84) · Guides (31) · Infographics (72) · Diagrams (44) · Carousels (48) · Practical Intelligence (20) · Technology Evaluations (14) · Other (125)
 
 ## Newest
+- [From AI Experiments to Engineered Enterprise Solutions](https://intelligence.thearchon.eu/diagrams/from-ai-experiments-to-engineered-enterprise-solutions) — Diagrams · AI · 2026-10-10
+- [When to Elevate a Security Incident to Executive Management](https://intelligence.thearchon.eu/guides/when-to-elevate-a-security-incident-to-executive-management) — Guides · Cybersecurity, Governance, Leadership & Organization · 2026-10-10
 - [Pre‑Migration Checklist for Critical Workloads in a Multi‑Cloud Strategy](https://intelligence.thearchon.eu/playbooks/premigration-checklist-for-critical-workloads-in-a-multicloud-strategy) — Other · Cybersecurity, Cloud, Governance, Resilience, Leadership & Organization · 2026-10-10
 - [Change Freeze Activation and Release](https://intelligence.thearchon.eu/playbooks/change-freeze-activation-release) — Other · IT Operations, Governance · 2026-10-10
 - [Collaboration Platform Data Exposure Response](https://intelligence.thearchon.eu/playbooks/collaboration-platform-data-exposure-response) — Other · Cybersecurity, Cloud · 2026-10-10
@@ -18,8 +20,6 @@ _Last generated: Sat, 10 Oct 2026 10:13:13 GMT (2026-10-10T10:13:13.333Z) · sou
 - [Cross-Border Personal Data Breach Coordination](https://intelligence.thearchon.eu/playbooks/cross-border-personal-data-breach-coordination) — Other · Governance · 2026-10-10
 - [Emergency Change Control](https://intelligence.thearchon.eu/playbooks/emergency-change-control) — Other · IT Operations, Governance · 2026-10-10
 - [Engineering Workstation Compromise Response](https://intelligence.thearchon.eu/playbooks/engineering-workstation-compromise-response) — Other · Cybersecurity, IT Operations · 2026-10-10
-- [Executive Impersonation Payment Fraud Response](https://intelligence.thearchon.eu/playbooks/executive-impersonation-payment-fraud-response) — Other · Cybersecurity, Governance · 2026-10-10
-- [High-Risk Change Approval and Execution](https://intelligence.thearchon.eu/playbooks/high-risk-change-approval-execution) — Other · IT Operations, Governance · 2026-10-10
 
 ## Insights (84)
 - [From “We Have a Culture” to “We Have Behaviors”](https://intelligence.thearchon.eu/articles/from-we-have-a-culture-to-we-have-behaviors) — Leadership & Organization · 2026-10-08
@@ -107,7 +107,8 @@ _Last generated: Sat, 10 Oct 2026 10:13:13 GMT (2026-10-10T10:13:13.333Z) · sou
 - [The UX of Hiring: Digital Transformation or GDPR Nightmare?](https://intelligence.thearchon.eu/articles/ux-hiring-digital-transformation-gdpr-nightmare-dimitris-mikedis-ztlrf) — Governance · 2026-04-21
 - [The Silent Reality of Today’s Job Market: Delays, Silence, and Unrealistic Expectations](https://intelligence.thearchon.eu/articles/silent-reality-todays-job-market-delays-silence-dimitris-mikedis-5wmxf) — Leadership & Organization · 2026-04-16
 
-## Guides (30)
+## Guides (31)
+- [When to Elevate a Security Incident to Executive Management](https://intelligence.thearchon.eu/guides/when-to-elevate-a-security-incident-to-executive-management) — Cybersecurity, Governance, Leadership & Organization · 2026-10-10
 - [Evaluating the Need for a Dedicated Cloud‑Native Security Team](https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-cloudnative-security-team) — Cybersecurity, Cloud, Governance · 2026-10-07
 - [Pre‑Migration Checklist for Critical Workloads in a Multi‑Cloud Strategy](https://intelligence.thearchon.eu/guides/premigration-checklist-for-critical-workloads-in-a-multicloud-strategy) — Cloud, Governance, Resilience, Cybersecurity · 2026-10-06
 - [What to Check Before Outsourcing Your Incident Management Function](https://intelligence.thearchon.eu/guides/what-to-check-before-outsourcing-your-incident-management-function) — Cybersecurity · 2026-10-05
@@ -213,7 +214,8 @@ _Last generated: Sat, 10 Oct 2026 10:13:13 GMT (2026-10-10T10:13:13.333Z) · sou
 - [The Employee Digital Lifecycle – From Hire to Retire](https://intelligence.thearchon.eu/infographics/the-employee-digital-lifecycle-from-hire-to-retire) — Identity, Cybersecurity, Governance · 2026-09-14
 - [Enterprise Governance of Employee‑Facing AI Agents](https://intelligence.thearchon.eu/infographics/enterprise-governance-of-employee-facing-ai-agents) — AI, Governance · 2026-09-14
 
-## Diagrams (43)
+## Diagrams (44)
+- [From AI Experiments to Engineered Enterprise Solutions](https://intelligence.thearchon.eu/diagrams/from-ai-experiments-to-engineered-enterprise-solutions) — AI · 2026-10-10
 - [AI-Driven SOC Market Landscape 2024‑2031](https://intelligence.thearchon.eu/diagrams/ai-driven-soc-market-landscape-2024-2031) — AI · 2026-10-09
 - [Mission‑Critical Database Sessions at Oracle AI World 2026](https://intelligence.thearchon.eu/diagrams/mission-critical-database-sessions-at-oracle-ai-world-2026) — Resilience · 2026-10-08
 - [U.S. Agentic AI Market: Hype vs Enterprise Reality](https://intelligence.thearchon.eu/diagrams/u-s-agentic-ai-market-hype-vs-enterprise-reality) — AI · 2026-10-08
