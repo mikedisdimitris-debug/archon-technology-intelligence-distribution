@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-10-10T09:54:54.246Z",
+  "generatedAt": "2026-10-10T10:13:13.333Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,10 +9,10 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 437,
+  "itemCount": 436,
   "familyCounts": {
     "Insights": 84,
-    "Guides": 31,
+    "Guides": 30,
     "Infographics": 72,
     "Diagrams": 43,
     "Carousels": 48,
@@ -21,24 +21,11 @@
     "Other": 125
   },
   "latestItem": {
-    "title": "When to Elevate a Security Incident to Executive Management",
-    "url": "https://intelligence.thearchon.eu/guides/when-to-elevate-a-security-incident-to-executive-management",
-    "publishedAt": "2026-10-10T09:33:46.000Z"
+    "title": "Pre‑Migration Checklist for Critical Workloads in a Multi‑Cloud Strategy",
+    "url": "https://intelligence.thearchon.eu/playbooks/premigration-checklist-for-critical-workloads-in-a-multicloud-strategy",
+    "publishedAt": "2026-10-10T07:55:04.000Z"
   },
   "items": [
-    {
-      "title": "When to Elevate a Security Incident to Executive Management",
-      "url": "https://intelligence.thearchon.eu/guides/when-to-elevate-a-security-incident-to-executive-management",
-      "guid": "https://intelligence.thearchon.eu/guides/when-to-elevate-a-security-incident-to-executive-management",
-      "family": "Guides",
-      "domains": [
-        "Cybersecurity",
-        "Governance",
-        "Leadership & Organization"
-      ],
-      "publishedAt": "2026-10-10T09:33:46.000Z",
-      "description": "Use incident‑handling best practices to decide if an incident warrants executive attention. Follow a concise process of data gathering, impact assessment, and escalation based on the severity of the breach and its effect on customers or operations."
-    },
     {
       "title": "Pre‑Migration Checklist for Critical Workloads in a Multi‑Cloud Strategy",
       "url": "https://intelligence.thearchon.eu/playbooks/premigration-checklist-for-critical-workloads-in-a-multicloud-strategy",
