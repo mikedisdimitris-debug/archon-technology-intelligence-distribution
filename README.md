@@ -5,11 +5,14 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Sat, 10 Oct 2026 15:51:54 GMT (2026-10-10T15:51:54.857Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Sun, 11 Oct 2026 11:16:26 GMT (2026-10-11T11:16:26.729Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**438 indexed items** across families: Insights (84) · Guides (31) · Infographics (72) · Diagrams (44) · Carousels (48) · Practical Intelligence (20) · Technology Evaluations (14) · Other (125)
+**441 indexed items** across families: Insights (84) · Guides (32) · Infographics (72) · Diagrams (44) · Carousels (48) · Practical Intelligence (20) · Technology Evaluations (14) · Other (127)
 
 ## Newest
+- [What to Check Before Consolidating Multiple Identity Providers](https://intelligence.thearchon.eu/guides/what-to-check-before-consolidating-multiple-identity-providers) — Guides · Identity, Cybersecurity · 2026-10-11
+- [Pre‑Automation Checklist for Critical Business Processes – Citrix NetScaler Vulnerabilities](https://intelligence.thearchon.eu/playbooks/preautomation-checklist-for-critical-business-processes-citrix-netscaler-vulnera) — Other · Cybersecurity, IT Operations, Governance, Resilience · 2026-10-11
+- [Pre‑Outsourcing Checklist for Incident Management Functions](https://intelligence.thearchon.eu/playbooks/preoutsourcing-checklist-for-incident-management-functions) — Other · Cybersecurity, Governance, IT Operations, Resilience · 2026-10-10
 - [From AI Experiments to Engineered Enterprise Solutions](https://intelligence.thearchon.eu/diagrams/from-ai-experiments-to-engineered-enterprise-solutions) — Diagrams · AI · 2026-10-10
 - [When to Elevate a Security Incident to Executive Management](https://intelligence.thearchon.eu/guides/when-to-elevate-a-security-incident-to-executive-management) — Guides · Cybersecurity, Governance, Leadership & Organization · 2026-10-10
 - [Pre‑Migration Checklist for Critical Workloads in a Multi‑Cloud Strategy](https://intelligence.thearchon.eu/playbooks/premigration-checklist-for-critical-workloads-in-a-multicloud-strategy) — Other · Cybersecurity, Cloud, Governance, Resilience, Leadership & Organization · 2026-10-10
@@ -17,9 +20,6 @@ _Last generated: Sat, 10 Oct 2026 15:51:54 GMT (2026-10-10T15:51:54.857Z) · sou
 - [Collaboration Platform Data Exposure Response](https://intelligence.thearchon.eu/playbooks/collaboration-platform-data-exposure-response) — Other · Cybersecurity, Cloud · 2026-10-10
 - [Compromised Mailbox Response](https://intelligence.thearchon.eu/playbooks/compromised-mailbox-response) — Other · Cybersecurity, Identity · 2026-10-10
 - [Critical SaaS / Vendor Outage Response](https://intelligence.thearchon.eu/playbooks/critical-saas-vendor-outage-response) — Other · IT Operations, Resilience · 2026-10-10
-- [Cross-Border Personal Data Breach Coordination](https://intelligence.thearchon.eu/playbooks/cross-border-personal-data-breach-coordination) — Other · Governance · 2026-10-10
-- [Emergency Change Control](https://intelligence.thearchon.eu/playbooks/emergency-change-control) — Other · IT Operations, Governance · 2026-10-10
-- [Engineering Workstation Compromise Response](https://intelligence.thearchon.eu/playbooks/engineering-workstation-compromise-response) — Other · Cybersecurity, IT Operations · 2026-10-10
 
 ## Insights (84)
 - [From “We Have a Culture” to “We Have Behaviors”](https://intelligence.thearchon.eu/articles/from-we-have-a-culture-to-we-have-behaviors) — Leadership & Organization · 2026-10-08
@@ -107,7 +107,8 @@ _Last generated: Sat, 10 Oct 2026 15:51:54 GMT (2026-10-10T15:51:54.857Z) · sou
 - [The UX of Hiring: Digital Transformation or GDPR Nightmare?](https://intelligence.thearchon.eu/articles/ux-hiring-digital-transformation-gdpr-nightmare-dimitris-mikedis-ztlrf) — Governance · 2026-04-21
 - [The Silent Reality of Today’s Job Market: Delays, Silence, and Unrealistic Expectations](https://intelligence.thearchon.eu/articles/silent-reality-todays-job-market-delays-silence-dimitris-mikedis-5wmxf) — Leadership & Organization · 2026-04-16
 
-## Guides (31)
+## Guides (32)
+- [What to Check Before Consolidating Multiple Identity Providers](https://intelligence.thearchon.eu/guides/what-to-check-before-consolidating-multiple-identity-providers) — Identity, Cybersecurity · 2026-10-11
 - [When to Elevate a Security Incident to Executive Management](https://intelligence.thearchon.eu/guides/when-to-elevate-a-security-incident-to-executive-management) — Cybersecurity, Governance, Leadership & Organization · 2026-10-10
 - [Evaluating the Need for a Dedicated Cloud‑Native Security Team](https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-cloudnative-security-team) — Cybersecurity, Cloud, Governance · 2026-10-07
 - [Pre‑Migration Checklist for Critical Workloads in a Multi‑Cloud Strategy](https://intelligence.thearchon.eu/guides/premigration-checklist-for-critical-workloads-in-a-multicloud-strategy) — Cloud, Governance, Resilience, Cybersecurity · 2026-10-06
@@ -348,7 +349,9 @@ _Last generated: Sat, 10 Oct 2026 15:51:54 GMT (2026-10-10T15:51:54.857Z) · sou
 - [ManageEngine PAM360: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-pam360) — Identity, Cybersecurity, Governance
 - [ManageEngine ServiceDesk Plus: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-servicedesk-plus) — IT Operations, Governance
 
-## Other (125)
+## Other (127)
+- [Pre‑Automation Checklist for Critical Business Processes – Citrix NetScaler Vulnerabilities](https://intelligence.thearchon.eu/playbooks/preautomation-checklist-for-critical-business-processes-citrix-netscaler-vulnera) — Cybersecurity, IT Operations, Governance, Resilience · 2026-10-11
+- [Pre‑Outsourcing Checklist for Incident Management Functions](https://intelligence.thearchon.eu/playbooks/preoutsourcing-checklist-for-incident-management-functions) — Cybersecurity, Governance, IT Operations, Resilience · 2026-10-10
 - [Pre‑Migration Checklist for Critical Workloads in a Multi‑Cloud Strategy](https://intelligence.thearchon.eu/playbooks/premigration-checklist-for-critical-workloads-in-a-multicloud-strategy) — Cybersecurity, Cloud, Governance, Resilience, Leadership & Organization · 2026-10-10
 - [Change Freeze Activation and Release](https://intelligence.thearchon.eu/playbooks/change-freeze-activation-release) — IT Operations, Governance · 2026-10-10
 - [Collaboration Platform Data Exposure Response](https://intelligence.thearchon.eu/playbooks/collaboration-platform-data-exposure-response) — Cybersecurity, Cloud · 2026-10-10

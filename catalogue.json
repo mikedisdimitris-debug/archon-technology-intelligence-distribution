@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-10-10T15:51:54.857Z",
+  "generatedAt": "2026-10-11T11:16:26.729Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,63 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 438,
+  "itemCount": 441,
   "familyCounts": {
     "Insights": 84,
-    "Guides": 31,
+    "Guides": 32,
     "Infographics": 72,
     "Diagrams": 44,
     "Carousels": 48,
     "Practical Intelligence": 20,
     "Technology Evaluations": 14,
-    "Other": 125
+    "Other": 127
   },
   "latestItem": {
-    "title": "From AI Experiments to Engineered Enterprise Solutions",
-    "url": "https://intelligence.thearchon.eu/diagrams/from-ai-experiments-to-engineered-enterprise-solutions",
-    "publishedAt": "2026-10-10T13:45:43.000Z"
+    "title": "What to Check Before Consolidating Multiple Identity Providers",
+    "url": "https://intelligence.thearchon.eu/guides/what-to-check-before-consolidating-multiple-identity-providers",
+    "publishedAt": "2026-10-11T09:33:49.000Z"
   },
   "items": [
+    {
+      "title": "What to Check Before Consolidating Multiple Identity Providers",
+      "url": "https://intelligence.thearchon.eu/guides/what-to-check-before-consolidating-multiple-identity-providers",
+      "guid": "https://intelligence.thearchon.eu/guides/what-to-check-before-consolidating-multiple-identity-providers",
+      "family": "Guides",
+      "domains": [
+        "Identity",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-11T09:33:49.000Z",
+      "description": "Consolidating identity providers can simplify access management, but only if token security, multi‑factor authentication, and protocol compatibility are verified. Follow these checks to avoid exposing tokens, weakening MFA, or breaking federation."
+    },
+    {
+      "title": "Pre‑Automation Checklist for Critical Business Processes – Citrix NetScaler Vulnerabilities",
+      "url": "https://intelligence.thearchon.eu/playbooks/preautomation-checklist-for-critical-business-processes-citrix-netscaler-vulnera",
+      "guid": "https://intelligence.thearchon.eu/playbooks/preautomation-checklist-for-critical-business-processes-citrix-netscaler-vulnera",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Governance",
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-11T06:19:45.000Z",
+      "description": "Identify, assess, and remediate critical NetScaler ADC/Gateway deployments before automating processes, ensuring patches are applied and evidence is captured."
+    },
+    {
+      "title": "Pre‑Outsourcing Checklist for Incident Management Functions",
+      "url": "https://intelligence.thearchon.eu/playbooks/preoutsourcing-checklist-for-incident-management-functions",
+      "guid": "https://intelligence.thearchon.eu/playbooks/preoutsourcing-checklist-for-incident-management-functions",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Governance",
+        "IT Operations",
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-10T17:03:09.000Z",
+      "description": "Validate that a third‑party incident management provider meets CISA, NIST, and NCSC requirements before signing a contract."
+    },
     {
       "title": "From AI Experiments to Engineered Enterprise Solutions",
       "url": "https://intelligence.thearchon.eu/diagrams/from-ai-experiments-to-engineered-enterprise-solutions",
