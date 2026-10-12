@@ -5,21 +5,21 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Sun, 11 Oct 2026 11:16:26 GMT (2026-10-11T11:16:26.729Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Mon, 12 Oct 2026 12:51:02 GMT (2026-10-12T12:51:02.724Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**441 indexed items** across families: Insights (84) · Guides (32) · Infographics (72) · Diagrams (44) · Carousels (48) · Practical Intelligence (20) · Technology Evaluations (14) · Other (127)
+**446 indexed items** across families: Insights (84) · Guides (33) · Infographics (72) · Diagrams (45) · Carousels (48) · Practical Intelligence (22) · Technology Evaluations (14) · Other (128)
 
 ## Newest
+- [Evaluating the Need for a Dedicated AI‑Model Monitoring Function](https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-aimodel-monitoring-function) — Guides · AI, Cybersecurity, Governance · 2026-10-12
+- [Employee Technology Lifecycle Governance](https://intelligence.thearchon.eu/quizzes/employee-technology-lifecycle-governance-701838) — Practical Intelligence · Identity · 2026-10-12
+- [Consolidate Vendors and Tools to Reduce Enterprise Risk](https://intelligence.thearchon.eu/checklists/consolidate-vendors-and-tools-to-reduce-enterprise-risk-c6ef1b) — Practical Intelligence · Cybersecurity · 2026-10-12
+- [US DOJ Disrupts China-linked Hacking Tools](https://intelligence.thearchon.eu/diagrams/us-doj-disrupts-china-linked-hacking-tools) — Diagrams · Cybersecurity · 2026-10-12
+- [Verifying Readiness Before Handing Incident Ownership to a New Team](https://intelligence.thearchon.eu/playbooks/verifying-readiness-before-handing-incident-ownership-to-a-new-team) — Other · Cybersecurity, Resilience, Leadership & Organization, IT Operations · 2026-10-12
 - [What to Check Before Consolidating Multiple Identity Providers](https://intelligence.thearchon.eu/guides/what-to-check-before-consolidating-multiple-identity-providers) — Guides · Identity, Cybersecurity · 2026-10-11
 - [Pre‑Automation Checklist for Critical Business Processes – Citrix NetScaler Vulnerabilities](https://intelligence.thearchon.eu/playbooks/preautomation-checklist-for-critical-business-processes-citrix-netscaler-vulnera) — Other · Cybersecurity, IT Operations, Governance, Resilience · 2026-10-11
 - [Pre‑Outsourcing Checklist for Incident Management Functions](https://intelligence.thearchon.eu/playbooks/preoutsourcing-checklist-for-incident-management-functions) — Other · Cybersecurity, Governance, IT Operations, Resilience · 2026-10-10
 - [From AI Experiments to Engineered Enterprise Solutions](https://intelligence.thearchon.eu/diagrams/from-ai-experiments-to-engineered-enterprise-solutions) — Diagrams · AI · 2026-10-10
 - [When to Elevate a Security Incident to Executive Management](https://intelligence.thearchon.eu/guides/when-to-elevate-a-security-incident-to-executive-management) — Guides · Cybersecurity, Governance, Leadership & Organization · 2026-10-10
-- [Pre‑Migration Checklist for Critical Workloads in a Multi‑Cloud Strategy](https://intelligence.thearchon.eu/playbooks/premigration-checklist-for-critical-workloads-in-a-multicloud-strategy) — Other · Cybersecurity, Cloud, Governance, Resilience, Leadership & Organization · 2026-10-10
-- [Change Freeze Activation and Release](https://intelligence.thearchon.eu/playbooks/change-freeze-activation-release) — Other · IT Operations, Governance · 2026-10-10
-- [Collaboration Platform Data Exposure Response](https://intelligence.thearchon.eu/playbooks/collaboration-platform-data-exposure-response) — Other · Cybersecurity, Cloud · 2026-10-10
-- [Compromised Mailbox Response](https://intelligence.thearchon.eu/playbooks/compromised-mailbox-response) — Other · Cybersecurity, Identity · 2026-10-10
-- [Critical SaaS / Vendor Outage Response](https://intelligence.thearchon.eu/playbooks/critical-saas-vendor-outage-response) — Other · IT Operations, Resilience · 2026-10-10
 
 ## Insights (84)
 - [From “We Have a Culture” to “We Have Behaviors”](https://intelligence.thearchon.eu/articles/from-we-have-a-culture-to-we-have-behaviors) — Leadership & Organization · 2026-10-08
@@ -107,7 +107,8 @@ _Last generated: Sun, 11 Oct 2026 11:16:26 GMT (2026-10-11T11:16:26.729Z) · sou
 - [The UX of Hiring: Digital Transformation or GDPR Nightmare?](https://intelligence.thearchon.eu/articles/ux-hiring-digital-transformation-gdpr-nightmare-dimitris-mikedis-ztlrf) — Governance · 2026-04-21
 - [The Silent Reality of Today’s Job Market: Delays, Silence, and Unrealistic Expectations](https://intelligence.thearchon.eu/articles/silent-reality-todays-job-market-delays-silence-dimitris-mikedis-5wmxf) — Leadership & Organization · 2026-04-16
 
-## Guides (32)
+## Guides (33)
+- [Evaluating the Need for a Dedicated AI‑Model Monitoring Function](https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-aimodel-monitoring-function) — AI, Cybersecurity, Governance · 2026-10-12
 - [What to Check Before Consolidating Multiple Identity Providers](https://intelligence.thearchon.eu/guides/what-to-check-before-consolidating-multiple-identity-providers) — Identity, Cybersecurity · 2026-10-11
 - [When to Elevate a Security Incident to Executive Management](https://intelligence.thearchon.eu/guides/when-to-elevate-a-security-incident-to-executive-management) — Cybersecurity, Governance, Leadership & Organization · 2026-10-10
 - [Evaluating the Need for a Dedicated Cloud‑Native Security Team](https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-cloudnative-security-team) — Cybersecurity, Cloud, Governance · 2026-10-07
@@ -215,7 +216,8 @@ _Last generated: Sun, 11 Oct 2026 11:16:26 GMT (2026-10-11T11:16:26.729Z) · sou
 - [The Employee Digital Lifecycle – From Hire to Retire](https://intelligence.thearchon.eu/infographics/the-employee-digital-lifecycle-from-hire-to-retire) — Identity, Cybersecurity, Governance · 2026-09-14
 - [Enterprise Governance of Employee‑Facing AI Agents](https://intelligence.thearchon.eu/infographics/enterprise-governance-of-employee-facing-ai-agents) — AI, Governance · 2026-09-14
 
-## Diagrams (44)
+## Diagrams (45)
+- [US DOJ Disrupts China-linked Hacking Tools](https://intelligence.thearchon.eu/diagrams/us-doj-disrupts-china-linked-hacking-tools) — Cybersecurity · 2026-10-12
 - [From AI Experiments to Engineered Enterprise Solutions](https://intelligence.thearchon.eu/diagrams/from-ai-experiments-to-engineered-enterprise-solutions) — AI · 2026-10-10
 - [AI-Driven SOC Market Landscape 2024‑2031](https://intelligence.thearchon.eu/diagrams/ai-driven-soc-market-landscape-2024-2031) — AI · 2026-10-09
 - [Mission‑Critical Database Sessions at Oracle AI World 2026](https://intelligence.thearchon.eu/diagrams/mission-critical-database-sessions-at-oracle-ai-world-2026) — Resilience · 2026-10-08
@@ -311,7 +313,9 @@ _Last generated: Sun, 11 Oct 2026 11:16:26 GMT (2026-10-11T11:16:26.729Z) · sou
 - [Why IT Service Management (ITSM) Is Essential for Modern Enterprises](https://intelligence.thearchon.eu/carousels/why-it-service-management-itsm-is-essential-for-modern-enterprises) — IT Operations, Governance, Resilience, Cloud, Cybersecurity · 2026-09-18
 - [AI Governance: Who Controls the AI Agent?](https://intelligence.thearchon.eu/carousels/ai-governance-who-controls-the-ai-agent) — AI, Governance, Cybersecurity, Resilience · 2026-09-18
 
-## Practical Intelligence (20)
+## Practical Intelligence (22)
+- [Employee Technology Lifecycle Governance](https://intelligence.thearchon.eu/quizzes/employee-technology-lifecycle-governance-701838) — Identity · 2026-10-12
+- [Consolidate Vendors and Tools to Reduce Enterprise Risk](https://intelligence.thearchon.eu/checklists/consolidate-vendors-and-tools-to-reduce-enterprise-risk-c6ef1b) — Cybersecurity · 2026-10-12
 - [The Importance of Governance in Organizational Transformation](https://intelligence.thearchon.eu/quizzes/the-importance-of-governance-in-organizational-transformation-7a6564) — Governance · 2026-10-05
 - [Governance Models Across IT Transformation Frameworks](https://intelligence.thearchon.eu/comparisons/governance-models-across-it-transformation-frameworks-9a891a) — IT Operations · 2026-10-05
 - [Governance Checklist for Cloud Migration](https://intelligence.thearchon.eu/checklists/governance-checklist-for-cloud-migration-80634d) — Cloud · 2026-10-05
@@ -349,7 +353,8 @@ _Last generated: Sun, 11 Oct 2026 11:16:26 GMT (2026-10-11T11:16:26.729Z) · sou
 - [ManageEngine PAM360: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-pam360) — Identity, Cybersecurity, Governance
 - [ManageEngine ServiceDesk Plus: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-servicedesk-plus) — IT Operations, Governance
 
-## Other (127)
+## Other (128)
+- [Verifying Readiness Before Handing Incident Ownership to a New Team](https://intelligence.thearchon.eu/playbooks/verifying-readiness-before-handing-incident-ownership-to-a-new-team) — Cybersecurity, Resilience, Leadership & Organization, IT Operations · 2026-10-12
 - [Pre‑Automation Checklist for Critical Business Processes – Citrix NetScaler Vulnerabilities](https://intelligence.thearchon.eu/playbooks/preautomation-checklist-for-critical-business-processes-citrix-netscaler-vulnera) — Cybersecurity, IT Operations, Governance, Resilience · 2026-10-11
 - [Pre‑Outsourcing Checklist for Incident Management Functions](https://intelligence.thearchon.eu/playbooks/preoutsourcing-checklist-for-incident-management-functions) — Cybersecurity, Governance, IT Operations, Resilience · 2026-10-10
 - [Pre‑Migration Checklist for Critical Workloads in a Multi‑Cloud Strategy](https://intelligence.thearchon.eu/playbooks/premigration-checklist-for-critical-workloads-in-a-multicloud-strategy) — Cybersecurity, Cloud, Governance, Resilience, Leadership & Organization · 2026-10-10

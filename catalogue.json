@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-10-11T11:16:26.729Z",
+  "generatedAt": "2026-10-12T12:51:02.724Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,83 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 441,
+  "itemCount": 446,
   "familyCounts": {
     "Insights": 84,
-    "Guides": 32,
+    "Guides": 33,
     "Infographics": 72,
-    "Diagrams": 44,
+    "Diagrams": 45,
     "Carousels": 48,
-    "Practical Intelligence": 20,
+    "Practical Intelligence": 22,
     "Technology Evaluations": 14,
-    "Other": 127
+    "Other": 128
   },
   "latestItem": {
-    "title": "What to Check Before Consolidating Multiple Identity Providers",
-    "url": "https://intelligence.thearchon.eu/guides/what-to-check-before-consolidating-multiple-identity-providers",
-    "publishedAt": "2026-10-11T09:33:49.000Z"
+    "title": "Evaluating the Need for a Dedicated AI‑Model Monitoring Function",
+    "url": "https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-aimodel-monitoring-function",
+    "publishedAt": "2026-10-12T09:33:48.000Z"
   },
   "items": [
+    {
+      "title": "Evaluating the Need for a Dedicated AI‑Model Monitoring Function",
+      "url": "https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-aimodel-monitoring-function",
+      "guid": "https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-aimodel-monitoring-function",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-12T09:33:48.000Z",
+      "description": "Use this guide to decide whether your organisation should create a dedicated function that continuously observes AI models, detects unintended behaviour, and supports regulatory compliance."
+    },
+    {
+      "title": "Employee Technology Lifecycle Governance",
+      "url": "https://intelligence.thearchon.eu/quizzes/employee-technology-lifecycle-governance-701838",
+      "guid": "https://intelligence.thearchon.eu/quizzes/employee-technology-lifecycle-governance-701838",
+      "family": "Practical Intelligence",
+      "domains": [
+        "Identity"
+      ],
+      "publishedAt": "2026-10-12T08:58:30.000Z",
+      "description": "Built from 3 related articles on Identity."
+    },
+    {
+      "title": "Consolidate Vendors and Tools to Reduce Enterprise Risk",
+      "url": "https://intelligence.thearchon.eu/checklists/consolidate-vendors-and-tools-to-reduce-enterprise-risk-c6ef1b",
+      "guid": "https://intelligence.thearchon.eu/checklists/consolidate-vendors-and-tools-to-reduce-enterprise-risk-c6ef1b",
+      "family": "Practical Intelligence",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-12T08:58:16.000Z",
+      "description": "Built from 3 related articles on Cybersecurity."
+    },
+    {
+      "title": "US DOJ Disrupts China-linked Hacking Tools",
+      "url": "https://intelligence.thearchon.eu/diagrams/us-doj-disrupts-china-linked-hacking-tools",
+      "guid": "https://intelligence.thearchon.eu/diagrams/us-doj-disrupts-china-linked-hacking-tools",
+      "family": "Diagrams",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-12T07:23:59.000Z",
+      "description": "Executive view of how the Justice Department detects, assesses, and neutralizes malicious hacking tools linked to China, highlighting key decision points and remediation loops."
+    },
+    {
+      "title": "Verifying Readiness Before Handing Incident Ownership to a New Team",
+      "url": "https://intelligence.thearchon.eu/playbooks/verifying-readiness-before-handing-incident-ownership-to-a-new-team",
+      "guid": "https://intelligence.thearchon.eu/playbooks/verifying-readiness-before-handing-incident-ownership-to-a-new-team",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Resilience",
+        "Leadership & Organization",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-10-12T06:19:46.000Z",
+      "description": "Before transferring incident ownership, confirm the new team's structure, roles, responsibilities, and availability, ensuring central coordination and deputy coverage."
+    },
     {
       "title": "What to Check Before Consolidating Multiple Identity Providers",
       "url": "https://intelligence.thearchon.eu/guides/what-to-check-before-consolidating-multiple-identity-providers",
