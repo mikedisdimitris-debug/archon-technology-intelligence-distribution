@@ -5,23 +5,24 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Mon, 12 Oct 2026 12:51:02 GMT (2026-10-12T12:51:02.724Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Tue, 13 Oct 2026 12:29:53 GMT (2026-10-13T12:29:53.281Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**446 indexed items** across families: Insights (84) · Guides (33) · Infographics (72) · Diagrams (45) · Carousels (48) · Practical Intelligence (22) · Technology Evaluations (14) · Other (128)
+**453 indexed items** across families: Insights (85) · Guides (34) · Infographics (72) · Diagrams (47) · Carousels (48) · Practical Intelligence (23) · Technology Evaluations (14) · Other (130)
 
 ## Newest
+- [Deciding on a Dedicated Incident‑Postmortem Owner](https://intelligence.thearchon.eu/guides/deciding-on-a-dedicated-incidentpostmortem-owner) — Guides · Cybersecurity, IT Operations, Governance · 2026-10-13
+- [Hidden Costs of Decision‑Making Inefficiency](https://intelligence.thearchon.eu/comparisons/hidden-costs-of-decision-making-inefficiency-fb02de) — Practical Intelligence · Leadership & Organization · 2026-10-13
+- [Why Companies Are Quietly Shrinking Their Office Footprints](https://intelligence.thearchon.eu/articles/why-companies-are-quietly-shrinking-their-office-footprints) — Insights · Leadership & Organization · 2026-10-13
+- [AI Governance at the Core of Enterprise AI](https://intelligence.thearchon.eu/diagrams/ai-governance-at-the-core-of-enterprise-ai) — Diagrams · AI · 2026-10-13
+- [Closing a Critical Skills Gap Without Hiring](https://intelligence.thearchon.eu/playbooks/closing-a-critical-skills-gap-without-hiring) — Other · Leadership & Organization, Resilience, IT Operations, Cybersecurity · 2026-10-13
+- [Organizational Impact Checklist for Generative AI in Customer Support](https://intelligence.thearchon.eu/playbooks/organizational-impact-checklist-for-generative-ai-in-customer-support) — Other · Cybersecurity, AI, Governance, Leadership & Organization · 2026-10-13
+- [AI Governance at Scale: One Policy, Thousands of Agents](https://intelligence.thearchon.eu/diagrams/ai-governance-at-scale-one-policy-thousands-of-agents) — Diagrams · AI · 2026-10-12
 - [Evaluating the Need for a Dedicated AI‑Model Monitoring Function](https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-aimodel-monitoring-function) — Guides · AI, Cybersecurity, Governance · 2026-10-12
 - [Employee Technology Lifecycle Governance](https://intelligence.thearchon.eu/quizzes/employee-technology-lifecycle-governance-701838) — Practical Intelligence · Identity · 2026-10-12
 - [Consolidate Vendors and Tools to Reduce Enterprise Risk](https://intelligence.thearchon.eu/checklists/consolidate-vendors-and-tools-to-reduce-enterprise-risk-c6ef1b) — Practical Intelligence · Cybersecurity · 2026-10-12
-- [US DOJ Disrupts China-linked Hacking Tools](https://intelligence.thearchon.eu/diagrams/us-doj-disrupts-china-linked-hacking-tools) — Diagrams · Cybersecurity · 2026-10-12
-- [Verifying Readiness Before Handing Incident Ownership to a New Team](https://intelligence.thearchon.eu/playbooks/verifying-readiness-before-handing-incident-ownership-to-a-new-team) — Other · Cybersecurity, Resilience, Leadership & Organization, IT Operations · 2026-10-12
-- [What to Check Before Consolidating Multiple Identity Providers](https://intelligence.thearchon.eu/guides/what-to-check-before-consolidating-multiple-identity-providers) — Guides · Identity, Cybersecurity · 2026-10-11
-- [Pre‑Automation Checklist for Critical Business Processes – Citrix NetScaler Vulnerabilities](https://intelligence.thearchon.eu/playbooks/preautomation-checklist-for-critical-business-processes-citrix-netscaler-vulnera) — Other · Cybersecurity, IT Operations, Governance, Resilience · 2026-10-11
-- [Pre‑Outsourcing Checklist for Incident Management Functions](https://intelligence.thearchon.eu/playbooks/preoutsourcing-checklist-for-incident-management-functions) — Other · Cybersecurity, Governance, IT Operations, Resilience · 2026-10-10
-- [From AI Experiments to Engineered Enterprise Solutions](https://intelligence.thearchon.eu/diagrams/from-ai-experiments-to-engineered-enterprise-solutions) — Diagrams · AI · 2026-10-10
-- [When to Elevate a Security Incident to Executive Management](https://intelligence.thearchon.eu/guides/when-to-elevate-a-security-incident-to-executive-management) — Guides · Cybersecurity, Governance, Leadership & Organization · 2026-10-10
 
-## Insights (84)
+## Insights (85)
+- [Why Companies Are Quietly Shrinking Their Office Footprints](https://intelligence.thearchon.eu/articles/why-companies-are-quietly-shrinking-their-office-footprints) — Leadership & Organization · 2026-10-13
 - [From “We Have a Culture” to “We Have Behaviors”](https://intelligence.thearchon.eu/articles/from-we-have-a-culture-to-we-have-behaviors) — Leadership & Organization · 2026-10-08
 - [The New Inequality Inside Companies: Those Who Understand Technology vs Those Who Just Use It](https://intelligence.thearchon.eu/articles/the-new-inequality-inside-companies-those-who-understand-technology-vs-those-who-just-use-it) — Leadership & Organization · 2026-10-05
 - [When a Browser Tab Became a SaaS Incident](https://intelligence.thearchon.eu/articles/when-a-browser-tab-became-a-saas-incident) — IT Operations, Governance · 2026-10-02
@@ -107,7 +108,8 @@ _Last generated: Mon, 12 Oct 2026 12:51:02 GMT (2026-10-12T12:51:02.724Z) · sou
 - [The UX of Hiring: Digital Transformation or GDPR Nightmare?](https://intelligence.thearchon.eu/articles/ux-hiring-digital-transformation-gdpr-nightmare-dimitris-mikedis-ztlrf) — Governance · 2026-04-21
 - [The Silent Reality of Today’s Job Market: Delays, Silence, and Unrealistic Expectations](https://intelligence.thearchon.eu/articles/silent-reality-todays-job-market-delays-silence-dimitris-mikedis-5wmxf) — Leadership & Organization · 2026-04-16
 
-## Guides (33)
+## Guides (34)
+- [Deciding on a Dedicated Incident‑Postmortem Owner](https://intelligence.thearchon.eu/guides/deciding-on-a-dedicated-incidentpostmortem-owner) — Cybersecurity, IT Operations, Governance · 2026-10-13
 - [Evaluating the Need for a Dedicated AI‑Model Monitoring Function](https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-aimodel-monitoring-function) — AI, Cybersecurity, Governance · 2026-10-12
 - [What to Check Before Consolidating Multiple Identity Providers](https://intelligence.thearchon.eu/guides/what-to-check-before-consolidating-multiple-identity-providers) — Identity, Cybersecurity · 2026-10-11
 - [When to Elevate a Security Incident to Executive Management](https://intelligence.thearchon.eu/guides/when-to-elevate-a-security-incident-to-executive-management) — Cybersecurity, Governance, Leadership & Organization · 2026-10-10
@@ -216,7 +218,9 @@ _Last generated: Mon, 12 Oct 2026 12:51:02 GMT (2026-10-12T12:51:02.724Z) · sou
 - [The Employee Digital Lifecycle – From Hire to Retire](https://intelligence.thearchon.eu/infographics/the-employee-digital-lifecycle-from-hire-to-retire) — Identity, Cybersecurity, Governance · 2026-09-14
 - [Enterprise Governance of Employee‑Facing AI Agents](https://intelligence.thearchon.eu/infographics/enterprise-governance-of-employee-facing-ai-agents) — AI, Governance · 2026-09-14
 
-## Diagrams (45)
+## Diagrams (47)
+- [AI Governance at the Core of Enterprise AI](https://intelligence.thearchon.eu/diagrams/ai-governance-at-the-core-of-enterprise-ai) — AI · 2026-10-13
+- [AI Governance at Scale: One Policy, Thousands of Agents](https://intelligence.thearchon.eu/diagrams/ai-governance-at-scale-one-policy-thousands-of-agents) — AI · 2026-10-12
 - [US DOJ Disrupts China-linked Hacking Tools](https://intelligence.thearchon.eu/diagrams/us-doj-disrupts-china-linked-hacking-tools) — Cybersecurity · 2026-10-12
 - [From AI Experiments to Engineered Enterprise Solutions](https://intelligence.thearchon.eu/diagrams/from-ai-experiments-to-engineered-enterprise-solutions) — AI · 2026-10-10
 - [AI-Driven SOC Market Landscape 2024‑2031](https://intelligence.thearchon.eu/diagrams/ai-driven-soc-market-landscape-2024-2031) — AI · 2026-10-09
@@ -313,7 +317,8 @@ _Last generated: Mon, 12 Oct 2026 12:51:02 GMT (2026-10-12T12:51:02.724Z) · sou
 - [Why IT Service Management (ITSM) Is Essential for Modern Enterprises](https://intelligence.thearchon.eu/carousels/why-it-service-management-itsm-is-essential-for-modern-enterprises) — IT Operations, Governance, Resilience, Cloud, Cybersecurity · 2026-09-18
 - [AI Governance: Who Controls the AI Agent?](https://intelligence.thearchon.eu/carousels/ai-governance-who-controls-the-ai-agent) — AI, Governance, Cybersecurity, Resilience · 2026-09-18
 
-## Practical Intelligence (22)
+## Practical Intelligence (23)
+- [Hidden Costs of Decision‑Making Inefficiency](https://intelligence.thearchon.eu/comparisons/hidden-costs-of-decision-making-inefficiency-fb02de) — Leadership & Organization · 2026-10-13
 - [Employee Technology Lifecycle Governance](https://intelligence.thearchon.eu/quizzes/employee-technology-lifecycle-governance-701838) — Identity · 2026-10-12
 - [Consolidate Vendors and Tools to Reduce Enterprise Risk](https://intelligence.thearchon.eu/checklists/consolidate-vendors-and-tools-to-reduce-enterprise-risk-c6ef1b) — Cybersecurity · 2026-10-12
 - [The Importance of Governance in Organizational Transformation](https://intelligence.thearchon.eu/quizzes/the-importance-of-governance-in-organizational-transformation-7a6564) — Governance · 2026-10-05
@@ -353,7 +358,9 @@ _Last generated: Mon, 12 Oct 2026 12:51:02 GMT (2026-10-12T12:51:02.724Z) · sou
 - [ManageEngine PAM360: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-pam360) — Identity, Cybersecurity, Governance
 - [ManageEngine ServiceDesk Plus: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-servicedesk-plus) — IT Operations, Governance
 
-## Other (128)
+## Other (130)
+- [Closing a Critical Skills Gap Without Hiring](https://intelligence.thearchon.eu/playbooks/closing-a-critical-skills-gap-without-hiring) — Leadership & Organization, Resilience, IT Operations, Cybersecurity · 2026-10-13
+- [Organizational Impact Checklist for Generative AI in Customer Support](https://intelligence.thearchon.eu/playbooks/organizational-impact-checklist-for-generative-ai-in-customer-support) — Cybersecurity, AI, Governance, Leadership & Organization · 2026-10-13
 - [Verifying Readiness Before Handing Incident Ownership to a New Team](https://intelligence.thearchon.eu/playbooks/verifying-readiness-before-handing-incident-ownership-to-a-new-team) — Cybersecurity, Resilience, Leadership & Organization, IT Operations · 2026-10-12
 - [Pre‑Automation Checklist for Critical Business Processes – Citrix NetScaler Vulnerabilities](https://intelligence.thearchon.eu/playbooks/preautomation-checklist-for-critical-business-processes-citrix-netscaler-vulnera) — Cybersecurity, IT Operations, Governance, Resilience · 2026-10-11
 - [Pre‑Outsourcing Checklist for Incident Management Functions](https://intelligence.thearchon.eu/playbooks/preoutsourcing-checklist-for-incident-management-functions) — Cybersecurity, Governance, IT Operations, Resilience · 2026-10-10

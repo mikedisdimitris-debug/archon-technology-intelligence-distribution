@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-10-12T12:51:02.724Z",
+  "generatedAt": "2026-10-13T12:29:53.281Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,108 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 446,
+  "itemCount": 453,
   "familyCounts": {
-    "Insights": 84,
-    "Guides": 33,
+    "Insights": 85,
+    "Guides": 34,
     "Infographics": 72,
-    "Diagrams": 45,
+    "Diagrams": 47,
     "Carousels": 48,
-    "Practical Intelligence": 22,
+    "Practical Intelligence": 23,
     "Technology Evaluations": 14,
-    "Other": 128
+    "Other": 130
   },
   "latestItem": {
-    "title": "Evaluating the Need for a Dedicated AI‑Model Monitoring Function",
-    "url": "https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-aimodel-monitoring-function",
-    "publishedAt": "2026-10-12T09:33:48.000Z"
+    "title": "Deciding on a Dedicated Incident‑Postmortem Owner",
+    "url": "https://intelligence.thearchon.eu/guides/deciding-on-a-dedicated-incidentpostmortem-owner",
+    "publishedAt": "2026-10-13T09:33:53.000Z"
   },
   "items": [
+    {
+      "title": "Deciding on a Dedicated Incident‑Postmortem Owner",
+      "url": "https://intelligence.thearchon.eu/guides/deciding-on-a-dedicated-incidentpostmortem-owner",
+      "guid": "https://intelligence.thearchon.eu/guides/deciding-on-a-dedicated-incidentpostmortem-owner",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-13T09:33:53.000Z",
+      "description": "Use this short guide to determine if your organization needs a dedicated owner for incident postmortems, based on preparation needs, team size, and the baseline practices recommended for effective incident management."
+    },
+    {
+      "title": "Hidden Costs of Decision‑Making Inefficiency",
+      "url": "https://intelligence.thearchon.eu/comparisons/hidden-costs-of-decision-making-inefficiency-fb02de",
+      "guid": "https://intelligence.thearchon.eu/comparisons/hidden-costs-of-decision-making-inefficiency-fb02de",
+      "family": "Practical Intelligence",
+      "domains": [
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-10-13T08:58:17.000Z",
+      "description": "Built from 3 related articles on Leadership & Organization."
+    },
+    {
+      "title": "Why Companies Are Quietly Shrinking Their Office Footprints",
+      "url": "https://intelligence.thearchon.eu/articles/why-companies-are-quietly-shrinking-their-office-footprints",
+      "guid": "https://intelligence.thearchon.eu/articles/why-companies-are-quietly-shrinking-their-office-footprints",
+      "family": "Insights",
+      "domains": [
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-10-13T08:27:00.000Z",
+      "description": "Leaders who own one of the largest fixed costs in the business and need to know whether they are paying for space the organisation actually uses."
+    },
+    {
+      "title": "AI Governance at the Core of Enterprise AI",
+      "url": "https://intelligence.thearchon.eu/diagrams/ai-governance-at-the-core-of-enterprise-ai",
+      "guid": "https://intelligence.thearchon.eu/diagrams/ai-governance-at-the-core-of-enterprise-ai",
+      "family": "Diagrams",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-13T07:45:19.000Z",
+      "description": "A concise capability model showing how HCLTech services, Anthropic foundation models, and a central AI Governance Framework work together to deliver compliant, monitored, and value‑driven AI across the enterprise."
+    },
+    {
+      "title": "Closing a Critical Skills Gap Without Hiring",
+      "url": "https://intelligence.thearchon.eu/playbooks/closing-a-critical-skills-gap-without-hiring",
+      "guid": "https://intelligence.thearchon.eu/playbooks/closing-a-critical-skills-gap-without-hiring",
+      "family": "Other",
+      "domains": [
+        "Leadership & Organization",
+        "Resilience",
+        "IT Operations",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-13T06:19:47.000Z",
+      "description": "This playbook outlines actions to address critical skills gaps within an organization without resorting to new hires, focusing on upskilling and leveraging existing frameworks."
+    },
+    {
+      "title": "Organizational Impact Checklist for Generative AI in Customer Support",
+      "url": "https://intelligence.thearchon.eu/playbooks/organizational-impact-checklist-for-generative-ai-in-customer-support",
+      "guid": "https://intelligence.thearchon.eu/playbooks/organizational-impact-checklist-for-generative-ai-in-customer-support",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "AI",
+        "Governance",
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-10-13T06:19:41.000Z",
+      "description": "Identify and control unauthorized generative AI tools used in customer support, assess compliance with the EU AI Act and security risks, and establish governance before continued use."
+    },
+    {
+      "title": "AI Governance at Scale: One Policy, Thousands of Agents",
+      "url": "https://intelligence.thearchon.eu/diagrams/ai-governance-at-scale-one-policy-thousands-of-agents",
+      "guid": "https://intelligence.thearchon.eu/diagrams/ai-governance-at-scale-one-policy-thousands-of-agents",
+      "family": "Diagrams",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-12T17:58:02.000Z",
+      "description": "An executive view of the core components that must interact to enforce a single AI policy across a massive fleet of autonomous agents, and the points where scale‑induced breakdowns occur."
+    },
     {
       "title": "Evaluating the Need for a Dedicated AI‑Model Monitoring Function",
       "url": "https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-aimodel-monitoring-function",
