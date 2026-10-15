@@ -5,11 +5,14 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Tue, 13 Oct 2026 12:29:53 GMT (2026-10-13T12:29:53.281Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Thu, 15 Oct 2026 09:39:17 GMT (2026-10-15T09:39:17.310Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**453 indexed items** across families: Insights (85) · Guides (34) · Infographics (72) · Diagrams (47) · Carousels (48) · Practical Intelligence (23) · Technology Evaluations (14) · Other (130)
+**456 indexed items** across families: Insights (85) · Guides (34) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (23) · Technology Evaluations (14) · Other (132)
 
 ## Newest
+- [Governance Evaluation Checklist for Deploying Generative AI in Customer‑Facing Applications](https://intelligence.thearchon.eu/playbooks/governance-evaluation-checklist-for-deploying-generative-ai-in-customerfacing-ap) — Other · AI, Governance, Cybersecurity · 2026-10-14
+- [Checklist for Assessing Governance Controls on AI‑Generated Employee Feedback](https://intelligence.thearchon.eu/playbooks/checklist-for-assessing-governance-controls-on-aigenerated-employee-feedback) — Other · Governance, Cybersecurity, AI · 2026-10-14
+- [Workday’s Agentic AI Revolution](https://intelligence.thearchon.eu/diagrams/workday-s-agentic-ai-revolution) — Diagrams · AI · 2026-10-13
 - [Deciding on a Dedicated Incident‑Postmortem Owner](https://intelligence.thearchon.eu/guides/deciding-on-a-dedicated-incidentpostmortem-owner) — Guides · Cybersecurity, IT Operations, Governance · 2026-10-13
 - [Hidden Costs of Decision‑Making Inefficiency](https://intelligence.thearchon.eu/comparisons/hidden-costs-of-decision-making-inefficiency-fb02de) — Practical Intelligence · Leadership & Organization · 2026-10-13
 - [Why Companies Are Quietly Shrinking Their Office Footprints](https://intelligence.thearchon.eu/articles/why-companies-are-quietly-shrinking-their-office-footprints) — Insights · Leadership & Organization · 2026-10-13
@@ -17,9 +20,6 @@ _Last generated: Tue, 13 Oct 2026 12:29:53 GMT (2026-10-13T12:29:53.281Z) · sou
 - [Closing a Critical Skills Gap Without Hiring](https://intelligence.thearchon.eu/playbooks/closing-a-critical-skills-gap-without-hiring) — Other · Leadership & Organization, Resilience, IT Operations, Cybersecurity · 2026-10-13
 - [Organizational Impact Checklist for Generative AI in Customer Support](https://intelligence.thearchon.eu/playbooks/organizational-impact-checklist-for-generative-ai-in-customer-support) — Other · Cybersecurity, AI, Governance, Leadership & Organization · 2026-10-13
 - [AI Governance at Scale: One Policy, Thousands of Agents](https://intelligence.thearchon.eu/diagrams/ai-governance-at-scale-one-policy-thousands-of-agents) — Diagrams · AI · 2026-10-12
-- [Evaluating the Need for a Dedicated AI‑Model Monitoring Function](https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-aimodel-monitoring-function) — Guides · AI, Cybersecurity, Governance · 2026-10-12
-- [Employee Technology Lifecycle Governance](https://intelligence.thearchon.eu/quizzes/employee-technology-lifecycle-governance-701838) — Practical Intelligence · Identity · 2026-10-12
-- [Consolidate Vendors and Tools to Reduce Enterprise Risk](https://intelligence.thearchon.eu/checklists/consolidate-vendors-and-tools-to-reduce-enterprise-risk-c6ef1b) — Practical Intelligence · Cybersecurity · 2026-10-12
 
 ## Insights (85)
 - [Why Companies Are Quietly Shrinking Their Office Footprints](https://intelligence.thearchon.eu/articles/why-companies-are-quietly-shrinking-their-office-footprints) — Leadership & Organization · 2026-10-13
@@ -218,7 +218,8 @@ _Last generated: Tue, 13 Oct 2026 12:29:53 GMT (2026-10-13T12:29:53.281Z) · sou
 - [The Employee Digital Lifecycle – From Hire to Retire](https://intelligence.thearchon.eu/infographics/the-employee-digital-lifecycle-from-hire-to-retire) — Identity, Cybersecurity, Governance · 2026-09-14
 - [Enterprise Governance of Employee‑Facing AI Agents](https://intelligence.thearchon.eu/infographics/enterprise-governance-of-employee-facing-ai-agents) — AI, Governance · 2026-09-14
 
-## Diagrams (47)
+## Diagrams (48)
+- [Workday’s Agentic AI Revolution](https://intelligence.thearchon.eu/diagrams/workday-s-agentic-ai-revolution) — AI · 2026-10-13
 - [AI Governance at the Core of Enterprise AI](https://intelligence.thearchon.eu/diagrams/ai-governance-at-the-core-of-enterprise-ai) — AI · 2026-10-13
 - [AI Governance at Scale: One Policy, Thousands of Agents](https://intelligence.thearchon.eu/diagrams/ai-governance-at-scale-one-policy-thousands-of-agents) — AI · 2026-10-12
 - [US DOJ Disrupts China-linked Hacking Tools](https://intelligence.thearchon.eu/diagrams/us-doj-disrupts-china-linked-hacking-tools) — Cybersecurity · 2026-10-12
@@ -358,7 +359,9 @@ _Last generated: Tue, 13 Oct 2026 12:29:53 GMT (2026-10-13T12:29:53.281Z) · sou
 - [ManageEngine PAM360: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-pam360) — Identity, Cybersecurity, Governance
 - [ManageEngine ServiceDesk Plus: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-servicedesk-plus) — IT Operations, Governance
 
-## Other (130)
+## Other (132)
+- [Governance Evaluation Checklist for Deploying Generative AI in Customer‑Facing Applications](https://intelligence.thearchon.eu/playbooks/governance-evaluation-checklist-for-deploying-generative-ai-in-customerfacing-ap) — AI, Governance, Cybersecurity · 2026-10-14
+- [Checklist for Assessing Governance Controls on AI‑Generated Employee Feedback](https://intelligence.thearchon.eu/playbooks/checklist-for-assessing-governance-controls-on-aigenerated-employee-feedback) — Governance, Cybersecurity, AI · 2026-10-14
 - [Closing a Critical Skills Gap Without Hiring](https://intelligence.thearchon.eu/playbooks/closing-a-critical-skills-gap-without-hiring) — Leadership & Organization, Resilience, IT Operations, Cybersecurity · 2026-10-13
 - [Organizational Impact Checklist for Generative AI in Customer Support](https://intelligence.thearchon.eu/playbooks/organizational-impact-checklist-for-generative-ai-in-customer-support) — Cybersecurity, AI, Governance, Leadership & Organization · 2026-10-13
 - [Verifying Readiness Before Handing Incident Ownership to a New Team](https://intelligence.thearchon.eu/playbooks/verifying-readiness-before-handing-incident-ownership-to-a-new-team) — Cybersecurity, Resilience, Leadership & Organization, IT Operations · 2026-10-12

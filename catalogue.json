@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-10-13T12:29:53.281Z",
+  "generatedAt": "2026-10-15T09:39:17.310Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,60 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 453,
+  "itemCount": 456,
   "familyCounts": {
     "Insights": 85,
     "Guides": 34,
     "Infographics": 72,
-    "Diagrams": 47,
+    "Diagrams": 48,
     "Carousels": 48,
     "Practical Intelligence": 23,
     "Technology Evaluations": 14,
-    "Other": 130
+    "Other": 132
   },
   "latestItem": {
-    "title": "Deciding on a Dedicated Incident‑Postmortem Owner",
-    "url": "https://intelligence.thearchon.eu/guides/deciding-on-a-dedicated-incidentpostmortem-owner",
-    "publishedAt": "2026-10-13T09:33:53.000Z"
+    "title": "Governance Evaluation Checklist for Deploying Generative AI in Customer‑Facing Applications",
+    "url": "https://intelligence.thearchon.eu/playbooks/governance-evaluation-checklist-for-deploying-generative-ai-in-customerfacing-ap",
+    "publishedAt": "2026-10-14T06:19:45.000Z"
   },
   "items": [
+    {
+      "title": "Governance Evaluation Checklist for Deploying Generative AI in Customer‑Facing Applications",
+      "url": "https://intelligence.thearchon.eu/playbooks/governance-evaluation-checklist-for-deploying-generative-ai-in-customerfacing-ap",
+      "guid": "https://intelligence.thearchon.eu/playbooks/governance-evaluation-checklist-for-deploying-generative-ai-in-customerfacing-ap",
+      "family": "Other",
+      "domains": [
+        "AI",
+        "Governance",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-14T06:19:45.000Z",
+      "description": "Assess and document governance controls required by the EU AI Act before releasing a generative AI feature to customers."
+    },
+    {
+      "title": "Checklist for Assessing Governance Controls on AI‑Generated Employee Feedback",
+      "url": "https://intelligence.thearchon.eu/playbooks/checklist-for-assessing-governance-controls-on-aigenerated-employee-feedback",
+      "guid": "https://intelligence.thearchon.eu/playbooks/checklist-for-assessing-governance-controls-on-aigenerated-employee-feedback",
+      "family": "Other",
+      "domains": [
+        "Governance",
+        "Cybersecurity",
+        "AI"
+      ],
+      "publishedAt": "2026-10-14T06:19:40.000Z",
+      "description": "Assess and document governance, security, and compliance controls for AI tools that generate employee feedback, ensuring they meet NCSC secure AI guidelines and AI Act high‑risk obligations before deployment."
+    },
+    {
+      "title": "Workday’s Agentic AI Revolution",
+      "url": "https://intelligence.thearchon.eu/diagrams/workday-s-agentic-ai-revolution",
+      "guid": "https://intelligence.thearchon.eu/diagrams/workday-s-agentic-ai-revolution",
+      "family": "Diagrams",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-13T16:02:10.000Z",
+      "description": "A concise view of how Workday’s strategic moves create an auto‑intelligence platform that differentiates its offering by 2026."
+    },
     {
       "title": "Deciding on a Dedicated Incident‑Postmortem Owner",
       "url": "https://intelligence.thearchon.eu/guides/deciding-on-a-dedicated-incidentpostmortem-owner",
