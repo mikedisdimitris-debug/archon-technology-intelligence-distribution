@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-10-15T09:39:17.310Z",
+  "generatedAt": "2026-10-16T09:32:50.157Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,10 +9,10 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 456,
+  "itemCount": 458,
   "familyCounts": {
-    "Insights": 85,
-    "Guides": 34,
+    "Insights": 86,
+    "Guides": 35,
     "Infographics": 72,
     "Diagrams": 48,
     "Carousels": 48,
@@ -21,11 +21,35 @@
     "Other": 132
   },
   "latestItem": {
-    "title": "Governance Evaluation Checklist for Deploying Generative AI in Customer‑Facing Applications",
-    "url": "https://intelligence.thearchon.eu/playbooks/governance-evaluation-checklist-for-deploying-generative-ai-in-customerfacing-ap",
-    "publishedAt": "2026-10-14T06:19:45.000Z"
+    "title": "Evaluating the Need for a Dedicated Data‑Ethics Champion",
+    "url": "https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-dataethics-champion",
+    "publishedAt": "2026-10-15T09:33:53.000Z"
   },
   "items": [
+    {
+      "title": "Evaluating the Need for a Dedicated Data‑Ethics Champion",
+      "url": "https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-dataethics-champion",
+      "guid": "https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-dataethics-champion",
+      "family": "Guides",
+      "domains": [
+        "Governance",
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-10-15T09:33:53.000Z",
+      "description": "Use a risk‑based checklist to decide if a data‑ethics champion is required. Align the decision with the sensitivity of data, regulatory expectations, and existing security controls."
+    },
+    {
+      "title": "Your Custom Software, Your Control",
+      "url": "https://intelligence.thearchon.eu/articles/your-custom-software-your-control",
+      "guid": "https://intelligence.thearchon.eu/articles/your-custom-software-your-control",
+      "family": "Insights",
+      "domains": [
+        "Governance",
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-10-15T07:07:00.000Z",
+      "description": "How to avoid vendor lock-in in customer-specific development"
+    },
     {
       "title": "Governance Evaluation Checklist for Deploying Generative AI in Customer‑Facing Applications",
       "url": "https://intelligence.thearchon.eu/playbooks/governance-evaluation-checklist-for-deploying-generative-ai-in-customerfacing-ap",

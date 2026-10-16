@@ -5,11 +5,13 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Thu, 15 Oct 2026 09:39:17 GMT (2026-10-15T09:39:17.310Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Fri, 16 Oct 2026 09:32:50 GMT (2026-10-16T09:32:50.157Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**456 indexed items** across families: Insights (85) · Guides (34) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (23) · Technology Evaluations (14) · Other (132)
+**458 indexed items** across families: Insights (86) · Guides (35) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (23) · Technology Evaluations (14) · Other (132)
 
 ## Newest
+- [Evaluating the Need for a Dedicated Data‑Ethics Champion](https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-dataethics-champion) — Guides · Governance, Leadership & Organization · 2026-10-15
+- [Your Custom Software, Your Control](https://intelligence.thearchon.eu/articles/your-custom-software-your-control) — Insights · Governance, Leadership & Organization · 2026-10-15
 - [Governance Evaluation Checklist for Deploying Generative AI in Customer‑Facing Applications](https://intelligence.thearchon.eu/playbooks/governance-evaluation-checklist-for-deploying-generative-ai-in-customerfacing-ap) — Other · AI, Governance, Cybersecurity · 2026-10-14
 - [Checklist for Assessing Governance Controls on AI‑Generated Employee Feedback](https://intelligence.thearchon.eu/playbooks/checklist-for-assessing-governance-controls-on-aigenerated-employee-feedback) — Other · Governance, Cybersecurity, AI · 2026-10-14
 - [Workday’s Agentic AI Revolution](https://intelligence.thearchon.eu/diagrams/workday-s-agentic-ai-revolution) — Diagrams · AI · 2026-10-13
@@ -18,10 +20,9 @@ _Last generated: Thu, 15 Oct 2026 09:39:17 GMT (2026-10-15T09:39:17.310Z) · sou
 - [Why Companies Are Quietly Shrinking Their Office Footprints](https://intelligence.thearchon.eu/articles/why-companies-are-quietly-shrinking-their-office-footprints) — Insights · Leadership & Organization · 2026-10-13
 - [AI Governance at the Core of Enterprise AI](https://intelligence.thearchon.eu/diagrams/ai-governance-at-the-core-of-enterprise-ai) — Diagrams · AI · 2026-10-13
 - [Closing a Critical Skills Gap Without Hiring](https://intelligence.thearchon.eu/playbooks/closing-a-critical-skills-gap-without-hiring) — Other · Leadership & Organization, Resilience, IT Operations, Cybersecurity · 2026-10-13
-- [Organizational Impact Checklist for Generative AI in Customer Support](https://intelligence.thearchon.eu/playbooks/organizational-impact-checklist-for-generative-ai-in-customer-support) — Other · Cybersecurity, AI, Governance, Leadership & Organization · 2026-10-13
-- [AI Governance at Scale: One Policy, Thousands of Agents](https://intelligence.thearchon.eu/diagrams/ai-governance-at-scale-one-policy-thousands-of-agents) — Diagrams · AI · 2026-10-12
 
-## Insights (85)
+## Insights (86)
+- [Your Custom Software, Your Control](https://intelligence.thearchon.eu/articles/your-custom-software-your-control) — Governance, Leadership & Organization · 2026-10-15
 - [Why Companies Are Quietly Shrinking Their Office Footprints](https://intelligence.thearchon.eu/articles/why-companies-are-quietly-shrinking-their-office-footprints) — Leadership & Organization · 2026-10-13
 - [From “We Have a Culture” to “We Have Behaviors”](https://intelligence.thearchon.eu/articles/from-we-have-a-culture-to-we-have-behaviors) — Leadership & Organization · 2026-10-08
 - [The New Inequality Inside Companies: Those Who Understand Technology vs Those Who Just Use It](https://intelligence.thearchon.eu/articles/the-new-inequality-inside-companies-those-who-understand-technology-vs-those-who-just-use-it) — Leadership & Organization · 2026-10-05
@@ -108,7 +109,8 @@ _Last generated: Thu, 15 Oct 2026 09:39:17 GMT (2026-10-15T09:39:17.310Z) · sou
 - [The UX of Hiring: Digital Transformation or GDPR Nightmare?](https://intelligence.thearchon.eu/articles/ux-hiring-digital-transformation-gdpr-nightmare-dimitris-mikedis-ztlrf) — Governance · 2026-04-21
 - [The Silent Reality of Today’s Job Market: Delays, Silence, and Unrealistic Expectations](https://intelligence.thearchon.eu/articles/silent-reality-todays-job-market-delays-silence-dimitris-mikedis-5wmxf) — Leadership & Organization · 2026-04-16
 
-## Guides (34)
+## Guides (35)
+- [Evaluating the Need for a Dedicated Data‑Ethics Champion](https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-dataethics-champion) — Governance, Leadership & Organization · 2026-10-15
 - [Deciding on a Dedicated Incident‑Postmortem Owner](https://intelligence.thearchon.eu/guides/deciding-on-a-dedicated-incidentpostmortem-owner) — Cybersecurity, IT Operations, Governance · 2026-10-13
 - [Evaluating the Need for a Dedicated AI‑Model Monitoring Function](https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-aimodel-monitoring-function) — AI, Cybersecurity, Governance · 2026-10-12
 - [What to Check Before Consolidating Multiple Identity Providers](https://intelligence.thearchon.eu/guides/what-to-check-before-consolidating-multiple-identity-providers) — Identity, Cybersecurity · 2026-10-11
