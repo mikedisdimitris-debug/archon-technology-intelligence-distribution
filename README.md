@@ -5,21 +5,21 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Fri, 16 Oct 2026 09:32:50 GMT (2026-10-16T09:32:50.157Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Sat, 17 Oct 2026 09:03:00 GMT (2026-10-17T09:03:00.559Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**458 indexed items** across families: Insights (86) · Guides (35) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (23) · Technology Evaluations (14) · Other (132)
+**462 indexed items** across families: Insights (86) · Guides (37) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (23) · Technology Evaluations (14) · Other (134)
 
 ## Newest
+- [Pre‑Selection Checklist for a Vendor‑Neutral Network‑Segmentation Model](https://intelligence.thearchon.eu/guides/preselection-checklist-for-a-vendorneutral-networksegmentation-model) — Guides · Cybersecurity, Networking · 2026-10-16
+- [Evaluate Need for a Dedicated Data‑Ethics Champion](https://intelligence.thearchon.eu/playbooks/evaluate-need-for-a-dedicated-dataethics-champion) — Other · Governance, Identity, Cybersecurity · 2026-10-16
+- [Pre‑Consolidation Checklist for Incident‑Response Ownership](https://intelligence.thearchon.eu/playbooks/preconsolidation-checklist-for-incidentresponse-ownership) — Other · Governance, Cybersecurity, IT Operations, Leadership & Organization · 2026-10-16
+- [Pre‑Consolidation Checklist for Incident‑Response Ownership](https://intelligence.thearchon.eu/guides/preconsolidation-checklist-for-incidentresponse-ownership) — Guides · Cybersecurity, Governance, Leadership & Organization · 2026-10-15
 - [Evaluating the Need for a Dedicated Data‑Ethics Champion](https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-dataethics-champion) — Guides · Governance, Leadership & Organization · 2026-10-15
 - [Your Custom Software, Your Control](https://intelligence.thearchon.eu/articles/your-custom-software-your-control) — Insights · Governance, Leadership & Organization · 2026-10-15
 - [Governance Evaluation Checklist for Deploying Generative AI in Customer‑Facing Applications](https://intelligence.thearchon.eu/playbooks/governance-evaluation-checklist-for-deploying-generative-ai-in-customerfacing-ap) — Other · AI, Governance, Cybersecurity · 2026-10-14
 - [Checklist for Assessing Governance Controls on AI‑Generated Employee Feedback](https://intelligence.thearchon.eu/playbooks/checklist-for-assessing-governance-controls-on-aigenerated-employee-feedback) — Other · Governance, Cybersecurity, AI · 2026-10-14
 - [Workday’s Agentic AI Revolution](https://intelligence.thearchon.eu/diagrams/workday-s-agentic-ai-revolution) — Diagrams · AI · 2026-10-13
 - [Deciding on a Dedicated Incident‑Postmortem Owner](https://intelligence.thearchon.eu/guides/deciding-on-a-dedicated-incidentpostmortem-owner) — Guides · Cybersecurity, IT Operations, Governance · 2026-10-13
-- [Hidden Costs of Decision‑Making Inefficiency](https://intelligence.thearchon.eu/comparisons/hidden-costs-of-decision-making-inefficiency-fb02de) — Practical Intelligence · Leadership & Organization · 2026-10-13
-- [Why Companies Are Quietly Shrinking Their Office Footprints](https://intelligence.thearchon.eu/articles/why-companies-are-quietly-shrinking-their-office-footprints) — Insights · Leadership & Organization · 2026-10-13
-- [AI Governance at the Core of Enterprise AI](https://intelligence.thearchon.eu/diagrams/ai-governance-at-the-core-of-enterprise-ai) — Diagrams · AI · 2026-10-13
-- [Closing a Critical Skills Gap Without Hiring](https://intelligence.thearchon.eu/playbooks/closing-a-critical-skills-gap-without-hiring) — Other · Leadership & Organization, Resilience, IT Operations, Cybersecurity · 2026-10-13
 
 ## Insights (86)
 - [Your Custom Software, Your Control](https://intelligence.thearchon.eu/articles/your-custom-software-your-control) — Governance, Leadership & Organization · 2026-10-15
@@ -109,7 +109,9 @@ _Last generated: Fri, 16 Oct 2026 09:32:50 GMT (2026-10-16T09:32:50.157Z) · sou
 - [The UX of Hiring: Digital Transformation or GDPR Nightmare?](https://intelligence.thearchon.eu/articles/ux-hiring-digital-transformation-gdpr-nightmare-dimitris-mikedis-ztlrf) — Governance · 2026-04-21
 - [The Silent Reality of Today’s Job Market: Delays, Silence, and Unrealistic Expectations](https://intelligence.thearchon.eu/articles/silent-reality-todays-job-market-delays-silence-dimitris-mikedis-5wmxf) — Leadership & Organization · 2026-04-16
 
-## Guides (35)
+## Guides (37)
+- [Pre‑Selection Checklist for a Vendor‑Neutral Network‑Segmentation Model](https://intelligence.thearchon.eu/guides/preselection-checklist-for-a-vendorneutral-networksegmentation-model) — Cybersecurity, Networking · 2026-10-16
+- [Pre‑Consolidation Checklist for Incident‑Response Ownership](https://intelligence.thearchon.eu/guides/preconsolidation-checklist-for-incidentresponse-ownership) — Cybersecurity, Governance, Leadership & Organization · 2026-10-15
 - [Evaluating the Need for a Dedicated Data‑Ethics Champion](https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-dataethics-champion) — Governance, Leadership & Organization · 2026-10-15
 - [Deciding on a Dedicated Incident‑Postmortem Owner](https://intelligence.thearchon.eu/guides/deciding-on-a-dedicated-incidentpostmortem-owner) — Cybersecurity, IT Operations, Governance · 2026-10-13
 - [Evaluating the Need for a Dedicated AI‑Model Monitoring Function](https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-aimodel-monitoring-function) — AI, Cybersecurity, Governance · 2026-10-12
@@ -361,7 +363,9 @@ _Last generated: Fri, 16 Oct 2026 09:32:50 GMT (2026-10-16T09:32:50.157Z) · sou
 - [ManageEngine PAM360: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-pam360) — Identity, Cybersecurity, Governance
 - [ManageEngine ServiceDesk Plus: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-servicedesk-plus) — IT Operations, Governance
 
-## Other (132)
+## Other (134)
+- [Evaluate Need for a Dedicated Data‑Ethics Champion](https://intelligence.thearchon.eu/playbooks/evaluate-need-for-a-dedicated-dataethics-champion) — Governance, Identity, Cybersecurity · 2026-10-16
+- [Pre‑Consolidation Checklist for Incident‑Response Ownership](https://intelligence.thearchon.eu/playbooks/preconsolidation-checklist-for-incidentresponse-ownership) — Governance, Cybersecurity, IT Operations, Leadership & Organization · 2026-10-16
 - [Governance Evaluation Checklist for Deploying Generative AI in Customer‑Facing Applications](https://intelligence.thearchon.eu/playbooks/governance-evaluation-checklist-for-deploying-generative-ai-in-customerfacing-ap) — AI, Governance, Cybersecurity · 2026-10-14
 - [Checklist for Assessing Governance Controls on AI‑Generated Employee Feedback](https://intelligence.thearchon.eu/playbooks/checklist-for-assessing-governance-controls-on-aigenerated-employee-feedback) — Governance, Cybersecurity, AI · 2026-10-14
 - [Closing a Critical Skills Gap Without Hiring](https://intelligence.thearchon.eu/playbooks/closing-a-critical-skills-gap-without-hiring) — Leadership & Organization, Resilience, IT Operations, Cybersecurity · 2026-10-13

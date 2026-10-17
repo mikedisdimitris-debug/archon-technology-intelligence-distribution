@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-10-16T09:32:50.157Z",
+  "generatedAt": "2026-10-17T09:03:00.559Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,75 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 458,
+  "itemCount": 462,
   "familyCounts": {
     "Insights": 86,
-    "Guides": 35,
+    "Guides": 37,
     "Infographics": 72,
     "Diagrams": 48,
     "Carousels": 48,
     "Practical Intelligence": 23,
     "Technology Evaluations": 14,
-    "Other": 132
+    "Other": 134
   },
   "latestItem": {
-    "title": "Evaluating the Need for a Dedicated Data‑Ethics Champion",
-    "url": "https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-dataethics-champion",
-    "publishedAt": "2026-10-15T09:33:53.000Z"
+    "title": "Pre‑Selection Checklist for a Vendor‑Neutral Network‑Segmentation Model",
+    "url": "https://intelligence.thearchon.eu/guides/preselection-checklist-for-a-vendorneutral-networksegmentation-model",
+    "publishedAt": "2026-10-16T09:33:51.000Z"
   },
   "items": [
+    {
+      "title": "Pre‑Selection Checklist for a Vendor‑Neutral Network‑Segmentation Model",
+      "url": "https://intelligence.thearchon.eu/guides/preselection-checklist-for-a-vendorneutral-networksegmentation-model",
+      "guid": "https://intelligence.thearchon.eu/guides/preselection-checklist-for-a-vendorneutral-networksegmentation-model",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "Networking"
+      ],
+      "publishedAt": "2026-10-16T09:33:51.000Z",
+      "description": "Use this guide to verify that a network‑segmentation approach is truly vendor‑neutral, supports the CIS Critical Security Controls, and follows Zero Trust principles of least‑privilege, granular per‑request access, and continuous visibility."
+    },
+    {
+      "title": "Evaluate Need for a Dedicated Data‑Ethics Champion",
+      "url": "https://intelligence.thearchon.eu/playbooks/evaluate-need-for-a-dedicated-dataethics-champion",
+      "guid": "https://intelligence.thearchon.eu/playbooks/evaluate-need-for-a-dedicated-dataethics-champion",
+      "family": "Other",
+      "domains": [
+        "Governance",
+        "Identity",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-16T06:19:47.000Z",
+      "description": "Assess data‑ethics governance against GDPR and identity security controls, and decide whether to create a dedicated champion role."
+    },
+    {
+      "title": "Pre‑Consolidation Checklist for Incident‑Response Ownership",
+      "url": "https://intelligence.thearchon.eu/playbooks/preconsolidation-checklist-for-incidentresponse-ownership",
+      "guid": "https://intelligence.thearchon.eu/playbooks/preconsolidation-checklist-for-incidentresponse-ownership",
+      "family": "Other",
+      "domains": [
+        "Governance",
+        "Cybersecurity",
+        "IT Operations",
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-10-16T06:19:41.000Z",
+      "description": "Confirm and document who owns each incident‑response function before consolidating teams, aligning with CISA’s GOVERN goals for leadership accountability and oversight."
+    },
+    {
+      "title": "Pre‑Consolidation Checklist for Incident‑Response Ownership",
+      "url": "https://intelligence.thearchon.eu/guides/preconsolidation-checklist-for-incidentresponse-ownership",
+      "guid": "https://intelligence.thearchon.eu/guides/preconsolidation-checklist-for-incidentresponse-ownership",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "Governance",
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-10-15T18:16:56.000Z",
+      "description": "Use this short guide to verify that each unit already follows baseline security practices, measures maturity, and has clear breach‑response steps before merging incident‑response ownership."
+    },
     {
       "title": "Evaluating the Need for a Dedicated Data‑Ethics Champion",
       "url": "https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-dataethics-champion",
