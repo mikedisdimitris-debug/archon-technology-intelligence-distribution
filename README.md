@@ -5,11 +5,13 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Sat, 17 Oct 2026 09:03:00 GMT (2026-10-17T09:03:00.559Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Sat, 17 Oct 2026 20:19:08 GMT (2026-10-17T20:19:08.438Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**462 indexed items** across families: Insights (86) · Guides (37) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (23) · Technology Evaluations (14) · Other (134)
+**464 indexed items** across families: Insights (86) · Guides (37) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (23) · Technology Evaluations (14) · Other (136)
 
 ## Newest
+- [Remote‑Work Endpoint Security Strategy Evaluation](https://intelligence.thearchon.eu/playbooks/remotework-endpoint-security-strategy-evaluation) — Other · Identity, Cybersecurity, IT Operations, Governance · 2026-10-17
+- [Vendor‑Agnostic Ransomware Incident‑Response Playbook](https://intelligence.thearchon.eu/playbooks/vendoragnostic-ransomware-incidentresponse-playbook) — Other · Cybersecurity, Governance, Resilience, IT Operations · 2026-10-17
 - [Pre‑Selection Checklist for a Vendor‑Neutral Network‑Segmentation Model](https://intelligence.thearchon.eu/guides/preselection-checklist-for-a-vendorneutral-networksegmentation-model) — Guides · Cybersecurity, Networking · 2026-10-16
 - [Evaluate Need for a Dedicated Data‑Ethics Champion](https://intelligence.thearchon.eu/playbooks/evaluate-need-for-a-dedicated-dataethics-champion) — Other · Governance, Identity, Cybersecurity · 2026-10-16
 - [Pre‑Consolidation Checklist for Incident‑Response Ownership](https://intelligence.thearchon.eu/playbooks/preconsolidation-checklist-for-incidentresponse-ownership) — Other · Governance, Cybersecurity, IT Operations, Leadership & Organization · 2026-10-16
@@ -18,8 +20,6 @@ _Last generated: Sat, 17 Oct 2026 09:03:00 GMT (2026-10-17T09:03:00.559Z) · sou
 - [Your Custom Software, Your Control](https://intelligence.thearchon.eu/articles/your-custom-software-your-control) — Insights · Governance, Leadership & Organization · 2026-10-15
 - [Governance Evaluation Checklist for Deploying Generative AI in Customer‑Facing Applications](https://intelligence.thearchon.eu/playbooks/governance-evaluation-checklist-for-deploying-generative-ai-in-customerfacing-ap) — Other · AI, Governance, Cybersecurity · 2026-10-14
 - [Checklist for Assessing Governance Controls on AI‑Generated Employee Feedback](https://intelligence.thearchon.eu/playbooks/checklist-for-assessing-governance-controls-on-aigenerated-employee-feedback) — Other · Governance, Cybersecurity, AI · 2026-10-14
-- [Workday’s Agentic AI Revolution](https://intelligence.thearchon.eu/diagrams/workday-s-agentic-ai-revolution) — Diagrams · AI · 2026-10-13
-- [Deciding on a Dedicated Incident‑Postmortem Owner](https://intelligence.thearchon.eu/guides/deciding-on-a-dedicated-incidentpostmortem-owner) — Guides · Cybersecurity, IT Operations, Governance · 2026-10-13
 
 ## Insights (86)
 - [Your Custom Software, Your Control](https://intelligence.thearchon.eu/articles/your-custom-software-your-control) — Governance, Leadership & Organization · 2026-10-15
@@ -363,7 +363,9 @@ _Last generated: Sat, 17 Oct 2026 09:03:00 GMT (2026-10-17T09:03:00.559Z) · sou
 - [ManageEngine PAM360: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-pam360) — Identity, Cybersecurity, Governance
 - [ManageEngine ServiceDesk Plus: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-servicedesk-plus) — IT Operations, Governance
 
-## Other (134)
+## Other (136)
+- [Remote‑Work Endpoint Security Strategy Evaluation](https://intelligence.thearchon.eu/playbooks/remotework-endpoint-security-strategy-evaluation) — Identity, Cybersecurity, IT Operations, Governance · 2026-10-17
+- [Vendor‑Agnostic Ransomware Incident‑Response Playbook](https://intelligence.thearchon.eu/playbooks/vendoragnostic-ransomware-incidentresponse-playbook) — Cybersecurity, Governance, Resilience, IT Operations · 2026-10-17
 - [Evaluate Need for a Dedicated Data‑Ethics Champion](https://intelligence.thearchon.eu/playbooks/evaluate-need-for-a-dedicated-dataethics-champion) — Governance, Identity, Cybersecurity · 2026-10-16
 - [Pre‑Consolidation Checklist for Incident‑Response Ownership](https://intelligence.thearchon.eu/playbooks/preconsolidation-checklist-for-incidentresponse-ownership) — Governance, Cybersecurity, IT Operations, Leadership & Organization · 2026-10-16
 - [Governance Evaluation Checklist for Deploying Generative AI in Customer‑Facing Applications](https://intelligence.thearchon.eu/playbooks/governance-evaluation-checklist-for-deploying-generative-ai-in-customerfacing-ap) — AI, Governance, Cybersecurity · 2026-10-14

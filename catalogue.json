@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-10-17T09:03:00.559Z",
+  "generatedAt": "2026-10-17T20:19:08.438Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,7 +9,7 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 462,
+  "itemCount": 464,
   "familyCounts": {
     "Insights": 86,
     "Guides": 37,
@@ -18,14 +18,42 @@
     "Carousels": 48,
     "Practical Intelligence": 23,
     "Technology Evaluations": 14,
-    "Other": 134
+    "Other": 136
   },
   "latestItem": {
-    "title": "Pre‑Selection Checklist for a Vendor‑Neutral Network‑Segmentation Model",
-    "url": "https://intelligence.thearchon.eu/guides/preselection-checklist-for-a-vendorneutral-networksegmentation-model",
-    "publishedAt": "2026-10-16T09:33:51.000Z"
+    "title": "Remote‑Work Endpoint Security Strategy Evaluation",
+    "url": "https://intelligence.thearchon.eu/playbooks/remotework-endpoint-security-strategy-evaluation",
+    "publishedAt": "2026-10-17T06:19:46.000Z"
   },
   "items": [
+    {
+      "title": "Remote‑Work Endpoint Security Strategy Evaluation",
+      "url": "https://intelligence.thearchon.eu/playbooks/remotework-endpoint-security-strategy-evaluation",
+      "guid": "https://intelligence.thearchon.eu/playbooks/remotework-endpoint-security-strategy-evaluation",
+      "family": "Other",
+      "domains": [
+        "Identity",
+        "Cybersecurity",
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-17T06:19:46.000Z",
+      "description": "Assess and strengthen authentication and overall security of remote‑work endpoints before broader rollout."
+    },
+    {
+      "title": "Vendor‑Agnostic Ransomware Incident‑Response Playbook",
+      "url": "https://intelligence.thearchon.eu/playbooks/vendoragnostic-ransomware-incidentresponse-playbook",
+      "guid": "https://intelligence.thearchon.eu/playbooks/vendoragnostic-ransomware-incidentresponse-playbook",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Governance",
+        "Resilience",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-10-17T06:19:41.000Z",
+      "description": "Create a cross‑functional, vendor‑neutral response plan, align it with national guidance, and validate it before an attack occurs."
+    },
     {
       "title": "Pre‑Selection Checklist for a Vendor‑Neutral Network‑Segmentation Model",
       "url": "https://intelligence.thearchon.eu/guides/preselection-checklist-for-a-vendorneutral-networksegmentation-model",
