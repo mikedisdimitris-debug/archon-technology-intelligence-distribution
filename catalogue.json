@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-10-17T20:19:08.438Z",
+  "generatedAt": "2026-10-18T09:21:54.885Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,7 +9,7 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 464,
+  "itemCount": 466,
   "familyCounts": {
     "Insights": 86,
     "Guides": 37,
@@ -18,14 +18,41 @@
     "Carousels": 48,
     "Practical Intelligence": 23,
     "Technology Evaluations": 14,
-    "Other": 136
+    "Other": 138
   },
   "latestItem": {
-    "title": "Remote‑Work Endpoint Security Strategy Evaluation",
-    "url": "https://intelligence.thearchon.eu/playbooks/remotework-endpoint-security-strategy-evaluation",
-    "publishedAt": "2026-10-17T06:19:46.000Z"
+    "title": "Remediate Newly Added KEV Catalog Vulnerabilities",
+    "url": "https://intelligence.thearchon.eu/playbooks/remediate-newly-added-kev-catalog-vulnerabilities",
+    "publishedAt": "2026-10-18T06:19:45.000Z"
   },
   "items": [
+    {
+      "title": "Remediate Newly Added KEV Catalog Vulnerabilities",
+      "url": "https://intelligence.thearchon.eu/playbooks/remediate-newly-added-kev-catalog-vulnerabilities",
+      "guid": "https://intelligence.thearchon.eu/playbooks/remediate-newly-added-kev-catalog-vulnerabilities",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-18T06:19:45.000Z",
+      "description": "When CISA adds new vulnerabilities to the KEV Catalog, identify affected assets, prioritize rapid remediation on publicly exposed systems, and verify no prior compromise."
+    },
+    {
+      "title": "Patch BeyondTrust Remote Support Critical Vulnerability (CVE-2026-102764)",
+      "url": "https://intelligence.thearchon.eu/playbooks/patch-beyondtrust-remote-support-critical-vulnerability-cve-2026-102764",
+      "guid": "https://intelligence.thearchon.eu/playbooks/patch-beyondtrust-remote-support-critical-vulnerability-cve-2026-102764",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Resilience",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-18T06:19:41.000Z",
+      "description": "Apply the BT26-05-RS patch (or upgrade), restrict access, and conduct forensic investigation to remediate the actively exploited vulnerability."
+    },
     {
       "title": "Remote‑Work Endpoint Security Strategy Evaluation",
       "url": "https://intelligence.thearchon.eu/playbooks/remotework-endpoint-security-strategy-evaluation",

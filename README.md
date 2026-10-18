@@ -5,11 +5,13 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Sat, 17 Oct 2026 20:19:08 GMT (2026-10-17T20:19:08.438Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Sun, 18 Oct 2026 09:21:54 GMT (2026-10-18T09:21:54.885Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**464 indexed items** across families: Insights (86) · Guides (37) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (23) · Technology Evaluations (14) · Other (136)
+**466 indexed items** across families: Insights (86) · Guides (37) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (23) · Technology Evaluations (14) · Other (138)
 
 ## Newest
+- [Remediate Newly Added KEV Catalog Vulnerabilities](https://intelligence.thearchon.eu/playbooks/remediate-newly-added-kev-catalog-vulnerabilities) — Other · Cybersecurity, IT Operations, Governance · 2026-10-18
+- [Patch BeyondTrust Remote Support Critical Vulnerability (CVE-2026-102764)](https://intelligence.thearchon.eu/playbooks/patch-beyondtrust-remote-support-critical-vulnerability-cve-2026-102764) — Other · Cybersecurity, IT Operations, Resilience, Governance · 2026-10-18
 - [Remote‑Work Endpoint Security Strategy Evaluation](https://intelligence.thearchon.eu/playbooks/remotework-endpoint-security-strategy-evaluation) — Other · Identity, Cybersecurity, IT Operations, Governance · 2026-10-17
 - [Vendor‑Agnostic Ransomware Incident‑Response Playbook](https://intelligence.thearchon.eu/playbooks/vendoragnostic-ransomware-incidentresponse-playbook) — Other · Cybersecurity, Governance, Resilience, IT Operations · 2026-10-17
 - [Pre‑Selection Checklist for a Vendor‑Neutral Network‑Segmentation Model](https://intelligence.thearchon.eu/guides/preselection-checklist-for-a-vendorneutral-networksegmentation-model) — Guides · Cybersecurity, Networking · 2026-10-16
@@ -18,8 +20,6 @@ _Last generated: Sat, 17 Oct 2026 20:19:08 GMT (2026-10-17T20:19:08.438Z) · sou
 - [Pre‑Consolidation Checklist for Incident‑Response Ownership](https://intelligence.thearchon.eu/guides/preconsolidation-checklist-for-incidentresponse-ownership) — Guides · Cybersecurity, Governance, Leadership & Organization · 2026-10-15
 - [Evaluating the Need for a Dedicated Data‑Ethics Champion](https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-dataethics-champion) — Guides · Governance, Leadership & Organization · 2026-10-15
 - [Your Custom Software, Your Control](https://intelligence.thearchon.eu/articles/your-custom-software-your-control) — Insights · Governance, Leadership & Organization · 2026-10-15
-- [Governance Evaluation Checklist for Deploying Generative AI in Customer‑Facing Applications](https://intelligence.thearchon.eu/playbooks/governance-evaluation-checklist-for-deploying-generative-ai-in-customerfacing-ap) — Other · AI, Governance, Cybersecurity · 2026-10-14
-- [Checklist for Assessing Governance Controls on AI‑Generated Employee Feedback](https://intelligence.thearchon.eu/playbooks/checklist-for-assessing-governance-controls-on-aigenerated-employee-feedback) — Other · Governance, Cybersecurity, AI · 2026-10-14
 
 ## Insights (86)
 - [Your Custom Software, Your Control](https://intelligence.thearchon.eu/articles/your-custom-software-your-control) — Governance, Leadership & Organization · 2026-10-15
@@ -363,7 +363,9 @@ _Last generated: Sat, 17 Oct 2026 20:19:08 GMT (2026-10-17T20:19:08.438Z) · sou
 - [ManageEngine PAM360: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-pam360) — Identity, Cybersecurity, Governance
 - [ManageEngine ServiceDesk Plus: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-servicedesk-plus) — IT Operations, Governance
 
-## Other (136)
+## Other (138)
+- [Remediate Newly Added KEV Catalog Vulnerabilities](https://intelligence.thearchon.eu/playbooks/remediate-newly-added-kev-catalog-vulnerabilities) — Cybersecurity, IT Operations, Governance · 2026-10-18
+- [Patch BeyondTrust Remote Support Critical Vulnerability (CVE-2026-102764)](https://intelligence.thearchon.eu/playbooks/patch-beyondtrust-remote-support-critical-vulnerability-cve-2026-102764) — Cybersecurity, IT Operations, Resilience, Governance · 2026-10-18
 - [Remote‑Work Endpoint Security Strategy Evaluation](https://intelligence.thearchon.eu/playbooks/remotework-endpoint-security-strategy-evaluation) — Identity, Cybersecurity, IT Operations, Governance · 2026-10-17
 - [Vendor‑Agnostic Ransomware Incident‑Response Playbook](https://intelligence.thearchon.eu/playbooks/vendoragnostic-ransomware-incidentresponse-playbook) — Cybersecurity, Governance, Resilience, IT Operations · 2026-10-17
 - [Evaluate Need for a Dedicated Data‑Ethics Champion](https://intelligence.thearchon.eu/playbooks/evaluate-need-for-a-dedicated-dataethics-champion) — Governance, Identity, Cybersecurity · 2026-10-16
