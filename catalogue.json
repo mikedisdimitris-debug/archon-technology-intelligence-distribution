@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-10-18T09:21:54.885Z",
+  "generatedAt": "2026-10-18T15:38:40.163Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,10 +9,10 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 466,
+  "itemCount": 467,
   "familyCounts": {
     "Insights": 86,
-    "Guides": 37,
+    "Guides": 38,
     "Infographics": 72,
     "Diagrams": 48,
     "Carousels": 48,
@@ -21,11 +21,23 @@
     "Other": 138
   },
   "latestItem": {
-    "title": "Remediate Newly Added KEV Catalog Vulnerabilities",
-    "url": "https://intelligence.thearchon.eu/playbooks/remediate-newly-added-kev-catalog-vulnerabilities",
-    "publishedAt": "2026-10-18T06:19:45.000Z"
+    "title": "When to Move a Critical Service to a Managed Cloud Provider",
+    "url": "https://intelligence.thearchon.eu/guides/when-to-move-a-critical-service-to-a-managed-cloud-provider",
+    "publishedAt": "2026-10-18T09:33:49.000Z"
   },
   "items": [
+    {
+      "title": "When to Move a Critical Service to a Managed Cloud Provider",
+      "url": "https://intelligence.thearchon.eu/guides/when-to-move-a-critical-service-to-a-managed-cloud-provider",
+      "guid": "https://intelligence.thearchon.eu/guides/when-to-move-a-critical-service-to-a-managed-cloud-provider",
+      "family": "Guides",
+      "domains": [
+        "Cloud",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-18T09:33:49.000Z",
+      "description": "Use a structured checklist to evaluate the security, governance, and operational impacts of shifting a critical service to a managed cloud offering."
+    },
     {
       "title": "Remediate Newly Added KEV Catalog Vulnerabilities",
       "url": "https://intelligence.thearchon.eu/playbooks/remediate-newly-added-kev-catalog-vulnerabilities",

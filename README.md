@@ -5,11 +5,12 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Sun, 18 Oct 2026 09:21:54 GMT (2026-10-18T09:21:54.885Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Sun, 18 Oct 2026 15:38:40 GMT (2026-10-18T15:38:40.163Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**466 indexed items** across families: Insights (86) · Guides (37) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (23) · Technology Evaluations (14) · Other (138)
+**467 indexed items** across families: Insights (86) · Guides (38) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (23) · Technology Evaluations (14) · Other (138)
 
 ## Newest
+- [When to Move a Critical Service to a Managed Cloud Provider](https://intelligence.thearchon.eu/guides/when-to-move-a-critical-service-to-a-managed-cloud-provider) — Guides · Cloud, Cybersecurity · 2026-10-18
 - [Remediate Newly Added KEV Catalog Vulnerabilities](https://intelligence.thearchon.eu/playbooks/remediate-newly-added-kev-catalog-vulnerabilities) — Other · Cybersecurity, IT Operations, Governance · 2026-10-18
 - [Patch BeyondTrust Remote Support Critical Vulnerability (CVE-2026-102764)](https://intelligence.thearchon.eu/playbooks/patch-beyondtrust-remote-support-critical-vulnerability-cve-2026-102764) — Other · Cybersecurity, IT Operations, Resilience, Governance · 2026-10-18
 - [Remote‑Work Endpoint Security Strategy Evaluation](https://intelligence.thearchon.eu/playbooks/remotework-endpoint-security-strategy-evaluation) — Other · Identity, Cybersecurity, IT Operations, Governance · 2026-10-17
@@ -19,7 +20,6 @@ _Last generated: Sun, 18 Oct 2026 09:21:54 GMT (2026-10-18T09:21:54.885Z) · sou
 - [Pre‑Consolidation Checklist for Incident‑Response Ownership](https://intelligence.thearchon.eu/playbooks/preconsolidation-checklist-for-incidentresponse-ownership) — Other · Governance, Cybersecurity, IT Operations, Leadership & Organization · 2026-10-16
 - [Pre‑Consolidation Checklist for Incident‑Response Ownership](https://intelligence.thearchon.eu/guides/preconsolidation-checklist-for-incidentresponse-ownership) — Guides · Cybersecurity, Governance, Leadership & Organization · 2026-10-15
 - [Evaluating the Need for a Dedicated Data‑Ethics Champion](https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-dataethics-champion) — Guides · Governance, Leadership & Organization · 2026-10-15
-- [Your Custom Software, Your Control](https://intelligence.thearchon.eu/articles/your-custom-software-your-control) — Insights · Governance, Leadership & Organization · 2026-10-15
 
 ## Insights (86)
 - [Your Custom Software, Your Control](https://intelligence.thearchon.eu/articles/your-custom-software-your-control) — Governance, Leadership & Organization · 2026-10-15
@@ -109,7 +109,8 @@ _Last generated: Sun, 18 Oct 2026 09:21:54 GMT (2026-10-18T09:21:54.885Z) · sou
 - [The UX of Hiring: Digital Transformation or GDPR Nightmare?](https://intelligence.thearchon.eu/articles/ux-hiring-digital-transformation-gdpr-nightmare-dimitris-mikedis-ztlrf) — Governance · 2026-04-21
 - [The Silent Reality of Today’s Job Market: Delays, Silence, and Unrealistic Expectations](https://intelligence.thearchon.eu/articles/silent-reality-todays-job-market-delays-silence-dimitris-mikedis-5wmxf) — Leadership & Organization · 2026-04-16
 
-## Guides (37)
+## Guides (38)
+- [When to Move a Critical Service to a Managed Cloud Provider](https://intelligence.thearchon.eu/guides/when-to-move-a-critical-service-to-a-managed-cloud-provider) — Cloud, Cybersecurity · 2026-10-18
 - [Pre‑Selection Checklist for a Vendor‑Neutral Network‑Segmentation Model](https://intelligence.thearchon.eu/guides/preselection-checklist-for-a-vendorneutral-networksegmentation-model) — Cybersecurity, Networking · 2026-10-16
 - [Pre‑Consolidation Checklist for Incident‑Response Ownership](https://intelligence.thearchon.eu/guides/preconsolidation-checklist-for-incidentresponse-ownership) — Cybersecurity, Governance, Leadership & Organization · 2026-10-15
 - [Evaluating the Need for a Dedicated Data‑Ethics Champion](https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-dataethics-champion) — Governance, Leadership & Organization · 2026-10-15
