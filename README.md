@@ -5,23 +5,24 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Sun, 18 Oct 2026 15:38:40 GMT (2026-10-18T15:38:40.163Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Mon, 19 Oct 2026 10:33:29 GMT (2026-10-19T10:33:29.817Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**467 indexed items** across families: Insights (86) · Guides (38) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (23) · Technology Evaluations (14) · Other (138)
+**473 indexed items** across families: Insights (87) · Guides (38) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (26) · Technology Evaluations (14) · Other (140)
 
 ## Newest
+- [IT Governance and Strategic Transformation](https://intelligence.thearchon.eu/quizzes/it-governance-and-strategic-transformation-ae8878) — Practical Intelligence · IT Operations · 2026-10-19
+- [Documentation vs. Institutional Memory](https://intelligence.thearchon.eu/comparisons/documentation-vs-institutional-memory-86150c) — Practical Intelligence · Resilience · 2026-10-19
+- [Achieving Operational Maturity Through Governance](https://intelligence.thearchon.eu/checklists/achieving-operational-maturity-through-governance-ec1ebe) — Practical Intelligence · Governance · 2026-10-19
+- [Enterprise AI ≠ Private Conversation](https://intelligence.thearchon.eu/articles/enterprise-ai-private-conversation) — Insights · AI, Governance · 2026-10-19
+- [Remediate Newly Added KEV Vulnerability (CVE‑2026‑21589) in Atlassian Products](https://intelligence.thearchon.eu/playbooks/remediate-newly-added-kev-vulnerability-cve202621589-in-atlassian-products) — Other · Cybersecurity, IT Operations, Governance, Resilience · 2026-10-19
+- [Move Critical Service to Managed Cloud Provider](https://intelligence.thearchon.eu/playbooks/move-critical-service-to-managed-cloud-provider) — Other · Cybersecurity, Cloud, Governance, IT Operations · 2026-10-19
 - [When to Move a Critical Service to a Managed Cloud Provider](https://intelligence.thearchon.eu/guides/when-to-move-a-critical-service-to-a-managed-cloud-provider) — Guides · Cloud, Cybersecurity · 2026-10-18
 - [Remediate Newly Added KEV Catalog Vulnerabilities](https://intelligence.thearchon.eu/playbooks/remediate-newly-added-kev-catalog-vulnerabilities) — Other · Cybersecurity, IT Operations, Governance · 2026-10-18
 - [Patch BeyondTrust Remote Support Critical Vulnerability (CVE-2026-102764)](https://intelligence.thearchon.eu/playbooks/patch-beyondtrust-remote-support-critical-vulnerability-cve-2026-102764) — Other · Cybersecurity, IT Operations, Resilience, Governance · 2026-10-18
 - [Remote‑Work Endpoint Security Strategy Evaluation](https://intelligence.thearchon.eu/playbooks/remotework-endpoint-security-strategy-evaluation) — Other · Identity, Cybersecurity, IT Operations, Governance · 2026-10-17
-- [Vendor‑Agnostic Ransomware Incident‑Response Playbook](https://intelligence.thearchon.eu/playbooks/vendoragnostic-ransomware-incidentresponse-playbook) — Other · Cybersecurity, Governance, Resilience, IT Operations · 2026-10-17
-- [Pre‑Selection Checklist for a Vendor‑Neutral Network‑Segmentation Model](https://intelligence.thearchon.eu/guides/preselection-checklist-for-a-vendorneutral-networksegmentation-model) — Guides · Cybersecurity, Networking · 2026-10-16
-- [Evaluate Need for a Dedicated Data‑Ethics Champion](https://intelligence.thearchon.eu/playbooks/evaluate-need-for-a-dedicated-dataethics-champion) — Other · Governance, Identity, Cybersecurity · 2026-10-16
-- [Pre‑Consolidation Checklist for Incident‑Response Ownership](https://intelligence.thearchon.eu/playbooks/preconsolidation-checklist-for-incidentresponse-ownership) — Other · Governance, Cybersecurity, IT Operations, Leadership & Organization · 2026-10-16
-- [Pre‑Consolidation Checklist for Incident‑Response Ownership](https://intelligence.thearchon.eu/guides/preconsolidation-checklist-for-incidentresponse-ownership) — Guides · Cybersecurity, Governance, Leadership & Organization · 2026-10-15
-- [Evaluating the Need for a Dedicated Data‑Ethics Champion](https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-dataethics-champion) — Guides · Governance, Leadership & Organization · 2026-10-15
 
-## Insights (86)
+## Insights (87)
+- [Enterprise AI ≠ Private Conversation](https://intelligence.thearchon.eu/articles/enterprise-ai-private-conversation) — AI, Governance · 2026-10-19
 - [Your Custom Software, Your Control](https://intelligence.thearchon.eu/articles/your-custom-software-your-control) — Governance, Leadership & Organization · 2026-10-15
 - [Why Companies Are Quietly Shrinking Their Office Footprints](https://intelligence.thearchon.eu/articles/why-companies-are-quietly-shrinking-their-office-footprints) — Leadership & Organization · 2026-10-13
 - [From “We Have a Culture” to “We Have Behaviors”](https://intelligence.thearchon.eu/articles/from-we-have-a-culture-to-we-have-behaviors) — Leadership & Organization · 2026-10-08
@@ -323,7 +324,10 @@ _Last generated: Sun, 18 Oct 2026 15:38:40 GMT (2026-10-18T15:38:40.163Z) · sou
 - [Why IT Service Management (ITSM) Is Essential for Modern Enterprises](https://intelligence.thearchon.eu/carousels/why-it-service-management-itsm-is-essential-for-modern-enterprises) — IT Operations, Governance, Resilience, Cloud, Cybersecurity · 2026-09-18
 - [AI Governance: Who Controls the AI Agent?](https://intelligence.thearchon.eu/carousels/ai-governance-who-controls-the-ai-agent) — AI, Governance, Cybersecurity, Resilience · 2026-09-18
 
-## Practical Intelligence (23)
+## Practical Intelligence (26)
+- [IT Governance and Strategic Transformation](https://intelligence.thearchon.eu/quizzes/it-governance-and-strategic-transformation-ae8878) — IT Operations · 2026-10-19
+- [Documentation vs. Institutional Memory](https://intelligence.thearchon.eu/comparisons/documentation-vs-institutional-memory-86150c) — Resilience · 2026-10-19
+- [Achieving Operational Maturity Through Governance](https://intelligence.thearchon.eu/checklists/achieving-operational-maturity-through-governance-ec1ebe) — Governance · 2026-10-19
 - [Hidden Costs of Decision‑Making Inefficiency](https://intelligence.thearchon.eu/comparisons/hidden-costs-of-decision-making-inefficiency-fb02de) — Leadership & Organization · 2026-10-13
 - [Employee Technology Lifecycle Governance](https://intelligence.thearchon.eu/quizzes/employee-technology-lifecycle-governance-701838) — Identity · 2026-10-12
 - [Consolidate Vendors and Tools to Reduce Enterprise Risk](https://intelligence.thearchon.eu/checklists/consolidate-vendors-and-tools-to-reduce-enterprise-risk-c6ef1b) — Cybersecurity · 2026-10-12
@@ -364,7 +368,9 @@ _Last generated: Sun, 18 Oct 2026 15:38:40 GMT (2026-10-18T15:38:40.163Z) · sou
 - [ManageEngine PAM360: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-pam360) — Identity, Cybersecurity, Governance
 - [ManageEngine ServiceDesk Plus: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-servicedesk-plus) — IT Operations, Governance
 
-## Other (138)
+## Other (140)
+- [Remediate Newly Added KEV Vulnerability (CVE‑2026‑21589) in Atlassian Products](https://intelligence.thearchon.eu/playbooks/remediate-newly-added-kev-vulnerability-cve202621589-in-atlassian-products) — Cybersecurity, IT Operations, Governance, Resilience · 2026-10-19
+- [Move Critical Service to Managed Cloud Provider](https://intelligence.thearchon.eu/playbooks/move-critical-service-to-managed-cloud-provider) — Cybersecurity, Cloud, Governance, IT Operations · 2026-10-19
 - [Remediate Newly Added KEV Catalog Vulnerabilities](https://intelligence.thearchon.eu/playbooks/remediate-newly-added-kev-catalog-vulnerabilities) — Cybersecurity, IT Operations, Governance · 2026-10-18
 - [Patch BeyondTrust Remote Support Critical Vulnerability (CVE-2026-102764)](https://intelligence.thearchon.eu/playbooks/patch-beyondtrust-remote-support-critical-vulnerability-cve-2026-102764) — Cybersecurity, IT Operations, Resilience, Governance · 2026-10-18
 - [Remote‑Work Endpoint Security Strategy Evaluation](https://intelligence.thearchon.eu/playbooks/remotework-endpoint-security-strategy-evaluation) — Identity, Cybersecurity, IT Operations, Governance · 2026-10-17

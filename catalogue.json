@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-10-18T15:38:40.163Z",
+  "generatedAt": "2026-10-19T10:33:29.817Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,96 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 467,
+  "itemCount": 473,
   "familyCounts": {
-    "Insights": 86,
+    "Insights": 87,
     "Guides": 38,
     "Infographics": 72,
     "Diagrams": 48,
     "Carousels": 48,
-    "Practical Intelligence": 23,
+    "Practical Intelligence": 26,
     "Technology Evaluations": 14,
-    "Other": 138
+    "Other": 140
   },
   "latestItem": {
-    "title": "When to Move a Critical Service to a Managed Cloud Provider",
-    "url": "https://intelligence.thearchon.eu/guides/when-to-move-a-critical-service-to-a-managed-cloud-provider",
-    "publishedAt": "2026-10-18T09:33:49.000Z"
+    "title": "IT Governance and Strategic Transformation",
+    "url": "https://intelligence.thearchon.eu/quizzes/it-governance-and-strategic-transformation-ae8878",
+    "publishedAt": "2026-10-19T08:58:41.000Z"
   },
   "items": [
+    {
+      "title": "IT Governance and Strategic Transformation",
+      "url": "https://intelligence.thearchon.eu/quizzes/it-governance-and-strategic-transformation-ae8878",
+      "guid": "https://intelligence.thearchon.eu/quizzes/it-governance-and-strategic-transformation-ae8878",
+      "family": "Practical Intelligence",
+      "domains": [
+        "IT Operations"
+      ],
+      "publishedAt": "2026-10-19T08:58:41.000Z",
+      "description": "Built from 3 related articles on IT Operations."
+    },
+    {
+      "title": "Documentation vs. Institutional Memory",
+      "url": "https://intelligence.thearchon.eu/comparisons/documentation-vs-institutional-memory-86150c",
+      "guid": "https://intelligence.thearchon.eu/comparisons/documentation-vs-institutional-memory-86150c",
+      "family": "Practical Intelligence",
+      "domains": [
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-19T08:58:35.000Z",
+      "description": "Built from 3 related articles on Resilience."
+    },
+    {
+      "title": "Achieving Operational Maturity Through Governance",
+      "url": "https://intelligence.thearchon.eu/checklists/achieving-operational-maturity-through-governance-ec1ebe",
+      "guid": "https://intelligence.thearchon.eu/checklists/achieving-operational-maturity-through-governance-ec1ebe",
+      "family": "Practical Intelligence",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-10-19T08:58:23.000Z",
+      "description": "Built from 3 related articles on Governance."
+    },
+    {
+      "title": "Enterprise AI ≠ Private Conversation",
+      "url": "https://intelligence.thearchon.eu/articles/enterprise-ai-private-conversation",
+      "guid": "https://intelligence.thearchon.eu/articles/enterprise-ai-private-conversation",
+      "family": "Insights",
+      "domains": [
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-19T06:41:00.000Z",
+      "description": "Who inside your organization can read what you type into corporate AI?"
+    },
+    {
+      "title": "Remediate Newly Added KEV Vulnerability (CVE‑2026‑21589) in Atlassian Products",
+      "url": "https://intelligence.thearchon.eu/playbooks/remediate-newly-added-kev-vulnerability-cve202621589-in-atlassian-products",
+      "guid": "https://intelligence.thearchon.eu/playbooks/remediate-newly-added-kev-vulnerability-cve202621589-in-atlassian-products",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Governance",
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-19T06:19:46.000Z",
+      "description": "Identify Atlassian assets vulnerable to CVE‑2026‑21589, assess exposure, and apply patches rapidly per BOD 26‑04 guidance."
+    },
+    {
+      "title": "Move Critical Service to Managed Cloud Provider",
+      "url": "https://intelligence.thearchon.eu/playbooks/move-critical-service-to-managed-cloud-provider",
+      "guid": "https://intelligence.thearchon.eu/playbooks/move-critical-service-to-managed-cloud-provider",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Cloud",
+        "Governance",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-10-19T06:19:42.000Z",
+      "description": "Assess security, privacy, and provider compliance, then migrate the critical service to a managed cloud provider if criteria are met."
+    },
     {
       "title": "When to Move a Critical Service to a Managed Cloud Provider",
       "url": "https://intelligence.thearchon.eu/guides/when-to-move-a-critical-service-to-a-managed-cloud-provider",
