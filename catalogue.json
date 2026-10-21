@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-10-19T10:33:29.817Z",
+  "generatedAt": "2026-10-21T08:42:37.366Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,61 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 473,
+  "itemCount": 476,
   "familyCounts": {
     "Insights": 87,
-    "Guides": 38,
+    "Guides": 39,
     "Infographics": 72,
     "Diagrams": 48,
     "Carousels": 48,
     "Practical Intelligence": 26,
     "Technology Evaluations": 14,
-    "Other": 140
+    "Other": 142
   },
   "latestItem": {
-    "title": "IT Governance and Strategic Transformation",
-    "url": "https://intelligence.thearchon.eu/quizzes/it-governance-and-strategic-transformation-ae8878",
-    "publishedAt": "2026-10-19T08:58:41.000Z"
+    "title": "Checklist Before Granting Third‑Party API Access to Sensitive Data",
+    "url": "https://intelligence.thearchon.eu/guides/checklist-before-granting-thirdparty-api-access-to-sensitive-data",
+    "publishedAt": "2026-10-20T09:33:51.000Z"
   },
   "items": [
+    {
+      "title": "Checklist Before Granting Third‑Party API Access to Sensitive Data",
+      "url": "https://intelligence.thearchon.eu/guides/checklist-before-granting-thirdparty-api-access-to-sensitive-data",
+      "guid": "https://intelligence.thearchon.eu/guides/checklist-before-granting-thirdparty-api-access-to-sensitive-data",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-20T09:33:51.000Z",
+      "description": "Outsourcing data via APIs can expose sensitive information to supply‑chain attacks. Use a structured risk and privacy assessment to decide whether to proceed, pause, or request more information."
+    },
+    {
+      "title": "Mitigate Ivanti Connect Secure Zero‑Day (CVE‑2026‑104935) Exploitation",
+      "url": "https://intelligence.thearchon.eu/playbooks/mitigate-ivanti-connect-secure-zeroday-cve2026104935-exploitation",
+      "guid": "https://intelligence.thearchon.eu/playbooks/mitigate-ivanti-connect-secure-zeroday-cve2026104935-exploitation",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Identity",
+        "Cloud"
+      ],
+      "publishedAt": "2026-10-20T06:19:45.000Z",
+      "description": "Identify vulnerable Ivanti Connect Secure appliances, apply the latest patches, and if compromise is suspected, perform forensic analysis and recover the appliances."
+    },
+    {
+      "title": "Remediate Newly Added KEV Vulnerabilities",
+      "url": "https://intelligence.thearchon.eu/playbooks/remediate-newly-added-kev-vulnerabilities",
+      "guid": "https://intelligence.thearchon.eu/playbooks/remediate-newly-added-kev-vulnerabilities",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-20T06:19:40.000Z",
+      "description": "Identify, prioritize, and remediate the four CISA‑added known exploited vulnerabilities on publicly exposed assets, and verify no compromise occurred."
+    },
     {
       "title": "IT Governance and Strategic Transformation",
       "url": "https://intelligence.thearchon.eu/quizzes/it-governance-and-strategic-transformation-ae8878",
