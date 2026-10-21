@@ -5,11 +5,14 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Wed, 21 Oct 2026 08:42:37 GMT (2026-10-21T08:42:37.366Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Wed, 21 Oct 2026 09:52:31 GMT (2026-10-21T09:52:31.586Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**476 indexed items** across families: Insights (87) · Guides (39) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (26) · Technology Evaluations (14) · Other (142)
+**479 indexed items** across families: Insights (87) · Guides (40) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (26) · Technology Evaluations (14) · Other (144)
 
 ## Newest
+- [Pre‑Launch Checklist for Enterprise‑Wide Password‑Less Authentication](https://intelligence.thearchon.eu/guides/prelaunch-checklist-for-enterprisewide-passwordless-authentication) — Guides · Identity, Cybersecurity · 2026-10-21
+- [SafePay Ransomware – Immediate Defensive Actions](https://intelligence.thearchon.eu/playbooks/safepay-ransomware-immediate-defensive-actions) — Other · Cybersecurity, IT Operations, Identity, Governance · 2026-10-21
+- [Checklist Before Granting Third‑Party API Access to Sensitive Data](https://intelligence.thearchon.eu/playbooks/checklist-before-granting-thirdparty-api-access-to-sensitive-data) — Other · Cybersecurity, Governance · 2026-10-21
 - [Checklist Before Granting Third‑Party API Access to Sensitive Data](https://intelligence.thearchon.eu/guides/checklist-before-granting-thirdparty-api-access-to-sensitive-data) — Guides · Cybersecurity · 2026-10-20
 - [Mitigate Ivanti Connect Secure Zero‑Day (CVE‑2026‑104935) Exploitation](https://intelligence.thearchon.eu/playbooks/mitigate-ivanti-connect-secure-zeroday-cve2026104935-exploitation) — Other · Cybersecurity, IT Operations, Identity, Cloud · 2026-10-20
 - [Remediate Newly Added KEV Vulnerabilities](https://intelligence.thearchon.eu/playbooks/remediate-newly-added-kev-vulnerabilities) — Other · Cybersecurity, IT Operations, Governance · 2026-10-20
@@ -17,9 +20,6 @@ _Last generated: Wed, 21 Oct 2026 08:42:37 GMT (2026-10-21T08:42:37.366Z) · sou
 - [Documentation vs. Institutional Memory](https://intelligence.thearchon.eu/comparisons/documentation-vs-institutional-memory-86150c) — Practical Intelligence · Resilience · 2026-10-19
 - [Achieving Operational Maturity Through Governance](https://intelligence.thearchon.eu/checklists/achieving-operational-maturity-through-governance-ec1ebe) — Practical Intelligence · Governance · 2026-10-19
 - [Enterprise AI ≠ Private Conversation](https://intelligence.thearchon.eu/articles/enterprise-ai-private-conversation) — Insights · AI, Governance · 2026-10-19
-- [Remediate Newly Added KEV Vulnerability (CVE‑2026‑21589) in Atlassian Products](https://intelligence.thearchon.eu/playbooks/remediate-newly-added-kev-vulnerability-cve202621589-in-atlassian-products) — Other · Cybersecurity, IT Operations, Governance, Resilience · 2026-10-19
-- [Move Critical Service to Managed Cloud Provider](https://intelligence.thearchon.eu/playbooks/move-critical-service-to-managed-cloud-provider) — Other · Cybersecurity, Cloud, Governance, IT Operations · 2026-10-19
-- [When to Move a Critical Service to a Managed Cloud Provider](https://intelligence.thearchon.eu/guides/when-to-move-a-critical-service-to-a-managed-cloud-provider) — Guides · Cloud, Cybersecurity · 2026-10-18
 
 ## Insights (87)
 - [Enterprise AI ≠ Private Conversation](https://intelligence.thearchon.eu/articles/enterprise-ai-private-conversation) — AI, Governance · 2026-10-19
@@ -110,7 +110,8 @@ _Last generated: Wed, 21 Oct 2026 08:42:37 GMT (2026-10-21T08:42:37.366Z) · sou
 - [The UX of Hiring: Digital Transformation or GDPR Nightmare?](https://intelligence.thearchon.eu/articles/ux-hiring-digital-transformation-gdpr-nightmare-dimitris-mikedis-ztlrf) — Governance · 2026-04-21
 - [The Silent Reality of Today’s Job Market: Delays, Silence, and Unrealistic Expectations](https://intelligence.thearchon.eu/articles/silent-reality-todays-job-market-delays-silence-dimitris-mikedis-5wmxf) — Leadership & Organization · 2026-04-16
 
-## Guides (39)
+## Guides (40)
+- [Pre‑Launch Checklist for Enterprise‑Wide Password‑Less Authentication](https://intelligence.thearchon.eu/guides/prelaunch-checklist-for-enterprisewide-passwordless-authentication) — Identity, Cybersecurity · 2026-10-21
 - [Checklist Before Granting Third‑Party API Access to Sensitive Data](https://intelligence.thearchon.eu/guides/checklist-before-granting-thirdparty-api-access-to-sensitive-data) — Cybersecurity · 2026-10-20
 - [When to Move a Critical Service to a Managed Cloud Provider](https://intelligence.thearchon.eu/guides/when-to-move-a-critical-service-to-a-managed-cloud-provider) — Cloud, Cybersecurity · 2026-10-18
 - [Pre‑Selection Checklist for a Vendor‑Neutral Network‑Segmentation Model](https://intelligence.thearchon.eu/guides/preselection-checklist-for-a-vendorneutral-networksegmentation-model) — Cybersecurity, Networking · 2026-10-16
@@ -369,7 +370,9 @@ _Last generated: Wed, 21 Oct 2026 08:42:37 GMT (2026-10-21T08:42:37.366Z) · sou
 - [ManageEngine PAM360: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-pam360) — Identity, Cybersecurity, Governance
 - [ManageEngine ServiceDesk Plus: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-servicedesk-plus) — IT Operations, Governance
 
-## Other (142)
+## Other (144)
+- [SafePay Ransomware – Immediate Defensive Actions](https://intelligence.thearchon.eu/playbooks/safepay-ransomware-immediate-defensive-actions) — Cybersecurity, IT Operations, Identity, Governance · 2026-10-21
+- [Checklist Before Granting Third‑Party API Access to Sensitive Data](https://intelligence.thearchon.eu/playbooks/checklist-before-granting-thirdparty-api-access-to-sensitive-data) — Cybersecurity, Governance · 2026-10-21
 - [Mitigate Ivanti Connect Secure Zero‑Day (CVE‑2026‑104935) Exploitation](https://intelligence.thearchon.eu/playbooks/mitigate-ivanti-connect-secure-zeroday-cve2026104935-exploitation) — Cybersecurity, IT Operations, Identity, Cloud · 2026-10-20
 - [Remediate Newly Added KEV Vulnerabilities](https://intelligence.thearchon.eu/playbooks/remediate-newly-added-kev-vulnerabilities) — Cybersecurity, IT Operations, Governance · 2026-10-20
 - [Remediate Newly Added KEV Vulnerability (CVE‑2026‑21589) in Atlassian Products](https://intelligence.thearchon.eu/playbooks/remediate-newly-added-kev-vulnerability-cve202621589-in-atlassian-products) — Cybersecurity, IT Operations, Governance, Resilience · 2026-10-19

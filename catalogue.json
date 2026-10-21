@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-10-21T08:42:37.366Z",
+  "generatedAt": "2026-10-21T09:52:31.586Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,61 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 476,
+  "itemCount": 479,
   "familyCounts": {
     "Insights": 87,
-    "Guides": 39,
+    "Guides": 40,
     "Infographics": 72,
     "Diagrams": 48,
     "Carousels": 48,
     "Practical Intelligence": 26,
     "Technology Evaluations": 14,
-    "Other": 142
+    "Other": 144
   },
   "latestItem": {
-    "title": "Checklist Before Granting Third‑Party API Access to Sensitive Data",
-    "url": "https://intelligence.thearchon.eu/guides/checklist-before-granting-thirdparty-api-access-to-sensitive-data",
-    "publishedAt": "2026-10-20T09:33:51.000Z"
+    "title": "Pre‑Launch Checklist for Enterprise‑Wide Password‑Less Authentication",
+    "url": "https://intelligence.thearchon.eu/guides/prelaunch-checklist-for-enterprisewide-passwordless-authentication",
+    "publishedAt": "2026-10-21T09:33:54.000Z"
   },
   "items": [
+    {
+      "title": "Pre‑Launch Checklist for Enterprise‑Wide Password‑Less Authentication",
+      "url": "https://intelligence.thearchon.eu/guides/prelaunch-checklist-for-enterprisewide-passwordless-authentication",
+      "guid": "https://intelligence.thearchon.eu/guides/prelaunch-checklist-for-enterprisewide-passwordless-authentication",
+      "family": "Guides",
+      "domains": [
+        "Identity",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-21T09:33:54.000Z",
+      "description": "Password‑less authentication (e.g., FIDO passkeys) can improve security, but it must be vetted against proven standards, device readiness, multi‑factor safeguards, and NIST guidance before a full rollout."
+    },
+    {
+      "title": "SafePay Ransomware – Immediate Defensive Actions",
+      "url": "https://intelligence.thearchon.eu/playbooks/safepay-ransomware-immediate-defensive-actions",
+      "guid": "https://intelligence.thearchon.eu/playbooks/safepay-ransomware-immediate-defensive-actions",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Identity",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-21T06:19:45.000Z",
+      "description": "Apply recommended hardening measures to reduce risk and impact of SafePay ransomware when indicators of compromise are detected."
+    },
+    {
+      "title": "Checklist Before Granting Third‑Party API Access to Sensitive Data",
+      "url": "https://intelligence.thearchon.eu/playbooks/checklist-before-granting-thirdparty-api-access-to-sensitive-data",
+      "guid": "https://intelligence.thearchon.eu/playbooks/checklist-before-granting-thirdparty-api-access-to-sensitive-data",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-21T06:19:41.000Z",
+      "description": "Identify data, assess the third‑party’s security and privacy posture, and secure contractual and monitoring controls before granting API access."
+    },
     {
       "title": "Checklist Before Granting Third‑Party API Access to Sensitive Data",
       "url": "https://intelligence.thearchon.eu/guides/checklist-before-granting-thirdparty-api-access-to-sensitive-data",
