@@ -5,23 +5,25 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Wed, 21 Oct 2026 09:52:31 GMT (2026-10-21T09:52:31.586Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Tue, 27 Oct 2026 10:14:47 GMT (2026-10-27T10:14:47.037Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**479 indexed items** across families: Insights (87) · Guides (40) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (26) · Technology Evaluations (14) · Other (144)
+**498 indexed items** across families: Insights (89) · Guides (47) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (28) · Technology Evaluations (14) · Other (152)
 
 ## Newest
-- [Pre‑Launch Checklist for Enterprise‑Wide Password‑Less Authentication](https://intelligence.thearchon.eu/guides/prelaunch-checklist-for-enterprisewide-passwordless-authentication) — Guides · Identity, Cybersecurity · 2026-10-21
-- [SafePay Ransomware – Immediate Defensive Actions](https://intelligence.thearchon.eu/playbooks/safepay-ransomware-immediate-defensive-actions) — Other · Cybersecurity, IT Operations, Identity, Governance · 2026-10-21
-- [Checklist Before Granting Third‑Party API Access to Sensitive Data](https://intelligence.thearchon.eu/playbooks/checklist-before-granting-thirdparty-api-access-to-sensitive-data) — Other · Cybersecurity, Governance · 2026-10-21
-- [Checklist Before Granting Third‑Party API Access to Sensitive Data](https://intelligence.thearchon.eu/guides/checklist-before-granting-thirdparty-api-access-to-sensitive-data) — Guides · Cybersecurity · 2026-10-20
-- [Mitigate Ivanti Connect Secure Zero‑Day (CVE‑2026‑104935) Exploitation](https://intelligence.thearchon.eu/playbooks/mitigate-ivanti-connect-secure-zeroday-cve2026104935-exploitation) — Other · Cybersecurity, IT Operations, Identity, Cloud · 2026-10-20
-- [Remediate Newly Added KEV Vulnerabilities](https://intelligence.thearchon.eu/playbooks/remediate-newly-added-kev-vulnerabilities) — Other · Cybersecurity, IT Operations, Governance · 2026-10-20
-- [IT Governance and Strategic Transformation](https://intelligence.thearchon.eu/quizzes/it-governance-and-strategic-transformation-ae8878) — Practical Intelligence · IT Operations · 2026-10-19
-- [Documentation vs. Institutional Memory](https://intelligence.thearchon.eu/comparisons/documentation-vs-institutional-memory-86150c) — Practical Intelligence · Resilience · 2026-10-19
-- [Achieving Operational Maturity Through Governance](https://intelligence.thearchon.eu/checklists/achieving-operational-maturity-through-governance-ec1ebe) — Practical Intelligence · Governance · 2026-10-19
-- [Enterprise AI ≠ Private Conversation](https://intelligence.thearchon.eu/articles/enterprise-ai-private-conversation) — Insights · AI, Governance · 2026-10-19
+- [Deciding When to Shift Critical Services to an Edge‑Computing Provider](https://intelligence.thearchon.eu/guides/deciding-when-to-shift-critical-services-to-an-edgecomputing-provider) — Guides · Cloud, Resilience, IT Operations · 2026-10-27
+- [Governance and Accountability in AI vs Automation Leadership](https://intelligence.thearchon.eu/comparisons/governance-and-accountability-in-ai-vs-automation-leadership-1f9972) — Practical Intelligence · AI · 2026-10-27
+- [Choosing an Organization‑Wide AI Model Explainability Process](https://intelligence.thearchon.eu/guides/choosing-an-organizationwide-ai-model-explainability-process) — Guides · AI, Governance, Cybersecurity · 2026-10-26
+- [Automate Identity‑Centric Governance of Access and Assets](https://intelligence.thearchon.eu/checklists/automate-identity-centric-governance-of-access-and-assets-e2d473) — Practical Intelligence · Identity · 2026-10-26
+- [How Much Do the Tools You Use Every Day Actually Know About You?](https://intelligence.thearchon.eu/articles/how-much-do-the-tools-you-use-every-day-actually-know-about-you) — Insights · Cybersecurity, Governance · 2026-10-25
+- [Vendor Security Advisory – Information Security Testing and Assessment](https://intelligence.thearchon.eu/playbooks/vendor-security-advisory-information-security-testing-and-assessment) — Other · Cybersecurity, Governance · 2026-10-25
+- [Critical PHP Vulnerabilities – Immediate Patch and Mitigation Playbook](https://intelligence.thearchon.eu/playbooks/critical-php-vulnerabilities-immediate-patch-and-mitigation-playbook) — Other · Cybersecurity, IT Operations, Resilience · 2026-10-24
+- [Information Security Testing and Assessment](https://intelligence.thearchon.eu/guides/information-security-testing-and-assessment) — Guides · Cybersecurity, Governance, Resilience · 2026-10-24
+- [Managing AI Token Consumption for Operational Resilience](https://intelligence.thearchon.eu/guides/managing-ai-token-consumption-for-operational-resilience) — Guides · AI, Resilience, IT Operations · 2026-10-24
+- [ISC2 Systems Security Certified Practitioner (SSCP) Bootcamp](https://intelligence.thearchon.eu/guides/isc2-systems-security-certified-practitioner-sscp-bootcamp) — Guides · Cybersecurity · 2026-10-24
 
-## Insights (87)
+## Insights (89)
+- [How Much Do the Tools You Use Every Day Actually Know About You?](https://intelligence.thearchon.eu/articles/how-much-do-the-tools-you-use-every-day-actually-know-about-you) — Cybersecurity, Governance · 2026-10-25
+- [Your Personal AI Account Is Not Your Private Space](https://intelligence.thearchon.eu/articles/your-personal-ai-account-is-not-your-private-space) — AI, Governance · 2026-10-22
 - [Enterprise AI ≠ Private Conversation](https://intelligence.thearchon.eu/articles/enterprise-ai-private-conversation) — AI, Governance · 2026-10-19
 - [Your Custom Software, Your Control](https://intelligence.thearchon.eu/articles/your-custom-software-your-control) — Governance, Leadership & Organization · 2026-10-15
 - [Why Companies Are Quietly Shrinking Their Office Footprints](https://intelligence.thearchon.eu/articles/why-companies-are-quietly-shrinking-their-office-footprints) — Leadership & Organization · 2026-10-13
@@ -110,7 +112,14 @@ _Last generated: Wed, 21 Oct 2026 09:52:31 GMT (2026-10-21T09:52:31.586Z) · sou
 - [The UX of Hiring: Digital Transformation or GDPR Nightmare?](https://intelligence.thearchon.eu/articles/ux-hiring-digital-transformation-gdpr-nightmare-dimitris-mikedis-ztlrf) — Governance · 2026-04-21
 - [The Silent Reality of Today’s Job Market: Delays, Silence, and Unrealistic Expectations](https://intelligence.thearchon.eu/articles/silent-reality-todays-job-market-delays-silence-dimitris-mikedis-5wmxf) — Leadership & Organization · 2026-04-16
 
-## Guides (40)
+## Guides (47)
+- [Deciding When to Shift Critical Services to an Edge‑Computing Provider](https://intelligence.thearchon.eu/guides/deciding-when-to-shift-critical-services-to-an-edgecomputing-provider) — Cloud, Resilience, IT Operations · 2026-10-27
+- [Choosing an Organization‑Wide AI Model Explainability Process](https://intelligence.thearchon.eu/guides/choosing-an-organizationwide-ai-model-explainability-process) — AI, Governance, Cybersecurity · 2026-10-26
+- [Information Security Testing and Assessment](https://intelligence.thearchon.eu/guides/information-security-testing-and-assessment) — Cybersecurity, Governance, Resilience · 2026-10-24
+- [Managing AI Token Consumption for Operational Resilience](https://intelligence.thearchon.eu/guides/managing-ai-token-consumption-for-operational-resilience) — AI, Resilience, IT Operations · 2026-10-24
+- [ISC2 Systems Security Certified Practitioner (SSCP) Bootcamp](https://intelligence.thearchon.eu/guides/isc2-systems-security-certified-practitioner-sscp-bootcamp) — Cybersecurity · 2026-10-24
+- [Evaluating the Need for a Dedicated AI‑Generated Content Review Process](https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-aigenerated-content-review-process) — AI, Governance, Cybersecurity · 2026-10-24
+- [Assigning a Dedicated Owner for Data‑Retention Policy Enforcement](https://intelligence.thearchon.eu/guides/assigning-a-dedicated-owner-for-dataretention-policy-enforcement) — Governance, Resilience, IT Operations · 2026-10-22
 - [Pre‑Launch Checklist for Enterprise‑Wide Password‑Less Authentication](https://intelligence.thearchon.eu/guides/prelaunch-checklist-for-enterprisewide-passwordless-authentication) — Identity, Cybersecurity · 2026-10-21
 - [Checklist Before Granting Third‑Party API Access to Sensitive Data](https://intelligence.thearchon.eu/guides/checklist-before-granting-thirdparty-api-access-to-sensitive-data) — Cybersecurity · 2026-10-20
 - [When to Move a Critical Service to a Managed Cloud Provider](https://intelligence.thearchon.eu/guides/when-to-move-a-critical-service-to-a-managed-cloud-provider) — Cloud, Cybersecurity · 2026-10-18
@@ -326,7 +335,9 @@ _Last generated: Wed, 21 Oct 2026 09:52:31 GMT (2026-10-21T09:52:31.586Z) · sou
 - [Why IT Service Management (ITSM) Is Essential for Modern Enterprises](https://intelligence.thearchon.eu/carousels/why-it-service-management-itsm-is-essential-for-modern-enterprises) — IT Operations, Governance, Resilience, Cloud, Cybersecurity · 2026-09-18
 - [AI Governance: Who Controls the AI Agent?](https://intelligence.thearchon.eu/carousels/ai-governance-who-controls-the-ai-agent) — AI, Governance, Cybersecurity, Resilience · 2026-09-18
 
-## Practical Intelligence (26)
+## Practical Intelligence (28)
+- [Governance and Accountability in AI vs Automation Leadership](https://intelligence.thearchon.eu/comparisons/governance-and-accountability-in-ai-vs-automation-leadership-1f9972) — AI · 2026-10-27
+- [Automate Identity‑Centric Governance of Access and Assets](https://intelligence.thearchon.eu/checklists/automate-identity-centric-governance-of-access-and-assets-e2d473) — Identity · 2026-10-26
 - [IT Governance and Strategic Transformation](https://intelligence.thearchon.eu/quizzes/it-governance-and-strategic-transformation-ae8878) — IT Operations · 2026-10-19
 - [Documentation vs. Institutional Memory](https://intelligence.thearchon.eu/comparisons/documentation-vs-institutional-memory-86150c) — Resilience · 2026-10-19
 - [Achieving Operational Maturity Through Governance](https://intelligence.thearchon.eu/checklists/achieving-operational-maturity-through-governance-ec1ebe) — Governance · 2026-10-19
@@ -370,7 +381,15 @@ _Last generated: Wed, 21 Oct 2026 09:52:31 GMT (2026-10-21T09:52:31.586Z) · sou
 - [ManageEngine PAM360: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-pam360) — Identity, Cybersecurity, Governance
 - [ManageEngine ServiceDesk Plus: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-servicedesk-plus) — IT Operations, Governance
 
-## Other (144)
+## Other (152)
+- [Vendor Security Advisory – Information Security Testing and Assessment](https://intelligence.thearchon.eu/playbooks/vendor-security-advisory-information-security-testing-and-assessment) — Cybersecurity, Governance · 2026-10-25
+- [Critical PHP Vulnerabilities – Immediate Patch and Mitigation Playbook](https://intelligence.thearchon.eu/playbooks/critical-php-vulnerabilities-immediate-patch-and-mitigation-playbook) — Cybersecurity, IT Operations, Resilience · 2026-10-24
+- [Hitachi Energy MicroSCADA X SYS600 Product Vulnerability Response](https://intelligence.thearchon.eu/playbooks/hitachi-energy-microscada-x-sys600-product-vulnerability-response) — Cybersecurity, IT Operations, Resilience · 2026-10-24
+- [Checklist for Verifying Identity-Proofing Processes Before Onboarding New Users](https://intelligence.thearchon.eu/playbooks/checklist-for-verifying-identity-proofing-processes-before-onboarding-new-users) — Identity, Cybersecurity, IT Operations, Governance · 2026-10-23
+- [What to Check Before Consolidating Multiple Identity Providers](https://intelligence.thearchon.eu/playbooks/what-to-check-before-consolidating-multiple-identity-providers) — Identity, Cybersecurity, IT Operations, Cloud, Governance · 2026-10-23
+- [Mitigate Hitachi Energy RTU500 Firmware Vulnerabilities](https://intelligence.thearchon.eu/playbooks/mitigate-hitachi-energy-rtu500-firmware-vulnerabilities) — Cybersecurity, IT Operations, Resilience, Governance · 2026-10-23
+- [Mitigate Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP Firmware Vulnerabilities](https://intelligence.thearchon.eu/playbooks/mitigate-siemens-simatic-s7-1500-cpu-1518f-4-pndp-mfp-firmware-vulnerabilities) — Cybersecurity, IT Operations · 2026-10-23
+- [Pre‑Launch Checklist for Enterprise‑Wide Password‑Less Authentication](https://intelligence.thearchon.eu/playbooks/prelaunch-checklist-for-enterprisewide-passwordless-authentication) — Identity, Cybersecurity, Governance · 2026-10-22
 - [SafePay Ransomware – Immediate Defensive Actions](https://intelligence.thearchon.eu/playbooks/safepay-ransomware-immediate-defensive-actions) — Cybersecurity, IT Operations, Identity, Governance · 2026-10-21
 - [Checklist Before Granting Third‑Party API Access to Sensitive Data](https://intelligence.thearchon.eu/playbooks/checklist-before-granting-thirdparty-api-access-to-sensitive-data) — Cybersecurity, Governance · 2026-10-21
 - [Mitigate Ivanti Connect Secure Zero‑Day (CVE‑2026‑104935) Exploitation](https://intelligence.thearchon.eu/playbooks/mitigate-ivanti-connect-secure-zeroday-cve2026104935-exploitation) — Cybersecurity, IT Operations, Identity, Cloud · 2026-10-20

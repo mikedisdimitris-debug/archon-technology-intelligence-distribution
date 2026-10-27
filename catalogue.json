@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-10-21T09:52:31.586Z",
+  "generatedAt": "2026-10-27T10:14:47.037Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,264 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 479,
+  "itemCount": 498,
   "familyCounts": {
-    "Insights": 87,
-    "Guides": 40,
+    "Insights": 89,
+    "Guides": 47,
     "Infographics": 72,
     "Diagrams": 48,
     "Carousels": 48,
-    "Practical Intelligence": 26,
+    "Practical Intelligence": 28,
     "Technology Evaluations": 14,
-    "Other": 144
+    "Other": 152
   },
   "latestItem": {
-    "title": "Pre‑Launch Checklist for Enterprise‑Wide Password‑Less Authentication",
-    "url": "https://intelligence.thearchon.eu/guides/prelaunch-checklist-for-enterprisewide-passwordless-authentication",
-    "publishedAt": "2026-10-21T09:33:54.000Z"
+    "title": "Deciding When to Shift Critical Services to an Edge‑Computing Provider",
+    "url": "https://intelligence.thearchon.eu/guides/deciding-when-to-shift-critical-services-to-an-edgecomputing-provider",
+    "publishedAt": "2026-10-27T09:00:50.000Z"
   },
   "items": [
+    {
+      "title": "Deciding When to Shift Critical Services to an Edge‑Computing Provider",
+      "url": "https://intelligence.thearchon.eu/guides/deciding-when-to-shift-critical-services-to-an-edgecomputing-provider",
+      "guid": "https://intelligence.thearchon.eu/guides/deciding-when-to-shift-critical-services-to-an-edgecomputing-provider",
+      "family": "Guides",
+      "domains": [
+        "Cloud",
+        "Resilience",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-10-27T09:00:50.000Z",
+      "description": "Use this guide to evaluate whether moving a critical service to an edge‑computing provider improves resilience, aligns with open ICT standards, and mitigates security risks."
+    },
+    {
+      "title": "Governance and Accountability in AI vs Automation Leadership",
+      "url": "https://intelligence.thearchon.eu/comparisons/governance-and-accountability-in-ai-vs-automation-leadership-1f9972",
+      "guid": "https://intelligence.thearchon.eu/comparisons/governance-and-accountability-in-ai-vs-automation-leadership-1f9972",
+      "family": "Practical Intelligence",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-27T08:00:35.000Z",
+      "description": "Built from 3 related articles on AI."
+    },
+    {
+      "title": "Choosing an Organization‑Wide AI Model Explainability Process",
+      "url": "https://intelligence.thearchon.eu/guides/choosing-an-organizationwide-ai-model-explainability-process",
+      "guid": "https://intelligence.thearchon.eu/guides/choosing-an-organizationwide-ai-model-explainability-process",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Governance",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-26T09:00:41.000Z",
+      "description": "A concise guide to selecting an explainability approach that meets NCSC secure AI guidelines, NIST AI Risk Management Framework trustworthiness criteria, and FTC privacy commitments."
+    },
+    {
+      "title": "Automate Identity‑Centric Governance of Access and Assets",
+      "url": "https://intelligence.thearchon.eu/checklists/automate-identity-centric-governance-of-access-and-assets-e2d473",
+      "guid": "https://intelligence.thearchon.eu/checklists/automate-identity-centric-governance-of-access-and-assets-e2d473",
+      "family": "Practical Intelligence",
+      "domains": [
+        "Identity"
+      ],
+      "publishedAt": "2026-10-26T08:00:33.000Z",
+      "description": "Built from 3 related articles on Identity."
+    },
+    {
+      "title": "How Much Do the Tools You Use Every Day Actually Know About You?",
+      "url": "https://intelligence.thearchon.eu/articles/how-much-do-the-tools-you-use-every-day-actually-know-about-you",
+      "guid": "https://intelligence.thearchon.eu/articles/how-much-do-the-tools-you-use-every-day-actually-know-about-you",
+      "family": "Insights",
+      "domains": [
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-25T20:48:00.000Z",
+      "description": "Email. Search. Browser. Social Media. AI. Five Categories. One Person. A Privacy Challenge Nobody Designed — But Everyone Is Living."
+    },
+    {
+      "title": "Vendor Security Advisory – Information Security Testing and Assessment",
+      "url": "https://intelligence.thearchon.eu/playbooks/vendor-security-advisory-information-security-testing-and-assessment",
+      "guid": "https://intelligence.thearchon.eu/playbooks/vendor-security-advisory-information-security-testing-and-assessment",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-25T05:31:03.000Z",
+      "description": "When a vendor issues a security advisory, promptly assess risk, run vulnerability tests, and verify supply‑chain controls before deciding on remediation actions."
+    },
+    {
+      "title": "Critical PHP Vulnerabilities – Immediate Patch and Mitigation Playbook",
+      "url": "https://intelligence.thearchon.eu/playbooks/critical-php-vulnerabilities-immediate-patch-and-mitigation-playbook",
+      "guid": "https://intelligence.thearchon.eu/playbooks/critical-php-vulnerabilities-immediate-patch-and-mitigation-playbook",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-24T16:05:59.000Z",
+      "description": "Identify all PHP installations, apply the CISA‑recommended patches or isolate vulnerable systems, and monitor for suspicious activity."
+    },
+    {
+      "title": "Information Security Testing and Assessment",
+      "url": "https://intelligence.thearchon.eu/guides/information-security-testing-and-assessment",
+      "guid": "https://intelligence.thearchon.eu/guides/information-security-testing-and-assessment",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "Governance",
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-24T16:05:45.000Z",
+      "description": "Information security testing and assessment are crucial for protecting organizations in cyberspace. This guide outlines key areas such as vulnerability management, incident management, and architecture and configuration, drawing on guidance from leading cybersecurity authorities."
+    },
+    {
+      "title": "Managing AI Token Consumption for Operational Resilience",
+      "url": "https://intelligence.thearchon.eu/guides/managing-ai-token-consumption-for-operational-resilience",
+      "guid": "https://intelligence.thearchon.eu/guides/managing-ai-token-consumption-for-operational-resilience",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Resilience",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-10-24T16:05:32.000Z",
+      "description": "Unmanaged AI token consumption can lead to unpredictable costs, reduced service availability, and performance degradation. This guide outlines practical steps to manage token usage for operational resilience, focusing on prioritizing allocation, optimizing workflows, and monitoring consumption."
+    },
+    {
+      "title": "ISC2 Systems Security Certified Practitioner (SSCP) Bootcamp",
+      "url": "https://intelligence.thearchon.eu/guides/isc2-systems-security-certified-practitioner-sscp-bootcamp",
+      "guid": "https://intelligence.thearchon.eu/guides/isc2-systems-security-certified-practitioner-sscp-bootcamp",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-24T16:05:18.000Z",
+      "description": "The ISC2 SSCP Bootcamp prepares cybersecurity and IT operations professionals to implement, monitor, and administer secure information systems. It aligns with the ISC2 SSCP Common Body of Knowledge (CBK) and incorporates operational security practices consistent with NIST frameworks. The bootcamp helps prepare candidates for the SSCP examination, which validates operational capability through proven experience in security operations."
+    },
+    {
+      "title": "Hitachi Energy MicroSCADA X SYS600 Product Vulnerability Response",
+      "url": "https://intelligence.thearchon.eu/playbooks/hitachi-energy-microscada-x-sys600-product-vulnerability-response",
+      "guid": "https://intelligence.thearchon.eu/playbooks/hitachi-energy-microscada-x-sys600-product-vulnerability-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-24T09:53:40.000Z",
+      "description": "Address multiple vulnerabilities in Hitachi Energy MicroSCADA X SYS600 by identifying affected systems, applying vendor fixes, and implementing mitigation strategies."
+    },
+    {
+      "title": "Evaluating the Need for a Dedicated AI‑Generated Content Review Process",
+      "url": "https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-aigenerated-content-review-process",
+      "guid": "https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-aigenerated-content-review-process",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Governance",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-24T09:00:44.000Z",
+      "description": "Use security, risk‑management, and privacy guidelines to decide whether a formal review step is required for AI‑generated content."
+    },
+    {
+      "title": "Checklist for Verifying Identity-Proofing Processes Before Onboarding New Users",
+      "url": "https://intelligence.thearchon.eu/playbooks/checklist-for-verifying-identity-proofing-processes-before-onboarding-new-users",
+      "guid": "https://intelligence.thearchon.eu/playbooks/checklist-for-verifying-identity-proofing-processes-before-onboarding-new-users",
+      "family": "Other",
+      "domains": [
+        "Identity",
+        "Cybersecurity",
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-23T17:19:14.000Z",
+      "description": "Before onboarding new users, verify that identity-proofing processes incorporate multifactor authentication (MFA) and consider phishing-resistant methods like FIDO passkeys to enhance security."
+    },
+    {
+      "title": "What to Check Before Consolidating Multiple Identity Providers",
+      "url": "https://intelligence.thearchon.eu/playbooks/what-to-check-before-consolidating-multiple-identity-providers",
+      "guid": "https://intelligence.thearchon.eu/playbooks/what-to-check-before-consolidating-multiple-identity-providers",
+      "family": "Other",
+      "domains": [
+        "Identity",
+        "Cybersecurity",
+        "IT Operations",
+        "Cloud",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-23T17:05:22.000Z",
+      "description": "Before consolidating identity providers, ensure all systems can support multifactor authentication (MFA) and that identity tokens are protected according to NIST guidelines. Verify the interoperability of authentication protocols like OpenID Connect."
+    },
+    {
+      "title": "Mitigate Hitachi Energy RTU500 Firmware Vulnerabilities",
+      "url": "https://intelligence.thearchon.eu/playbooks/mitigate-hitachi-energy-rtu500-firmware-vulnerabilities",
+      "guid": "https://intelligence.thearchon.eu/playbooks/mitigate-hitachi-energy-rtu500-firmware-vulnerabilities",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Resilience",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-23T06:19:46.000Z",
+      "description": "Update RTU500 devices to the vendor‑fixed firmware and apply recommended mitigations to eliminate disclosed vulnerabilities."
+    },
+    {
+      "title": "Mitigate Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP Firmware Vulnerabilities",
+      "url": "https://intelligence.thearchon.eu/playbooks/mitigate-siemens-simatic-s7-1500-cpu-1518f-4-pndp-mfp-firmware-vulnerabilities",
+      "guid": "https://intelligence.thearchon.eu/playbooks/mitigate-siemens-simatic-s7-1500-cpu-1518f-4-pndp-mfp-firmware-vulnerabilities",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-10-23T06:19:40.000Z",
+      "description": "When CISA reports vulnerabilities in the SIMATIC S7-1500 CPU firmware, inventory affected devices, apply Siemens fixes or recommended mitigations, and monitor for exploitation."
+    },
+    {
+      "title": "Assigning a Dedicated Owner for Data‑Retention Policy Enforcement",
+      "url": "https://intelligence.thearchon.eu/guides/assigning-a-dedicated-owner-for-dataretention-policy-enforcement",
+      "guid": "https://intelligence.thearchon.eu/guides/assigning-a-dedicated-owner-for-dataretention-policy-enforcement",
+      "family": "Guides",
+      "domains": [
+        "Governance",
+        "Resilience",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-10-22T09:33:56.000Z",
+      "description": "Data and privacy are primary policy issues for AI, and expertise in data governance helps ensure safe and fair use of data. Assign a dedicated owner when you need that expertise to drive consistent enforcement of retention rules."
+    },
+    {
+      "title": "Pre‑Launch Checklist for Enterprise‑Wide Password‑Less Authentication",
+      "url": "https://intelligence.thearchon.eu/playbooks/prelaunch-checklist-for-enterprisewide-passwordless-authentication",
+      "guid": "https://intelligence.thearchon.eu/playbooks/prelaunch-checklist-for-enterprisewide-passwordless-authentication",
+      "family": "Other",
+      "domains": [
+        "Identity",
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-22T06:19:45.000Z",
+      "description": "Validate readiness for enterprise password‑less rollout by reviewing FIDO guidance, confirming authenticator certification, and ensuring MFA fallback is configured."
+    },
+    {
+      "title": "Your Personal AI Account Is Not Your Private Space",
+      "url": "https://intelligence.thearchon.eu/articles/your-personal-ai-account-is-not-your-private-space",
+      "guid": "https://intelligence.thearchon.eu/articles/your-personal-ai-account-is-not-your-private-space",
+      "family": "Insights",
+      "domains": [
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-22T06:06:00.000Z",
+      "description": "The Same Account You Use for Work Also Knows Your Health Concerns, Your Financial Worries, and What You Are Planning to Do Next.  It Is a Design."
+    },
     {
       "title": "Pre‑Launch Checklist for Enterprise‑Wide Password‑Less Authentication",
       "url": "https://intelligence.thearchon.eu/guides/prelaunch-checklist-for-enterprisewide-passwordless-authentication",
