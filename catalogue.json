@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-10-28T11:03:03.221Z",
+  "generatedAt": "2026-10-29T11:20:25.814Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,96 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 496,
+  "itemCount": 502,
   "familyCounts": {
-    "Insights": 89,
-    "Guides": 46,
+    "Insights": 90,
+    "Guides": 48,
     "Infographics": 72,
     "Diagrams": 48,
     "Carousels": 48,
-    "Practical Intelligence": 27,
+    "Practical Intelligence": 29,
     "Technology Evaluations": 14,
-    "Other": 152
+    "Other": 153
   },
   "latestItem": {
-    "title": "Choosing an Organization‑Wide AI Model Explainability Process",
-    "url": "https://intelligence.thearchon.eu/guides/choosing-an-organizationwide-ai-model-explainability-process",
-    "publishedAt": "2026-10-26T09:00:41.000Z"
+    "title": "The AI Layoff Paradox: Cutting People to Fund AI — Only to Hire Them Back Later?",
+    "url": "https://intelligence.thearchon.eu/articles/the-ai-layoff-paradox-cutting-people-to-fund-ai-only-to-hire-them-back-later",
+    "publishedAt": "2026-10-29T07:13:00.000Z"
   },
   "items": [
+    {
+      "title": "The AI Layoff Paradox: Cutting People to Fund AI — Only to Hire Them Back Later?",
+      "url": "https://intelligence.thearchon.eu/articles/the-ai-layoff-paradox-cutting-people-to-fund-ai-only-to-hire-them-back-later",
+      "guid": "https://intelligence.thearchon.eu/articles/the-ai-layoff-paradox-cutting-people-to-fund-ai-only-to-hire-them-back-later",
+      "family": "Insights",
+      "domains": [
+        "AI",
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-10-29T07:13:00.000Z",
+      "description": "Two in Three Companies That Cut Jobs Citing AI Are Already Rehiring. The Question Was Never How Many Jobs AI Can Eliminate. Which Work AI Has Actually Replaced."
+    },
+    {
+      "title": "Evaluating the Need for a Dedicated Cybersecurity Incident‑Response Automation Team",
+      "url": "https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-cybersecurity-incidentresponse-automation-team",
+      "guid": "https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-cybersecurity-incidentresponse-automation-team",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-10-28T09:00:41.000Z",
+      "description": "Use this guide to decide whether your organization should create a dedicated team that automates incident‑response tasks. It draws on NIST’s guidance that incident response requires substantial planning and resources, and NCSC’s steps for building a CSIRT and technical response capabilities."
+    },
+    {
+      "title": "Hidden Costs of Outdated Organizational Practices",
+      "url": "https://intelligence.thearchon.eu/quizzes/hidden-costs-of-outdated-organizational-practices-85a829",
+      "guid": "https://intelligence.thearchon.eu/quizzes/hidden-costs-of-outdated-organizational-practices-85a829",
+      "family": "Practical Intelligence",
+      "domains": [
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-10-28T08:00:35.000Z",
+      "description": "Built from 3 related articles on Leadership & Organization."
+    },
+    {
+      "title": "Shift Critical Services to an Edge‑Computing Provider in Response to a Vendor Security Advisory",
+      "url": "https://intelligence.thearchon.eu/playbooks/shift-critical-services-to-an-edgecomputing-provider-in-response-to-a-vendor-sec",
+      "guid": "https://intelligence.thearchon.eu/playbooks/shift-critical-services-to-an-edgecomputing-provider-in-response-to-a-vendor-sec",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Cloud",
+        "Resilience",
+        "Governance",
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-10-28T05:31:08.000Z",
+      "description": "When a critical vulnerability is disclosed, assess remediation feasibility and, if risk remains high, migrate affected critical services to an ETSI‑compliant edge provider that meets resilience guidelines."
+    },
+    {
+      "title": "Deciding When to Shift Critical Services to an Edge‑Computing Provider",
+      "url": "https://intelligence.thearchon.eu/guides/deciding-when-to-shift-critical-services-to-an-edgecomputing-provider",
+      "guid": "https://intelligence.thearchon.eu/guides/deciding-when-to-shift-critical-services-to-an-edgecomputing-provider",
+      "family": "Guides",
+      "domains": [
+        "Cloud",
+        "Resilience",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-10-27T09:00:50.000Z",
+      "description": "Use this guide to evaluate whether moving a critical service to an edge‑computing provider improves resilience, aligns with open ICT standards, and mitigates security risks."
+    },
+    {
+      "title": "Governance and Accountability in AI vs Automation Leadership",
+      "url": "https://intelligence.thearchon.eu/comparisons/governance-and-accountability-in-ai-vs-automation-leadership-1f9972",
+      "guid": "https://intelligence.thearchon.eu/comparisons/governance-and-accountability-in-ai-vs-automation-leadership-1f9972",
+      "family": "Practical Intelligence",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-10-27T08:00:35.000Z",
+      "description": "Built from 3 related articles on AI."
+    },
     {
       "title": "Choosing an Organization‑Wide AI Model Explainability Process",
       "url": "https://intelligence.thearchon.eu/guides/choosing-an-organizationwide-ai-model-explainability-process",
