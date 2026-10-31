@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-10-30T11:12:41.882Z",
+  "generatedAt": "2026-10-31T10:45:07.875Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,61 +9,23 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 504,
+  "itemCount": 501,
   "familyCounts": {
-    "Insights": 90,
-    "Guides": 49,
+    "Insights": 89,
+    "Guides": 48,
     "Infographics": 72,
     "Diagrams": 48,
     "Carousels": 48,
     "Practical Intelligence": 29,
     "Technology Evaluations": 14,
-    "Other": 154
+    "Other": 153
   },
   "latestItem": {
-    "title": "Deciding on a Dedicated Network Traffic Anomaly Detection System",
-    "url": "https://intelligence.thearchon.eu/guides/deciding-on-a-dedicated-network-traffic-anomaly-detection-system",
-    "publishedAt": "2026-10-30T09:00:41.000Z"
+    "title": "Evaluating the Need for a Dedicated Cybersecurity Incident‑Response Automation Team",
+    "url": "https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-cybersecurity-incidentresponse-automation-team",
+    "publishedAt": "2026-10-28T09:00:41.000Z"
   },
   "items": [
-    {
-      "title": "Deciding on a Dedicated Network Traffic Anomaly Detection System",
-      "url": "https://intelligence.thearchon.eu/guides/deciding-on-a-dedicated-network-traffic-anomaly-detection-system",
-      "guid": "https://intelligence.thearchon.eu/guides/deciding-on-a-dedicated-network-traffic-anomaly-detection-system",
-      "family": "Guides",
-      "domains": [
-        "Cybersecurity",
-        "Networking"
-      ],
-      "publishedAt": "2026-10-30T09:00:41.000Z",
-      "description": "Use NIST’s classification of network behavior analysis software and CISA’s zero‑trust visibility requirements to decide if a dedicated traffic‑anomaly system is needed."
-    },
-    {
-      "title": "Mitigate Hitachi Energy TRO600 Series Vulnerabilities",
-      "url": "https://intelligence.thearchon.eu/playbooks/mitigate-hitachi-energy-tro600-series-vulnerabilities",
-      "guid": "https://intelligence.thearchon.eu/playbooks/mitigate-hitachi-energy-tro600-series-vulnerabilities",
-      "family": "Other",
-      "domains": [
-        "Cybersecurity",
-        "IT Operations",
-        "Resilience",
-        "Governance"
-      ],
-      "publishedAt": "2026-10-30T05:30:59.000Z",
-      "description": "Apply vendor patches and verify firmware versions to address critical remote code execution and data disclosure vulnerabilities in TRO600 devices."
-    },
-    {
-      "title": "The AI Layoff Paradox: Cutting People to Fund AI — Only to Hire Them Back Later?",
-      "url": "https://intelligence.thearchon.eu/articles/the-ai-layoff-paradox-cutting-people-to-fund-ai-only-to-hire-them-back-later",
-      "guid": "https://intelligence.thearchon.eu/articles/the-ai-layoff-paradox-cutting-people-to-fund-ai-only-to-hire-them-back-later",
-      "family": "Insights",
-      "domains": [
-        "AI",
-        "Leadership & Organization"
-      ],
-      "publishedAt": "2026-10-29T07:13:00.000Z",
-      "description": "Two in Three Companies That Cut Jobs Citing AI Are Already Rehiring. The Question Was Never How Many Jobs AI Can Eliminate. Which Work AI Has Actually Replaced."
-    },
     {
       "title": "Evaluating the Need for a Dedicated Cybersecurity Incident‑Response Automation Team",
       "url": "https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-cybersecurity-incidentresponse-automation-team",
