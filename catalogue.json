@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-11-07T11:08:16.279Z",
+  "generatedAt": "2026-11-07T23:56:13.604Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,736 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 501,
+  "itemCount": 559,
   "familyCounts": {
-    "Insights": 89,
-    "Guides": 48,
+    "Insights": 92,
+    "Guides": 89,
     "Infographics": 72,
     "Diagrams": 48,
     "Carousels": 48,
-    "Practical Intelligence": 29,
+    "Practical Intelligence": 32,
     "Technology Evaluations": 14,
-    "Other": 153
+    "Other": 164
   },
   "latestItem": {
-    "title": "Evaluating the Need for a Dedicated Cybersecurity Incident‑Response Automation Team",
-    "url": "https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-cybersecurity-incidentresponse-automation-team",
-    "publishedAt": "2026-10-28T09:00:41.000Z"
+    "title": "Leakage‑Safe Benchmark Using CISA Performance Goals",
+    "url": "https://intelligence.thearchon.eu/guides/leakagesafe-benchmark-using-cisa-performance-goals",
+    "publishedAt": "2026-11-07T11:55:25.000Z"
   },
   "items": [
+    {
+      "title": "Leakage‑Safe Benchmark Using CISA Performance Goals",
+      "url": "https://intelligence.thearchon.eu/guides/leakagesafe-benchmark-using-cisa-performance-goals",
+      "guid": "https://intelligence.thearchon.eu/guides/leakagesafe-benchmark-using-cisa-performance-goals",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-07T11:55:25.000Z",
+      "description": "Apply CISA’s voluntary Cross‑Sector Cybersecurity Performance Goals (CPGs) as a baseline to reduce data‑leakage risk, and close skill gaps with NIST‑funded workforce development resources."
+    },
+    {
+      "title": "What is Zero Trust?",
+      "url": "https://intelligence.thearchon.eu/whiteboards/zero-trust",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/zero-trust",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Identity"
+      ],
+      "publishedAt": "2026-11-07T09:37:30.000Z",
+      "description": "Traditional security trusts everything inside the network. Zero Trust verifies every user, every device and every request."
+    },
+    {
+      "title": "Evaluating the Need for an Automated Incident‑Response Playbook in Small‑to‑Medium Ops",
+      "url": "https://intelligence.thearchon.eu/guides/evaluating-the-need-for-an-automated-incidentresponse-playbook-in-smalltomedium-ops",
+      "guid": "https://intelligence.thearchon.eu/guides/evaluating-the-need-for-an-automated-incidentresponse-playbook-in-smalltomedium-ops",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-07T09:00:43.000Z",
+      "description": "Small‑ and medium‑sized organisations hold valuable data but often have limited cybersecurity resources. Because incidents are inevitable, teams must assess current response capability, resource constraints, and the repeatability of manual steps before deciding whether automation adds value."
+    },
+    {
+      "title": "Network Intrusion Detection Data Set Compromise",
+      "url": "https://intelligence.thearchon.eu/playbooks/network-intrusion-detection-data-set-compromise",
+      "guid": "https://intelligence.thearchon.eu/playbooks/network-intrusion-detection-data-set-compromise",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Resilience",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-07T05:31:05.000Z",
+      "description": "Respond to a network intrusion involving the compromise of a network intrusion detection data set, potentially linked to China-linked malicious actors, by assessing the threat, implementing mitigation advice, and capturing evidence."
+    },
+    {
+      "title": "Compliance Playbook for Training AI Agents on Finance‑Ops Spreadsheets",
+      "url": "https://intelligence.thearchon.eu/playbooks/compliance-playbook-for-training-ai-agents-on-financeops-spreadsheets",
+      "guid": "https://intelligence.thearchon.eu/playbooks/compliance-playbook-for-training-ai-agents-on-financeops-spreadsheets",
+      "family": "Other",
+      "domains": [
+        "AI",
+        "Governance",
+        "Cybersecurity",
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-11-07T05:30:58.000Z",
+      "description": "Identify regulatory status, assess risks, and implement AI Act obligations before using AI agents in finance‑ops spreadsheet environments."
+    },
+    {
+      "title": "The Cheapest Network Is the One You Pay for Twice",
+      "url": "https://intelligence.thearchon.eu/articles/the-cheapest-network-is-the-one-you-pay-for-twice",
+      "guid": "https://intelligence.thearchon.eu/articles/the-cheapest-network-is-the-one-you-pay-for-twice",
+      "family": "Insights",
+      "domains": [
+        "Networking",
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-07T01:01:00.000Z",
+      "description": "Structured cabling, Wi-Fi and high availability: the physical layer decides how much of your business can run."
+    },
+    {
+      "title": "Training Environments for AI Agents in Finance-Ops Spreadsheets",
+      "url": "https://intelligence.thearchon.eu/guides/training-environments-for-ai-agents-in-finance-ops-spreadsheets",
+      "guid": "https://intelligence.thearchon.eu/guides/training-environments-for-ai-agents-in-finance-ops-spreadsheets",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Governance",
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-06T22:22:20.000Z",
+      "description": "Training AI agents for finance-ops spreadsheets involves navigating a complex landscape of technical challenges, organizational 'political' problems, and evolving regulatory frameworks. While attackers often face purely technical problems, defenders using AI must contend with organizational hurdles like budget, resource allocation, and change management. Regulatory bodies like the EU, NIST, and NCSC are developing frameworks and guidance to address the risks and foster trustworthy AI, emphasizing a risk-based approach."
+    },
+    {
+      "title": "SECR-Eval: AI Security Code Review Framework",
+      "url": "https://intelligence.thearchon.eu/guides/secr-eval-ai-security-code-review-framework",
+      "guid": "https://intelligence.thearchon.eu/guides/secr-eval-ai-security-code-review-framework",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-06T22:21:23.000Z",
+      "description": "A concise, vendor‑agnostic process for reviewing AI system code to ensure it avoids prohibited practices, follows secure design and deployment, and meets voluntary trustworthiness standards."
+    },
+    {
+      "title": "LUFlow Network Intrusion Detection Data Set",
+      "url": "https://intelligence.thearchon.eu/guides/luflow-network-intrusion-detection-data-set",
+      "guid": "https://intelligence.thearchon.eu/guides/luflow-network-intrusion-detection-data-set",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "Networking",
+        "AI"
+      ],
+      "publishedAt": "2026-11-06T13:14:23.000Z",
+      "description": "The LUFlow Network Intrusion Detection Data Set is a resource for developing and evaluating systems that detect unauthorized access or malicious activity on networks. Effective use of such datasets supports the implementation of cybersecurity best practices, like the CIS Critical Security Controls, to defend against prevalent cyber attacks."
+    },
+    {
+      "title": "S666 Online Gaming Platform Security Guide",
+      "url": "https://intelligence.thearchon.eu/guides/s666-online-gaming-platform-security-guide",
+      "guid": "https://intelligence.thearchon.eu/guides/s666-online-gaming-platform-security-guide",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "Identity"
+      ],
+      "publishedAt": "2026-11-06T13:13:47.000Z",
+      "description": "This guide outlines essential steps for S666 online gaming platforms to enhance security by protecting identity and access tokens and addressing critical software vulnerabilities, such as those found in PHP. Misused tokens can lead to unauthorized access, and unpatched software can allow remote code execution."
+    },
+    {
+      "title": "Integrating ENISA AI Threat Guidance with NIST‑Style Workforce Development",
+      "url": "https://intelligence.thearchon.eu/guides/integrating-enisa-ai-threat-guidance-with-niststyle-workforce-development",
+      "guid": "https://intelligence.thearchon.eu/guides/integrating-enisa-ai-threat-guidance-with-niststyle-workforce-development",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-06T13:12:39.000Z",
+      "description": "Leverage ENISA’s initial recommendations on AI‑driven cyber threats and NIST’s proven funding model to create a skilled workforce and robust defenses that keep pace with machine‑speed attacks."
+    },
+    {
+      "title": "Zero‑Trust Readiness Assessment for Legacy Applications",
+      "url": "https://intelligence.thearchon.eu/guides/zerotrust-readiness-assessment-for-legacy-applications",
+      "guid": "https://intelligence.thearchon.eu/guides/zerotrust-readiness-assessment-for-legacy-applications",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "Identity",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-05T09:00:51.000Z",
+      "description": "Use the NCSC’s eight Zero‑Trust design principles and NIST’s guidance to evaluate whether a legacy app can be brought into a Zero‑Trust environment."
+    },
+    {
+      "title": "Secure Throughput for Agentic AI Systems",
+      "url": "https://intelligence.thearchon.eu/guides/secure-throughput-for-agentic-ai-systems",
+      "guid": "https://intelligence.thearchon.eu/guides/secure-throughput-for-agentic-ai-systems",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-04T22:51:41.000Z",
+      "description": "A concise, vendor‑agnostic guide to protect the security and reliability of agentic AI while preserving its productivity benefits. It draws on NCSC advice, the NIST AI RMF Playbook, and OECD AI Principles."
+    },
+    {
+      "title": "Network Protocol Attack Protection – Key Practices",
+      "url": "https://intelligence.thearchon.eu/guides/network-protocol-attack-protection-key-practices",
+      "guid": "https://intelligence.thearchon.eu/guides/network-protocol-attack-protection-key-practices",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "Networking"
+      ],
+      "publishedAt": "2026-11-04T13:16:34.000Z",
+      "description": "A concise guide to protecting network‑protocol interfaces in cross‑domain solutions by isolating exposed components, enforcing data protection, and maintaining component integrity."
+    },
+    {
+      "title": "Cloud Security Assessment for Financial Services",
+      "url": "https://intelligence.thearchon.eu/guides/cloud-security-assessment-for-financial-services",
+      "guid": "https://intelligence.thearchon.eu/guides/cloud-security-assessment-for-financial-services",
+      "family": "Guides",
+      "domains": [
+        "Cloud",
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-04T13:16:08.000Z",
+      "description": "Financial services organizations can enhance their cloud security posture by utilizing established guidance from cybersecurity agencies. These resources provide frameworks and principles for choosing, configuring, and using cloud services securely, addressing aspects like shared responsibility, data protection, and governance."
+    },
+    {
+      "title": "The Market for Red-Teaming & AI Safety Work",
+      "url": "https://intelligence.thearchon.eu/guides/the-market-for-red-teaming-ai-safety-work",
+      "guid": "https://intelligence.thearchon.eu/guides/the-market-for-red-teaming-ai-safety-work",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-04T13:15:52.000Z",
+      "description": "The increasing focus on AI safety and trustworthy AI, driven by new regulations and frameworks, is creating a demand for specialized services in risk assessment, compliance, and red-teaming. Organizations need to understand and address AI-specific risks to ensure ethical development and deployment."
+    },
+    {
+      "title": "Curating Cyber Threat Data for Effective Defense",
+      "url": "https://intelligence.thearchon.eu/guides/curating-cyber-threat-data-for-effective-defense",
+      "guid": "https://intelligence.thearchon.eu/guides/curating-cyber-threat-data-for-effective-defense",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-04T13:15:39.000Z",
+      "description": "Turn raw cyber‑threat data into actionable defenses by disabling unnecessary services, sanitizing inputs, applying MFA, patching promptly, and integrating core security controls."
+    },
+    {
+      "title": "Hidden Operational Risks in Enterprise Systems",
+      "url": "https://intelligence.thearchon.eu/quizzes/hidden-operational-risks-in-enterprise-systems-0cd56d",
+      "guid": "https://intelligence.thearchon.eu/quizzes/hidden-operational-risks-in-enterprise-systems-0cd56d",
+      "family": "Practical Intelligence",
+      "domains": [
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-04T08:00:33.000Z",
+      "description": "Built from 3 related articles on Resilience."
+    },
+    {
+      "title": "Building Secure AI Agent Cybersecurity Datasets in 2026",
+      "url": "https://intelligence.thearchon.eu/guides/building-secure-ai-agent-cybersecurity-datasets-in-2026",
+      "guid": "https://intelligence.thearchon.eu/guides/building-secure-ai-agent-cybersecurity-datasets-in-2026",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "Governance",
+        "AI",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-11-03T22:32:22.000Z",
+      "description": "A concise guide for AI developers and data curators on creating cybersecurity datasets for AI agents that respect EU AI risk rules, follow UK secure‑AI design standards, and adopt US super‑intelligence safeguards."
+    },
+    {
+      "title": "60M+ Words Indian Languages LLM Training Corpora",
+      "url": "https://intelligence.thearchon.eu/guides/60m-words-indian-languages-llm-training-corpora",
+      "guid": "https://intelligence.thearchon.eu/guides/60m-words-indian-languages-llm-training-corpora",
+      "family": "Guides",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-11-03T22:31:52.000Z",
+      "description": "The provided source excerpts do not contain information regarding 60M+ words Indian Languages LLM Training Corpora. Instead, they focus on security, incident response, and regulatory frameworks for AI and LLMs. This guide will address general best practices for LLM development and deployment, drawing from the provided security and regulatory contexts."
+    },
+    {
+      "title": "Modern Approaches to Network Access Security",
+      "url": "https://intelligence.thearchon.eu/guides/modern-approaches-to-network-access-security",
+      "guid": "https://intelligence.thearchon.eu/guides/modern-approaches-to-network-access-security",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "Networking"
+      ],
+      "publishedAt": "2026-11-03T22:30:56.000Z",
+      "description": "Modern network access security approaches, such as Zero Trust, Secure Service Edge (SSE), and Secure Access Service Edge (SASE), provide increased visibility into network activity. These methods help organizations understand and address vulnerabilities and threats associated with traditional remote access and VPN deployments, as well as the risks posed by misconfigurations."
+    },
+    {
+      "title": "AI‑Enabled Compensation & Remote‑Work Practices – 2026 Compliance Guide",
+      "url": "https://intelligence.thearchon.eu/guides/aienabled-compensation-remotework-practices-2026-compliance-guide",
+      "guid": "https://intelligence.thearchon.eu/guides/aienabled-compensation-remotework-practices-2026-compliance-guide",
+      "family": "Guides",
+      "domains": [
+        "Leadership & Organization",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-03T22:30:42.000Z",
+      "description": "A concise, vendor‑agnostic guide to decide whether an AI tool can be used for compensation analysis or remote‑work monitoring under the EU AI Act, and how to complement it with reliable U.S. compensation data from the BLS."
+    },
+    {
+      "title": "Enable Multi-Factor Authentication and Strengthen Password Policies",
+      "url": "https://intelligence.thearchon.eu/playbooks/enable-multi-factor-authentication-and-strengthen-password-policies",
+      "guid": "https://intelligence.thearchon.eu/playbooks/enable-multi-factor-authentication-and-strengthen-password-policies",
+      "family": "Other",
+      "domains": [
+        "Identity",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-03T13:02:19.000Z",
+      "description": "Activate MFA and enforce strong passwords to improve cyber hygiene when changing authentication methods."
+    },
+    {
+      "title": "Orbital Compute & Space Data Center Tracker",
+      "url": "https://intelligence.thearchon.eu/guides/orbital-compute-space-data-center-tracker",
+      "guid": "https://intelligence.thearchon.eu/guides/orbital-compute-space-data-center-tracker",
+      "family": "Guides",
+      "domains": [
+        "Cloud",
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-03T13:02:11.000Z",
+      "description": "The International Space Station (ISS) is a key platform for research into how the space environment affects materials and human health, supporting future space-based living and commerce. It hosts experiments with reference materials to ensure accurate measurements in orbit."
+    },
+    {
+      "title": "Cybersecurity Best Practices",
+      "url": "https://intelligence.thearchon.eu/guides/cybersecurity-best-practices",
+      "guid": "https://intelligence.thearchon.eu/guides/cybersecurity-best-practices",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-03T13:01:48.000Z",
+      "description": "Cybersecurity best practices are crucial for individuals and organizations to implement preventative measures and manage cyber risks. The cyberspace is complex due to global malicious actors, linkages to physical systems, and the difficulty in reducing vulnerabilities. Basic cyber hygiene, like strong passwords, software updates, and multi-factor authentication, significantly improves online safety. Tailored cybersecurity plans are key for protecting business operations."
+    },
+    {
+      "title": "Assessing LLM Safety Datasets under the AI Act and NIST Guidance",
+      "url": "https://intelligence.thearchon.eu/guides/assessing-llm-safety-datasets-under-the-ai-act-and-nist-guidance",
+      "guid": "https://intelligence.thearchon.eu/guides/assessing-llm-safety-datasets-under-the-ai-act-and-nist-guidance",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-03T13:01:34.000Z",
+      "description": "A concise, vendor‑agnostic guide for evaluating large‑language‑model safety datasets against the EU AI Act’s risk‑based rules and NIST’s trustworthy AI framework."
+    },
+    {
+      "title": "Protecting Sensitive Business Data from Advanced Threat Actors",
+      "url": "https://intelligence.thearchon.eu/playbooks/protecting-sensitive-business-data-from-advanced-threat-actors",
+      "guid": "https://intelligence.thearchon.eu/playbooks/protecting-sensitive-business-data-from-advanced-threat-actors",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Resilience",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-03T13:01:11.000Z",
+      "description": "Respond to a ransomware attack by isolating affected systems, restoring data from secure backups, and strengthening cyber resilience."
+    },
+    {
+      "title": "Navigating AI Regulations and Threat Landscapes (2022-2026)",
+      "url": "https://intelligence.thearchon.eu/guides/navigating-ai-regulations-and-threat-landscapes-2022-2026",
+      "guid": "https://intelligence.thearchon.eu/guides/navigating-ai-regulations-and-threat-landscapes-2022-2026",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-03T13:01:01.000Z",
+      "description": "This guide outlines significant developments in AI regulation and cybersecurity threat analysis between 2022 and 2026, focusing on the NIST AI Risk Management Framework, the EU AI Act, and ENISA's threat landscape reports. It highlights voluntary frameworks, legal mandates, and evolving cyber threats relevant to AI systems and digital ecosystems."
+    },
+    {
+      "title": "Developing and Deploying AI Systems: Key Considerations",
+      "url": "https://intelligence.thearchon.eu/guides/developing-and-deploying-ai-systems-key-considerations",
+      "guid": "https://intelligence.thearchon.eu/guides/developing-and-deploying-ai-systems-key-considerations",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Governance",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-03T13:00:47.000Z",
+      "description": "This guide outlines essential considerations for AI system providers, covering risk assessment, legal frameworks, and secure development practices. It emphasizes building trustworthy AI that functions as intended, is available, and protects sensitive data."
+    },
+    {
+      "title": "Protecting Sensitive Business Data from Advanced Threat Actors",
+      "url": "https://intelligence.thearchon.eu/guides/protecting-sensitive-business-data-from-advanced-threat-actors",
+      "guid": "https://intelligence.thearchon.eu/guides/protecting-sensitive-business-data-from-advanced-threat-actors",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "Cloud"
+      ],
+      "publishedAt": "2026-11-03T13:00:31.000Z",
+      "description": "Malicious actors linked to foreign states are using AI‑enabled tools, botnets and hands‑on exploitation to steal data worldwide. Regular, verified backups and robust data‑protection practices are essential defenses, especially for organisations in critical supply chains."
+    },
+    {
+      "title": "AI Model Failure Atlas: Navigating Risks and Compliance",
+      "url": "https://intelligence.thearchon.eu/playbooks/ai-model-failure-atlas-navigating-risks-and-compliance",
+      "guid": "https://intelligence.thearchon.eu/playbooks/ai-model-failure-atlas-navigating-risks-and-compliance",
+      "family": "Other",
+      "domains": [
+        "AI",
+        "Governance",
+        "Cybersecurity",
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-03T13:00:11.000Z",
+      "description": "Address AI system failures by identifying the risk level, assessing compliance with relevant regulations, and capturing evidence for potential regulatory action."
+    },
+    {
+      "title": "Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation",
+      "url": "https://intelligence.thearchon.eu/playbooks/key-practices-for-incident-readiness-and-response-in-super-intelligence-training",
+      "guid": "https://intelligence.thearchon.eu/playbooks/key-practices-for-incident-readiness-and-response-in-super-intelligence-training",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "AI",
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-03T13:00:04.000Z",
+      "description": "Prepare for and manage Super Intelligence (SI) control incidents by limiting agent access, monitoring for unexpected activity, preserving evidence, and rebuilding from verified baselines."
+    },
+    {
+      "title": "Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation",
+      "url": "https://intelligence.thearchon.eu/guides/key-practices-for-incident-readiness-and-response-in-super-intelligence-training-and-evalu",
+      "guid": "https://intelligence.thearchon.eu/guides/key-practices-for-incident-readiness-and-response-in-super-intelligence-training-and-evalu",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-03T12:59:54.000Z",
+      "description": "This guide outlines ten voluntary core practices for organizations training and evaluating highly capable Super Intelligence (SI) agents. It focuses on preparing for and managing SI control incidents, which occur when SI agents take uninstructed actions that conflict with policies or security measures. The practices align with cyber incident response best practices and emphasize testing controls and validating containment."
+    },
+    {
+      "title": "AI Model Failure Atlas: Navigating Risks and Compliance",
+      "url": "https://intelligence.thearchon.eu/guides/ai-model-failure-atlas-navigating-risks-and-compliance",
+      "guid": "https://intelligence.thearchon.eu/guides/ai-model-failure-atlas-navigating-risks-and-compliance",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Resilience",
+        "Governance",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-03T12:59:39.000Z",
+      "description": "A concise guide for AI developers and deployers to identify failure‑prone models, apply the EU AI Act’s risk‑based framework, meet privacy expectations, and defend against AI‑powered cyber threats."
+    },
+    {
+      "title": "Approaches to Cloud Migration",
+      "url": "https://intelligence.thearchon.eu/comparisons/approaches-to-cloud-migration-6dcf6a",
+      "guid": "https://intelligence.thearchon.eu/comparisons/approaches-to-cloud-migration-6dcf6a",
+      "family": "Practical Intelligence",
+      "domains": [
+        "Cloud"
+      ],
+      "publishedAt": "2026-11-03T08:00:34.000Z",
+      "description": "Built from 3 related articles on Cloud."
+    },
+    {
+      "title": "Transitioning to Post-Quantum Cryptography",
+      "url": "https://intelligence.thearchon.eu/guides/transitioning-to-post-quantum-cryptography",
+      "guid": "https://intelligence.thearchon.eu/guides/transitioning-to-post-quantum-cryptography",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-03T00:03:52.000Z",
+      "description": "Organizations need to transition to post-quantum cryptography (PQC) standards to protect data from future quantum computer attacks. This involves identifying quantum-vulnerable systems and migrating to quantum-resistant alternatives, with a focus on secure Transport Layer Security (TLS) configurations."
+    },
+    {
+      "title": "Secure vs Vulnerable Code Pairs",
+      "url": "https://intelligence.thearchon.eu/guides/secure-vs-vulnerable-code-pairs",
+      "guid": "https://intelligence.thearchon.eu/guides/secure-vs-vulnerable-code-pairs",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-03T00:03:06.000Z",
+      "description": "Compare insecure code patterns (e.g., the PHP out‑of‑memory flaw) with secure alternatives guided by the OWASP Top 10 and CIS Critical Security Controls. Follow practical steps to stop using vulnerable code, think through risk, and go‑ahead with hardening."
+    },
+    {
+      "title": "Legal AI Hallucination & Reliability Benchmark V3",
+      "url": "https://intelligence.thearchon.eu/guides/legal-ai-hallucination-reliability-benchmark-v3",
+      "guid": "https://intelligence.thearchon.eu/guides/legal-ai-hallucination-reliability-benchmark-v3",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-02T13:52:01.000Z",
+      "description": "The AI Act, the first comprehensive legal framework on AI, addresses risks and aims to foster trustworthy AI. It employs a risk-based approach, categorizing AI systems into four levels, with unacceptable risk systems being banned. This framework ensures safety, fundamental rights, and human-centric AI, while also promoting investment and innovation."
+    },
+    {
+      "title": "Synthetic Supply Chain Threat Detection Dataset",
+      "url": "https://intelligence.thearchon.eu/playbooks/synthetic-supply-chain-threat-detection-dataset",
+      "guid": "https://intelligence.thearchon.eu/playbooks/synthetic-supply-chain-threat-detection-dataset",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Governance",
+        "Resilience",
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-11-02T13:51:23.000Z",
+      "description": "Understand and establish control over your supply chain to manage cyber risks and implement preventative measures against potential threats."
+    },
+    {
+      "title": "Synthetic Supply Chain Threat Detection Dataset",
+      "url": "https://intelligence.thearchon.eu/guides/synthetic-supply-chain-threat-detection-dataset",
+      "guid": "https://intelligence.thearchon.eu/guides/synthetic-supply-chain-threat-detection-dataset",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "AI"
+      ],
+      "publishedAt": "2026-11-02T13:50:36.000Z",
+      "description": "Supply chain security is a critical aspect of cybersecurity, involving the protection of products, systems, and services delivered by suppliers. Organizations must understand the risks, establish control, check arrangements, and continuously improve their supply chain security practices to manage cyber risks effectively."
+    },
+    {
+      "title": "Agentic Tool-Use & Multi-API Orchestration 2026",
+      "url": "https://intelligence.thearchon.eu/guides/agentic-tool-use-multi-api-orchestration-2026",
+      "guid": "https://intelligence.thearchon.eu/guides/agentic-tool-use-multi-api-orchestration-2026",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Governance",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-02T13:49:29.000Z",
+      "description": "Agentic AI systems, particularly those exhibiting 'super intelligence,' are becoming a focus for governments and industry. While attackers may leverage AI for technical problems, defenders face organizational challenges. New regulations like the EU AI Act and US Executive Orders are shaping how these systems are developed, deployed, and trusted, emphasizing risk-based approaches and ethical considerations."
+    },
+    {
+      "title": "GreenGuard C - Multi-Agent Security System",
+      "url": "https://intelligence.thearchon.eu/guides/greenguard-c-multi-agent-security-system",
+      "guid": "https://intelligence.thearchon.eu/guides/greenguard-c-multi-agent-security-system",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "AI"
+      ],
+      "publishedAt": "2026-11-02T13:49:07.000Z",
+      "description": "GreenGuard C focuses on securing agentic Super Intelligence (SI) systems. It addresses the unique challenges of managing AI token consumption, responding to SI control incidents, and protecting critical infrastructure from evolving SI risks."
+    },
+    {
+      "title": "Evaluating TSNBench: Time‑Sensitive Networking LLM Benchmark",
+      "url": "https://intelligence.thearchon.eu/guides/evaluating-tsnbench-timesensitive-networking-llm-benchmark",
+      "guid": "https://intelligence.thearchon.eu/guides/evaluating-tsnbench-timesensitive-networking-llm-benchmark",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Networking"
+      ],
+      "publishedAt": "2026-11-02T13:48:54.000Z",
+      "description": "A concise, vendor‑agnostic guide to assess the TSNBench benchmark against EU AI risk rules, U.S. safety‑critical AI practice, and token‑management best practices."
+    },
+    {
+      "title": "Governance‑Driven IT Transformation Checklist",
+      "url": "https://intelligence.thearchon.eu/checklists/governance-driven-it-transformation-checklist-da288c",
+      "guid": "https://intelligence.thearchon.eu/checklists/governance-driven-it-transformation-checklist-da288c",
+      "family": "Practical Intelligence",
+      "domains": [
+        "IT Operations"
+      ],
+      "publishedAt": "2026-11-02T08:00:32.000Z",
+      "description": "Built from 3 related articles on IT Operations."
+    },
+    {
+      "title": "Your ERP Runs Your Business. Does It Also Own It?",
+      "url": "https://intelligence.thearchon.eu/articles/your-erp-runs-your-business-does-it-also-own-it",
+      "guid": "https://intelligence.thearchon.eu/articles/your-erp-runs-your-business-does-it-also-own-it",
+      "family": "Insights",
+      "domains": [
+        "Leadership & Organization",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-02T07:33:00.000Z",
+      "description": "How SMEs get locked into all-in-one business software — and why the exit has to be designed while everything still works."
+    },
+    {
+      "title": "SEC 8-K Filings: Material Events by Item",
+      "url": "https://intelligence.thearchon.eu/guides/sec-8-k-filings-material-events-by-item",
+      "guid": "https://intelligence.thearchon.eu/guides/sec-8-k-filings-material-events-by-item",
+      "family": "Guides",
+      "domains": [
+        "Governance",
+        "Cybersecurity",
+        "IT Operations",
+        "AI"
+      ],
+      "publishedAt": "2026-11-01T21:26:13.000Z",
+      "description": "SEC 8-K filings are used to disclose material events that shareholders should know about. While the provided excerpts do not detail specific 8-K items, they highlight the importance of managing risks related to AI and cybersecurity, which could trigger such disclosures. Organizations should consider the implications of AI systems and cybersecurity incidents on their operations and financial condition, as these could constitute material events."
+    },
+    {
+      "title": "Global Web API Ecosystem & Security",
+      "url": "https://intelligence.thearchon.eu/guides/global-web-api-ecosystem-security",
+      "guid": "https://intelligence.thearchon.eu/guides/global-web-api-ecosystem-security",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-01T21:25:48.000Z",
+      "description": "APIs are fundamental to modern applications across various sectors, exposing application logic and sensitive data. This makes them prime targets for attackers. Securing APIs is crucial for innovation, as malicious actors globally exploit API vulnerabilities to compromise networks and steal data."
+    },
+    {
+      "title": "AI Regulatory Landscape Impacting Market Planning (2025‑2035)",
+      "url": "https://intelligence.thearchon.eu/guides/ai-regulatory-landscape-impacting-market-planning-20252035",
+      "guid": "https://intelligence.thearchon.eu/guides/ai-regulatory-landscape-impacting-market-planning-20252035",
+      "family": "Guides",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-11-01T21:25:19.000Z",
+      "description": "A concise guide on the AI Act’s risk‑based framework and the FTC’s privacy enforcement focus, helping you decide how regulatory compliance will shape market sizing and investment decisions through 2035."
+    },
+    {
+      "title": "Governance Checklist for Developer Utility Tools and Diagnostic Practices",
+      "url": "https://intelligence.thearchon.eu/guides/governance-checklist-for-developer-utility-tools-and-diagnostic-practices",
+      "guid": "https://intelligence.thearchon.eu/guides/governance-checklist-for-developer-utility-tools-and-diagnostic-practices",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-01T12:46:44.000Z",
+      "description": "A concise guide for security and compliance teams to harden developer tools, enforce basic cyber hygiene, and align AI‑driven diagnostics with the EU AI Act’s risk‑based rules."
+    },
+    {
+      "title": "Evaluating App Reviews: A Guide to Trustworthy Information",
+      "url": "https://intelligence.thearchon.eu/guides/evaluating-app-reviews-a-guide-to-trustworthy-information",
+      "guid": "https://intelligence.thearchon.eu/guides/evaluating-app-reviews-a-guide-to-trustworthy-information",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-01T12:46:20.000Z",
+      "description": "When researching app reviews, prioritize official government websites (ending in .gov or .mil) and secure connections (HTTPS) to ensure the information is reliable and protected. Be cautious of unofficial sources for sensitive information."
+    },
+    {
+      "title": "DeFi Smart Contract Security Checklist",
+      "url": "https://intelligence.thearchon.eu/guides/defi-smart-contract-security-checklist",
+      "guid": "https://intelligence.thearchon.eu/guides/defi-smart-contract-security-checklist",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-01T12:45:49.000Z",
+      "description": "A concise, vendor‑agnostic guide that combines the OWASP Smart Contract Security Verification Standard (SCSVS) with the UK NCSC cloud security principles to help teams design, test, and host DeFi contracts securely."
+    },
+    {
+      "title": "Deciding When to Deploy a Dedicated API Security Gateway",
+      "url": "https://intelligence.thearchon.eu/guides/deciding-when-to-deploy-a-dedicated-api-security-gateway",
+      "guid": "https://intelligence.thearchon.eu/guides/deciding-when-to-deploy-a-dedicated-api-security-gateway",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-01T09:00:39.000Z",
+      "description": "Use this guide to evaluate if a dedicated API security gateway is needed, balancing the benefits of centralized security controls against the added attack surface and operational overhead."
+    },
+    {
+      "title": "Evaluate a Vendor‑Neutral Data‑Backup and Recovery Strategy",
+      "url": "https://intelligence.thearchon.eu/playbooks/evaluate-a-vendorneutral-databackup-and-recovery-strategy",
+      "guid": "https://intelligence.thearchon.eu/playbooks/evaluate-a-vendorneutral-databackup-and-recovery-strategy",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Resilience"
+      ],
+      "publishedAt": "2026-10-31T19:55:37.000Z",
+      "description": "Implement and verify offline, encrypted backups, test restores, and scan backup systems to ensure resilience against ransomware."
+    },
+    {
+      "title": "Evaluate Need for a Dedicated Cybersecurity Incident‑Response Automation Team",
+      "url": "https://intelligence.thearchon.eu/playbooks/evaluate-need-for-a-dedicated-cybersecurity-incidentresponse-automation-team",
+      "guid": "https://intelligence.thearchon.eu/playbooks/evaluate-need-for-a-dedicated-cybersecurity-incidentresponse-automation-team",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-31T19:39:51.000Z",
+      "description": "Assess current incident response capabilities, identify gaps, and decide whether to create a dedicated automation team."
+    },
+    {
+      "title": "Deciding When to Consolidate Cloud‑Native Security Tools",
+      "url": "https://intelligence.thearchon.eu/guides/deciding-when-to-consolidate-cloudnative-security-tools",
+      "guid": "https://intelligence.thearchon.eu/guides/deciding-when-to-consolidate-cloudnative-security-tools",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "Cloud"
+      ],
+      "publishedAt": "2026-10-31T09:00:42.000Z",
+      "description": "Use this guide to evaluate whether merging overlapping cloud‑native security solutions will improve posture, reduce complexity and keep you aligned with recognised frameworks such as NCSC CSPM advice, CIS Controls and CSA governance tools."
+    },
+    {
+      "title": "Deciding on a Dedicated Network Traffic Anomaly Detection System",
+      "url": "https://intelligence.thearchon.eu/guides/deciding-on-a-dedicated-network-traffic-anomaly-detection-system",
+      "guid": "https://intelligence.thearchon.eu/guides/deciding-on-a-dedicated-network-traffic-anomaly-detection-system",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "Networking"
+      ],
+      "publishedAt": "2026-10-30T09:00:41.000Z",
+      "description": "Use NIST’s classification of network behavior analysis software and CISA’s zero‑trust visibility requirements to decide if a dedicated traffic‑anomaly system is needed."
+    },
+    {
+      "title": "Mitigate Hitachi Energy TRO600 Series Vulnerabilities",
+      "url": "https://intelligence.thearchon.eu/playbooks/mitigate-hitachi-energy-tro600-series-vulnerabilities",
+      "guid": "https://intelligence.thearchon.eu/playbooks/mitigate-hitachi-energy-tro600-series-vulnerabilities",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Resilience",
+        "Governance"
+      ],
+      "publishedAt": "2026-10-30T05:30:59.000Z",
+      "description": "Apply vendor patches and verify firmware versions to address critical remote code execution and data disclosure vulnerabilities in TRO600 devices."
+    },
+    {
+      "title": "The AI Layoff Paradox: Cutting People to Fund AI — Only to Hire Them Back Later?",
+      "url": "https://intelligence.thearchon.eu/articles/the-ai-layoff-paradox-cutting-people-to-fund-ai-only-to-hire-them-back-later",
+      "guid": "https://intelligence.thearchon.eu/articles/the-ai-layoff-paradox-cutting-people-to-fund-ai-only-to-hire-them-back-later",
+      "family": "Insights",
+      "domains": [
+        "AI",
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-10-29T07:13:00.000Z",
+      "description": "Two in Three Companies That Cut Jobs Citing AI Are Already Rehiring. The Question Was Never How Many Jobs AI Can Eliminate. Which Work AI Has Actually Replaced."
+    },
     {
       "title": "Evaluating the Need for a Dedicated Cybersecurity Incident‑Response Automation Team",
       "url": "https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-cybersecurity-incidentresponse-automation-team",
