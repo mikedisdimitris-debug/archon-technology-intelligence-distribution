@@ -5,26 +5,23 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Sat, 07 Nov 2026 09:44:08 GMT (2026-11-07T09:44:08.401Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Sat, 07 Nov 2026 11:08:16 GMT (2026-11-07T11:08:16.279Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**557 indexed items** across families: Insights (92) · Guides (88) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (32) · Technology Evaluations (14) · Other (163)
+**501 indexed items** across families: Insights (89) · Guides (48) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (29) · Technology Evaluations (14) · Other (153)
 
 ## Newest
-- [Evaluating the Need for an Automated Incident‑Response Playbook in Small‑to‑Medium Ops](https://intelligence.thearchon.eu/guides/evaluating-the-need-for-an-automated-incidentresponse-playbook-in-smalltomedium-ops) — Guides · Cybersecurity, IT Operations, Resilience · 2026-11-07
-- [Network Intrusion Detection Data Set Compromise](https://intelligence.thearchon.eu/playbooks/network-intrusion-detection-data-set-compromise) — Other · Cybersecurity, IT Operations, Resilience, Governance · 2026-11-07
-- [Compliance Playbook for Training AI Agents on Finance‑Ops Spreadsheets](https://intelligence.thearchon.eu/playbooks/compliance-playbook-for-training-ai-agents-on-financeops-spreadsheets) — Other · AI, Governance, Cybersecurity, Leadership & Organization · 2026-11-07
-- [The Cheapest Network Is the One You Pay for Twice](https://intelligence.thearchon.eu/articles/the-cheapest-network-is-the-one-you-pay-for-twice) — Insights · Networking, Resilience · 2026-11-07
-- [Training Environments for AI Agents in Finance-Ops Spreadsheets](https://intelligence.thearchon.eu/guides/training-environments-for-ai-agents-in-finance-ops-spreadsheets) — Guides · AI, Governance, Resilience · 2026-11-06
-- [SECR-Eval: AI Security Code Review Framework](https://intelligence.thearchon.eu/guides/secr-eval-ai-security-code-review-framework) — Guides · AI, Cybersecurity · 2026-11-06
-- [LUFlow Network Intrusion Detection Data Set](https://intelligence.thearchon.eu/guides/luflow-network-intrusion-detection-data-set) — Guides · Cybersecurity, Networking, AI · 2026-11-06
-- [S666 Online Gaming Platform Security Guide](https://intelligence.thearchon.eu/guides/s666-online-gaming-platform-security-guide) — Guides · Cybersecurity, Identity · 2026-11-06
-- [Integrating ENISA AI Threat Guidance with NIST‑Style Workforce Development](https://intelligence.thearchon.eu/guides/integrating-enisa-ai-threat-guidance-with-niststyle-workforce-development) — Guides · Cybersecurity · 2026-11-06
-- [Zero‑Trust Readiness Assessment for Legacy Applications](https://intelligence.thearchon.eu/guides/zerotrust-readiness-assessment-for-legacy-applications) — Guides · Cybersecurity, Identity, Governance · 2026-11-05
+- [Evaluating the Need for a Dedicated Cybersecurity Incident‑Response Automation Team](https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-cybersecurity-incidentresponse-automation-team) — Guides · Cybersecurity · 2026-10-28
+- [Hidden Costs of Outdated Organizational Practices](https://intelligence.thearchon.eu/quizzes/hidden-costs-of-outdated-organizational-practices-85a829) — Practical Intelligence · Leadership & Organization · 2026-10-28
+- [Shift Critical Services to an Edge‑Computing Provider in Response to a Vendor Security Advisory](https://intelligence.thearchon.eu/playbooks/shift-critical-services-to-an-edgecomputing-provider-in-response-to-a-vendor-sec) — Other · Cybersecurity, Cloud, Resilience, Governance, Leadership & Organization · 2026-10-28
+- [Deciding When to Shift Critical Services to an Edge‑Computing Provider](https://intelligence.thearchon.eu/guides/deciding-when-to-shift-critical-services-to-an-edgecomputing-provider) — Guides · Cloud, Resilience, IT Operations · 2026-10-27
+- [Governance and Accountability in AI vs Automation Leadership](https://intelligence.thearchon.eu/comparisons/governance-and-accountability-in-ai-vs-automation-leadership-1f9972) — Practical Intelligence · AI · 2026-10-27
+- [Choosing an Organization‑Wide AI Model Explainability Process](https://intelligence.thearchon.eu/guides/choosing-an-organizationwide-ai-model-explainability-process) — Guides · AI, Governance, Cybersecurity · 2026-10-26
+- [Automate Identity‑Centric Governance of Access and Assets](https://intelligence.thearchon.eu/checklists/automate-identity-centric-governance-of-access-and-assets-e2d473) — Practical Intelligence · Identity · 2026-10-26
+- [How Much Do the Tools You Use Every Day Actually Know About You?](https://intelligence.thearchon.eu/articles/how-much-do-the-tools-you-use-every-day-actually-know-about-you) — Insights · Cybersecurity, Governance · 2026-10-25
+- [Vendor Security Advisory – Information Security Testing and Assessment](https://intelligence.thearchon.eu/playbooks/vendor-security-advisory-information-security-testing-and-assessment) — Other · Cybersecurity, Governance · 2026-10-25
+- [Critical PHP Vulnerabilities – Immediate Patch and Mitigation Playbook](https://intelligence.thearchon.eu/playbooks/critical-php-vulnerabilities-immediate-patch-and-mitigation-playbook) — Other · Cybersecurity, IT Operations, Resilience · 2026-10-24
 
-## Insights (92)
-- [The Cheapest Network Is the One You Pay for Twice](https://intelligence.thearchon.eu/articles/the-cheapest-network-is-the-one-you-pay-for-twice) — Networking, Resilience · 2026-11-07
-- [Your ERP Runs Your Business. Does It Also Own It?](https://intelligence.thearchon.eu/articles/your-erp-runs-your-business-does-it-also-own-it) — Leadership & Organization, Governance · 2026-11-02
-- [The AI Layoff Paradox: Cutting People to Fund AI — Only to Hire Them Back Later?](https://intelligence.thearchon.eu/articles/the-ai-layoff-paradox-cutting-people-to-fund-ai-only-to-hire-them-back-later) — AI, Leadership & Organization · 2026-10-29
+## Insights (89)
 - [How Much Do the Tools You Use Every Day Actually Know About You?](https://intelligence.thearchon.eu/articles/how-much-do-the-tools-you-use-every-day-actually-know-about-you) — Cybersecurity, Governance · 2026-10-25
 - [Your Personal AI Account Is Not Your Private Space](https://intelligence.thearchon.eu/articles/your-personal-ai-account-is-not-your-private-space) — AI, Governance · 2026-10-22
 - [Enterprise AI ≠ Private Conversation](https://intelligence.thearchon.eu/articles/enterprise-ai-private-conversation) — AI, Governance · 2026-10-19
@@ -115,47 +112,7 @@ _Last generated: Sat, 07 Nov 2026 09:44:08 GMT (2026-11-07T09:44:08.401Z) · sou
 - [The UX of Hiring: Digital Transformation or GDPR Nightmare?](https://intelligence.thearchon.eu/articles/ux-hiring-digital-transformation-gdpr-nightmare-dimitris-mikedis-ztlrf) — Governance · 2026-04-21
 - [The Silent Reality of Today’s Job Market: Delays, Silence, and Unrealistic Expectations](https://intelligence.thearchon.eu/articles/silent-reality-todays-job-market-delays-silence-dimitris-mikedis-5wmxf) — Leadership & Organization · 2026-04-16
 
-## Guides (88)
-- [Evaluating the Need for an Automated Incident‑Response Playbook in Small‑to‑Medium Ops](https://intelligence.thearchon.eu/guides/evaluating-the-need-for-an-automated-incidentresponse-playbook-in-smalltomedium-ops) — Cybersecurity, IT Operations, Resilience · 2026-11-07
-- [Training Environments for AI Agents in Finance-Ops Spreadsheets](https://intelligence.thearchon.eu/guides/training-environments-for-ai-agents-in-finance-ops-spreadsheets) — AI, Governance, Resilience · 2026-11-06
-- [SECR-Eval: AI Security Code Review Framework](https://intelligence.thearchon.eu/guides/secr-eval-ai-security-code-review-framework) — AI, Cybersecurity · 2026-11-06
-- [LUFlow Network Intrusion Detection Data Set](https://intelligence.thearchon.eu/guides/luflow-network-intrusion-detection-data-set) — Cybersecurity, Networking, AI · 2026-11-06
-- [S666 Online Gaming Platform Security Guide](https://intelligence.thearchon.eu/guides/s666-online-gaming-platform-security-guide) — Cybersecurity, Identity · 2026-11-06
-- [Integrating ENISA AI Threat Guidance with NIST‑Style Workforce Development](https://intelligence.thearchon.eu/guides/integrating-enisa-ai-threat-guidance-with-niststyle-workforce-development) — Cybersecurity · 2026-11-06
-- [Zero‑Trust Readiness Assessment for Legacy Applications](https://intelligence.thearchon.eu/guides/zerotrust-readiness-assessment-for-legacy-applications) — Cybersecurity, Identity, Governance · 2026-11-05
-- [Secure Throughput for Agentic AI Systems](https://intelligence.thearchon.eu/guides/secure-throughput-for-agentic-ai-systems) — AI, Cybersecurity · 2026-11-04
-- [Network Protocol Attack Protection – Key Practices](https://intelligence.thearchon.eu/guides/network-protocol-attack-protection-key-practices) — Cybersecurity, Networking · 2026-11-04
-- [Cloud Security Assessment for Financial Services](https://intelligence.thearchon.eu/guides/cloud-security-assessment-for-financial-services) — Cloud, Cybersecurity, Governance · 2026-11-04
-- [The Market for Red-Teaming & AI Safety Work](https://intelligence.thearchon.eu/guides/the-market-for-red-teaming-ai-safety-work) — AI, Cybersecurity · 2026-11-04
-- [Curating Cyber Threat Data for Effective Defense](https://intelligence.thearchon.eu/guides/curating-cyber-threat-data-for-effective-defense) — Cybersecurity · 2026-11-04
-- [Building Secure AI Agent Cybersecurity Datasets in 2026](https://intelligence.thearchon.eu/guides/building-secure-ai-agent-cybersecurity-datasets-in-2026) — Cybersecurity, Governance, AI, IT Operations · 2026-11-03
-- [60M+ Words Indian Languages LLM Training Corpora](https://intelligence.thearchon.eu/guides/60m-words-indian-languages-llm-training-corpora) — AI · 2026-11-03
-- [Modern Approaches to Network Access Security](https://intelligence.thearchon.eu/guides/modern-approaches-to-network-access-security) — Cybersecurity, Networking · 2026-11-03
-- [AI‑Enabled Compensation & Remote‑Work Practices – 2026 Compliance Guide](https://intelligence.thearchon.eu/guides/aienabled-compensation-remotework-practices-2026-compliance-guide) — Leadership & Organization, Governance · 2026-11-03
-- [Orbital Compute & Space Data Center Tracker](https://intelligence.thearchon.eu/guides/orbital-compute-space-data-center-tracker) — Cloud, Resilience · 2026-11-03
-- [Cybersecurity Best Practices](https://intelligence.thearchon.eu/guides/cybersecurity-best-practices) — Cybersecurity · 2026-11-03
-- [Assessing LLM Safety Datasets under the AI Act and NIST Guidance](https://intelligence.thearchon.eu/guides/assessing-llm-safety-datasets-under-the-ai-act-and-nist-guidance) — AI, Governance · 2026-11-03
-- [Navigating AI Regulations and Threat Landscapes (2022-2026)](https://intelligence.thearchon.eu/guides/navigating-ai-regulations-and-threat-landscapes-2022-2026) — AI, Governance · 2026-11-03
-- [Developing and Deploying AI Systems: Key Considerations](https://intelligence.thearchon.eu/guides/developing-and-deploying-ai-systems-key-considerations) — AI, Governance, Cybersecurity · 2026-11-03
-- [Protecting Sensitive Business Data from Advanced Threat Actors](https://intelligence.thearchon.eu/guides/protecting-sensitive-business-data-from-advanced-threat-actors) — Cybersecurity, Cloud · 2026-11-03
-- [Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation](https://intelligence.thearchon.eu/guides/key-practices-for-incident-readiness-and-response-in-super-intelligence-training-and-evalu) — AI, Governance · 2026-11-03
-- [AI Model Failure Atlas: Navigating Risks and Compliance](https://intelligence.thearchon.eu/guides/ai-model-failure-atlas-navigating-risks-and-compliance) — AI, Resilience, Governance, Cybersecurity · 2026-11-03
-- [Transitioning to Post-Quantum Cryptography](https://intelligence.thearchon.eu/guides/transitioning-to-post-quantum-cryptography) — Cybersecurity, Governance · 2026-11-03
-- [Secure vs Vulnerable Code Pairs](https://intelligence.thearchon.eu/guides/secure-vs-vulnerable-code-pairs) — Cybersecurity · 2026-11-03
-- [Legal AI Hallucination & Reliability Benchmark V3](https://intelligence.thearchon.eu/guides/legal-ai-hallucination-reliability-benchmark-v3) — AI, Governance · 2026-11-02
-- [Synthetic Supply Chain Threat Detection Dataset](https://intelligence.thearchon.eu/guides/synthetic-supply-chain-threat-detection-dataset) — Cybersecurity, AI · 2026-11-02
-- [Agentic Tool-Use & Multi-API Orchestration 2026](https://intelligence.thearchon.eu/guides/agentic-tool-use-multi-api-orchestration-2026) — AI, Governance, Cybersecurity · 2026-11-02
-- [GreenGuard C - Multi-Agent Security System](https://intelligence.thearchon.eu/guides/greenguard-c-multi-agent-security-system) — Cybersecurity, AI · 2026-11-02
-- [Evaluating TSNBench: Time‑Sensitive Networking LLM Benchmark](https://intelligence.thearchon.eu/guides/evaluating-tsnbench-timesensitive-networking-llm-benchmark) — AI, Networking · 2026-11-02
-- [SEC 8-K Filings: Material Events by Item](https://intelligence.thearchon.eu/guides/sec-8-k-filings-material-events-by-item) — Governance, Cybersecurity, IT Operations, AI · 2026-11-01
-- [Global Web API Ecosystem & Security](https://intelligence.thearchon.eu/guides/global-web-api-ecosystem-security) — Cybersecurity · 2026-11-01
-- [AI Regulatory Landscape Impacting Market Planning (2025‑2035)](https://intelligence.thearchon.eu/guides/ai-regulatory-landscape-impacting-market-planning-20252035) — AI · 2026-11-01
-- [Governance Checklist for Developer Utility Tools and Diagnostic Practices](https://intelligence.thearchon.eu/guides/governance-checklist-for-developer-utility-tools-and-diagnostic-practices) — AI, Cybersecurity, Governance · 2026-11-01
-- [Evaluating App Reviews: A Guide to Trustworthy Information](https://intelligence.thearchon.eu/guides/evaluating-app-reviews-a-guide-to-trustworthy-information) — Cybersecurity · 2026-11-01
-- [DeFi Smart Contract Security Checklist](https://intelligence.thearchon.eu/guides/defi-smart-contract-security-checklist) — Cybersecurity · 2026-11-01
-- [Deciding When to Deploy a Dedicated API Security Gateway](https://intelligence.thearchon.eu/guides/deciding-when-to-deploy-a-dedicated-api-security-gateway) — Cybersecurity · 2026-11-01
-- [Deciding When to Consolidate Cloud‑Native Security Tools](https://intelligence.thearchon.eu/guides/deciding-when-to-consolidate-cloudnative-security-tools) — Cybersecurity, Cloud · 2026-10-31
-- [Deciding on a Dedicated Network Traffic Anomaly Detection System](https://intelligence.thearchon.eu/guides/deciding-on-a-dedicated-network-traffic-anomaly-detection-system) — Cybersecurity, Networking · 2026-10-30
+## Guides (48)
 - [Evaluating the Need for a Dedicated Cybersecurity Incident‑Response Automation Team](https://intelligence.thearchon.eu/guides/evaluating-the-need-for-a-dedicated-cybersecurity-incidentresponse-automation-team) — Cybersecurity · 2026-10-28
 - [Deciding When to Shift Critical Services to an Edge‑Computing Provider](https://intelligence.thearchon.eu/guides/deciding-when-to-shift-critical-services-to-an-edgecomputing-provider) — Cloud, Resilience, IT Operations · 2026-10-27
 - [Choosing an Organization‑Wide AI Model Explainability Process](https://intelligence.thearchon.eu/guides/choosing-an-organizationwide-ai-model-explainability-process) — AI, Governance, Cybersecurity · 2026-10-26
@@ -379,10 +336,7 @@ _Last generated: Sat, 07 Nov 2026 09:44:08 GMT (2026-11-07T09:44:08.401Z) · sou
 - [Why IT Service Management (ITSM) Is Essential for Modern Enterprises](https://intelligence.thearchon.eu/carousels/why-it-service-management-itsm-is-essential-for-modern-enterprises) — IT Operations, Governance, Resilience, Cloud, Cybersecurity · 2026-09-18
 - [AI Governance: Who Controls the AI Agent?](https://intelligence.thearchon.eu/carousels/ai-governance-who-controls-the-ai-agent) — AI, Governance, Cybersecurity, Resilience · 2026-09-18
 
-## Practical Intelligence (32)
-- [Hidden Operational Risks in Enterprise Systems](https://intelligence.thearchon.eu/quizzes/hidden-operational-risks-in-enterprise-systems-0cd56d) — Resilience · 2026-11-04
-- [Approaches to Cloud Migration](https://intelligence.thearchon.eu/comparisons/approaches-to-cloud-migration-6dcf6a) — Cloud · 2026-11-03
-- [Governance‑Driven IT Transformation Checklist](https://intelligence.thearchon.eu/checklists/governance-driven-it-transformation-checklist-da288c) — IT Operations · 2026-11-02
+## Practical Intelligence (29)
 - [Hidden Costs of Outdated Organizational Practices](https://intelligence.thearchon.eu/quizzes/hidden-costs-of-outdated-organizational-practices-85a829) — Leadership & Organization · 2026-10-28
 - [Governance and Accountability in AI vs Automation Leadership](https://intelligence.thearchon.eu/comparisons/governance-and-accountability-in-ai-vs-automation-leadership-1f9972) — AI · 2026-10-27
 - [Automate Identity‑Centric Governance of Access and Assets](https://intelligence.thearchon.eu/checklists/automate-identity-centric-governance-of-access-and-assets-e2d473) — Identity · 2026-10-26
@@ -429,17 +383,7 @@ _Last generated: Sat, 07 Nov 2026 09:44:08 GMT (2026-11-07T09:44:08.401Z) · sou
 - [ManageEngine PAM360: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-pam360) — Identity, Cybersecurity, Governance
 - [ManageEngine ServiceDesk Plus: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-servicedesk-plus) — IT Operations, Governance
 
-## Other (163)
-- [Network Intrusion Detection Data Set Compromise](https://intelligence.thearchon.eu/playbooks/network-intrusion-detection-data-set-compromise) — Cybersecurity, IT Operations, Resilience, Governance · 2026-11-07
-- [Compliance Playbook for Training AI Agents on Finance‑Ops Spreadsheets](https://intelligence.thearchon.eu/playbooks/compliance-playbook-for-training-ai-agents-on-financeops-spreadsheets) — AI, Governance, Cybersecurity, Leadership & Organization · 2026-11-07
-- [Enable Multi-Factor Authentication and Strengthen Password Policies](https://intelligence.thearchon.eu/playbooks/enable-multi-factor-authentication-and-strengthen-password-policies) — Identity, Cybersecurity · 2026-11-03
-- [Protecting Sensitive Business Data from Advanced Threat Actors](https://intelligence.thearchon.eu/playbooks/protecting-sensitive-business-data-from-advanced-threat-actors) — Cybersecurity, IT Operations, Resilience, Governance · 2026-11-03
-- [AI Model Failure Atlas: Navigating Risks and Compliance](https://intelligence.thearchon.eu/playbooks/ai-model-failure-atlas-navigating-risks-and-compliance) — AI, Governance, Cybersecurity, Resilience · 2026-11-03
-- [Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation](https://intelligence.thearchon.eu/playbooks/key-practices-for-incident-readiness-and-response-in-super-intelligence-training) — Cybersecurity, IT Operations, AI, Resilience · 2026-11-03
-- [Synthetic Supply Chain Threat Detection Dataset](https://intelligence.thearchon.eu/playbooks/synthetic-supply-chain-threat-detection-dataset) — Cybersecurity, IT Operations, Governance, Resilience, Leadership & Organization · 2026-11-02
-- [Evaluate a Vendor‑Neutral Data‑Backup and Recovery Strategy](https://intelligence.thearchon.eu/playbooks/evaluate-a-vendorneutral-databackup-and-recovery-strategy) — Cybersecurity, IT Operations, Resilience · 2026-10-31
-- [Evaluate Need for a Dedicated Cybersecurity Incident‑Response Automation Team](https://intelligence.thearchon.eu/playbooks/evaluate-need-for-a-dedicated-cybersecurity-incidentresponse-automation-team) — Cybersecurity, IT Operations, Governance · 2026-10-31
-- [Mitigate Hitachi Energy TRO600 Series Vulnerabilities](https://intelligence.thearchon.eu/playbooks/mitigate-hitachi-energy-tro600-series-vulnerabilities) — Cybersecurity, IT Operations, Resilience, Governance · 2026-10-30
+## Other (153)
 - [Shift Critical Services to an Edge‑Computing Provider in Response to a Vendor Security Advisory](https://intelligence.thearchon.eu/playbooks/shift-critical-services-to-an-edgecomputing-provider-in-response-to-a-vendor-sec) — Cybersecurity, Cloud, Resilience, Governance, Leadership & Organization · 2026-10-28
 - [Vendor Security Advisory – Information Security Testing and Assessment](https://intelligence.thearchon.eu/playbooks/vendor-security-advisory-information-security-testing-and-assessment) — Cybersecurity, Governance · 2026-10-25
 - [Critical PHP Vulnerabilities – Immediate Patch and Mitigation Playbook](https://intelligence.thearchon.eu/playbooks/critical-php-vulnerabilities-immediate-patch-and-mitigation-playbook) — Cybersecurity, IT Operations, Resilience · 2026-10-24
