@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-11-07T23:56:13.604Z",
+  "generatedAt": "2026-11-08T00:45:49.550Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,97 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 559,
+  "itemCount": 565,
   "familyCounts": {
     "Insights": 92,
-    "Guides": 89,
+    "Guides": 91,
     "Infographics": 72,
     "Diagrams": 48,
     "Carousels": 48,
     "Practical Intelligence": 32,
     "Technology Evaluations": 14,
-    "Other": 164
+    "Other": 168
   },
   "latestItem": {
-    "title": "Leakage‑Safe Benchmark Using CISA Performance Goals",
-    "url": "https://intelligence.thearchon.eu/guides/leakagesafe-benchmark-using-cisa-performance-goals",
-    "publishedAt": "2026-11-07T11:55:25.000Z"
+    "title": "Synthetic Supply Chain Threat Detection Dataset",
+    "url": "https://intelligence.thearchon.eu/whiteboards/synthetic-supply-chain-threat-detection-dataset",
+    "publishedAt": "2026-11-07T23:20:27.000Z"
   },
   "items": [
+    {
+      "title": "Synthetic Supply Chain Threat Detection Dataset",
+      "url": "https://intelligence.thearchon.eu/whiteboards/synthetic-supply-chain-threat-detection-dataset",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/synthetic-supply-chain-threat-detection-dataset",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Governance",
+        "Resilience",
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-11-07T23:20:27.000Z",
+      "description": "Understand and establish control over your supply chain to manage cyber risks and implement preventative measures against potential threats."
+    },
+    {
+      "title": "The \"Power Syndrome\" Behind the Counter",
+      "url": "https://intelligence.thearchon.eu/whiteboards/the-power-syndrome-behind-the-counter",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/the-power-syndrome-behind-the-counter",
+      "family": "Other",
+      "domains": [
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-11-07T23:20:22.000Z",
+      "description": "When the system forgets the citizen — and the employee forgets their purpose."
+    },
+    {
+      "title": "Enterprisegrade security. Without enterprise cost.",
+      "url": "https://intelligence.thearchon.eu/whiteboards/enterprisegrade-security-without-enterprise-cost",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/enterprisegrade-security-without-enterprise-cost",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-07T23:20:17.000Z",
+      "description": "How SMEs can implement ISO 27001-aligned security without a CISO budget."
+    },
+    {
+      "title": "Choosing a Vendor‑Neutral Observability Stack for Multi‑Cloud Environments",
+      "url": "https://intelligence.thearchon.eu/whiteboards/choosing-a-vendor-neutral-observability-stack-for-multi-cloud-environments",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/choosing-a-vendor-neutral-observability-stack-for-multi-cloud-environments",
+      "family": "Other",
+      "domains": [
+        "Cloud",
+        "IT Operations",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-07T23:20:10.000Z",
+      "description": "A practical guide to selecting an observability solution that works across clouds while meeting the NCSC shared‑responsibility principles and the Cloud Security Alliance’s compliance framework."
+    },
+    {
+      "title": "Cloud IAM Wildcard & Privilege Escalation Bench",
+      "url": "https://intelligence.thearchon.eu/guides/cloud-iam-wildcard-privilege-escalation-bench",
+      "guid": "https://intelligence.thearchon.eu/guides/cloud-iam-wildcard-privilege-escalation-bench",
+      "family": "Guides",
+      "domains": [
+        "Cloud",
+        "Identity",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-07T21:06:01.000Z",
+      "description": "Wildcard permissions in Cloud IAM can lead to privilege escalation, allowing unauthorized access or actions. This guide outlines how to identify and mitigate these risks through best practices like least privilege, regular audits, and secure configurations."
+    },
+    {
+      "title": "RedSec Red-Team Database – Starter Guide",
+      "url": "https://intelligence.thearchon.eu/guides/redsec-red-team-database-starter-guide",
+      "guid": "https://intelligence.thearchon.eu/guides/redsec-red-team-database-starter-guide",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-07T21:05:34.000Z",
+      "description": "A concise, vendor‑agnostic plan for building a red‑team technique database by leveraging the free, globally‑accessible MITRE ATT&CK framework."
+    },
     {
       "title": "Leakage‑Safe Benchmark Using CISA Performance Goals",
       "url": "https://intelligence.thearchon.eu/guides/leakagesafe-benchmark-using-cisa-performance-goals",

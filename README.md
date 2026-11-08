@@ -5,21 +5,21 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Sat, 07 Nov 2026 23:56:13 GMT (2026-11-07T23:56:13.604Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Sun, 08 Nov 2026 00:45:49 GMT (2026-11-08T00:45:49.550Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**559 indexed items** across families: Insights (92) · Guides (89) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (32) · Technology Evaluations (14) · Other (164)
+**565 indexed items** across families: Insights (92) · Guides (91) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (32) · Technology Evaluations (14) · Other (168)
 
 ## Newest
+- [Synthetic Supply Chain Threat Detection Dataset](https://intelligence.thearchon.eu/whiteboards/synthetic-supply-chain-threat-detection-dataset) — Other · Cybersecurity, IT Operations, Governance, Resilience, Leadership & Organization · 2026-11-07
+- [The "Power Syndrome" Behind the Counter](https://intelligence.thearchon.eu/whiteboards/the-power-syndrome-behind-the-counter) — Other · Leadership & Organization · 2026-11-07
+- [Enterprisegrade security. Without enterprise cost.](https://intelligence.thearchon.eu/whiteboards/enterprisegrade-security-without-enterprise-cost) — Other · Cybersecurity · 2026-11-07
+- [Choosing a Vendor‑Neutral Observability Stack for Multi‑Cloud Environments](https://intelligence.thearchon.eu/whiteboards/choosing-a-vendor-neutral-observability-stack-for-multi-cloud-environments) — Other · Cloud, IT Operations, Cybersecurity · 2026-11-07
+- [Cloud IAM Wildcard & Privilege Escalation Bench](https://intelligence.thearchon.eu/guides/cloud-iam-wildcard-privilege-escalation-bench) — Guides · Cloud, Identity, Cybersecurity · 2026-11-07
+- [RedSec Red-Team Database – Starter Guide](https://intelligence.thearchon.eu/guides/redsec-red-team-database-starter-guide) — Guides · Cybersecurity · 2026-11-07
 - [Leakage‑Safe Benchmark Using CISA Performance Goals](https://intelligence.thearchon.eu/guides/leakagesafe-benchmark-using-cisa-performance-goals) — Guides · Cybersecurity · 2026-11-07
 - [What is Zero Trust?](https://intelligence.thearchon.eu/whiteboards/zero-trust) — Other · Cybersecurity, Identity · 2026-11-07
 - [Evaluating the Need for an Automated Incident‑Response Playbook in Small‑to‑Medium Ops](https://intelligence.thearchon.eu/guides/evaluating-the-need-for-an-automated-incidentresponse-playbook-in-smalltomedium-ops) — Guides · Cybersecurity, IT Operations, Resilience · 2026-11-07
 - [Network Intrusion Detection Data Set Compromise](https://intelligence.thearchon.eu/playbooks/network-intrusion-detection-data-set-compromise) — Other · Cybersecurity, IT Operations, Resilience, Governance · 2026-11-07
-- [Compliance Playbook for Training AI Agents on Finance‑Ops Spreadsheets](https://intelligence.thearchon.eu/playbooks/compliance-playbook-for-training-ai-agents-on-financeops-spreadsheets) — Other · AI, Governance, Cybersecurity, Leadership & Organization · 2026-11-07
-- [The Cheapest Network Is the One You Pay for Twice](https://intelligence.thearchon.eu/articles/the-cheapest-network-is-the-one-you-pay-for-twice) — Insights · Networking, Resilience · 2026-11-07
-- [Training Environments for AI Agents in Finance-Ops Spreadsheets](https://intelligence.thearchon.eu/guides/training-environments-for-ai-agents-in-finance-ops-spreadsheets) — Guides · AI, Governance, Resilience · 2026-11-06
-- [SECR-Eval: AI Security Code Review Framework](https://intelligence.thearchon.eu/guides/secr-eval-ai-security-code-review-framework) — Guides · AI, Cybersecurity · 2026-11-06
-- [LUFlow Network Intrusion Detection Data Set](https://intelligence.thearchon.eu/guides/luflow-network-intrusion-detection-data-set) — Guides · Cybersecurity, Networking, AI · 2026-11-06
-- [S666 Online Gaming Platform Security Guide](https://intelligence.thearchon.eu/guides/s666-online-gaming-platform-security-guide) — Guides · Cybersecurity, Identity · 2026-11-06
 
 ## Insights (92)
 - [The Cheapest Network Is the One You Pay for Twice](https://intelligence.thearchon.eu/articles/the-cheapest-network-is-the-one-you-pay-for-twice) — Networking, Resilience · 2026-11-07
@@ -115,7 +115,9 @@ _Last generated: Sat, 07 Nov 2026 23:56:13 GMT (2026-11-07T23:56:13.604Z) · sou
 - [The UX of Hiring: Digital Transformation or GDPR Nightmare?](https://intelligence.thearchon.eu/articles/ux-hiring-digital-transformation-gdpr-nightmare-dimitris-mikedis-ztlrf) — Governance · 2026-04-21
 - [The Silent Reality of Today’s Job Market: Delays, Silence, and Unrealistic Expectations](https://intelligence.thearchon.eu/articles/silent-reality-todays-job-market-delays-silence-dimitris-mikedis-5wmxf) — Leadership & Organization · 2026-04-16
 
-## Guides (89)
+## Guides (91)
+- [Cloud IAM Wildcard & Privilege Escalation Bench](https://intelligence.thearchon.eu/guides/cloud-iam-wildcard-privilege-escalation-bench) — Cloud, Identity, Cybersecurity · 2026-11-07
+- [RedSec Red-Team Database – Starter Guide](https://intelligence.thearchon.eu/guides/redsec-red-team-database-starter-guide) — Cybersecurity · 2026-11-07
 - [Leakage‑Safe Benchmark Using CISA Performance Goals](https://intelligence.thearchon.eu/guides/leakagesafe-benchmark-using-cisa-performance-goals) — Cybersecurity · 2026-11-07
 - [Evaluating the Need for an Automated Incident‑Response Playbook in Small‑to‑Medium Ops](https://intelligence.thearchon.eu/guides/evaluating-the-need-for-an-automated-incidentresponse-playbook-in-smalltomedium-ops) — Cybersecurity, IT Operations, Resilience · 2026-11-07
 - [Training Environments for AI Agents in Finance-Ops Spreadsheets](https://intelligence.thearchon.eu/guides/training-environments-for-ai-agents-in-finance-ops-spreadsheets) — AI, Governance, Resilience · 2026-11-06
@@ -430,7 +432,11 @@ _Last generated: Sat, 07 Nov 2026 23:56:13 GMT (2026-11-07T23:56:13.604Z) · sou
 - [ManageEngine PAM360: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-pam360) — Identity, Cybersecurity, Governance
 - [ManageEngine ServiceDesk Plus: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-servicedesk-plus) — IT Operations, Governance
 
-## Other (164)
+## Other (168)
+- [Synthetic Supply Chain Threat Detection Dataset](https://intelligence.thearchon.eu/whiteboards/synthetic-supply-chain-threat-detection-dataset) — Cybersecurity, IT Operations, Governance, Resilience, Leadership & Organization · 2026-11-07
+- [The "Power Syndrome" Behind the Counter](https://intelligence.thearchon.eu/whiteboards/the-power-syndrome-behind-the-counter) — Leadership & Organization · 2026-11-07
+- [Enterprisegrade security. Without enterprise cost.](https://intelligence.thearchon.eu/whiteboards/enterprisegrade-security-without-enterprise-cost) — Cybersecurity · 2026-11-07
+- [Choosing a Vendor‑Neutral Observability Stack for Multi‑Cloud Environments](https://intelligence.thearchon.eu/whiteboards/choosing-a-vendor-neutral-observability-stack-for-multi-cloud-environments) — Cloud, IT Operations, Cybersecurity · 2026-11-07
 - [What is Zero Trust?](https://intelligence.thearchon.eu/whiteboards/zero-trust) — Cybersecurity, Identity · 2026-11-07
 - [Network Intrusion Detection Data Set Compromise](https://intelligence.thearchon.eu/playbooks/network-intrusion-detection-data-set-compromise) — Cybersecurity, IT Operations, Resilience, Governance · 2026-11-07
 - [Compliance Playbook for Training AI Agents on Finance‑Ops Spreadsheets](https://intelligence.thearchon.eu/playbooks/compliance-playbook-for-training-ai-agents-on-financeops-spreadsheets) — AI, Governance, Cybersecurity, Leadership & Organization · 2026-11-07
