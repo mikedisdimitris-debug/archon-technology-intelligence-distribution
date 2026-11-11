@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-11-08T00:45:49.550Z",
+  "generatedAt": "2026-11-11T12:29:17.269Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,307 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 565,
+  "itemCount": 588,
   "familyCounts": {
-    "Insights": 92,
-    "Guides": 91,
+    "Insights": 93,
+    "Guides": 100,
     "Infographics": 72,
     "Diagrams": 48,
     "Carousels": 48,
-    "Practical Intelligence": 32,
+    "Practical Intelligence": 34,
     "Technology Evaluations": 14,
-    "Other": 168
+    "Other": 179
   },
   "latestItem": {
-    "title": "Synthetic Supply Chain Threat Detection Dataset",
-    "url": "https://intelligence.thearchon.eu/whiteboards/synthetic-supply-chain-threat-detection-dataset",
-    "publishedAt": "2026-11-07T23:20:27.000Z"
+    "title": "Assessing AI Datasets for Regulatory Compliance",
+    "url": "https://intelligence.thearchon.eu/guides/assessing-ai-datasets-for-regulatory-compliance",
+    "publishedAt": "2026-11-10T22:31:07.000Z"
   },
   "items": [
+    {
+      "title": "Assessing AI Datasets for Regulatory Compliance",
+      "url": "https://intelligence.thearchon.eu/guides/assessing-ai-datasets-for-regulatory-compliance",
+      "guid": "https://intelligence.thearchon.eu/guides/assessing-ai-datasets-for-regulatory-compliance",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-10T22:31:07.000Z",
+      "description": "Step‑by‑step actions to evaluate whether an AI dataset can be used safely and legally, focusing on risk classification, prohibited practices, human‑rights safeguards, and trustworthiness frameworks."
+    },
+    {
+      "title": "Using Machine Learning to Detect Phishing Websites",
+      "url": "https://intelligence.thearchon.eu/guides/using-machine-learning-to-detect-phishing-websites",
+      "guid": "https://intelligence.thearchon.eu/guides/using-machine-learning-to-detect-phishing-websites",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-10T13:47:05.000Z",
+      "description": "Machine learning can help identify phishing sites, but you must follow secure AI development practices and comply with the EU AI Act’s risk rules."
+    },
+    {
+      "title": "Risk Management Across Third‑Party Vendors, Tool Sprawl, and Lost Laptops",
+      "url": "https://intelligence.thearchon.eu/comparisons/risk-management-across-third-party-vendors-tool-sprawl-and-lost-laptop-b8440c",
+      "guid": "https://intelligence.thearchon.eu/comparisons/risk-management-across-third-party-vendors-tool-sprawl-and-lost-laptop-b8440c",
+      "family": "Practical Intelligence",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-10T08:00:35.000Z",
+      "description": "Built from 3 related articles on Cybersecurity."
+    },
+    {
+      "title": "Data Ethics Review Gate",
+      "url": "https://intelligence.thearchon.eu/whiteboards/data-ethics-review-gate",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/data-ethics-review-gate",
+      "family": "Other",
+      "domains": [
+        "Leadership & Organization",
+        "Governance",
+        "AI"
+      ],
+      "publishedAt": "2026-11-10T06:23:56.000Z",
+      "description": "A leadership-owned sequence for establishing a repeatable data-ethics decision gate using privacy-risk mapping, a defined charter, cross-functional review, lifecycle integration, and evidence of the decision."
+    },
+    {
+      "title": "Pre‑Launch Checklist for Enterprise‑Wide Password‑Less Authentication",
+      "url": "https://intelligence.thearchon.eu/whiteboards/pre-launch-checklist-for-enterprise-wide-password-less-authentication",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/pre-launch-checklist-for-enterprise-wide-password-less-authentication",
+      "family": "Other",
+      "domains": [
+        "Identity",
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-10T05:27:23.000Z",
+      "description": "Validate readiness for enterprise password‑less rollout by reviewing FIDO guidance, confirming authenticator certification, and ensuring MFA fallback is configured."
+    },
+    {
+      "title": "SafePay Ransomware – Immediate Defensive Actions",
+      "url": "https://intelligence.thearchon.eu/whiteboards/safepay-ransomware-immediate-defensive-actions",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/safepay-ransomware-immediate-defensive-actions",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Identity",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-10T05:21:39.000Z",
+      "description": "Apply recommended hardening measures to reduce risk and impact of SafePay ransomware when indicators of compromise are detected."
+    },
+    {
+      "title": "Deploying AI Agent Dictation Speech Safely",
+      "url": "https://intelligence.thearchon.eu/guides/deploying-ai-agent-dictation-speech-safely",
+      "guid": "https://intelligence.thearchon.eu/guides/deploying-ai-agent-dictation-speech-safely",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-09T14:19:22.000Z",
+      "description": "AI agents can automate routine tasks such as speech‑to‑text dictation, but they must be sandboxed, overseen, and compliant with emerging standards to limit unintended activity."
+    },
+    {
+      "title": "Vulnerability Analysis of LLM-Generated Code",
+      "url": "https://intelligence.thearchon.eu/guides/vulnerability-analysis-of-llm-generated-code",
+      "guid": "https://intelligence.thearchon.eu/guides/vulnerability-analysis-of-llm-generated-code",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-09T14:18:40.000Z",
+      "description": "Vulnerability analysis of LLM-generated code is a critical aspect of cybersecurity, especially with the rise of AI systems. The AI Act provides a risk-based framework for AI, categorizing systems by risk levels and banning those with unacceptable risks. Effective vulnerability management involves identifying assets, assessing and prioritizing vulnerabilities, and establishing clear policies for updates and risk ownership."
+    },
+    {
+      "title": "When to Introduce an AI‑Governance Board",
+      "url": "https://intelligence.thearchon.eu/guides/when-to-introduce-an-aigovernance-board",
+      "guid": "https://intelligence.thearchon.eu/guides/when-to-introduce-an-aigovernance-board",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-09T09:00:52.000Z",
+      "description": "Use the AI Act’s risk‑based approach and NCSC’s cyber‑governance guidance to decide when a board is needed and to set up its first actions."
+    },
+    {
+      "title": "Your Employee Left. Did Their AI Access Leave Too?",
+      "url": "https://intelligence.thearchon.eu/articles/your-employee-left-did-their-ai-access-leave-too",
+      "guid": "https://intelligence.thearchon.eu/articles/your-employee-left-did-their-ai-access-leave-too",
+      "family": "Insights",
+      "domains": [
+        "Identity",
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-09T08:11:00.000Z",
+      "description": "The Hidden Identity Crisis Behind Enterprise AI, Autonomous Agents and Connected Systems"
+    },
+    {
+      "title": "Ensuring Independence and Avoiding Vendor Lock‑In",
+      "url": "https://intelligence.thearchon.eu/checklists/ensuring-independence-and-avoiding-vendor-lock-in-740dbc",
+      "guid": "https://intelligence.thearchon.eu/checklists/ensuring-independence-and-avoiding-vendor-lock-in-740dbc",
+      "family": "Practical Intelligence",
+      "domains": [
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-11-09T08:00:34.000Z",
+      "description": "Built from 3 related articles on Leadership & Organization."
+    },
+    {
+      "title": "Shadow AI Discovery and Containment",
+      "url": "https://intelligence.thearchon.eu/whiteboards/shadow-ai-discovery-and-containment",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/shadow-ai-discovery-and-containment",
+      "family": "Other",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-11-09T06:19:46.000Z",
+      "description": "Operational response playbook for shadow ai discovery and containment, with accountable containment, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Information Security Testing and Assessment",
+      "url": "https://intelligence.thearchon.eu/whiteboards/information-security-testing-and-assessment",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/information-security-testing-and-assessment",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Governance",
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-09T05:26:07.000Z",
+      "description": "Information security testing and assessment are crucial for protecting organizations in cyberspace."
+    },
+    {
+      "title": "When to Move a Critical Service to a Managed Cloud Provider",
+      "url": "https://intelligence.thearchon.eu/whiteboards/when-to-move-a-critical-service-to-a-managed-cloud-provider",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/when-to-move-a-critical-service-to-a-managed-cloud-provider",
+      "family": "Other",
+      "domains": [
+        "Cloud",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-09T05:20:22.000Z",
+      "description": "Use a structured checklist to evaluate the security, governance, and operational impacts of shifting a critical service to a managed cloud offering."
+    },
+    {
+      "title": "Python Dependency Upgrade Risk Benchmark",
+      "url": "https://intelligence.thearchon.eu/guides/python-dependency-upgrade-risk-benchmark",
+      "guid": "https://intelligence.thearchon.eu/guides/python-dependency-upgrade-risk-benchmark",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-08T12:10:54.000Z",
+      "description": "Software dependencies expand the attack surface, requiring vigilance to prevent and mitigate cyber incidents. Tools like OWASP Dependency-Track help inventory components, find vulnerabilities, and enforce policies across the software supply chain by continuously analyzing components against vulnerability and policy data."
+    },
+    {
+      "title": "Security Architecture for AI-Powered Coding Assistants",
+      "url": "https://intelligence.thearchon.eu/guides/security-architecture-for-ai-powered-coding-assistants",
+      "guid": "https://intelligence.thearchon.eu/guides/security-architecture-for-ai-powered-coding-assistants",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "Governance",
+        "AI",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-11-08T12:10:34.000Z",
+      "description": "A concise, vendor‑agnostic guide to designing, building, deploying and operating a coding‑assistant that protects user data, meets regulatory risk standards, and avoids prohibited AI practices."
+    },
+    {
+      "title": "Qatar Data Center Market: Privacy & Compliance Snapshot",
+      "url": "https://intelligence.thearchon.eu/guides/qatar-data-center-market-privacy-compliance-snapshot",
+      "guid": "https://intelligence.thearchon.eu/guides/qatar-data-center-market-privacy-compliance-snapshot",
+      "family": "Guides",
+      "domains": [
+        "Cloud",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-11-08T12:10:19.000Z",
+      "description": "The excerpts do not contain specific market size, demand, or supply data for Qatar data centers. They do, however, outline privacy and data‑protection expectations from U.S. (FTC) and EU (European Commission) regulators that any data‑center operator—including those in Qatar—should consider when handling personal information."
+    },
+    {
+      "title": "When to Replace Legacy VPNs with Zero‑Trust Network Access",
+      "url": "https://intelligence.thearchon.eu/guides/when-to-replace-legacy-vpns-with-zerotrust-network-access",
+      "guid": "https://intelligence.thearchon.eu/guides/when-to-replace-legacy-vpns-with-zerotrust-network-access",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "Networking"
+      ],
+      "publishedAt": "2026-11-08T09:00:47.000Z",
+      "description": "Legacy VPNs rely on implicit trust of network location, while Zero‑Trust Network Access (ZTNA) authenticates and authorises every request regardless of where users or devices connect. Use this guide to decide if your organisation should move from VPNs to ZTNA."
+    },
+    {
+      "title": "Technology Audit Finding Response",
+      "url": "https://intelligence.thearchon.eu/whiteboards/technology-audit-finding-response",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/technology-audit-finding-response",
+      "family": "Other",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-11-08T06:20:11.000Z",
+      "description": "Operational playbook for technology audit finding response, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Evaluate Need for an Automated Incident‑Response Playbook for SMBs",
+      "url": "https://intelligence.thearchon.eu/playbooks/evaluate-need-for-an-automated-incidentresponse-playbook-for-smbs",
+      "guid": "https://intelligence.thearchon.eu/playbooks/evaluate-need-for-an-automated-incidentresponse-playbook-for-smbs",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Resilience",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-08T05:30:58.000Z",
+      "description": "Assess current incident‑response capability, compare against resource constraints and ransomware risk, and decide if automation is required."
+    },
+    {
+      "title": "Secure Throughput for Agentic AI Systems",
+      "url": "https://intelligence.thearchon.eu/whiteboards/secure-throughput-for-agentic-ai-systems",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/secure-throughput-for-agentic-ai-systems",
+      "family": "Other",
+      "domains": [
+        "AI",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-08T02:34:03.000Z",
+      "description": "A concise, vendor‑agnostic guide to protect the security and reliability of agentic AI while preserving its productivity benefits."
+    },
+    {
+      "title": "RedSec Red-Team Database – Starter Guide",
+      "url": "https://intelligence.thearchon.eu/whiteboards/redsec-red-team-database-starter-guide",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/redsec-red-team-database-starter-guide",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-08T02:27:41.000Z",
+      "description": "A concise, vendor‑agnostic plan for building a red‑team technique database by leveraging the free, globally‑accessible MITRE ATT&CK framework."
+    },
+    {
+      "title": "LUFlow Network Intrusion Detection Data Set",
+      "url": "https://intelligence.thearchon.eu/whiteboards/luflow-network-intrusion-detection-data-set",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/luflow-network-intrusion-detection-data-set",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Networking",
+        "AI"
+      ],
+      "publishedAt": "2026-11-08T02:21:41.000Z",
+      "description": "The LUFlow Network Intrusion Detection Data Set is a resource for developing and evaluating systems that detect unauthorized access or malicious activity on networks."
+    },
     {
       "title": "Synthetic Supply Chain Threat Detection Dataset",
       "url": "https://intelligence.thearchon.eu/whiteboards/synthetic-supply-chain-threat-detection-dataset",
