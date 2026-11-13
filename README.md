@@ -5,21 +5,21 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Wed, 11 Nov 2026 12:29:17 GMT (2026-11-11T12:29:17.269Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Fri, 13 Nov 2026 12:53:31 GMT (2026-11-13T12:53:31.510Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**588 indexed items** across families: Insights (93) · Guides (100) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (34) · Technology Evaluations (14) · Other (179)
+**613 indexed items** across families: Insights (93) · Guides (110) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (35) · Technology Evaluations (14) · Other (193)
 
 ## Newest
-- [Assessing AI Datasets for Regulatory Compliance](https://intelligence.thearchon.eu/guides/assessing-ai-datasets-for-regulatory-compliance) — Guides · AI, Governance · 2026-11-10
-- [Using Machine Learning to Detect Phishing Websites](https://intelligence.thearchon.eu/guides/using-machine-learning-to-detect-phishing-websites) — Guides · AI, Cybersecurity · 2026-11-10
-- [Risk Management Across Third‑Party Vendors, Tool Sprawl, and Lost Laptops](https://intelligence.thearchon.eu/comparisons/risk-management-across-third-party-vendors-tool-sprawl-and-lost-laptop-b8440c) — Practical Intelligence · Cybersecurity · 2026-11-10
-- [Data Ethics Review Gate](https://intelligence.thearchon.eu/whiteboards/data-ethics-review-gate) — Other · Leadership & Organization, Governance, AI · 2026-11-10
-- [Pre‑Launch Checklist for Enterprise‑Wide Password‑Less Authentication](https://intelligence.thearchon.eu/whiteboards/pre-launch-checklist-for-enterprise-wide-password-less-authentication) — Other · Identity, Cybersecurity, Governance · 2026-11-10
-- [SafePay Ransomware – Immediate Defensive Actions](https://intelligence.thearchon.eu/whiteboards/safepay-ransomware-immediate-defensive-actions) — Other · Cybersecurity, IT Operations, Identity, Governance · 2026-11-10
-- [Deploying AI Agent Dictation Speech Safely](https://intelligence.thearchon.eu/guides/deploying-ai-agent-dictation-speech-safely) — Guides · AI, Cybersecurity · 2026-11-09
-- [Vulnerability Analysis of LLM-Generated Code](https://intelligence.thearchon.eu/guides/vulnerability-analysis-of-llm-generated-code) — Guides · AI, Cybersecurity, Governance · 2026-11-09
-- [When to Introduce an AI‑Governance Board](https://intelligence.thearchon.eu/guides/when-to-introduce-an-aigovernance-board) — Guides · AI, Governance · 2026-11-09
-- [Your Employee Left. Did Their AI Access Leave Too?](https://intelligence.thearchon.eu/articles/your-employee-left-did-their-ai-access-leave-too) — Insights · Identity, AI, Governance · 2026-11-09
+- [Verify Before Approving a Third‑Party Cloud Backup Service](https://intelligence.thearchon.eu/guides/verify-before-approving-a-thirdparty-cloud-backup-service) — Guides · Cloud, Cybersecurity, Governance · 2026-11-13
+- [Transformation Initiative Overload Control](https://intelligence.thearchon.eu/whiteboards/transformation-initiative-overload-control) — Other · Governance, Leadership & Organization, IT Operations · 2026-11-13
+- [What to Check Before Consolidating Multiple Identity Providers](https://intelligence.thearchon.eu/whiteboards/what-to-check-before-consolidating-multiple-identity-providers) — Other · Identity, Cybersecurity, IT Operations, Cloud, Governance · 2026-11-13
+- [Mitigate Critical Siemens Building Automation and Energy Product Vulnerabilities](https://intelligence.thearchon.eu/playbooks/mitigate-critical-siemens-building-automation-and-energy-product-vulnerabilities) — Other · Cybersecurity, IT Operations, Networking, Resilience · 2026-11-13
+- [Siemens Desigo & Gridscale Security Update Playbook](https://intelligence.thearchon.eu/playbooks/siemens-desigo-gridscale-security-update-playbook) — Other · Cybersecurity, IT Operations, Resilience, Governance · 2026-11-13
+- [Assessing Recent Exploited CVEs with the CISA KEV Catalog](https://intelligence.thearchon.eu/whiteboards/assessing-recent-exploited-cves-with-the-cisa-kev-catalog) — Other · Cybersecurity, AI, Governance · 2026-11-13
+- [SymLoc: Symbol-Level Issue Localization – No Direct Guidance Available](https://intelligence.thearchon.eu/guides/symloc-symbol-level-issue-localization-no-direct-guidance-available) — Guides · Governance, Cybersecurity, AI · 2026-11-12
+- [Evaluating AI Agent Learning: A Risk-Based Approach](https://intelligence.thearchon.eu/guides/evaluating-ai-agent-learning-a-risk-based-approach) — Guides · AI, Governance, Cybersecurity · 2026-11-12
+- [Choosing Trustworthy AI Speakers in Mexico (2026)](https://intelligence.thearchon.eu/guides/choosing-trustworthy-ai-speakers-in-mexico-2026) — Guides · AI, Leadership & Organization · 2026-11-12
+- [Guardrails for Advanced LLM Evaluation](https://intelligence.thearchon.eu/playbooks/guardrails-for-advanced-llm-evaluation) — Other · AI, Cybersecurity, Governance, Resilience, Leadership & Organization · 2026-11-12
 
 ## Insights (93)
 - [Your Employee Left. Did Their AI Access Leave Too?](https://intelligence.thearchon.eu/articles/your-employee-left-did-their-ai-access-leave-too) — Identity, AI, Governance · 2026-11-09
@@ -116,7 +116,17 @@ _Last generated: Wed, 11 Nov 2026 12:29:17 GMT (2026-11-11T12:29:17.269Z) · sou
 - [The UX of Hiring: Digital Transformation or GDPR Nightmare?](https://intelligence.thearchon.eu/articles/ux-hiring-digital-transformation-gdpr-nightmare-dimitris-mikedis-ztlrf) — Governance · 2026-04-21
 - [The Silent Reality of Today’s Job Market: Delays, Silence, and Unrealistic Expectations](https://intelligence.thearchon.eu/articles/silent-reality-todays-job-market-delays-silence-dimitris-mikedis-5wmxf) — Leadership & Organization · 2026-04-16
 
-## Guides (100)
+## Guides (110)
+- [Verify Before Approving a Third‑Party Cloud Backup Service](https://intelligence.thearchon.eu/guides/verify-before-approving-a-thirdparty-cloud-backup-service) — Cloud, Cybersecurity, Governance · 2026-11-13
+- [SymLoc: Symbol-Level Issue Localization – No Direct Guidance Available](https://intelligence.thearchon.eu/guides/symloc-symbol-level-issue-localization-no-direct-guidance-available) — Governance, Cybersecurity, AI · 2026-11-12
+- [Evaluating AI Agent Learning: A Risk-Based Approach](https://intelligence.thearchon.eu/guides/evaluating-ai-agent-learning-a-risk-based-approach) — AI, Governance, Cybersecurity · 2026-11-12
+- [Choosing Trustworthy AI Speakers in Mexico (2026)](https://intelligence.thearchon.eu/guides/choosing-trustworthy-ai-speakers-in-mexico-2026) — AI, Leadership & Organization · 2026-11-12
+- [Mitigating Cybersecurity‑Driven Supply Chain Disruption](https://intelligence.thearchon.eu/guides/mitigating-cybersecuritydriven-supply-chain-disruption) — Cybersecurity, Governance, Resilience · 2026-11-12
+- [Securing Gemma 4 Agent Run Data](https://intelligence.thearchon.eu/guides/securing-gemma-4-agent-run-data) — AI, Cybersecurity · 2026-11-11
+- [Assessing Recent Exploited CVEs with the CISA KEV Catalog](https://intelligence.thearchon.eu/guides/assessing-recent-exploited-cves-with-the-cisa-kev-catalog) — Cybersecurity, AI, Governance · 2026-11-11
+- [Guardrails for Advanced LLM Evaluation](https://intelligence.thearchon.eu/guides/guardrails-for-advanced-llm-evaluation) — AI, Governance · 2026-11-11
+- [MCP Server Uptime and Health Checks](https://intelligence.thearchon.eu/guides/mcp-server-uptime-and-health-checks) — IT Operations, Resilience · 2026-11-11
+- [Evaluating AI Decision Reliability for APEX Enterprise v2.0](https://intelligence.thearchon.eu/guides/evaluating-ai-decision-reliability-for-apex-enterprise-v20) — AI, Governance, Cybersecurity · 2026-11-11
 - [Assessing AI Datasets for Regulatory Compliance](https://intelligence.thearchon.eu/guides/assessing-ai-datasets-for-regulatory-compliance) — AI, Governance · 2026-11-10
 - [Using Machine Learning to Detect Phishing Websites](https://intelligence.thearchon.eu/guides/using-machine-learning-to-detect-phishing-websites) — AI, Cybersecurity · 2026-11-10
 - [Deploying AI Agent Dictation Speech Safely](https://intelligence.thearchon.eu/guides/deploying-ai-agent-dictation-speech-safely) — AI, Cybersecurity · 2026-11-09
@@ -392,7 +402,8 @@ _Last generated: Wed, 11 Nov 2026 12:29:17 GMT (2026-11-11T12:29:17.269Z) · sou
 - [Why IT Service Management (ITSM) Is Essential for Modern Enterprises](https://intelligence.thearchon.eu/carousels/why-it-service-management-itsm-is-essential-for-modern-enterprises) — IT Operations, Governance, Resilience, Cloud, Cybersecurity · 2026-09-18
 - [AI Governance: Who Controls the AI Agent?](https://intelligence.thearchon.eu/carousels/ai-governance-who-controls-the-ai-agent) — AI, Governance, Cybersecurity, Resilience · 2026-09-18
 
-## Practical Intelligence (34)
+## Practical Intelligence (35)
+- [Governance Risks of AI‑Generated Content](https://intelligence.thearchon.eu/quizzes/governance-risks-of-ai-generated-content-3af42a) — AI · 2026-11-11
 - [Risk Management Across Third‑Party Vendors, Tool Sprawl, and Lost Laptops](https://intelligence.thearchon.eu/comparisons/risk-management-across-third-party-vendors-tool-sprawl-and-lost-laptop-b8440c) — Cybersecurity · 2026-11-10
 - [Ensuring Independence and Avoiding Vendor Lock‑In](https://intelligence.thearchon.eu/checklists/ensuring-independence-and-avoiding-vendor-lock-in-740dbc) — Leadership & Organization · 2026-11-09
 - [Hidden Operational Risks in Enterprise Systems](https://intelligence.thearchon.eu/quizzes/hidden-operational-risks-in-enterprise-systems-0cd56d) — Resilience · 2026-11-04
@@ -444,7 +455,21 @@ _Last generated: Wed, 11 Nov 2026 12:29:17 GMT (2026-11-11T12:29:17.269Z) · sou
 - [ManageEngine PAM360: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-pam360) — Identity, Cybersecurity, Governance
 - [ManageEngine ServiceDesk Plus: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-servicedesk-plus) — IT Operations, Governance
 
-## Other (179)
+## Other (193)
+- [Transformation Initiative Overload Control](https://intelligence.thearchon.eu/whiteboards/transformation-initiative-overload-control) — Governance, Leadership & Organization, IT Operations · 2026-11-13
+- [What to Check Before Consolidating Multiple Identity Providers](https://intelligence.thearchon.eu/whiteboards/what-to-check-before-consolidating-multiple-identity-providers) — Identity, Cybersecurity, IT Operations, Cloud, Governance · 2026-11-13
+- [Mitigate Critical Siemens Building Automation and Energy Product Vulnerabilities](https://intelligence.thearchon.eu/playbooks/mitigate-critical-siemens-building-automation-and-energy-product-vulnerabilities) — Cybersecurity, IT Operations, Networking, Resilience · 2026-11-13
+- [Siemens Desigo & Gridscale Security Update Playbook](https://intelligence.thearchon.eu/playbooks/siemens-desigo-gridscale-security-update-playbook) — Cybersecurity, IT Operations, Resilience, Governance · 2026-11-13
+- [Assessing Recent Exploited CVEs with the CISA KEV Catalog](https://intelligence.thearchon.eu/whiteboards/assessing-recent-exploited-cves-with-the-cisa-kev-catalog) — Cybersecurity, AI, Governance · 2026-11-13
+- [Guardrails for Advanced LLM Evaluation](https://intelligence.thearchon.eu/playbooks/guardrails-for-advanced-llm-evaluation) — AI, Cybersecurity, Governance, Resilience, Leadership & Organization · 2026-11-12
+- [Legacy ERP Exit and Cutover Readiness](https://intelligence.thearchon.eu/whiteboards/legacy-erp-exit-and-cutover-readiness) — IT Operations, Governance, Resilience · 2026-11-12
+- [Assess Recent CVEs Against CISA KEV Catalog](https://intelligence.thearchon.eu/playbooks/assess-recent-cves-against-cisa-kev-catalog) — Cybersecurity, IT Operations, Governance · 2026-11-12
+- [Secure Gemma 4 Agent Run Data](https://intelligence.thearchon.eu/playbooks/secure-gemma-4-agent-run-data) — Cybersecurity, Cloud, AI, Governance · 2026-11-12
+- [Deciding When to Deploy a Dedicated API Security Gateway](https://intelligence.thearchon.eu/whiteboards/deciding-when-to-deploy-a-dedicated-api-security-gateway) — Cybersecurity · 2026-11-12
+- [Personal Data Breach Assessment](https://intelligence.thearchon.eu/whiteboards/personal-data-breach-assessment) — Governance, Cybersecurity · 2026-11-12
+- [Change Freeze Activation and Release](https://intelligence.thearchon.eu/whiteboards/change-freeze-activation-and-release) — IT Operations, Governance · 2026-11-11
+- [Hitachi Energy MicroSCADA X SYS600 Product Vulnerability Response](https://intelligence.thearchon.eu/whiteboards/hitachi-energy-microscada-x-sys600-product-vulnerability-response) — Cybersecurity, IT Operations, Resilience · 2026-11-11
+- [Pre‑Migration Checklist for Critical Workloads in a Multi‑Cloud Strategy](https://intelligence.thearchon.eu/whiteboards/pre-migration-checklist-for-critical-workloads-in-a-multi-cloud-strategy) — Cybersecurity, Cloud, Governance, Resilience, Leadership & Organization · 2026-11-11
 - [Data Ethics Review Gate](https://intelligence.thearchon.eu/whiteboards/data-ethics-review-gate) — Leadership & Organization, Governance, AI · 2026-11-10
 - [Pre‑Launch Checklist for Enterprise‑Wide Password‑Less Authentication](https://intelligence.thearchon.eu/whiteboards/pre-launch-checklist-for-enterprise-wide-password-less-authentication) — Identity, Cybersecurity, Governance · 2026-11-10
 - [SafePay Ransomware – Immediate Defensive Actions](https://intelligence.thearchon.eu/whiteboards/safepay-ransomware-immediate-defensive-actions) — Cybersecurity, IT Operations, Identity, Governance · 2026-11-10

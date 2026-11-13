@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-11-11T12:29:17.269Z",
+  "generatedAt": "2026-11-13T12:53:31.510Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,347 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 588,
+  "itemCount": 613,
   "familyCounts": {
     "Insights": 93,
-    "Guides": 100,
+    "Guides": 110,
     "Infographics": 72,
     "Diagrams": 48,
     "Carousels": 48,
-    "Practical Intelligence": 34,
+    "Practical Intelligence": 35,
     "Technology Evaluations": 14,
-    "Other": 179
+    "Other": 193
   },
   "latestItem": {
-    "title": "Assessing AI Datasets for Regulatory Compliance",
-    "url": "https://intelligence.thearchon.eu/guides/assessing-ai-datasets-for-regulatory-compliance",
-    "publishedAt": "2026-11-10T22:31:07.000Z"
+    "title": "Verify Before Approving a Third‑Party Cloud Backup Service",
+    "url": "https://intelligence.thearchon.eu/guides/verify-before-approving-a-thirdparty-cloud-backup-service",
+    "publishedAt": "2026-11-13T09:00:45.000Z"
   },
   "items": [
+    {
+      "title": "Verify Before Approving a Third‑Party Cloud Backup Service",
+      "url": "https://intelligence.thearchon.eu/guides/verify-before-approving-a-thirdparty-cloud-backup-service",
+      "guid": "https://intelligence.thearchon.eu/guides/verify-before-approving-a-thirdparty-cloud-backup-service",
+      "family": "Guides",
+      "domains": [
+        "Cloud",
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-13T09:00:45.000Z",
+      "description": "Backups are critical for recovery from ransomware, but attackers often target them. Use the NCSC’s ransomware‑resistant backup principles and the Cloud Security Alliance’s assessment tools (CCM, CAIQ, EU Cloud Code of Conduct) to validate a cloud backup provider before signing a contract."
+    },
+    {
+      "title": "Transformation Initiative Overload Control",
+      "url": "https://intelligence.thearchon.eu/whiteboards/transformation-initiative-overload-control",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/transformation-initiative-overload-control",
+      "family": "Other",
+      "domains": [
+        "Governance",
+        "Leadership & Organization",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-11-13T06:22:53.000Z",
+      "description": "A governance sequence for detecting and reducing portfolio overload when concurrent technology initiatives exceed shared delivery capacity."
+    },
+    {
+      "title": "What to Check Before Consolidating Multiple Identity Providers",
+      "url": "https://intelligence.thearchon.eu/whiteboards/what-to-check-before-consolidating-multiple-identity-providers",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/what-to-check-before-consolidating-multiple-identity-providers",
+      "family": "Other",
+      "domains": [
+        "Identity",
+        "Cybersecurity",
+        "IT Operations",
+        "Cloud",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-13T05:32:39.000Z",
+      "description": "Before consolidating identity providers, ensure all systems can support multifactor authentication (MFA) and that identity tokens are protected according to NIST guidelines."
+    },
+    {
+      "title": "Mitigate Critical Siemens Building Automation and Energy Product Vulnerabilities",
+      "url": "https://intelligence.thearchon.eu/playbooks/mitigate-critical-siemens-building-automation-and-energy-product-vulnerabilities",
+      "guid": "https://intelligence.thearchon.eu/playbooks/mitigate-critical-siemens-building-automation-and-energy-product-vulnerabilities",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Networking",
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-13T05:31:03.000Z",
+      "description": "Identify affected Siemens devices, restrict network access, apply vendor fixes where available, and implement mitigations for remaining products."
+    },
+    {
+      "title": "Siemens Desigo & Gridscale Security Update Playbook",
+      "url": "https://intelligence.thearchon.eu/playbooks/siemens-desigo-gridscale-security-update-playbook",
+      "guid": "https://intelligence.thearchon.eu/playbooks/siemens-desigo-gridscale-security-update-playbook",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Resilience",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-13T05:30:59.000Z",
+      "description": "Apply Siemens security updates for Desigo CC and Gridscale products, validate changes, and secure network access to mitigate CVE‑2026‑111497."
+    },
+    {
+      "title": "Assessing Recent Exploited CVEs with the CISA KEV Catalog",
+      "url": "https://intelligence.thearchon.eu/whiteboards/assessing-recent-exploited-cves-with-the-cisa-kev-catalog",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/assessing-recent-exploited-cves-with-the-cisa-kev-catalog",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-13T05:24:41.000Z",
+      "description": "Use the CISA Known Exploited Vulnerabilities (KEV) Catalog to identify CVEs that have been added in the past month, then prioritize and remediate them in your environment."
+    },
+    {
+      "title": "SymLoc: Symbol-Level Issue Localization – No Direct Guidance Available",
+      "url": "https://intelligence.thearchon.eu/guides/symloc-symbol-level-issue-localization-no-direct-guidance-available",
+      "guid": "https://intelligence.thearchon.eu/guides/symloc-symbol-level-issue-localization-no-direct-guidance-available",
+      "family": "Guides",
+      "domains": [
+        "Governance",
+        "Cybersecurity",
+        "AI"
+      ],
+      "publishedAt": "2026-11-12T22:52:58.000Z",
+      "description": "The provided source material does not contain specific information on Symbol-Level Issue Localization. Use related security and AI risk frameworks as a starting point while seeking domain‑specific guidance."
+    },
+    {
+      "title": "Evaluating AI Agent Learning: A Risk-Based Approach",
+      "url": "https://intelligence.thearchon.eu/guides/evaluating-ai-agent-learning-a-risk-based-approach",
+      "guid": "https://intelligence.thearchon.eu/guides/evaluating-ai-agent-learning-a-risk-based-approach",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Governance",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-12T22:52:09.000Z",
+      "description": "Evaluating AI agent learning involves understanding and mitigating the risks associated with AI systems. The AI Act provides a risk-based framework, categorizing AI systems by risk level and prohibiting certain harmful practices. NIST focuses on research, development, testing, and evaluation to ensure trustworthy AI. CIS Controls offer prioritized best practices for strengthening cybersecurity posture, which can be applied to AI systems."
+    },
+    {
+      "title": "Choosing Trustworthy AI Speakers in Mexico (2026)",
+      "url": "https://intelligence.thearchon.eu/guides/choosing-trustworthy-ai-speakers-in-mexico-2026",
+      "guid": "https://intelligence.thearchon.eu/guides/choosing-trustworthy-ai-speakers-in-mexico-2026",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-11-12T22:51:55.000Z",
+      "description": "Use this short guide to evaluate AI speaker devices for data privacy, risk level, and accountability before buying or deploying them in Mexico. Follow the steps to ensure the product aligns with internationally recognised AI standards and consumer‑protection rules."
+    },
+    {
+      "title": "Guardrails for Advanced LLM Evaluation",
+      "url": "https://intelligence.thearchon.eu/playbooks/guardrails-for-advanced-llm-evaluation",
+      "guid": "https://intelligence.thearchon.eu/playbooks/guardrails-for-advanced-llm-evaluation",
+      "family": "Other",
+      "domains": [
+        "AI",
+        "Cybersecurity",
+        "Governance",
+        "Resilience",
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-11-12T13:59:46.000Z",
+      "description": "Establish a risk-based approach for AI systems, particularly LLMs, by identifying potential risks and implementing appropriate mitigation strategies to ensure trustworthiness and compliance with regulatory frameworks."
+    },
+    {
+      "title": "Mitigating Cybersecurity‑Driven Supply Chain Disruption",
+      "url": "https://intelligence.thearchon.eu/guides/mitigating-cybersecuritydriven-supply-chain-disruption",
+      "guid": "https://intelligence.thearchon.eu/guides/mitigating-cybersecuritydriven-supply-chain-disruption",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "Governance",
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-12T13:58:52.000Z",
+      "description": "Supply chain disruptions often stem from hidden cyber risks in products and services. By applying NIST’s C‑SCRM framework, NCSC’s 12‑principle controls, and CISA’s guidance on operational resilience, you can gain visibility, assess threats, and sustain continuity."
+    },
+    {
+      "title": "Legacy ERP Exit and Cutover Readiness",
+      "url": "https://intelligence.thearchon.eu/whiteboards/legacy-erp-exit-and-cutover-readiness",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/legacy-erp-exit-and-cutover-readiness",
+      "family": "Other",
+      "domains": [
+        "IT Operations",
+        "Governance",
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-12T06:24:13.000Z",
+      "description": "A controlled migration and cutover sequence for replacing a legacy ERP while preserving financial integrity, recovery capability, and accountable go/no-go decisions."
+    },
+    {
+      "title": "Assess Recent CVEs Against CISA KEV Catalog",
+      "url": "https://intelligence.thearchon.eu/playbooks/assess-recent-cves-against-cisa-kev-catalog",
+      "guid": "https://intelligence.thearchon.eu/playbooks/assess-recent-cves-against-cisa-kev-catalog",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-12T05:31:01.000Z",
+      "description": "When a vendor advisory lists CVEs, compare them to the CISA Known Exploited Vulnerabilities (KEV) catalog and prioritize remediation for any matches."
+    },
+    {
+      "title": "Secure Gemma 4 Agent Run Data",
+      "url": "https://intelligence.thearchon.eu/playbooks/secure-gemma-4-agent-run-data",
+      "guid": "https://intelligence.thearchon.eu/playbooks/secure-gemma-4-agent-run-data",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Cloud",
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-12T05:30:57.000Z",
+      "description": "Encrypt all Gemma 4 agent communications with TLS 1.3 and apply OWASP GenAI security guidance to protect run‑time data."
+    },
+    {
+      "title": "Deciding When to Deploy a Dedicated API Security Gateway",
+      "url": "https://intelligence.thearchon.eu/whiteboards/deciding-when-to-deploy-a-dedicated-api-security-gateway",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/deciding-when-to-deploy-a-dedicated-api-security-gateway",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-12T05:27:03.000Z",
+      "description": "Use this guide to evaluate if a dedicated API security gateway is needed, balancing the benefits of centralized security controls against the added attack surface and operational overhead."
+    },
+    {
+      "title": "Personal Data Breach Assessment",
+      "url": "https://intelligence.thearchon.eu/whiteboards/personal-data-breach-assessment",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/personal-data-breach-assessment",
+      "family": "Other",
+      "domains": [
+        "Governance",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-12T05:19:20.000Z",
+      "description": "Operational playbook for personal data breach assessment, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Securing Gemma 4 Agent Run Data",
+      "url": "https://intelligence.thearchon.eu/guides/securing-gemma-4-agent-run-data",
+      "guid": "https://intelligence.thearchon.eu/guides/securing-gemma-4-agent-run-data",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-11T23:42:23.000Z",
+      "description": "Gemma 4 agent run data, like other generative AI system data, is subject to security and safety risks. The OWASP GenAI Security Project identifies and mitigates these risks, providing guidance for secure development, deployment, and governance of such systems. Key considerations include using secure protocols like TLS for data in transit and addressing critical vulnerabilities identified in LLM applications."
+    },
+    {
+      "title": "Assessing Recent Exploited CVEs with the CISA KEV Catalog",
+      "url": "https://intelligence.thearchon.eu/guides/assessing-recent-exploited-cves-with-the-cisa-kev-catalog",
+      "guid": "https://intelligence.thearchon.eu/guides/assessing-recent-exploited-cves-with-the-cisa-kev-catalog",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-11T23:42:09.000Z",
+      "description": "Use the CISA Known Exploited Vulnerabilities (KEV) Catalog to identify CVEs that have been added in the past month, then prioritize and remediate them in your environment."
+    },
+    {
+      "title": "Guardrails for Advanced LLM Evaluation",
+      "url": "https://intelligence.thearchon.eu/guides/guardrails-for-advanced-llm-evaluation",
+      "guid": "https://intelligence.thearchon.eu/guides/guardrails-for-advanced-llm-evaluation",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-11T23:41:34.000Z",
+      "description": "A concise, decision‑oriented guide to evaluate large language models (LLMs) against the EU AI Act’s risk‑based rules and the NIST AI Risk Management Framework’s trustworthiness criteria."
+    },
+    {
+      "title": "MCP Server Uptime and Health Checks",
+      "url": "https://intelligence.thearchon.eu/guides/mcp-server-uptime-and-health-checks",
+      "guid": "https://intelligence.thearchon.eu/guides/mcp-server-uptime-and-health-checks",
+      "family": "Guides",
+      "domains": [
+        "IT Operations",
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-11T12:57:39.000Z",
+      "description": "This guide outlines essential cybersecurity practices for maintaining server uptime and health, particularly for critical infrastructure. It emphasizes a baseline set of actions to reduce risks and improve cybersecurity maturity, applicable to both information technology and operational technology environments."
+    },
+    {
+      "title": "Evaluating AI Decision Reliability for APEX Enterprise v2.0",
+      "url": "https://intelligence.thearchon.eu/guides/evaluating-ai-decision-reliability-for-apex-enterprise-v20",
+      "guid": "https://intelligence.thearchon.eu/guides/evaluating-ai-decision-reliability-for-apex-enterprise-v20",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Governance",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-11T12:56:59.000Z",
+      "description": "Learn how to assess whether APEX Enterprise’s AI decisions are trustworthy, compliant, and privacy‑safe. Follow a risk‑based approach, verify transparency, secure development, and data protection before deployment."
+    },
+    {
+      "title": "Governance Risks of AI‑Generated Content",
+      "url": "https://intelligence.thearchon.eu/quizzes/governance-risks-of-ai-generated-content-3af42a",
+      "guid": "https://intelligence.thearchon.eu/quizzes/governance-risks-of-ai-generated-content-3af42a",
+      "family": "Practical Intelligence",
+      "domains": [
+        "AI"
+      ],
+      "publishedAt": "2026-11-11T08:00:14.000Z",
+      "description": "Built from 3 related articles on AI."
+    },
+    {
+      "title": "Change Freeze Activation and Release",
+      "url": "https://intelligence.thearchon.eu/whiteboards/change-freeze-activation-and-release",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/change-freeze-activation-and-release",
+      "family": "Other",
+      "domains": [
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-11T06:24:06.000Z",
+      "description": "Operational playbook for change freeze activation and release, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Hitachi Energy MicroSCADA X SYS600 Product Vulnerability Response",
+      "url": "https://intelligence.thearchon.eu/whiteboards/hitachi-energy-microscada-x-sys600-product-vulnerability-response",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/hitachi-energy-microscada-x-sys600-product-vulnerability-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-11T05:34:55.000Z",
+      "description": "Address multiple vulnerabilities in Hitachi Energy MicroSCADA X SYS600 by identifying affected systems, applying vendor fixes, and implementing mitigation strategies."
+    },
+    {
+      "title": "Pre‑Migration Checklist for Critical Workloads in a Multi‑Cloud Strategy",
+      "url": "https://intelligence.thearchon.eu/whiteboards/pre-migration-checklist-for-critical-workloads-in-a-multi-cloud-strategy",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/pre-migration-checklist-for-critical-workloads-in-a-multi-cloud-strategy",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Cloud",
+        "Governance",
+        "Resilience",
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-11-11T05:25:10.000Z",
+      "description": "Validate security controls, assess vendor risks, and harden network exposure before moving critical workloads to multiple clouds."
+    },
     {
       "title": "Assessing AI Datasets for Regulatory Compliance",
       "url": "https://intelligence.thearchon.eu/guides/assessing-ai-datasets-for-regulatory-compliance",
