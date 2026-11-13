@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-11-13T12:53:31.510Z",
+  "generatedAt": "2026-11-13T14:29:56.277Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,10 +9,10 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 613,
+  "itemCount": 614,
   "familyCounts": {
     "Insights": 93,
-    "Guides": 110,
+    "Guides": 111,
     "Infographics": 72,
     "Diagrams": 48,
     "Carousels": 48,
@@ -21,11 +21,24 @@
     "Other": 193
   },
   "latestItem": {
-    "title": "Verify Before Approving a Third‑Party Cloud Backup Service",
-    "url": "https://intelligence.thearchon.eu/guides/verify-before-approving-a-thirdparty-cloud-backup-service",
-    "publishedAt": "2026-11-13T09:00:45.000Z"
+    "title": "Stateful Tool-Agent Audit Records",
+    "url": "https://intelligence.thearchon.eu/guides/stateful-tool-agent-audit-records",
+    "publishedAt": "2026-11-13T13:26:43.000Z"
   },
   "items": [
+    {
+      "title": "Stateful Tool-Agent Audit Records",
+      "url": "https://intelligence.thearchon.eu/guides/stateful-tool-agent-audit-records",
+      "guid": "https://intelligence.thearchon.eu/guides/stateful-tool-agent-audit-records",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "Governance",
+        "AI"
+      ],
+      "publishedAt": "2026-11-13T13:26:43.000Z",
+      "description": "Audit records for stateful tool-agents are crucial for demonstrating compliance with data protection obligations and explaining decisions made or assisted by AI. These records help in assessing risks to individual rights and freedoms and upholding privacy commitments."
+    },
     {
       "title": "Verify Before Approving a Third‑Party Cloud Backup Service",
       "url": "https://intelligence.thearchon.eu/guides/verify-before-approving-a-thirdparty-cloud-backup-service",

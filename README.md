@@ -5,11 +5,12 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Fri, 13 Nov 2026 12:53:31 GMT (2026-11-13T12:53:31.510Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Fri, 13 Nov 2026 14:29:56 GMT (2026-11-13T14:29:56.277Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**613 indexed items** across families: Insights (93) · Guides (110) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (35) · Technology Evaluations (14) · Other (193)
+**614 indexed items** across families: Insights (93) · Guides (111) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (35) · Technology Evaluations (14) · Other (193)
 
 ## Newest
+- [Stateful Tool-Agent Audit Records](https://intelligence.thearchon.eu/guides/stateful-tool-agent-audit-records) — Guides · Cybersecurity, Governance, AI · 2026-11-13
 - [Verify Before Approving a Third‑Party Cloud Backup Service](https://intelligence.thearchon.eu/guides/verify-before-approving-a-thirdparty-cloud-backup-service) — Guides · Cloud, Cybersecurity, Governance · 2026-11-13
 - [Transformation Initiative Overload Control](https://intelligence.thearchon.eu/whiteboards/transformation-initiative-overload-control) — Other · Governance, Leadership & Organization, IT Operations · 2026-11-13
 - [What to Check Before Consolidating Multiple Identity Providers](https://intelligence.thearchon.eu/whiteboards/what-to-check-before-consolidating-multiple-identity-providers) — Other · Identity, Cybersecurity, IT Operations, Cloud, Governance · 2026-11-13
@@ -19,7 +20,6 @@ _Last generated: Fri, 13 Nov 2026 12:53:31 GMT (2026-11-13T12:53:31.510Z) · sou
 - [SymLoc: Symbol-Level Issue Localization – No Direct Guidance Available](https://intelligence.thearchon.eu/guides/symloc-symbol-level-issue-localization-no-direct-guidance-available) — Guides · Governance, Cybersecurity, AI · 2026-11-12
 - [Evaluating AI Agent Learning: A Risk-Based Approach](https://intelligence.thearchon.eu/guides/evaluating-ai-agent-learning-a-risk-based-approach) — Guides · AI, Governance, Cybersecurity · 2026-11-12
 - [Choosing Trustworthy AI Speakers in Mexico (2026)](https://intelligence.thearchon.eu/guides/choosing-trustworthy-ai-speakers-in-mexico-2026) — Guides · AI, Leadership & Organization · 2026-11-12
-- [Guardrails for Advanced LLM Evaluation](https://intelligence.thearchon.eu/playbooks/guardrails-for-advanced-llm-evaluation) — Other · AI, Cybersecurity, Governance, Resilience, Leadership & Organization · 2026-11-12
 
 ## Insights (93)
 - [Your Employee Left. Did Their AI Access Leave Too?](https://intelligence.thearchon.eu/articles/your-employee-left-did-their-ai-access-leave-too) — Identity, AI, Governance · 2026-11-09
@@ -116,7 +116,8 @@ _Last generated: Fri, 13 Nov 2026 12:53:31 GMT (2026-11-13T12:53:31.510Z) · sou
 - [The UX of Hiring: Digital Transformation or GDPR Nightmare?](https://intelligence.thearchon.eu/articles/ux-hiring-digital-transformation-gdpr-nightmare-dimitris-mikedis-ztlrf) — Governance · 2026-04-21
 - [The Silent Reality of Today’s Job Market: Delays, Silence, and Unrealistic Expectations](https://intelligence.thearchon.eu/articles/silent-reality-todays-job-market-delays-silence-dimitris-mikedis-5wmxf) — Leadership & Organization · 2026-04-16
 
-## Guides (110)
+## Guides (111)
+- [Stateful Tool-Agent Audit Records](https://intelligence.thearchon.eu/guides/stateful-tool-agent-audit-records) — Cybersecurity, Governance, AI · 2026-11-13
 - [Verify Before Approving a Third‑Party Cloud Backup Service](https://intelligence.thearchon.eu/guides/verify-before-approving-a-thirdparty-cloud-backup-service) — Cloud, Cybersecurity, Governance · 2026-11-13
 - [SymLoc: Symbol-Level Issue Localization – No Direct Guidance Available](https://intelligence.thearchon.eu/guides/symloc-symbol-level-issue-localization-no-direct-guidance-available) — Governance, Cybersecurity, AI · 2026-11-12
 - [Evaluating AI Agent Learning: A Risk-Based Approach](https://intelligence.thearchon.eu/guides/evaluating-ai-agent-learning-a-risk-based-approach) — AI, Governance, Cybersecurity · 2026-11-12
