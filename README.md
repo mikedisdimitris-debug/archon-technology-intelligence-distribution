@@ -5,21 +5,21 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Sat, 14 Nov 2026 19:03:23 GMT (2026-11-14T19:03:23.428Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Sat, 14 Nov 2026 21:10:19 GMT (2026-11-14T21:10:19.484Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**614 indexed items** across families: Insights (93) · Guides (111) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (35) · Technology Evaluations (14) · Other (193)
+**623 indexed items** across families: Insights (93) · Guides (115) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (35) · Technology Evaluations (14) · Other (198)
 
 ## Newest
+- [AI-Enabled Ransomware Attack on Critical National Infrastructure](https://intelligence.thearchon.eu/playbooks/ai-enabled-ransomware-attack-on-critical-national-infrastructure) — Other · Cybersecurity, IT Operations, Resilience, Leadership & Organization · 2026-11-14
+- [AI‑Enabled Cyber Intrusion Detection: Practical Guide](https://intelligence.thearchon.eu/guides/aienabled-cyber-intrusion-detection-practical-guide) — Guides · Cybersecurity, AI · 2026-11-14
+- [Securing Multimodal Supply Chain Datasets](https://intelligence.thearchon.eu/guides/securing-multimodal-supply-chain-datasets) — Guides · Cybersecurity, AI, Governance · 2026-11-14
+- [What to Check When Auditing Third‑Party API Security Practices](https://intelligence.thearchon.eu/guides/what-to-check-when-auditing-thirdparty-api-security-practices) — Guides · Cybersecurity, Governance · 2026-11-14
+- [Emergency Break-Glass Access Activation](https://intelligence.thearchon.eu/whiteboards/emergency-break-glass-access-activation) — Other · Identity · 2026-11-14
+- [Mitigate Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP Firmware Vulnerabilities](https://intelligence.thearchon.eu/whiteboards/mitigate-siemens-simatic-s7-1500-cpu-1518-f-4-pn-dp-mfp-firmware-vulnerabilities) — Other · Cybersecurity, IT Operations · 2026-11-14
+- [Assess Recent CVEs Against CISA KEV Catalog](https://intelligence.thearchon.eu/whiteboards/assess-recent-cves-against-cisa-kev-catalog) — Other · Cybersecurity, IT Operations, Governance · 2026-11-14
+- [Zero-Day Vulnerabilities & Threat Telemetry 2026](https://intelligence.thearchon.eu/playbooks/zero-day-vulnerabilities-threat-telemetry-2026) — Other · Cybersecurity, IT Operations, AI, Resilience, Governance · 2026-11-13
+- [Zero-Day Vulnerabilities & Threat Telemetry 2026](https://intelligence.thearchon.eu/guides/zero-day-vulnerabilities-threat-telemetry-2026) — Guides · Cybersecurity · 2026-11-13
 - [Stateful Tool-Agent Audit Records](https://intelligence.thearchon.eu/guides/stateful-tool-agent-audit-records) — Guides · Cybersecurity, Governance, AI · 2026-11-13
-- [Verify Before Approving a Third‑Party Cloud Backup Service](https://intelligence.thearchon.eu/guides/verify-before-approving-a-thirdparty-cloud-backup-service) — Guides · Cloud, Cybersecurity, Governance · 2026-11-13
-- [Transformation Initiative Overload Control](https://intelligence.thearchon.eu/whiteboards/transformation-initiative-overload-control) — Other · Governance, Leadership & Organization, IT Operations · 2026-11-13
-- [What to Check Before Consolidating Multiple Identity Providers](https://intelligence.thearchon.eu/whiteboards/what-to-check-before-consolidating-multiple-identity-providers) — Other · Identity, Cybersecurity, IT Operations, Cloud, Governance · 2026-11-13
-- [Mitigate Critical Siemens Building Automation and Energy Product Vulnerabilities](https://intelligence.thearchon.eu/playbooks/mitigate-critical-siemens-building-automation-and-energy-product-vulnerabilities) — Other · Cybersecurity, IT Operations, Networking, Resilience · 2026-11-13
-- [Siemens Desigo & Gridscale Security Update Playbook](https://intelligence.thearchon.eu/playbooks/siemens-desigo-gridscale-security-update-playbook) — Other · Cybersecurity, IT Operations, Resilience, Governance · 2026-11-13
-- [Assessing Recent Exploited CVEs with the CISA KEV Catalog](https://intelligence.thearchon.eu/whiteboards/assessing-recent-exploited-cves-with-the-cisa-kev-catalog) — Other · Cybersecurity, AI, Governance · 2026-11-13
-- [SymLoc: Symbol-Level Issue Localization – No Direct Guidance Available](https://intelligence.thearchon.eu/guides/symloc-symbol-level-issue-localization-no-direct-guidance-available) — Guides · Governance, Cybersecurity, AI · 2026-11-12
-- [Evaluating AI Agent Learning: A Risk-Based Approach](https://intelligence.thearchon.eu/guides/evaluating-ai-agent-learning-a-risk-based-approach) — Guides · AI, Governance, Cybersecurity · 2026-11-12
-- [Choosing Trustworthy AI Speakers in Mexico (2026)](https://intelligence.thearchon.eu/guides/choosing-trustworthy-ai-speakers-in-mexico-2026) — Guides · AI, Leadership & Organization · 2026-11-12
 
 ## Insights (93)
 - [Your Employee Left. Did Their AI Access Leave Too?](https://intelligence.thearchon.eu/articles/your-employee-left-did-their-ai-access-leave-too) — Identity, AI, Governance · 2026-11-09
@@ -116,7 +116,11 @@ _Last generated: Sat, 14 Nov 2026 19:03:23 GMT (2026-11-14T19:03:23.428Z) · sou
 - [The UX of Hiring: Digital Transformation or GDPR Nightmare?](https://intelligence.thearchon.eu/articles/ux-hiring-digital-transformation-gdpr-nightmare-dimitris-mikedis-ztlrf) — Governance · 2026-04-21
 - [The Silent Reality of Today’s Job Market: Delays, Silence, and Unrealistic Expectations](https://intelligence.thearchon.eu/articles/silent-reality-todays-job-market-delays-silence-dimitris-mikedis-5wmxf) — Leadership & Organization · 2026-04-16
 
-## Guides (111)
+## Guides (115)
+- [AI‑Enabled Cyber Intrusion Detection: Practical Guide](https://intelligence.thearchon.eu/guides/aienabled-cyber-intrusion-detection-practical-guide) — Cybersecurity, AI · 2026-11-14
+- [Securing Multimodal Supply Chain Datasets](https://intelligence.thearchon.eu/guides/securing-multimodal-supply-chain-datasets) — Cybersecurity, AI, Governance · 2026-11-14
+- [What to Check When Auditing Third‑Party API Security Practices](https://intelligence.thearchon.eu/guides/what-to-check-when-auditing-thirdparty-api-security-practices) — Cybersecurity, Governance · 2026-11-14
+- [Zero-Day Vulnerabilities & Threat Telemetry 2026](https://intelligence.thearchon.eu/guides/zero-day-vulnerabilities-threat-telemetry-2026) — Cybersecurity · 2026-11-13
 - [Stateful Tool-Agent Audit Records](https://intelligence.thearchon.eu/guides/stateful-tool-agent-audit-records) — Cybersecurity, Governance, AI · 2026-11-13
 - [Verify Before Approving a Third‑Party Cloud Backup Service](https://intelligence.thearchon.eu/guides/verify-before-approving-a-thirdparty-cloud-backup-service) — Cloud, Cybersecurity, Governance · 2026-11-13
 - [SymLoc: Symbol-Level Issue Localization – No Direct Guidance Available](https://intelligence.thearchon.eu/guides/symloc-symbol-level-issue-localization-no-direct-guidance-available) — Governance, Cybersecurity, AI · 2026-11-12
@@ -456,7 +460,12 @@ _Last generated: Sat, 14 Nov 2026 19:03:23 GMT (2026-11-14T19:03:23.428Z) · sou
 - [ManageEngine PAM360: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-pam360) — Identity, Cybersecurity, Governance
 - [ManageEngine ServiceDesk Plus: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-servicedesk-plus) — IT Operations, Governance
 
-## Other (193)
+## Other (198)
+- [AI-Enabled Ransomware Attack on Critical National Infrastructure](https://intelligence.thearchon.eu/playbooks/ai-enabled-ransomware-attack-on-critical-national-infrastructure) — Cybersecurity, IT Operations, Resilience, Leadership & Organization · 2026-11-14
+- [Emergency Break-Glass Access Activation](https://intelligence.thearchon.eu/whiteboards/emergency-break-glass-access-activation) — Identity · 2026-11-14
+- [Mitigate Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP Firmware Vulnerabilities](https://intelligence.thearchon.eu/whiteboards/mitigate-siemens-simatic-s7-1500-cpu-1518-f-4-pn-dp-mfp-firmware-vulnerabilities) — Cybersecurity, IT Operations · 2026-11-14
+- [Assess Recent CVEs Against CISA KEV Catalog](https://intelligence.thearchon.eu/whiteboards/assess-recent-cves-against-cisa-kev-catalog) — Cybersecurity, IT Operations, Governance · 2026-11-14
+- [Zero-Day Vulnerabilities & Threat Telemetry 2026](https://intelligence.thearchon.eu/playbooks/zero-day-vulnerabilities-threat-telemetry-2026) — Cybersecurity, IT Operations, AI, Resilience, Governance · 2026-11-13
 - [Transformation Initiative Overload Control](https://intelligence.thearchon.eu/whiteboards/transformation-initiative-overload-control) — Governance, Leadership & Organization, IT Operations · 2026-11-13
 - [What to Check Before Consolidating Multiple Identity Providers](https://intelligence.thearchon.eu/whiteboards/what-to-check-before-consolidating-multiple-identity-providers) — Identity, Cybersecurity, IT Operations, Cloud, Governance · 2026-11-13
 - [Mitigate Critical Siemens Building Automation and Energy Product Vulnerabilities](https://intelligence.thearchon.eu/playbooks/mitigate-critical-siemens-building-automation-and-energy-product-vulnerabilities) — Cybersecurity, IT Operations, Networking, Resilience · 2026-11-13
