@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-11-14T18:31:32.602Z",
+  "generatedAt": "2026-11-14T18:46:24.255Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,136 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 614,
+  "itemCount": 623,
   "familyCounts": {
     "Insights": 93,
-    "Guides": 111,
+    "Guides": 115,
     "Infographics": 72,
     "Diagrams": 48,
     "Carousels": 48,
     "Practical Intelligence": 35,
     "Technology Evaluations": 14,
-    "Other": 193
+    "Other": 198
   },
   "latestItem": {
-    "title": "Stateful Tool-Agent Audit Records",
-    "url": "https://intelligence.thearchon.eu/guides/stateful-tool-agent-audit-records",
-    "publishedAt": "2026-11-13T13:26:43.000Z"
+    "title": "AI-Enabled Ransomware Attack on Critical National Infrastructure",
+    "url": "https://intelligence.thearchon.eu/playbooks/ai-enabled-ransomware-attack-on-critical-national-infrastructure",
+    "publishedAt": "2026-11-14T12:30:33.000Z"
   },
   "items": [
+    {
+      "title": "AI-Enabled Ransomware Attack on Critical National Infrastructure",
+      "url": "https://intelligence.thearchon.eu/playbooks/ai-enabled-ransomware-attack-on-critical-national-infrastructure",
+      "guid": "https://intelligence.thearchon.eu/playbooks/ai-enabled-ransomware-attack-on-critical-national-infrastructure",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Resilience",
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-11-14T12:30:33.000Z",
+      "description": "Respond to an AI-powered ransomware attack on Critical National Infrastructure (CNI) by assessing the impact, containing the threat, and capturing evidence, while making critical human judgments regarding notification and payment."
+    },
+    {
+      "title": "AI‑Enabled Cyber Intrusion Detection: Practical Guide",
+      "url": "https://intelligence.thearchon.eu/guides/aienabled-cyber-intrusion-detection-practical-guide",
+      "guid": "https://intelligence.thearchon.eu/guides/aienabled-cyber-intrusion-detection-practical-guide",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "AI"
+      ],
+      "publishedAt": "2026-11-14T12:30:23.000Z",
+      "description": "A concise, vendor‑agnostic guide for organisations that want to apply AI‑driven intrusion detection while respecting the latest threat assessments and regulatory risk rules."
+    },
+    {
+      "title": "Securing Multimodal Supply Chain Datasets",
+      "url": "https://intelligence.thearchon.eu/guides/securing-multimodal-supply-chain-datasets",
+      "guid": "https://intelligence.thearchon.eu/guides/securing-multimodal-supply-chain-datasets",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-14T12:29:07.000Z",
+      "description": "Use the UK NCSC’s four‑step supply‑chain security framework and US CISA’s hardening recommendations to protect multimodal supply‑chain datasets, especially those that include industrial refrigeration and cold‑chain monitoring data."
+    },
+    {
+      "title": "What to Check When Auditing Third‑Party API Security Practices",
+      "url": "https://intelligence.thearchon.eu/guides/what-to-check-when-auditing-thirdparty-api-security-practices",
+      "guid": "https://intelligence.thearchon.eu/guides/what-to-check-when-auditing-thirdparty-api-security-practices",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-14T09:00:48.000Z",
+      "description": "A concise, decision‑oriented checklist for evaluating the security of third‑party APIs, covering common API vulnerabilities and supply‑chain risk factors."
+    },
+    {
+      "title": "Emergency Break-Glass Access Activation",
+      "url": "https://intelligence.thearchon.eu/whiteboards/emergency-break-glass-access-activation",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/emergency-break-glass-access-activation",
+      "family": "Other",
+      "domains": [
+        "Identity"
+      ],
+      "publishedAt": "2026-11-14T06:23:19.000Z",
+      "description": "Operational response playbook for emergency break-glass access activation, with accountable containment, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Mitigate Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP Firmware Vulnerabilities",
+      "url": "https://intelligence.thearchon.eu/whiteboards/mitigate-siemens-simatic-s7-1500-cpu-1518-f-4-pn-dp-mfp-firmware-vulnerabilities",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/mitigate-siemens-simatic-s7-1500-cpu-1518-f-4-pn-dp-mfp-firmware-vulnerabilities",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-11-14T05:36:12.000Z",
+      "description": "When CISA reports vulnerabilities in the SIMATIC S7-1500 CPU firmware, inventory affected devices, apply Siemens fixes or recommended mitigations, and monitor for exploitation."
+    },
+    {
+      "title": "Assess Recent CVEs Against CISA KEV Catalog",
+      "url": "https://intelligence.thearchon.eu/whiteboards/assess-recent-cves-against-cisa-kev-catalog",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/assess-recent-cves-against-cisa-kev-catalog",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-14T05:24:00.000Z",
+      "description": "When a vendor advisory lists CVEs, compare them to the CISA Known Exploited Vulnerabilities (KEV) catalog and prioritize remediation for any matches."
+    },
+    {
+      "title": "Zero-Day Vulnerabilities & Threat Telemetry 2026",
+      "url": "https://intelligence.thearchon.eu/playbooks/zero-day-vulnerabilities-threat-telemetry-2026",
+      "guid": "https://intelligence.thearchon.eu/playbooks/zero-day-vulnerabilities-threat-telemetry-2026",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "AI",
+        "Resilience",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-13T22:52:07.000Z",
+      "description": "Respond to a ransomware attack by identifying and addressing zero-day vulnerabilities, leveraging threat intelligence, and implementing secure AI system development practices."
+    },
+    {
+      "title": "Zero-Day Vulnerabilities & Threat Telemetry 2026",
+      "url": "https://intelligence.thearchon.eu/guides/zero-day-vulnerabilities-threat-telemetry-2026",
+      "guid": "https://intelligence.thearchon.eu/guides/zero-day-vulnerabilities-threat-telemetry-2026",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-13T22:51:09.000Z",
+      "description": "Zero‑day flaws are not listed in CISA’s Known Exploited Vulnerabilities (KEV) catalog because they are unknown until exploited. Rely on ENISA’s Threat Landscape telemetry, which analyses thousands of incidents, to spot emerging exploit activity. Apply NCSC’s secure AI system development guidelines to harden your software and reduce the impact of any zero‑day that surfaces."
+    },
     {
       "title": "Stateful Tool-Agent Audit Records",
       "url": "https://intelligence.thearchon.eu/guides/stateful-tool-agent-audit-records",
