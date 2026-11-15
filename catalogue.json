@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-11-14T21:10:19.484Z",
+  "generatedAt": "2026-11-15T20:44:37.413Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,71 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 623,
+  "itemCount": 627,
   "familyCounts": {
     "Insights": 93,
-    "Guides": 115,
+    "Guides": 116,
     "Infographics": 72,
     "Diagrams": 48,
     "Carousels": 48,
     "Practical Intelligence": 35,
     "Technology Evaluations": 14,
-    "Other": 198
+    "Other": 201
   },
   "latestItem": {
-    "title": "AI-Enabled Ransomware Attack on Critical National Infrastructure",
-    "url": "https://intelligence.thearchon.eu/playbooks/ai-enabled-ransomware-attack-on-critical-national-infrastructure",
-    "publishedAt": "2026-11-14T12:30:33.000Z"
+    "title": "Deciding on an Automated Patch‑Management Pipeline",
+    "url": "https://intelligence.thearchon.eu/guides/deciding-on-an-automated-patchmanagement-pipeline",
+    "publishedAt": "2026-11-15T09:00:46.000Z"
   },
   "items": [
+    {
+      "title": "Deciding on an Automated Patch‑Management Pipeline",
+      "url": "https://intelligence.thearchon.eu/guides/deciding-on-an-automated-patchmanagement-pipeline",
+      "guid": "https://intelligence.thearchon.eu/guides/deciding-on-an-automated-patchmanagement-pipeline",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-11-15T09:00:46.000Z",
+      "description": "Use this guide to evaluate whether your organization should move from manual patching to an automated pipeline, based on risk, scale, and resource considerations."
+    },
+    {
+      "title": "E-Commerce Security Control Readiness",
+      "url": "https://intelligence.thearchon.eu/whiteboards/e-commerce-security-control-readiness",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/e-commerce-security-control-readiness",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-15T06:21:20.000Z",
+      "description": "A focused readiness sequence for protecting payment flows, customer data, public APIs and the web application layer before an e-commerce service is exposed to modern attack paths."
+    },
+    {
+      "title": "Integrating ENISA AI Threat Guidance with NIST‑Style Workforce Development",
+      "url": "https://intelligence.thearchon.eu/whiteboards/integrating-enisa-ai-threat-guidance-with-nist-style-workforce-development",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/integrating-enisa-ai-threat-guidance-with-nist-style-workforce-development",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-15T05:32:16.000Z",
+      "description": "Leverage ENISA’s initial recommendations on AI‑driven cyber threats and NIST’s proven funding model to create a skilled workforce and robust defenses that keep pace with machine‑speed attacks."
+    },
+    {
+      "title": "Data Exfiltration / Data Breach Response",
+      "url": "https://intelligence.thearchon.eu/whiteboards/data-exfiltration-data-breach-response",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/data-exfiltration-data-breach-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-15T05:21:54.000Z",
+      "description": "SOC and governance response for suspected unauthorized disclosure or exfiltration, covering containment, scope, evidence, data assessment, and regulatory decision support."
+    },
     {
       "title": "AI-Enabled Ransomware Attack on Critical National Infrastructure",
       "url": "https://intelligence.thearchon.eu/playbooks/ai-enabled-ransomware-attack-on-critical-national-infrastructure",

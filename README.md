@@ -5,21 +5,21 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Sat, 14 Nov 2026 21:10:19 GMT (2026-11-14T21:10:19.484Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Sun, 15 Nov 2026 20:44:37 GMT (2026-11-15T20:44:37.413Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**623 indexed items** across families: Insights (93) · Guides (115) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (35) · Technology Evaluations (14) · Other (198)
+**627 indexed items** across families: Insights (93) · Guides (116) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (35) · Technology Evaluations (14) · Other (201)
 
 ## Newest
+- [Deciding on an Automated Patch‑Management Pipeline](https://intelligence.thearchon.eu/guides/deciding-on-an-automated-patchmanagement-pipeline) — Guides · Cybersecurity, IT Operations · 2026-11-15
+- [E-Commerce Security Control Readiness](https://intelligence.thearchon.eu/whiteboards/e-commerce-security-control-readiness) — Other · Cybersecurity, IT Operations, Governance · 2026-11-15
+- [Integrating ENISA AI Threat Guidance with NIST‑Style Workforce Development](https://intelligence.thearchon.eu/whiteboards/integrating-enisa-ai-threat-guidance-with-nist-style-workforce-development) — Other · Cybersecurity · 2026-11-15
+- [Data Exfiltration / Data Breach Response](https://intelligence.thearchon.eu/whiteboards/data-exfiltration-data-breach-response) — Other · Cybersecurity, Governance · 2026-11-15
 - [AI-Enabled Ransomware Attack on Critical National Infrastructure](https://intelligence.thearchon.eu/playbooks/ai-enabled-ransomware-attack-on-critical-national-infrastructure) — Other · Cybersecurity, IT Operations, Resilience, Leadership & Organization · 2026-11-14
 - [AI‑Enabled Cyber Intrusion Detection: Practical Guide](https://intelligence.thearchon.eu/guides/aienabled-cyber-intrusion-detection-practical-guide) — Guides · Cybersecurity, AI · 2026-11-14
 - [Securing Multimodal Supply Chain Datasets](https://intelligence.thearchon.eu/guides/securing-multimodal-supply-chain-datasets) — Guides · Cybersecurity, AI, Governance · 2026-11-14
 - [What to Check When Auditing Third‑Party API Security Practices](https://intelligence.thearchon.eu/guides/what-to-check-when-auditing-thirdparty-api-security-practices) — Guides · Cybersecurity, Governance · 2026-11-14
 - [Emergency Break-Glass Access Activation](https://intelligence.thearchon.eu/whiteboards/emergency-break-glass-access-activation) — Other · Identity · 2026-11-14
 - [Mitigate Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP Firmware Vulnerabilities](https://intelligence.thearchon.eu/whiteboards/mitigate-siemens-simatic-s7-1500-cpu-1518-f-4-pn-dp-mfp-firmware-vulnerabilities) — Other · Cybersecurity, IT Operations · 2026-11-14
-- [Assess Recent CVEs Against CISA KEV Catalog](https://intelligence.thearchon.eu/whiteboards/assess-recent-cves-against-cisa-kev-catalog) — Other · Cybersecurity, IT Operations, Governance · 2026-11-14
-- [Zero-Day Vulnerabilities & Threat Telemetry 2026](https://intelligence.thearchon.eu/playbooks/zero-day-vulnerabilities-threat-telemetry-2026) — Other · Cybersecurity, IT Operations, AI, Resilience, Governance · 2026-11-13
-- [Zero-Day Vulnerabilities & Threat Telemetry 2026](https://intelligence.thearchon.eu/guides/zero-day-vulnerabilities-threat-telemetry-2026) — Guides · Cybersecurity · 2026-11-13
-- [Stateful Tool-Agent Audit Records](https://intelligence.thearchon.eu/guides/stateful-tool-agent-audit-records) — Guides · Cybersecurity, Governance, AI · 2026-11-13
 
 ## Insights (93)
 - [Your Employee Left. Did Their AI Access Leave Too?](https://intelligence.thearchon.eu/articles/your-employee-left-did-their-ai-access-leave-too) — Identity, AI, Governance · 2026-11-09
@@ -116,7 +116,8 @@ _Last generated: Sat, 14 Nov 2026 21:10:19 GMT (2026-11-14T21:10:19.484Z) · sou
 - [The UX of Hiring: Digital Transformation or GDPR Nightmare?](https://intelligence.thearchon.eu/articles/ux-hiring-digital-transformation-gdpr-nightmare-dimitris-mikedis-ztlrf) — Governance · 2026-04-21
 - [The Silent Reality of Today’s Job Market: Delays, Silence, and Unrealistic Expectations](https://intelligence.thearchon.eu/articles/silent-reality-todays-job-market-delays-silence-dimitris-mikedis-5wmxf) — Leadership & Organization · 2026-04-16
 
-## Guides (115)
+## Guides (116)
+- [Deciding on an Automated Patch‑Management Pipeline](https://intelligence.thearchon.eu/guides/deciding-on-an-automated-patchmanagement-pipeline) — Cybersecurity, IT Operations · 2026-11-15
 - [AI‑Enabled Cyber Intrusion Detection: Practical Guide](https://intelligence.thearchon.eu/guides/aienabled-cyber-intrusion-detection-practical-guide) — Cybersecurity, AI · 2026-11-14
 - [Securing Multimodal Supply Chain Datasets](https://intelligence.thearchon.eu/guides/securing-multimodal-supply-chain-datasets) — Cybersecurity, AI, Governance · 2026-11-14
 - [What to Check When Auditing Third‑Party API Security Practices](https://intelligence.thearchon.eu/guides/what-to-check-when-auditing-thirdparty-api-security-practices) — Cybersecurity, Governance · 2026-11-14
@@ -460,7 +461,10 @@ _Last generated: Sat, 14 Nov 2026 21:10:19 GMT (2026-11-14T21:10:19.484Z) · sou
 - [ManageEngine PAM360: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-pam360) — Identity, Cybersecurity, Governance
 - [ManageEngine ServiceDesk Plus: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-servicedesk-plus) — IT Operations, Governance
 
-## Other (198)
+## Other (201)
+- [E-Commerce Security Control Readiness](https://intelligence.thearchon.eu/whiteboards/e-commerce-security-control-readiness) — Cybersecurity, IT Operations, Governance · 2026-11-15
+- [Integrating ENISA AI Threat Guidance with NIST‑Style Workforce Development](https://intelligence.thearchon.eu/whiteboards/integrating-enisa-ai-threat-guidance-with-nist-style-workforce-development) — Cybersecurity · 2026-11-15
+- [Data Exfiltration / Data Breach Response](https://intelligence.thearchon.eu/whiteboards/data-exfiltration-data-breach-response) — Cybersecurity, Governance · 2026-11-15
 - [AI-Enabled Ransomware Attack on Critical National Infrastructure](https://intelligence.thearchon.eu/playbooks/ai-enabled-ransomware-attack-on-critical-national-infrastructure) — Cybersecurity, IT Operations, Resilience, Leadership & Organization · 2026-11-14
 - [Emergency Break-Glass Access Activation](https://intelligence.thearchon.eu/whiteboards/emergency-break-glass-access-activation) — Identity · 2026-11-14
 - [Mitigate Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP Firmware Vulnerabilities](https://intelligence.thearchon.eu/whiteboards/mitigate-siemens-simatic-s7-1500-cpu-1518-f-4-pn-dp-mfp-firmware-vulnerabilities) — Cybersecurity, IT Operations · 2026-11-14
