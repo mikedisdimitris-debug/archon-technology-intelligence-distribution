@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-11-16T02:01:00.736Z",
+  "generatedAt": "2026-11-16T13:24:11.059Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,82 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 632,
+  "itemCount": 637,
   "familyCounts": {
     "Insights": 93,
-    "Guides": 119,
+    "Guides": 120,
     "Infographics": 72,
     "Diagrams": 48,
     "Carousels": 48,
-    "Practical Intelligence": 35,
+    "Practical Intelligence": 36,
     "Technology Evaluations": 14,
-    "Other": 203
+    "Other": 206
   },
   "latestItem": {
-    "title": "Deciding on an Automated Patch-Management Pipeline",
-    "url": "https://intelligence.thearchon.eu/playbooks/deciding-on-an-automated-patch-management-pipeline",
-    "publishedAt": "2026-11-15T22:06:16.000Z"
+    "title": "Audit Checklist for Password‑less Authentication Rollout",
+    "url": "https://intelligence.thearchon.eu/guides/audit-checklist-for-passwordless-authentication-rollout",
+    "publishedAt": "2026-11-16T09:00:42.000Z"
   },
   "items": [
+    {
+      "title": "Audit Checklist for Password‑less Authentication Rollout",
+      "url": "https://intelligence.thearchon.eu/guides/audit-checklist-for-passwordless-authentication-rollout",
+      "guid": "https://intelligence.thearchon.eu/guides/audit-checklist-for-passwordless-authentication-rollout",
+      "family": "Guides",
+      "domains": [
+        "Identity",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-16T09:00:42.000Z",
+      "description": "A concise, vendor‑agnostic guide to ensure your organization’s password‑less deployment meets security best practices, leverages MFA, follows FIDO passkey specifications, and aligns with NIST digital‑identity guidance."
+    },
+    {
+      "title": "Mitigating Single-Point Knowledge Risks",
+      "url": "https://intelligence.thearchon.eu/checklists/mitigating-single-point-knowledge-risks-48d822",
+      "guid": "https://intelligence.thearchon.eu/checklists/mitigating-single-point-knowledge-risks-48d822",
+      "family": "Practical Intelligence",
+      "domains": [
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-16T08:00:12.000Z",
+      "description": "Built from 3 related articles on Resilience."
+    },
+    {
+      "title": "Remote Wipe and Device Retirement",
+      "url": "https://intelligence.thearchon.eu/whiteboards/remote-wipe-and-device-retirement",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/remote-wipe-and-device-retirement",
+      "family": "Other",
+      "domains": [
+        "IT Operations",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-16T06:21:55.000Z",
+      "description": "Operational playbook for remote wipe and device retirement, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Checklist Before Granting Third‑Party API Access to Sensitive Data",
+      "url": "https://intelligence.thearchon.eu/whiteboards/checklist-before-granting-third-party-api-access-to-sensitive-data",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/checklist-before-granting-third-party-api-access-to-sensitive-data",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-16T05:33:37.000Z",
+      "description": "Outsourcing data via APIs can expose sensitive information to supply‑chain attacks."
+    },
+    {
+      "title": "How to Evaluate a Vendor‑Neutral Data‑Backup and Recovery Strategy",
+      "url": "https://intelligence.thearchon.eu/whiteboards/how-to-evaluate-a-vendor-neutral-data-backup-and-recovery-strategy",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/how-to-evaluate-a-vendor-neutral-data-backup-and-recovery-strategy",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-16T05:23:52.000Z",
+      "description": "A vendor‑neutral backup plan safeguards data from ransomware, meets data‑protection obligations, and stays verifiable through offline, encrypted storage and regular testing."
+    },
     {
       "title": "Deciding on an Automated Patch-Management Pipeline",
       "url": "https://intelligence.thearchon.eu/playbooks/deciding-on-an-automated-patch-management-pipeline",
