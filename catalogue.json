@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-11-15T20:44:37.413Z",
+  "generatedAt": "2026-11-16T02:01:00.736Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,88 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 627,
+  "itemCount": 632,
   "familyCounts": {
     "Insights": 93,
-    "Guides": 116,
+    "Guides": 119,
     "Infographics": 72,
     "Diagrams": 48,
     "Carousels": 48,
     "Practical Intelligence": 35,
     "Technology Evaluations": 14,
-    "Other": 201
+    "Other": 203
   },
   "latestItem": {
-    "title": "Deciding on an Automated Patch‑Management Pipeline",
-    "url": "https://intelligence.thearchon.eu/guides/deciding-on-an-automated-patchmanagement-pipeline",
-    "publishedAt": "2026-11-15T09:00:46.000Z"
+    "title": "Deciding on an Automated Patch-Management Pipeline",
+    "url": "https://intelligence.thearchon.eu/playbooks/deciding-on-an-automated-patch-management-pipeline",
+    "publishedAt": "2026-11-15T22:06:16.000Z"
   },
   "items": [
+    {
+      "title": "Deciding on an Automated Patch-Management Pipeline",
+      "url": "https://intelligence.thearchon.eu/playbooks/deciding-on-an-automated-patch-management-pipeline",
+      "guid": "https://intelligence.thearchon.eu/playbooks/deciding-on-an-automated-patch-management-pipeline",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-15T22:06:16.000Z",
+      "description": "Implement automatic software updates whenever possible to address security vulnerabilities and protect against attackers. Retire end-of-life software to mitigate consequential risks."
+    },
+    {
+      "title": "Global AI Regulatory Landscape: October 2026",
+      "url": "https://intelligence.thearchon.eu/guides/global-ai-regulatory-landscape-october-2026",
+      "guid": "https://intelligence.thearchon.eu/guides/global-ai-regulatory-landscape-october-2026",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-11-15T22:05:40.000Z",
+      "description": "As of October 2026, several key frameworks and initiatives are shaping the global AI regulatory landscape. The NIST AI Risk Management Framework (RMF) in the US provides voluntary guidance for managing AI risks, with a critical infrastructure profile concept note released in April 2026. The EU's AI Act, effective as of October 2026, is the first comprehensive legal framework on AI globally, adopting a risk-based approach. The UK's NCSC is focusing on AI in cybersecurity, highlighting both opportunities and risks."
+    },
+    {
+      "title": "AI-Powered Ransomware Attack on Critical Infrastructure",
+      "url": "https://intelligence.thearchon.eu/playbooks/ai-powered-ransomware-attack-on-critical-infrastructure",
+      "guid": "https://intelligence.thearchon.eu/playbooks/ai-powered-ransomware-attack-on-critical-infrastructure",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "AI",
+        "Resilience",
+        "Governance",
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-11-15T22:05:17.000Z",
+      "description": "Respond to an AI-powered ransomware attack on critical infrastructure by assessing the attack, engaging leadership, and capturing evidence, while considering regulatory obligations."
+    },
+    {
+      "title": "What AI Jobs Ask People to Do: 1,273 Postings",
+      "url": "https://intelligence.thearchon.eu/guides/what-ai-jobs-ask-people-to-do-1273-postings",
+      "guid": "https://intelligence.thearchon.eu/guides/what-ai-jobs-ask-people-to-do-1273-postings",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-11-15T22:04:52.000Z",
+      "description": "AI jobs involve developing and deploying AI systems, often requiring adherence to regulatory frameworks like the AI Act, which categorizes AI risks. Professionals in this field must also consider cybersecurity implications, as AI can be used in attacks on critical infrastructure."
+    },
+    {
+      "title": "Deciding on a Network Traffic Cybersecurity Dataset",
+      "url": "https://intelligence.thearchon.eu/guides/deciding-on-a-network-traffic-cybersecurity-dataset",
+      "guid": "https://intelligence.thearchon.eu/guides/deciding-on-a-network-traffic-cybersecurity-dataset",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "Networking"
+      ],
+      "publishedAt": "2026-11-15T22:04:15.000Z",
+      "description": "A concise decision guide for evaluating whether a network traffic dataset is suitable for your cybersecurity work, using publicly‑available threat insights, basic cyber‑hygiene practices, and the NIST Cybersecurity Framework."
+    },
     {
       "title": "Deciding on an Automated Patch‑Management Pipeline",
       "url": "https://intelligence.thearchon.eu/guides/deciding-on-an-automated-patchmanagement-pipeline",

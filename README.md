@@ -5,21 +5,21 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Sun, 15 Nov 2026 20:44:37 GMT (2026-11-15T20:44:37.413Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Mon, 16 Nov 2026 02:01:00 GMT (2026-11-16T02:01:00.736Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**627 indexed items** across families: Insights (93) · Guides (116) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (35) · Technology Evaluations (14) · Other (201)
+**632 indexed items** across families: Insights (93) · Guides (119) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (35) · Technology Evaluations (14) · Other (203)
 
 ## Newest
+- [Deciding on an Automated Patch-Management Pipeline](https://intelligence.thearchon.eu/playbooks/deciding-on-an-automated-patch-management-pipeline) — Other · Cybersecurity, IT Operations, Resilience · 2026-11-15
+- [Global AI Regulatory Landscape: October 2026](https://intelligence.thearchon.eu/guides/global-ai-regulatory-landscape-october-2026) — Guides · AI, Leadership & Organization · 2026-11-15
+- [AI-Powered Ransomware Attack on Critical Infrastructure](https://intelligence.thearchon.eu/playbooks/ai-powered-ransomware-attack-on-critical-infrastructure) — Other · Cybersecurity, IT Operations, AI, Resilience, Governance, Leadership & Organization · 2026-11-15
+- [What AI Jobs Ask People to Do: 1,273 Postings](https://intelligence.thearchon.eu/guides/what-ai-jobs-ask-people-to-do-1273-postings) — Guides · AI, Leadership & Organization · 2026-11-15
+- [Deciding on a Network Traffic Cybersecurity Dataset](https://intelligence.thearchon.eu/guides/deciding-on-a-network-traffic-cybersecurity-dataset) — Guides · Cybersecurity, Networking · 2026-11-15
 - [Deciding on an Automated Patch‑Management Pipeline](https://intelligence.thearchon.eu/guides/deciding-on-an-automated-patchmanagement-pipeline) — Guides · Cybersecurity, IT Operations · 2026-11-15
 - [E-Commerce Security Control Readiness](https://intelligence.thearchon.eu/whiteboards/e-commerce-security-control-readiness) — Other · Cybersecurity, IT Operations, Governance · 2026-11-15
 - [Integrating ENISA AI Threat Guidance with NIST‑Style Workforce Development](https://intelligence.thearchon.eu/whiteboards/integrating-enisa-ai-threat-guidance-with-nist-style-workforce-development) — Other · Cybersecurity · 2026-11-15
 - [Data Exfiltration / Data Breach Response](https://intelligence.thearchon.eu/whiteboards/data-exfiltration-data-breach-response) — Other · Cybersecurity, Governance · 2026-11-15
 - [AI-Enabled Ransomware Attack on Critical National Infrastructure](https://intelligence.thearchon.eu/playbooks/ai-enabled-ransomware-attack-on-critical-national-infrastructure) — Other · Cybersecurity, IT Operations, Resilience, Leadership & Organization · 2026-11-14
-- [AI‑Enabled Cyber Intrusion Detection: Practical Guide](https://intelligence.thearchon.eu/guides/aienabled-cyber-intrusion-detection-practical-guide) — Guides · Cybersecurity, AI · 2026-11-14
-- [Securing Multimodal Supply Chain Datasets](https://intelligence.thearchon.eu/guides/securing-multimodal-supply-chain-datasets) — Guides · Cybersecurity, AI, Governance · 2026-11-14
-- [What to Check When Auditing Third‑Party API Security Practices](https://intelligence.thearchon.eu/guides/what-to-check-when-auditing-thirdparty-api-security-practices) — Guides · Cybersecurity, Governance · 2026-11-14
-- [Emergency Break-Glass Access Activation](https://intelligence.thearchon.eu/whiteboards/emergency-break-glass-access-activation) — Other · Identity · 2026-11-14
-- [Mitigate Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP Firmware Vulnerabilities](https://intelligence.thearchon.eu/whiteboards/mitigate-siemens-simatic-s7-1500-cpu-1518-f-4-pn-dp-mfp-firmware-vulnerabilities) — Other · Cybersecurity, IT Operations · 2026-11-14
 
 ## Insights (93)
 - [Your Employee Left. Did Their AI Access Leave Too?](https://intelligence.thearchon.eu/articles/your-employee-left-did-their-ai-access-leave-too) — Identity, AI, Governance · 2026-11-09
@@ -116,7 +116,10 @@ _Last generated: Sun, 15 Nov 2026 20:44:37 GMT (2026-11-15T20:44:37.413Z) · sou
 - [The UX of Hiring: Digital Transformation or GDPR Nightmare?](https://intelligence.thearchon.eu/articles/ux-hiring-digital-transformation-gdpr-nightmare-dimitris-mikedis-ztlrf) — Governance · 2026-04-21
 - [The Silent Reality of Today’s Job Market: Delays, Silence, and Unrealistic Expectations](https://intelligence.thearchon.eu/articles/silent-reality-todays-job-market-delays-silence-dimitris-mikedis-5wmxf) — Leadership & Organization · 2026-04-16
 
-## Guides (116)
+## Guides (119)
+- [Global AI Regulatory Landscape: October 2026](https://intelligence.thearchon.eu/guides/global-ai-regulatory-landscape-october-2026) — AI, Leadership & Organization · 2026-11-15
+- [What AI Jobs Ask People to Do: 1,273 Postings](https://intelligence.thearchon.eu/guides/what-ai-jobs-ask-people-to-do-1273-postings) — AI, Leadership & Organization · 2026-11-15
+- [Deciding on a Network Traffic Cybersecurity Dataset](https://intelligence.thearchon.eu/guides/deciding-on-a-network-traffic-cybersecurity-dataset) — Cybersecurity, Networking · 2026-11-15
 - [Deciding on an Automated Patch‑Management Pipeline](https://intelligence.thearchon.eu/guides/deciding-on-an-automated-patchmanagement-pipeline) — Cybersecurity, IT Operations · 2026-11-15
 - [AI‑Enabled Cyber Intrusion Detection: Practical Guide](https://intelligence.thearchon.eu/guides/aienabled-cyber-intrusion-detection-practical-guide) — Cybersecurity, AI · 2026-11-14
 - [Securing Multimodal Supply Chain Datasets](https://intelligence.thearchon.eu/guides/securing-multimodal-supply-chain-datasets) — Cybersecurity, AI, Governance · 2026-11-14
@@ -461,7 +464,9 @@ _Last generated: Sun, 15 Nov 2026 20:44:37 GMT (2026-11-15T20:44:37.413Z) · sou
 - [ManageEngine PAM360: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-pam360) — Identity, Cybersecurity, Governance
 - [ManageEngine ServiceDesk Plus: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-servicedesk-plus) — IT Operations, Governance
 
-## Other (201)
+## Other (203)
+- [Deciding on an Automated Patch-Management Pipeline](https://intelligence.thearchon.eu/playbooks/deciding-on-an-automated-patch-management-pipeline) — Cybersecurity, IT Operations, Resilience · 2026-11-15
+- [AI-Powered Ransomware Attack on Critical Infrastructure](https://intelligence.thearchon.eu/playbooks/ai-powered-ransomware-attack-on-critical-infrastructure) — Cybersecurity, IT Operations, AI, Resilience, Governance, Leadership & Organization · 2026-11-15
 - [E-Commerce Security Control Readiness](https://intelligence.thearchon.eu/whiteboards/e-commerce-security-control-readiness) — Cybersecurity, IT Operations, Governance · 2026-11-15
 - [Integrating ENISA AI Threat Guidance with NIST‑Style Workforce Development](https://intelligence.thearchon.eu/whiteboards/integrating-enisa-ai-threat-guidance-with-nist-style-workforce-development) — Cybersecurity · 2026-11-15
 - [Data Exfiltration / Data Breach Response](https://intelligence.thearchon.eu/whiteboards/data-exfiltration-data-breach-response) — Cybersecurity, Governance · 2026-11-15
