@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-11-17T14:09:35.795Z",
+  "generatedAt": "2026-11-17T20:36:38.705Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,195 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 632,
+  "itemCount": 646,
   "familyCounts": {
     "Insights": 93,
-    "Guides": 119,
+    "Guides": 124,
     "Infographics": 72,
     "Diagrams": 48,
     "Carousels": 48,
-    "Practical Intelligence": 35,
+    "Practical Intelligence": 36,
     "Technology Evaluations": 14,
-    "Other": 203
+    "Other": 211
   },
   "latestItem": {
-    "title": "Deciding on an Automated Patch-Management Pipeline",
-    "url": "https://intelligence.thearchon.eu/playbooks/deciding-on-an-automated-patch-management-pipeline",
-    "publishedAt": "2026-11-15T22:06:16.000Z"
+    "title": "Checklist Before Granting Admin Rights to New Cloud Service Accounts",
+    "url": "https://intelligence.thearchon.eu/guides/checklist-before-granting-admin-rights-to-new-cloud-service-accounts",
+    "publishedAt": "2026-11-17T09:00:44.000Z"
   },
   "items": [
+    {
+      "title": "Checklist Before Granting Admin Rights to New Cloud Service Accounts",
+      "url": "https://intelligence.thearchon.eu/guides/checklist-before-granting-admin-rights-to-new-cloud-service-accounts",
+      "guid": "https://intelligence.thearchon.eu/guides/checklist-before-granting-admin-rights-to-new-cloud-service-accounts",
+      "family": "Guides",
+      "domains": [
+        "Cloud",
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-17T09:00:44.000Z",
+      "description": "A concise, vendor‑agnostic guide to verify that admin privileges are only given when justified, properly documented and protected by the core cloud security principles."
+    },
+    {
+      "title": "SaaS Resource Exhaustion Response",
+      "url": "https://intelligence.thearchon.eu/whiteboards/saas-resource-exhaustion-response",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/saas-resource-exhaustion-response",
+      "family": "Other",
+      "domains": [
+        "IT Operations",
+        "Cloud",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-17T06:24:14.000Z",
+      "description": "Operational response for abnormal SaaS or cloud consumption that threatens service limits, availability, or cost, with containment, monitoring, ownership, and safe cleanup."
+    },
+    {
+      "title": "Vendor Bank Detail Change Fraud Response",
+      "url": "https://intelligence.thearchon.eu/whiteboards/vendor-bank-detail-change-fraud-response",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/vendor-bank-detail-change-fraud-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-17T05:34:09.000Z",
+      "description": "Operational playbook for vendor bank detail change fraud response, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Cybersecurity Best Practices",
+      "url": "https://intelligence.thearchon.eu/whiteboards/cybersecurity-best-practices",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/cybersecurity-best-practices",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-17T05:26:40.000Z",
+      "description": "Cybersecurity best practices are crucial for individuals and organizations to implement preventative measures and manage cyber risks."
+    },
+    {
+      "title": "AI Security Fundamentals for CompTIA CY0-001",
+      "url": "https://intelligence.thearchon.eu/guides/ai-security-fundamentals-for-comptia-cy0-001",
+      "guid": "https://intelligence.thearchon.eu/guides/ai-security-fundamentals-for-comptia-cy0-001",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-16T13:59:44.000Z",
+      "description": "AI security requires more than one‑time guardrails. Use a continuous‑monitor‑and‑update model, test for adversarial prompts, honor FTC privacy commitments, and follow NCSC’s secure AI development guidelines."
+    },
+    {
+      "title": "Audit Checklist for Password-less Authentication Rollout",
+      "url": "https://intelligence.thearchon.eu/playbooks/audit-checklist-for-password-less-authentication-rollout",
+      "guid": "https://intelligence.thearchon.eu/playbooks/audit-checklist-for-password-less-authentication-rollout",
+      "family": "Other",
+      "domains": [
+        "Identity",
+        "Cybersecurity",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-11-16T13:59:27.000Z",
+      "description": "Implement and audit password-less authentication, such as passkeys or MFA, to enhance security by requiring multiple factors for identity verification."
+    },
+    {
+      "title": "AI Agent Security Dataset Compliance",
+      "url": "https://intelligence.thearchon.eu/playbooks/ai-agent-security-dataset-compliance",
+      "guid": "https://intelligence.thearchon.eu/playbooks/ai-agent-security-dataset-compliance",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "AI",
+        "Governance",
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-16T13:59:22.000Z",
+      "description": "Address regulatory obligations for AI agent security datasets by ensuring high-quality data, implementing risk assessments, and maintaining detailed documentation."
+    },
+    {
+      "title": "AI Agent Security Dataset",
+      "url": "https://intelligence.thearchon.eu/guides/ai-agent-security-dataset",
+      "guid": "https://intelligence.thearchon.eu/guides/ai-agent-security-dataset",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-16T13:59:10.000Z",
+      "description": "The development of AI agents, including those with super intelligence capabilities, necessitates robust security measures and regulatory frameworks. Guidelines from organizations like NIST and NCSC, alongside legislative efforts such as the EU's AI Act, aim to ensure trustworthy, safe, and responsible AI systems by addressing risks and establishing standards for design, development, deployment, and operation."
+    },
+    {
+      "title": "AI Authority Index: Cyber Security Software",
+      "url": "https://intelligence.thearchon.eu/guides/ai-authority-index-cyber-security-software",
+      "guid": "https://intelligence.thearchon.eu/guides/ai-authority-index-cyber-security-software",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "AI"
+      ],
+      "publishedAt": "2026-11-16T13:58:32.000Z",
+      "description": "A concise, vendor‑agnostic guide for organisations to assess AI‑driven security software against ENISA’s machine‑speed threat recommendations, NIST’s AI Risk Management Framework, and NCSC’s secure AI development guidelines."
+    },
+    {
+      "title": "Audit Checklist for Password‑less Authentication Rollout",
+      "url": "https://intelligence.thearchon.eu/guides/audit-checklist-for-passwordless-authentication-rollout",
+      "guid": "https://intelligence.thearchon.eu/guides/audit-checklist-for-passwordless-authentication-rollout",
+      "family": "Guides",
+      "domains": [
+        "Identity",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-16T09:00:42.000Z",
+      "description": "A concise, vendor‑agnostic guide to ensure your organization’s password‑less deployment meets security best practices, leverages MFA, follows FIDO passkey specifications, and aligns with NIST digital‑identity guidance."
+    },
+    {
+      "title": "Mitigating Single-Point Knowledge Risks",
+      "url": "https://intelligence.thearchon.eu/checklists/mitigating-single-point-knowledge-risks-48d822",
+      "guid": "https://intelligence.thearchon.eu/checklists/mitigating-single-point-knowledge-risks-48d822",
+      "family": "Practical Intelligence",
+      "domains": [
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-16T08:00:12.000Z",
+      "description": "Built from 3 related articles on Resilience."
+    },
+    {
+      "title": "Remote Wipe and Device Retirement",
+      "url": "https://intelligence.thearchon.eu/whiteboards/remote-wipe-and-device-retirement",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/remote-wipe-and-device-retirement",
+      "family": "Other",
+      "domains": [
+        "IT Operations",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-16T06:21:55.000Z",
+      "description": "Operational playbook for remote wipe and device retirement, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Checklist Before Granting Third‑Party API Access to Sensitive Data",
+      "url": "https://intelligence.thearchon.eu/whiteboards/checklist-before-granting-third-party-api-access-to-sensitive-data",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/checklist-before-granting-third-party-api-access-to-sensitive-data",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-16T05:33:37.000Z",
+      "description": "Outsourcing data via APIs can expose sensitive information to supply‑chain attacks."
+    },
+    {
+      "title": "How to Evaluate a Vendor‑Neutral Data‑Backup and Recovery Strategy",
+      "url": "https://intelligence.thearchon.eu/whiteboards/how-to-evaluate-a-vendor-neutral-data-backup-and-recovery-strategy",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/how-to-evaluate-a-vendor-neutral-data-backup-and-recovery-strategy",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-16T05:23:52.000Z",
+      "description": "A vendor‑neutral backup plan safeguards data from ransomware, meets data‑protection obligations, and stays verifiable through offline, encrypted storage and regular testing."
+    },
     {
       "title": "Deciding on an Automated Patch-Management Pipeline",
       "url": "https://intelligence.thearchon.eu/playbooks/deciding-on-an-automated-patch-management-pipeline",
