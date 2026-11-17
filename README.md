@@ -5,21 +5,21 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Mon, 16 Nov 2026 13:24:11 GMT (2026-11-16T13:24:11.059Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Tue, 17 Nov 2026 14:09:35 GMT (2026-11-17T14:09:35.795Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**637 indexed items** across families: Insights (93) · Guides (120) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (36) · Technology Evaluations (14) · Other (206)
+**632 indexed items** across families: Insights (93) · Guides (119) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (35) · Technology Evaluations (14) · Other (203)
 
 ## Newest
-- [Audit Checklist for Password‑less Authentication Rollout](https://intelligence.thearchon.eu/guides/audit-checklist-for-passwordless-authentication-rollout) — Guides · Identity, Cybersecurity · 2026-11-16
-- [Mitigating Single-Point Knowledge Risks](https://intelligence.thearchon.eu/checklists/mitigating-single-point-knowledge-risks-48d822) — Practical Intelligence · Resilience · 2026-11-16
-- [Remote Wipe and Device Retirement](https://intelligence.thearchon.eu/whiteboards/remote-wipe-and-device-retirement) — Other · IT Operations, Cybersecurity · 2026-11-16
-- [Checklist Before Granting Third‑Party API Access to Sensitive Data](https://intelligence.thearchon.eu/whiteboards/checklist-before-granting-third-party-api-access-to-sensitive-data) — Other · Cybersecurity · 2026-11-16
-- [How to Evaluate a Vendor‑Neutral Data‑Backup and Recovery Strategy](https://intelligence.thearchon.eu/whiteboards/how-to-evaluate-a-vendor-neutral-data-backup-and-recovery-strategy) — Other · Cybersecurity, IT Operations, Resilience · 2026-11-16
 - [Deciding on an Automated Patch-Management Pipeline](https://intelligence.thearchon.eu/playbooks/deciding-on-an-automated-patch-management-pipeline) — Other · Cybersecurity, IT Operations, Resilience · 2026-11-15
 - [Global AI Regulatory Landscape: October 2026](https://intelligence.thearchon.eu/guides/global-ai-regulatory-landscape-october-2026) — Guides · AI, Leadership & Organization · 2026-11-15
 - [AI-Powered Ransomware Attack on Critical Infrastructure](https://intelligence.thearchon.eu/playbooks/ai-powered-ransomware-attack-on-critical-infrastructure) — Other · Cybersecurity, IT Operations, AI, Resilience, Governance, Leadership & Organization · 2026-11-15
 - [What AI Jobs Ask People to Do: 1,273 Postings](https://intelligence.thearchon.eu/guides/what-ai-jobs-ask-people-to-do-1273-postings) — Guides · AI, Leadership & Organization · 2026-11-15
 - [Deciding on a Network Traffic Cybersecurity Dataset](https://intelligence.thearchon.eu/guides/deciding-on-a-network-traffic-cybersecurity-dataset) — Guides · Cybersecurity, Networking · 2026-11-15
+- [Deciding on an Automated Patch‑Management Pipeline](https://intelligence.thearchon.eu/guides/deciding-on-an-automated-patchmanagement-pipeline) — Guides · Cybersecurity, IT Operations · 2026-11-15
+- [E-Commerce Security Control Readiness](https://intelligence.thearchon.eu/whiteboards/e-commerce-security-control-readiness) — Other · Cybersecurity, IT Operations, Governance · 2026-11-15
+- [Integrating ENISA AI Threat Guidance with NIST‑Style Workforce Development](https://intelligence.thearchon.eu/whiteboards/integrating-enisa-ai-threat-guidance-with-nist-style-workforce-development) — Other · Cybersecurity · 2026-11-15
+- [Data Exfiltration / Data Breach Response](https://intelligence.thearchon.eu/whiteboards/data-exfiltration-data-breach-response) — Other · Cybersecurity, Governance · 2026-11-15
+- [AI-Enabled Ransomware Attack on Critical National Infrastructure](https://intelligence.thearchon.eu/playbooks/ai-enabled-ransomware-attack-on-critical-national-infrastructure) — Other · Cybersecurity, IT Operations, Resilience, Leadership & Organization · 2026-11-14
 
 ## Insights (93)
 - [Your Employee Left. Did Their AI Access Leave Too?](https://intelligence.thearchon.eu/articles/your-employee-left-did-their-ai-access-leave-too) — Identity, AI, Governance · 2026-11-09
@@ -116,8 +116,7 @@ _Last generated: Mon, 16 Nov 2026 13:24:11 GMT (2026-11-16T13:24:11.059Z) · sou
 - [The UX of Hiring: Digital Transformation or GDPR Nightmare?](https://intelligence.thearchon.eu/articles/ux-hiring-digital-transformation-gdpr-nightmare-dimitris-mikedis-ztlrf) — Governance · 2026-04-21
 - [The Silent Reality of Today’s Job Market: Delays, Silence, and Unrealistic Expectations](https://intelligence.thearchon.eu/articles/silent-reality-todays-job-market-delays-silence-dimitris-mikedis-5wmxf) — Leadership & Organization · 2026-04-16
 
-## Guides (120)
-- [Audit Checklist for Password‑less Authentication Rollout](https://intelligence.thearchon.eu/guides/audit-checklist-for-passwordless-authentication-rollout) — Identity, Cybersecurity · 2026-11-16
+## Guides (119)
 - [Global AI Regulatory Landscape: October 2026](https://intelligence.thearchon.eu/guides/global-ai-regulatory-landscape-october-2026) — AI, Leadership & Organization · 2026-11-15
 - [What AI Jobs Ask People to Do: 1,273 Postings](https://intelligence.thearchon.eu/guides/what-ai-jobs-ask-people-to-do-1273-postings) — AI, Leadership & Organization · 2026-11-15
 - [Deciding on a Network Traffic Cybersecurity Dataset](https://intelligence.thearchon.eu/guides/deciding-on-a-network-traffic-cybersecurity-dataset) — Cybersecurity, Networking · 2026-11-15
@@ -412,8 +411,7 @@ _Last generated: Mon, 16 Nov 2026 13:24:11 GMT (2026-11-16T13:24:11.059Z) · sou
 - [Why IT Service Management (ITSM) Is Essential for Modern Enterprises](https://intelligence.thearchon.eu/carousels/why-it-service-management-itsm-is-essential-for-modern-enterprises) — IT Operations, Governance, Resilience, Cloud, Cybersecurity · 2026-09-18
 - [AI Governance: Who Controls the AI Agent?](https://intelligence.thearchon.eu/carousels/ai-governance-who-controls-the-ai-agent) — AI, Governance, Cybersecurity, Resilience · 2026-09-18
 
-## Practical Intelligence (36)
-- [Mitigating Single-Point Knowledge Risks](https://intelligence.thearchon.eu/checklists/mitigating-single-point-knowledge-risks-48d822) — Resilience · 2026-11-16
+## Practical Intelligence (35)
 - [Governance Risks of AI‑Generated Content](https://intelligence.thearchon.eu/quizzes/governance-risks-of-ai-generated-content-3af42a) — AI · 2026-11-11
 - [Risk Management Across Third‑Party Vendors, Tool Sprawl, and Lost Laptops](https://intelligence.thearchon.eu/comparisons/risk-management-across-third-party-vendors-tool-sprawl-and-lost-laptop-b8440c) — Cybersecurity · 2026-11-10
 - [Ensuring Independence and Avoiding Vendor Lock‑In](https://intelligence.thearchon.eu/checklists/ensuring-independence-and-avoiding-vendor-lock-in-740dbc) — Leadership & Organization · 2026-11-09
@@ -466,10 +464,7 @@ _Last generated: Mon, 16 Nov 2026 13:24:11 GMT (2026-11-16T13:24:11.059Z) · sou
 - [ManageEngine PAM360: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-pam360) — Identity, Cybersecurity, Governance
 - [ManageEngine ServiceDesk Plus: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-servicedesk-plus) — IT Operations, Governance
 
-## Other (206)
-- [Remote Wipe and Device Retirement](https://intelligence.thearchon.eu/whiteboards/remote-wipe-and-device-retirement) — IT Operations, Cybersecurity · 2026-11-16
-- [Checklist Before Granting Third‑Party API Access to Sensitive Data](https://intelligence.thearchon.eu/whiteboards/checklist-before-granting-third-party-api-access-to-sensitive-data) — Cybersecurity · 2026-11-16
-- [How to Evaluate a Vendor‑Neutral Data‑Backup and Recovery Strategy](https://intelligence.thearchon.eu/whiteboards/how-to-evaluate-a-vendor-neutral-data-backup-and-recovery-strategy) — Cybersecurity, IT Operations, Resilience · 2026-11-16
+## Other (203)
 - [Deciding on an Automated Patch-Management Pipeline](https://intelligence.thearchon.eu/playbooks/deciding-on-an-automated-patch-management-pipeline) — Cybersecurity, IT Operations, Resilience · 2026-11-15
 - [AI-Powered Ransomware Attack on Critical Infrastructure](https://intelligence.thearchon.eu/playbooks/ai-powered-ransomware-attack-on-critical-infrastructure) — Cybersecurity, IT Operations, AI, Resilience, Governance, Leadership & Organization · 2026-11-15
 - [E-Commerce Security Control Readiness](https://intelligence.thearchon.eu/whiteboards/e-commerce-security-control-readiness) — Cybersecurity, IT Operations, Governance · 2026-11-15
