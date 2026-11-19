@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-11-17T20:36:38.705Z",
+  "generatedAt": "2026-11-19T15:24:29.764Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,297 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 646,
+  "itemCount": 668,
   "familyCounts": {
-    "Insights": 93,
-    "Guides": 124,
+    "Insights": 97,
+    "Guides": 130,
     "Infographics": 72,
     "Diagrams": 48,
     "Carousels": 48,
-    "Practical Intelligence": 36,
+    "Practical Intelligence": 38,
     "Technology Evaluations": 14,
-    "Other": 211
+    "Other": 221
   },
   "latestItem": {
-    "title": "Checklist Before Granting Admin Rights to New Cloud Service Accounts",
-    "url": "https://intelligence.thearchon.eu/guides/checklist-before-granting-admin-rights-to-new-cloud-service-accounts",
-    "publishedAt": "2026-11-17T09:00:44.000Z"
+    "title": "Pre-Grant Checklist for Third-Party Access to Cloud-Native CI/CD Pipelines",
+    "url": "https://intelligence.thearchon.eu/playbooks/pre-grant-checklist-for-third-party-access-to-cloud-native-cicd-pipelines",
+    "publishedAt": "2026-11-19T14:42:16.000Z"
   },
   "items": [
+    {
+      "title": "Pre-Grant Checklist for Third-Party Access to Cloud-Native CI/CD Pipelines",
+      "url": "https://intelligence.thearchon.eu/playbooks/pre-grant-checklist-for-third-party-access-to-cloud-native-cicd-pipelines",
+      "guid": "https://intelligence.thearchon.eu/playbooks/pre-grant-checklist-for-third-party-access-to-cloud-native-cicd-pipelines",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Cloud",
+        "Governance",
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-19T14:42:16.000Z",
+      "description": "Before granting third-party access to cloud-native CI/CD pipelines, assess cloud compliance, understand supply chain risks, and review dependencies to reduce potential vulnerabilities."
+    },
+    {
+      "title": "NIST Speaker Recognition Evaluations",
+      "url": "https://intelligence.thearchon.eu/guides/nist-speaker-recognition-evaluations",
+      "guid": "https://intelligence.thearchon.eu/guides/nist-speaker-recognition-evaluations",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-19T14:41:52.000Z",
+      "description": "The NIST Speaker Recognition Evaluation (SRE) series aims to advance text-independent speaker recognition technology. These biennial evaluations measure the state-of-the-art, identify promising algorithmic approaches, and foster collaboration between industry and universities. Participants adhere to an official evaluation plan, with results and findings shared at a follow-up workshop."
+    },
+    {
+      "title": "Implementing Guardrails and Human‑in‑the‑Loop for Trustworthy AI",
+      "url": "https://intelligence.thearchon.eu/guides/implementing-guardrails-and-humanintheloop-for-trustworthy-ai",
+      "guid": "https://intelligence.thearchon.eu/guides/implementing-guardrails-and-humanintheloop-for-trustworthy-ai",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-19T14:41:30.000Z",
+      "description": "Use risk‑based classification from the AI Act and the trustworthiness focus of the NIST AI RMF to add guardrails and human‑in‑the‑loop checkpoints that keep AI systems safe, respect fundamental rights, and stay compliant."
+    },
+    {
+      "title": "Strategic Risks of Relying on a Single Cloud Provider After Microsoft Outage",
+      "url": "https://intelligence.thearchon.eu/articles/strategic-risks-of-relying-on-a-single-cloud-provider-after-microsoft-outage",
+      "guid": "https://intelligence.thearchon.eu/articles/strategic-risks-of-relying-on-a-single-cloud-provider-after-microsoft-outage",
+      "family": "Insights",
+      "domains": [
+        "Resilience",
+        "Cloud"
+      ],
+      "publishedAt": "2026-11-19T10:21:10.000Z",
+      "description": "The November 12‑13, 2026 Microsoft 365 outage crippled Exchange Online, Teams, SharePoint, Copilot and Defender XDR for millions of users worldwide, exposing the fragility of single‑cloud reliance. Without a diversified cloud strategy, organizations risk prolonged productivity loss, reputational damage and costly SLA disputes when a core service provider experiences cascading failures."
+    },
+    {
+      "title": "Cold Relic Exploits Cloud Compromises to Drive Nation‑State Intrusions",
+      "url": "https://intelligence.thearchon.eu/articles/cold-relic-exploits-cloud-compromises-to-drive-nation-state-intrusions",
+      "guid": "https://intelligence.thearchon.eu/articles/cold-relic-exploits-cloud-compromises-to-drive-nation-state-intrusions",
+      "family": "Insights",
+      "domains": [
+        "Identity",
+        "Cloud"
+      ],
+      "publishedAt": "2026-11-19T10:20:56.000Z",
+      "description": "Cold Relic, a Russian state‑sponsored threat group, has weaponized data stolen from cloud‑based staff directories and identities to launch linked intrusions across high‑value targets in North America and Europe. Their sophisticated phishing and impersonation tactics amplify risk, turning compromised cloud assets into vectors for strategic espionage and supply‑chain disruption."
+    },
+    {
+      "title": "Navigating the EU Cyber Resilience Act: A Blueprint for Product‑Security Leaders",
+      "url": "https://intelligence.thearchon.eu/articles/navigating-the-eu-cyber-resilience-act-a-blueprint-for-product-security-leaders",
+      "guid": "https://intelligence.thearchon.eu/articles/navigating-the-eu-cyber-resilience-act-a-blueprint-for-product-security-leaders",
+      "family": "Insights",
+      "domains": [
+        "Cybersecurity",
+        "Governance",
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-11-19T10:20:20.000Z",
+      "description": "The Cyber Resilience Act (CRA) imposes EU‑wide, time‑critical reporting duties on every product with digital elements. A disciplined, cross‑functional approach is essential to keep market access and brand trust intact."
+    },
+    {
+      "title": "Microsoft 365 Outage: The Hidden Cost of Concentration Risk",
+      "url": "https://intelligence.thearchon.eu/articles/microsoft-365-outage-the-hidden-cost-of-concentration-risk",
+      "guid": "https://intelligence.thearchon.eu/articles/microsoft-365-outage-the-hidden-cost-of-concentration-risk",
+      "family": "Insights",
+      "domains": [
+        "Resilience",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-19T10:17:53.000Z",
+      "description": "A recent widespread Microsoft 365 outage, impacting critical services like Outlook, Teams, and SharePoint, starkly exposed the operational resilience challenges and concentration risks faced by organizations. This Deep Dive examines how over-reliance on a single vendor for core functions can lead to cascading failures and offers a blueprint for strengthening enterprise resilience."
+    },
+    {
+      "title": "Pre‑Grant Checklist for Third‑Party Access to Cloud‑Native CI/CD Pipelines",
+      "url": "https://intelligence.thearchon.eu/guides/pregrant-checklist-for-thirdparty-access-to-cloudnative-cicd-pipelines",
+      "guid": "https://intelligence.thearchon.eu/guides/pregrant-checklist-for-thirdparty-access-to-cloudnative-cicd-pipelines",
+      "family": "Guides",
+      "domains": [
+        "Cloud",
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-19T09:00:46.000Z",
+      "description": "Use the National Cyber Security Centre’s four‑step, 12‑principle framework to evaluate risk, verify controls, formalise arrangements, and set up ongoing oversight before allowing any external service to touch your CI/CD pipeline."
+    },
+    {
+      "title": "Organizational Ownership and Governance in Cloud Migration",
+      "url": "https://intelligence.thearchon.eu/quizzes/organizational-ownership-and-governance-in-cloud-migration-d829a1",
+      "guid": "https://intelligence.thearchon.eu/quizzes/organizational-ownership-and-governance-in-cloud-migration-d829a1",
+      "family": "Practical Intelligence",
+      "domains": [
+        "Cloud"
+      ],
+      "publishedAt": "2026-11-19T08:00:20.000Z",
+      "description": "Built from 3 related articles on Cloud."
+    },
+    {
+      "title": "Governance Elements in Three Transformation Frameworks",
+      "url": "https://intelligence.thearchon.eu/comparisons/governance-elements-in-three-transformation-frameworks-37f9be",
+      "guid": "https://intelligence.thearchon.eu/comparisons/governance-elements-in-three-transformation-frameworks-37f9be",
+      "family": "Practical Intelligence",
+      "domains": [
+        "Governance"
+      ],
+      "publishedAt": "2026-11-19T08:00:15.000Z",
+      "description": "Built from 3 related articles on Governance."
+    },
+    {
+      "title": "High-Risk Change Approval and Execution",
+      "url": "https://intelligence.thearchon.eu/whiteboards/high-risk-change-approval-and-execution",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/high-risk-change-approval-and-execution",
+      "family": "Other",
+      "domains": [
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-19T06:23:48.000Z",
+      "description": "Operational playbook for high-risk change approval and execution, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Evaluating Frontier AI Models for Secure, Compliant Deployment",
+      "url": "https://intelligence.thearchon.eu/playbooks/evaluating-frontier-ai-models-for-secure-compliant-deployment",
+      "guid": "https://intelligence.thearchon.eu/playbooks/evaluating-frontier-ai-models-for-secure-compliant-deployment",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "AI",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-19T05:30:58.000Z",
+      "description": "Assess, secure, and document frontier AI models to meet NCSC secure‑AI guidelines and EU AI Act requirements before deployment."
+    },
+    {
+      "title": "Third-Party Data Breach Response",
+      "url": "https://intelligence.thearchon.eu/whiteboards/third-party-data-breach-response",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/third-party-data-breach-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-19T05:29:24.000Z",
+      "description": "Operational playbook for third-party data breach response, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Before You Paste It Into AI",
+      "url": "https://intelligence.thearchon.eu/whiteboards/before-you-paste-it-into-ai",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/before-you-paste-it-into-ai",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-19T05:24:03.000Z",
+      "description": "A practical privacy and security guide for deciding what is safe to paste into AI tools."
+    },
+    {
+      "title": "Evaluating Frontier AI Models for Secure, Compliant Deployment",
+      "url": "https://intelligence.thearchon.eu/guides/evaluating-frontier-ai-models-for-secure-compliant-deployment",
+      "guid": "https://intelligence.thearchon.eu/guides/evaluating-frontier-ai-models-for-secure-compliant-deployment",
+      "family": "Guides",
+      "domains": [
+        "AI",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-18T23:34:48.000Z",
+      "description": "A concise guide for AI providers on how to assess and harden frontier AI models—such as open‑source large language models—so they meet security best‑practice, resist machine‑speed threats, and comply with the EU AI Act’s risk‑based rules."
+    },
+    {
+      "title": "How Fingerprint Recognition Works in Digital Security",
+      "url": "https://intelligence.thearchon.eu/guides/how-fingerprint-recognition-works-in-digital-security",
+      "guid": "https://intelligence.thearchon.eu/guides/how-fingerprint-recognition-works-in-digital-security",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "Governance",
+        "IT Operations",
+        "Identity"
+      ],
+      "publishedAt": "2026-11-18T14:32:01.000Z",
+      "description": "Fingerprint recognition is a component of identity and access management, a crucial aspect of digital security. While specific technical details of fingerprint recognition aren't provided, the broader context emphasizes the importance of securing access to systems and data."
+    },
+    {
+      "title": "Reviewing Your Incident‑Response Run‑Book for Remote‑Work Scenarios",
+      "url": "https://intelligence.thearchon.eu/guides/reviewing-your-incidentresponse-runbook-for-remotework-scenarios",
+      "guid": "https://intelligence.thearchon.eu/guides/reviewing-your-incidentresponse-runbook-for-remotework-scenarios",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-18T09:00:42.000Z",
+      "description": "A concise guide to audit and update your incident‑response run‑book so it addresses the unique risks of a distributed workforce, using NIST’s incident‑handling framework and CISA’s cyber‑hygiene best practices."
+    },
+    {
+      "title": "Critical Process Automation Readiness",
+      "url": "https://intelligence.thearchon.eu/whiteboards/critical-process-automation-readiness",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/critical-process-automation-readiness",
+      "family": "Other",
+      "domains": [
+        "Governance",
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-18T06:26:27.000Z",
+      "description": "A security and risk sequence for deciding whether a critical business process is ready to be automated without carrying known compromise or control gaps into the workflow."
+    },
+    {
+      "title": "Critical Workload Cloud Migration Readiness",
+      "url": "https://intelligence.thearchon.eu/whiteboards/critical-workload-cloud-migration-readiness",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/critical-workload-cloud-migration-readiness",
+      "family": "Other",
+      "domains": [
+        "Cloud",
+        "Governance",
+        "Resilience",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-18T05:37:29.000Z",
+      "description": "A pre-migration sequence for validating cloud controls, provider evidence, vulnerabilities, authorization, risk, and pilot results before moving a critical workload."
+    },
+    {
+      "title": "Response to Siemens Industrial Software Products Security Advisory (CVE‑2026‑111497)",
+      "url": "https://intelligence.thearchon.eu/playbooks/response-to-siemens-industrial-software-products-security-advisory-cve2026111497",
+      "guid": "https://intelligence.thearchon.eu/playbooks/response-to-siemens-industrial-software-products-security-advisory-cve2026111497",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Governance",
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-18T05:30:58.000Z",
+      "description": "Identify affected Siemens products, apply IIS reverse‑proxy mitigation, and track vendor fixes until remediation is complete."
+    },
+    {
+      "title": "Critical Java Vulnerability Patch Playbook",
+      "url": "https://intelligence.thearchon.eu/playbooks/critical-java-vulnerability-patch-playbook",
+      "guid": "https://intelligence.thearchon.eu/playbooks/critical-java-vulnerability-patch-playbook",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-18T05:30:54.000Z",
+      "description": "Immediately identify and patch vulnerable Java installations, or apply compensating controls if patching is not feasible, and monitor for suspicious activity."
+    },
+    {
+      "title": "Pre‑Automation Checklist for Critical Business Processes – Citrix NetScaler Vulnerabilities",
+      "url": "https://intelligence.thearchon.eu/whiteboards/pre-automation-checklist-for-critical-business-processes-citrix-netscaler-vulnerabilities",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/pre-automation-checklist-for-critical-business-processes-citrix-netscaler-vulnerabilities",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Governance",
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-18T05:27:08.000Z",
+      "description": "Identify, assess, and remediate critical NetScaler ADC/Gateway deployments before automating processes, ensuring patches are applied and evidence is captured."
+    },
     {
       "title": "Checklist Before Granting Admin Rights to New Cloud Service Accounts",
       "url": "https://intelligence.thearchon.eu/guides/checklist-before-granting-admin-rights-to-new-cloud-service-accounts",

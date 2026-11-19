@@ -5,23 +5,27 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Tue, 17 Nov 2026 20:36:38 GMT (2026-11-17T20:36:38.705Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Thu, 19 Nov 2026 15:24:29 GMT (2026-11-19T15:24:29.764Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**646 indexed items** across families: Insights (93) · Guides (124) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (36) · Technology Evaluations (14) · Other (211)
+**668 indexed items** across families: Insights (97) · Guides (130) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (38) · Technology Evaluations (14) · Other (221)
 
 ## Newest
-- [Checklist Before Granting Admin Rights to New Cloud Service Accounts](https://intelligence.thearchon.eu/guides/checklist-before-granting-admin-rights-to-new-cloud-service-accounts) — Guides · Cloud, Cybersecurity, Governance · 2026-11-17
-- [SaaS Resource Exhaustion Response](https://intelligence.thearchon.eu/whiteboards/saas-resource-exhaustion-response) — Other · IT Operations, Cloud, Governance · 2026-11-17
-- [Vendor Bank Detail Change Fraud Response](https://intelligence.thearchon.eu/whiteboards/vendor-bank-detail-change-fraud-response) — Other · Cybersecurity, Governance · 2026-11-17
-- [Cybersecurity Best Practices](https://intelligence.thearchon.eu/whiteboards/cybersecurity-best-practices) — Other · Cybersecurity · 2026-11-17
-- [AI Security Fundamentals for CompTIA CY0-001](https://intelligence.thearchon.eu/guides/ai-security-fundamentals-for-comptia-cy0-001) — Guides · AI, Cybersecurity · 2026-11-16
-- [Audit Checklist for Password-less Authentication Rollout](https://intelligence.thearchon.eu/playbooks/audit-checklist-for-password-less-authentication-rollout) — Other · Identity, Cybersecurity, IT Operations · 2026-11-16
-- [AI Agent Security Dataset Compliance](https://intelligence.thearchon.eu/playbooks/ai-agent-security-dataset-compliance) — Other · Cybersecurity, IT Operations, AI, Governance, Resilience · 2026-11-16
-- [AI Agent Security Dataset](https://intelligence.thearchon.eu/guides/ai-agent-security-dataset) — Guides · AI, Cybersecurity · 2026-11-16
-- [AI Authority Index: Cyber Security Software](https://intelligence.thearchon.eu/guides/ai-authority-index-cyber-security-software) — Guides · Cybersecurity, AI · 2026-11-16
-- [Audit Checklist for Password‑less Authentication Rollout](https://intelligence.thearchon.eu/guides/audit-checklist-for-passwordless-authentication-rollout) — Guides · Identity, Cybersecurity · 2026-11-16
+- [Pre-Grant Checklist for Third-Party Access to Cloud-Native CI/CD Pipelines](https://intelligence.thearchon.eu/playbooks/pre-grant-checklist-for-third-party-access-to-cloud-native-cicd-pipelines) — Other · Cybersecurity, Cloud, Governance, Resilience · 2026-11-19
+- [NIST Speaker Recognition Evaluations](https://intelligence.thearchon.eu/guides/nist-speaker-recognition-evaluations) — Guides · AI, Governance · 2026-11-19
+- [Implementing Guardrails and Human‑in‑the‑Loop for Trustworthy AI](https://intelligence.thearchon.eu/guides/implementing-guardrails-and-humanintheloop-for-trustworthy-ai) — Guides · AI, Governance · 2026-11-19
+- [Strategic Risks of Relying on a Single Cloud Provider After Microsoft Outage](https://intelligence.thearchon.eu/articles/strategic-risks-of-relying-on-a-single-cloud-provider-after-microsoft-outage) — Insights · Resilience, Cloud · 2026-11-19
+- [Cold Relic Exploits Cloud Compromises to Drive Nation‑State Intrusions](https://intelligence.thearchon.eu/articles/cold-relic-exploits-cloud-compromises-to-drive-nation-state-intrusions) — Insights · Identity, Cloud · 2026-11-19
+- [Navigating the EU Cyber Resilience Act: A Blueprint for Product‑Security Leaders](https://intelligence.thearchon.eu/articles/navigating-the-eu-cyber-resilience-act-a-blueprint-for-product-security-leaders) — Insights · Cybersecurity, Governance, Leadership & Organization · 2026-11-19
+- [Microsoft 365 Outage: The Hidden Cost of Concentration Risk](https://intelligence.thearchon.eu/articles/microsoft-365-outage-the-hidden-cost-of-concentration-risk) — Insights · Resilience, Governance · 2026-11-19
+- [Pre‑Grant Checklist for Third‑Party Access to Cloud‑Native CI/CD Pipelines](https://intelligence.thearchon.eu/guides/pregrant-checklist-for-thirdparty-access-to-cloudnative-cicd-pipelines) — Guides · Cloud, Cybersecurity, Governance · 2026-11-19
+- [Organizational Ownership and Governance in Cloud Migration](https://intelligence.thearchon.eu/quizzes/organizational-ownership-and-governance-in-cloud-migration-d829a1) — Practical Intelligence · Cloud · 2026-11-19
+- [Governance Elements in Three Transformation Frameworks](https://intelligence.thearchon.eu/comparisons/governance-elements-in-three-transformation-frameworks-37f9be) — Practical Intelligence · Governance · 2026-11-19
 
-## Insights (93)
+## Insights (97)
+- [Strategic Risks of Relying on a Single Cloud Provider After Microsoft Outage](https://intelligence.thearchon.eu/articles/strategic-risks-of-relying-on-a-single-cloud-provider-after-microsoft-outage) — Resilience, Cloud · 2026-11-19
+- [Cold Relic Exploits Cloud Compromises to Drive Nation‑State Intrusions](https://intelligence.thearchon.eu/articles/cold-relic-exploits-cloud-compromises-to-drive-nation-state-intrusions) — Identity, Cloud · 2026-11-19
+- [Navigating the EU Cyber Resilience Act: A Blueprint for Product‑Security Leaders](https://intelligence.thearchon.eu/articles/navigating-the-eu-cyber-resilience-act-a-blueprint-for-product-security-leaders) — Cybersecurity, Governance, Leadership & Organization · 2026-11-19
+- [Microsoft 365 Outage: The Hidden Cost of Concentration Risk](https://intelligence.thearchon.eu/articles/microsoft-365-outage-the-hidden-cost-of-concentration-risk) — Resilience, Governance · 2026-11-19
 - [Your Employee Left. Did Their AI Access Leave Too?](https://intelligence.thearchon.eu/articles/your-employee-left-did-their-ai-access-leave-too) — Identity, AI, Governance · 2026-11-09
 - [The Cheapest Network Is the One You Pay for Twice](https://intelligence.thearchon.eu/articles/the-cheapest-network-is-the-one-you-pay-for-twice) — Networking, Resilience · 2026-11-07
 - [Your ERP Runs Your Business. Does It Also Own It?](https://intelligence.thearchon.eu/articles/your-erp-runs-your-business-does-it-also-own-it) — Leadership & Organization, Governance · 2026-11-02
@@ -116,7 +120,13 @@ _Last generated: Tue, 17 Nov 2026 20:36:38 GMT (2026-11-17T20:36:38.705Z) · sou
 - [The UX of Hiring: Digital Transformation or GDPR Nightmare?](https://intelligence.thearchon.eu/articles/ux-hiring-digital-transformation-gdpr-nightmare-dimitris-mikedis-ztlrf) — Governance · 2026-04-21
 - [The Silent Reality of Today’s Job Market: Delays, Silence, and Unrealistic Expectations](https://intelligence.thearchon.eu/articles/silent-reality-todays-job-market-delays-silence-dimitris-mikedis-5wmxf) — Leadership & Organization · 2026-04-16
 
-## Guides (124)
+## Guides (130)
+- [NIST Speaker Recognition Evaluations](https://intelligence.thearchon.eu/guides/nist-speaker-recognition-evaluations) — AI, Governance · 2026-11-19
+- [Implementing Guardrails and Human‑in‑the‑Loop for Trustworthy AI](https://intelligence.thearchon.eu/guides/implementing-guardrails-and-humanintheloop-for-trustworthy-ai) — AI, Governance · 2026-11-19
+- [Pre‑Grant Checklist for Third‑Party Access to Cloud‑Native CI/CD Pipelines](https://intelligence.thearchon.eu/guides/pregrant-checklist-for-thirdparty-access-to-cloudnative-cicd-pipelines) — Cloud, Cybersecurity, Governance · 2026-11-19
+- [Evaluating Frontier AI Models for Secure, Compliant Deployment](https://intelligence.thearchon.eu/guides/evaluating-frontier-ai-models-for-secure-compliant-deployment) — AI, Cybersecurity · 2026-11-18
+- [How Fingerprint Recognition Works in Digital Security](https://intelligence.thearchon.eu/guides/how-fingerprint-recognition-works-in-digital-security) — Cybersecurity, Governance, IT Operations, Identity · 2026-11-18
+- [Reviewing Your Incident‑Response Run‑Book for Remote‑Work Scenarios](https://intelligence.thearchon.eu/guides/reviewing-your-incidentresponse-runbook-for-remotework-scenarios) — Cybersecurity · 2026-11-18
 - [Checklist Before Granting Admin Rights to New Cloud Service Accounts](https://intelligence.thearchon.eu/guides/checklist-before-granting-admin-rights-to-new-cloud-service-accounts) — Cloud, Cybersecurity, Governance · 2026-11-17
 - [AI Security Fundamentals for CompTIA CY0-001](https://intelligence.thearchon.eu/guides/ai-security-fundamentals-for-comptia-cy0-001) — AI, Cybersecurity · 2026-11-16
 - [AI Agent Security Dataset](https://intelligence.thearchon.eu/guides/ai-agent-security-dataset) — AI, Cybersecurity · 2026-11-16
@@ -416,7 +426,9 @@ _Last generated: Tue, 17 Nov 2026 20:36:38 GMT (2026-11-17T20:36:38.705Z) · sou
 - [Why IT Service Management (ITSM) Is Essential for Modern Enterprises](https://intelligence.thearchon.eu/carousels/why-it-service-management-itsm-is-essential-for-modern-enterprises) — IT Operations, Governance, Resilience, Cloud, Cybersecurity · 2026-09-18
 - [AI Governance: Who Controls the AI Agent?](https://intelligence.thearchon.eu/carousels/ai-governance-who-controls-the-ai-agent) — AI, Governance, Cybersecurity, Resilience · 2026-09-18
 
-## Practical Intelligence (36)
+## Practical Intelligence (38)
+- [Organizational Ownership and Governance in Cloud Migration](https://intelligence.thearchon.eu/quizzes/organizational-ownership-and-governance-in-cloud-migration-d829a1) — Cloud · 2026-11-19
+- [Governance Elements in Three Transformation Frameworks](https://intelligence.thearchon.eu/comparisons/governance-elements-in-three-transformation-frameworks-37f9be) — Governance · 2026-11-19
 - [Mitigating Single-Point Knowledge Risks](https://intelligence.thearchon.eu/checklists/mitigating-single-point-knowledge-risks-48d822) — Resilience · 2026-11-16
 - [Governance Risks of AI‑Generated Content](https://intelligence.thearchon.eu/quizzes/governance-risks-of-ai-generated-content-3af42a) — AI · 2026-11-11
 - [Risk Management Across Third‑Party Vendors, Tool Sprawl, and Lost Laptops](https://intelligence.thearchon.eu/comparisons/risk-management-across-third-party-vendors-tool-sprawl-and-lost-laptop-b8440c) — Cybersecurity · 2026-11-10
@@ -470,7 +482,17 @@ _Last generated: Tue, 17 Nov 2026 20:36:38 GMT (2026-11-17T20:36:38.705Z) · sou
 - [ManageEngine PAM360: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-pam360) — Identity, Cybersecurity, Governance
 - [ManageEngine ServiceDesk Plus: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-servicedesk-plus) — IT Operations, Governance
 
-## Other (211)
+## Other (221)
+- [Pre-Grant Checklist for Third-Party Access to Cloud-Native CI/CD Pipelines](https://intelligence.thearchon.eu/playbooks/pre-grant-checklist-for-third-party-access-to-cloud-native-cicd-pipelines) — Cybersecurity, Cloud, Governance, Resilience · 2026-11-19
+- [High-Risk Change Approval and Execution](https://intelligence.thearchon.eu/whiteboards/high-risk-change-approval-and-execution) — IT Operations, Governance · 2026-11-19
+- [Evaluating Frontier AI Models for Secure, Compliant Deployment](https://intelligence.thearchon.eu/playbooks/evaluating-frontier-ai-models-for-secure-compliant-deployment) — Cybersecurity, AI, Governance · 2026-11-19
+- [Third-Party Data Breach Response](https://intelligence.thearchon.eu/whiteboards/third-party-data-breach-response) — Cybersecurity, Governance · 2026-11-19
+- [Before You Paste It Into AI](https://intelligence.thearchon.eu/whiteboards/before-you-paste-it-into-ai) — Cybersecurity · 2026-11-19
+- [Critical Process Automation Readiness](https://intelligence.thearchon.eu/whiteboards/critical-process-automation-readiness) — Governance, Resilience · 2026-11-18
+- [Critical Workload Cloud Migration Readiness](https://intelligence.thearchon.eu/whiteboards/critical-workload-cloud-migration-readiness) — Cloud, Governance, Resilience, Cybersecurity · 2026-11-18
+- [Response to Siemens Industrial Software Products Security Advisory (CVE‑2026‑111497)](https://intelligence.thearchon.eu/playbooks/response-to-siemens-industrial-software-products-security-advisory-cve2026111497) — Cybersecurity, IT Operations, Governance, Resilience · 2026-11-18
+- [Critical Java Vulnerability Patch Playbook](https://intelligence.thearchon.eu/playbooks/critical-java-vulnerability-patch-playbook) — Cybersecurity, IT Operations, Governance · 2026-11-18
+- [Pre‑Automation Checklist for Critical Business Processes – Citrix NetScaler Vulnerabilities](https://intelligence.thearchon.eu/whiteboards/pre-automation-checklist-for-critical-business-processes-citrix-netscaler-vulnerabilities) — Cybersecurity, IT Operations, Governance, Resilience · 2026-11-18
 - [SaaS Resource Exhaustion Response](https://intelligence.thearchon.eu/whiteboards/saas-resource-exhaustion-response) — IT Operations, Cloud, Governance · 2026-11-17
 - [Vendor Bank Detail Change Fraud Response](https://intelligence.thearchon.eu/whiteboards/vendor-bank-detail-change-fraud-response) — Cybersecurity, Governance · 2026-11-17
 - [Cybersecurity Best Practices](https://intelligence.thearchon.eu/whiteboards/cybersecurity-best-practices) — Cybersecurity · 2026-11-17
