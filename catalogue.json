@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-11-19T15:24:29.764Z",
+  "generatedAt": "2026-11-20T23:12:32.258Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,161 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 668,
+  "itemCount": 679,
   "familyCounts": {
-    "Insights": 97,
+    "Insights": 104,
     "Guides": 130,
     "Infographics": 72,
     "Diagrams": 48,
     "Carousels": 48,
     "Practical Intelligence": 38,
     "Technology Evaluations": 14,
-    "Other": 221
+    "Other": 225
   },
   "latestItem": {
-    "title": "Pre-Grant Checklist for Third-Party Access to Cloud-Native CI/CD Pipelines",
-    "url": "https://intelligence.thearchon.eu/playbooks/pre-grant-checklist-for-third-party-access-to-cloud-native-cicd-pipelines",
-    "publishedAt": "2026-11-19T14:42:16.000Z"
+    "title": "GAO Warns Ransomware Threats Endanger U.S. Food Supply Chain Security",
+    "url": "https://intelligence.thearchon.eu/articles/gao-warns-ransomware-threats-endanger-u-s-food-supply-chain-security",
+    "publishedAt": "2026-11-20T21:31:37.000Z"
   },
   "items": [
+    {
+      "title": "GAO Warns Ransomware Threats Endanger U.S. Food Supply Chain Security",
+      "url": "https://intelligence.thearchon.eu/articles/gao-warns-ransomware-threats-endanger-u-s-food-supply-chain-security",
+      "guid": "https://intelligence.thearchon.eu/articles/gao-warns-ransomware-threats-endanger-u-s-food-supply-chain-security",
+      "family": "Insights",
+      "domains": [
+        "Cybersecurity",
+        "Governance",
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-20T21:31:37.000Z",
+      "description": "The Government Accountability Office report GAO‑27‑108656 highlights persistent cybersecurity gaps that leave the nation’s food and agriculture sector exposed to ransomware attacks. Such breaches could render critical data unusable, halt processing, and erode public confidence in the safety of the food supply."
+    },
+    {
+      "title": "Equinor Cyberattack Highlights Gaps in Critical Infrastructure Risk Management",
+      "url": "https://intelligence.thearchon.eu/articles/equinor-cyberattack-highlights-gaps-in-critical-infrastructure-risk-management",
+      "guid": "https://intelligence.thearchon.eu/articles/equinor-cyberattack-highlights-gaps-in-critical-infrastructure-risk-management",
+      "family": "Insights",
+      "domains": [
+        "Cybersecurity",
+        "Resilience",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-11-20T16:28:39.000Z",
+      "description": "Equinor disclosed a cyberattack on its IT systems on 17 November 2026, causing internal email and application outages while production remained uninterrupted. The incident underscores the need for robust risk controls that extend beyond operational technology to corporate networks and communication services."
+    },
+    {
+      "title": "Navigating Digital Resilience: Outage Response Under NIS2 and CER",
+      "url": "https://intelligence.thearchon.eu/articles/navigating-digital-resilience-outage-response-under-nis2-and-cer",
+      "guid": "https://intelligence.thearchon.eu/articles/navigating-digital-resilience-outage-response-under-nis2-and-cer",
+      "family": "Insights",
+      "domains": [
+        "Governance",
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-20T16:28:11.000Z",
+      "description": "The CER and NIS2 Directives, effective 26 October 2022, broaden EU resilience obligations across eleven critical sectors and mandate regular risk assessments. Executives must align outage‑response plans with these mandates to avoid compliance gaps and service disruptions."
+    },
+    {
+      "title": "AI‑Driven Bug Detection and Instant Patching to Prevent Enterprise Outages",
+      "url": "https://intelligence.thearchon.eu/articles/ai-driven-bug-detection-and-instant-patching-to-prevent-enterprise-outages",
+      "guid": "https://intelligence.thearchon.eu/articles/ai-driven-bug-detection-and-instant-patching-to-prevent-enterprise-outages",
+      "family": "Insights",
+      "domains": [
+        "AI",
+        "IT Operations",
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-20T16:06:50.000Z",
+      "description": "Enterprise leaders must act as AI‑driven bug detection and instant patching become mainstream, shortening outage duration and protecting revenue. With 78% of organizations already using AI in incident response and Gartner forecasting 40% AI‑agent penetration by 2026, the pressure to adopt is undeniable."
+    },
+    {
+      "title": "Financial Services: Mitigating Cascading Third-Party Cyber Risk in 2026",
+      "url": "https://intelligence.thearchon.eu/articles/financial-services-mitigating-cascading-third-party-cyber-risk-in-2026",
+      "guid": "https://intelligence.thearchon.eu/articles/financial-services-mitigating-cascading-third-party-cyber-risk-in-2026",
+      "family": "Insights",
+      "domains": [
+        "Cybersecurity",
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-20T16:06:50.000Z",
+      "description": "The financial sector faces a 30% increase in direct ransomware attacks and a 4.9x surge in vendor critical vulnerabilities in 2025. Single vendor compromises can now cascade, impacting dozens of institutions and millions of customers."
+    },
+    {
+      "title": "Ransomware Threats Undermine the Resilience of the U.S. Food Supply Chain",
+      "url": "https://intelligence.thearchon.eu/articles/ransomware-threats-undermine-the-resilience-of-the-u-s-food-supply-chain",
+      "guid": "https://intelligence.thearchon.eu/articles/ransomware-threats-undermine-the-resilience-of-the-u-s-food-supply-chain",
+      "family": "Insights",
+      "domains": [
+        "Cybersecurity"
+      ],
+      "publishedAt": "2026-11-20T16:06:50.000Z",
+      "description": "Recent GAO findings highlight that the U.S. food and agriculture sector’s growing reliance on technology has created critical cyber vulnerabilities, making ransomware attacks a tangible risk to safety and public trust. In 2025, 265 ransomware incidents—4.2% of all attacks—targeted this sector, with groups such as CL0P and Qilin leading the assault."
+    },
+    {
+      "title": "VMware vCenter Zero-Day Exploits: Strategic Imperatives for Enterprise Resilience",
+      "url": "https://intelligence.thearchon.eu/articles/vmware-vcenter-zero-day-exploits-strategic-imperatives-for-enterprise-resilience",
+      "guid": "https://intelligence.thearchon.eu/articles/vmware-vcenter-zero-day-exploits-strategic-imperatives-for-enterprise-resilience",
+      "family": "Insights",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-20T16:06:50.000Z",
+      "description": "Critical VMware vCenter vulnerabilities, including authentication bypass and remote code execution flaws, pose severe risks to enterprise virtualization infrastructure. Immediate patching and robust incident response planning are essential to mitigate potential unauthorized access and operational disruption."
+    },
+    {
+      "title": "Malicious Mailbox Forwarding Rule Response",
+      "url": "https://intelligence.thearchon.eu/whiteboards/malicious-mailbox-forwarding-rule-response",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/malicious-mailbox-forwarding-rule-response",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Identity"
+      ],
+      "publishedAt": "2026-11-20T06:20:09.000Z",
+      "description": "Operational playbook for malicious mailbox forwarding rule response, covering validation, containment, accountable decisions, evidence preservation and controlled recovery."
+    },
+    {
+      "title": "Synthetic Supply Chain Threat Detection Dataset",
+      "url": "https://intelligence.thearchon.eu/whiteboards/synthetic-supply-chain-threat-detection-dataset-5111e4",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/synthetic-supply-chain-threat-detection-dataset-5111e4",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "AI"
+      ],
+      "publishedAt": "2026-11-20T05:41:56.000Z",
+      "description": "Supply chain security is a critical aspect of cybersecurity, involving the protection of products, systems, and services delivered by suppliers."
+    },
+    {
+      "title": "Mitigate Autonomy Logic OpenPLC Runtime Vulnerability (CVE‑2026‑126088)",
+      "url": "https://intelligence.thearchon.eu/playbooks/mitigate-autonomy-logic-openplc-runtime-vulnerability-cve2026126088",
+      "guid": "https://intelligence.thearchon.eu/playbooks/mitigate-autonomy-logic-openplc-runtime-vulnerability-cve2026126088",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Governance",
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-20T05:30:57.000Z",
+      "description": "Patch vulnerable OpenPLC Runtime versions and harden network exposure to prevent unauthenticated admin account creation."
+    },
+    {
+      "title": "Pre‑Consolidation Checklist for Incident‑Response Ownership",
+      "url": "https://intelligence.thearchon.eu/whiteboards/pre-consolidation-checklist-for-incident-response-ownership",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/pre-consolidation-checklist-for-incident-response-ownership",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "Governance",
+        "Leadership & Organization"
+      ],
+      "publishedAt": "2026-11-20T05:28:43.000Z",
+      "description": "Use this short guide to verify that each unit already follows baseline security practices, measures maturity, and has clear breach‑response steps before merging incident‑response ownership."
+    },
     {
       "title": "Pre-Grant Checklist for Third-Party Access to Cloud-Native CI/CD Pipelines",
       "url": "https://intelligence.thearchon.eu/playbooks/pre-grant-checklist-for-third-party-access-to-cloud-native-cicd-pipelines",

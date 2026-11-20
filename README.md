@@ -5,23 +5,30 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Thu, 19 Nov 2026 15:24:29 GMT (2026-11-19T15:24:29.764Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Fri, 20 Nov 2026 23:12:32 GMT (2026-11-20T23:12:32.258Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**668 indexed items** across families: Insights (97) · Guides (130) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (38) · Technology Evaluations (14) · Other (221)
+**679 indexed items** across families: Insights (104) · Guides (130) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (38) · Technology Evaluations (14) · Other (225)
 
 ## Newest
-- [Pre-Grant Checklist for Third-Party Access to Cloud-Native CI/CD Pipelines](https://intelligence.thearchon.eu/playbooks/pre-grant-checklist-for-third-party-access-to-cloud-native-cicd-pipelines) — Other · Cybersecurity, Cloud, Governance, Resilience · 2026-11-19
-- [NIST Speaker Recognition Evaluations](https://intelligence.thearchon.eu/guides/nist-speaker-recognition-evaluations) — Guides · AI, Governance · 2026-11-19
-- [Implementing Guardrails and Human‑in‑the‑Loop for Trustworthy AI](https://intelligence.thearchon.eu/guides/implementing-guardrails-and-humanintheloop-for-trustworthy-ai) — Guides · AI, Governance · 2026-11-19
-- [Strategic Risks of Relying on a Single Cloud Provider After Microsoft Outage](https://intelligence.thearchon.eu/articles/strategic-risks-of-relying-on-a-single-cloud-provider-after-microsoft-outage) — Insights · Resilience, Cloud · 2026-11-19
-- [Cold Relic Exploits Cloud Compromises to Drive Nation‑State Intrusions](https://intelligence.thearchon.eu/articles/cold-relic-exploits-cloud-compromises-to-drive-nation-state-intrusions) — Insights · Identity, Cloud · 2026-11-19
-- [Navigating the EU Cyber Resilience Act: A Blueprint for Product‑Security Leaders](https://intelligence.thearchon.eu/articles/navigating-the-eu-cyber-resilience-act-a-blueprint-for-product-security-leaders) — Insights · Cybersecurity, Governance, Leadership & Organization · 2026-11-19
-- [Microsoft 365 Outage: The Hidden Cost of Concentration Risk](https://intelligence.thearchon.eu/articles/microsoft-365-outage-the-hidden-cost-of-concentration-risk) — Insights · Resilience, Governance · 2026-11-19
-- [Pre‑Grant Checklist for Third‑Party Access to Cloud‑Native CI/CD Pipelines](https://intelligence.thearchon.eu/guides/pregrant-checklist-for-thirdparty-access-to-cloudnative-cicd-pipelines) — Guides · Cloud, Cybersecurity, Governance · 2026-11-19
-- [Organizational Ownership and Governance in Cloud Migration](https://intelligence.thearchon.eu/quizzes/organizational-ownership-and-governance-in-cloud-migration-d829a1) — Practical Intelligence · Cloud · 2026-11-19
-- [Governance Elements in Three Transformation Frameworks](https://intelligence.thearchon.eu/comparisons/governance-elements-in-three-transformation-frameworks-37f9be) — Practical Intelligence · Governance · 2026-11-19
+- [GAO Warns Ransomware Threats Endanger U.S. Food Supply Chain Security](https://intelligence.thearchon.eu/articles/gao-warns-ransomware-threats-endanger-u-s-food-supply-chain-security) — Insights · Cybersecurity, Governance, Resilience · 2026-11-20
+- [Equinor Cyberattack Highlights Gaps in Critical Infrastructure Risk Management](https://intelligence.thearchon.eu/articles/equinor-cyberattack-highlights-gaps-in-critical-infrastructure-risk-management) — Insights · Cybersecurity, Resilience, IT Operations · 2026-11-20
+- [Navigating Digital Resilience: Outage Response Under NIS2 and CER](https://intelligence.thearchon.eu/articles/navigating-digital-resilience-outage-response-under-nis2-and-cer) — Insights · Governance, Cybersecurity · 2026-11-20
+- [AI‑Driven Bug Detection and Instant Patching to Prevent Enterprise Outages](https://intelligence.thearchon.eu/articles/ai-driven-bug-detection-and-instant-patching-to-prevent-enterprise-outages) — Insights · AI, IT Operations, Resilience · 2026-11-20
+- [Financial Services: Mitigating Cascading Third-Party Cyber Risk in 2026](https://intelligence.thearchon.eu/articles/financial-services-mitigating-cascading-third-party-cyber-risk-in-2026) — Insights · Cybersecurity, Resilience · 2026-11-20
+- [Ransomware Threats Undermine the Resilience of the U.S. Food Supply Chain](https://intelligence.thearchon.eu/articles/ransomware-threats-undermine-the-resilience-of-the-u-s-food-supply-chain) — Insights · Cybersecurity · 2026-11-20
+- [VMware vCenter Zero-Day Exploits: Strategic Imperatives for Enterprise Resilience](https://intelligence.thearchon.eu/articles/vmware-vcenter-zero-day-exploits-strategic-imperatives-for-enterprise-resilience) — Insights · Cybersecurity, IT Operations, Resilience · 2026-11-20
+- [Malicious Mailbox Forwarding Rule Response](https://intelligence.thearchon.eu/whiteboards/malicious-mailbox-forwarding-rule-response) — Other · Cybersecurity, Identity · 2026-11-20
+- [Synthetic Supply Chain Threat Detection Dataset](https://intelligence.thearchon.eu/whiteboards/synthetic-supply-chain-threat-detection-dataset-5111e4) — Other · Cybersecurity, AI · 2026-11-20
+- [Mitigate Autonomy Logic OpenPLC Runtime Vulnerability (CVE‑2026‑126088)](https://intelligence.thearchon.eu/playbooks/mitigate-autonomy-logic-openplc-runtime-vulnerability-cve2026126088) — Other · Cybersecurity, IT Operations, Governance, Resilience · 2026-11-20
 
-## Insights (97)
+## Insights (104)
+- [GAO Warns Ransomware Threats Endanger U.S. Food Supply Chain Security](https://intelligence.thearchon.eu/articles/gao-warns-ransomware-threats-endanger-u-s-food-supply-chain-security) — Cybersecurity, Governance, Resilience · 2026-11-20
+- [Equinor Cyberattack Highlights Gaps in Critical Infrastructure Risk Management](https://intelligence.thearchon.eu/articles/equinor-cyberattack-highlights-gaps-in-critical-infrastructure-risk-management) — Cybersecurity, Resilience, IT Operations · 2026-11-20
+- [Navigating Digital Resilience: Outage Response Under NIS2 and CER](https://intelligence.thearchon.eu/articles/navigating-digital-resilience-outage-response-under-nis2-and-cer) — Governance, Cybersecurity · 2026-11-20
+- [AI‑Driven Bug Detection and Instant Patching to Prevent Enterprise Outages](https://intelligence.thearchon.eu/articles/ai-driven-bug-detection-and-instant-patching-to-prevent-enterprise-outages) — AI, IT Operations, Resilience · 2026-11-20
+- [Financial Services: Mitigating Cascading Third-Party Cyber Risk in 2026](https://intelligence.thearchon.eu/articles/financial-services-mitigating-cascading-third-party-cyber-risk-in-2026) — Cybersecurity, Resilience · 2026-11-20
+- [Ransomware Threats Undermine the Resilience of the U.S. Food Supply Chain](https://intelligence.thearchon.eu/articles/ransomware-threats-undermine-the-resilience-of-the-u-s-food-supply-chain) — Cybersecurity · 2026-11-20
+- [VMware vCenter Zero-Day Exploits: Strategic Imperatives for Enterprise Resilience](https://intelligence.thearchon.eu/articles/vmware-vcenter-zero-day-exploits-strategic-imperatives-for-enterprise-resilience) — Cybersecurity, IT Operations, Resilience · 2026-11-20
 - [Strategic Risks of Relying on a Single Cloud Provider After Microsoft Outage](https://intelligence.thearchon.eu/articles/strategic-risks-of-relying-on-a-single-cloud-provider-after-microsoft-outage) — Resilience, Cloud · 2026-11-19
 - [Cold Relic Exploits Cloud Compromises to Drive Nation‑State Intrusions](https://intelligence.thearchon.eu/articles/cold-relic-exploits-cloud-compromises-to-drive-nation-state-intrusions) — Identity, Cloud · 2026-11-19
 - [Navigating the EU Cyber Resilience Act: A Blueprint for Product‑Security Leaders](https://intelligence.thearchon.eu/articles/navigating-the-eu-cyber-resilience-act-a-blueprint-for-product-security-leaders) — Cybersecurity, Governance, Leadership & Organization · 2026-11-19
@@ -482,7 +489,11 @@ _Last generated: Thu, 19 Nov 2026 15:24:29 GMT (2026-11-19T15:24:29.764Z) · sou
 - [ManageEngine PAM360: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-pam360) — Identity, Cybersecurity, Governance
 - [ManageEngine ServiceDesk Plus: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-servicedesk-plus) — IT Operations, Governance
 
-## Other (221)
+## Other (225)
+- [Malicious Mailbox Forwarding Rule Response](https://intelligence.thearchon.eu/whiteboards/malicious-mailbox-forwarding-rule-response) — Cybersecurity, Identity · 2026-11-20
+- [Synthetic Supply Chain Threat Detection Dataset](https://intelligence.thearchon.eu/whiteboards/synthetic-supply-chain-threat-detection-dataset-5111e4) — Cybersecurity, AI · 2026-11-20
+- [Mitigate Autonomy Logic OpenPLC Runtime Vulnerability (CVE‑2026‑126088)](https://intelligence.thearchon.eu/playbooks/mitigate-autonomy-logic-openplc-runtime-vulnerability-cve2026126088) — Cybersecurity, IT Operations, Governance, Resilience · 2026-11-20
+- [Pre‑Consolidation Checklist for Incident‑Response Ownership](https://intelligence.thearchon.eu/whiteboards/pre-consolidation-checklist-for-incident-response-ownership) — Cybersecurity, Governance, Leadership & Organization · 2026-11-20
 - [Pre-Grant Checklist for Third-Party Access to Cloud-Native CI/CD Pipelines](https://intelligence.thearchon.eu/playbooks/pre-grant-checklist-for-third-party-access-to-cloud-native-cicd-pipelines) — Cybersecurity, Cloud, Governance, Resilience · 2026-11-19
 - [High-Risk Change Approval and Execution](https://intelligence.thearchon.eu/whiteboards/high-risk-change-approval-and-execution) — IT Operations, Governance · 2026-11-19
 - [Evaluating Frontier AI Models for Secure, Compliant Deployment](https://intelligence.thearchon.eu/playbooks/evaluating-frontier-ai-models-for-secure-compliant-deployment) — Cybersecurity, AI, Governance · 2026-11-19
