@@ -5,21 +5,21 @@
 - Website: https://intelligence.thearchon.eu
 - Public RSS feed (canonical, published-only): https://intelligence.thearchon.eu/feed.xml
 
-_Last generated: Fri, 20 Nov 2026 23:12:32 GMT (2026-11-20T23:12:32.258Z) · source: https://intelligence.thearchon.eu/feed.xml_
+_Last generated: Sat, 21 Nov 2026 13:15:44 GMT (2026-11-21T13:15:44.132Z) · source: https://intelligence.thearchon.eu/feed.xml_
 
-**679 indexed items** across families: Insights (104) · Guides (130) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (38) · Technology Evaluations (14) · Other (225)
+**683 indexed items** across families: Insights (104) · Guides (131) · Infographics (72) · Diagrams (48) · Carousels (48) · Practical Intelligence (38) · Technology Evaluations (14) · Other (228)
 
 ## Newest
+- [First Hour of a Suspected Phishing Attack](https://intelligence.thearchon.eu/guides/first-hour-of-a-suspected-phishing-attack) — Guides · Cybersecurity, Resilience · 2026-11-21
+- [Assigning a Dedicated Owner for Data‑Retention Policy Enforcement](https://intelligence.thearchon.eu/whiteboards/assigning-a-dedicated-owner-for-data-retention-policy-enforcement) — Other · Governance, Resilience, IT Operations · 2026-11-21
+- [Checklist Before Granting Admin Rights to New Cloud Service Accounts](https://intelligence.thearchon.eu/whiteboards/checklist-before-granting-admin-rights-to-new-cloud-service-accounts) — Other · Cloud, Cybersecurity, Governance · 2026-11-21
+- [Mitigate Autonomy Logic OpenPLC Runtime Vulnerability (CVE‑2026‑126088)](https://intelligence.thearchon.eu/whiteboards/mitigate-autonomy-logic-openplc-runtime-vulnerability-cve-2026-126088) — Other · Cybersecurity, IT Operations, Governance, Resilience · 2026-11-21
 - [GAO Warns Ransomware Threats Endanger U.S. Food Supply Chain Security](https://intelligence.thearchon.eu/articles/gao-warns-ransomware-threats-endanger-u-s-food-supply-chain-security) — Insights · Cybersecurity, Governance, Resilience · 2026-11-20
 - [Equinor Cyberattack Highlights Gaps in Critical Infrastructure Risk Management](https://intelligence.thearchon.eu/articles/equinor-cyberattack-highlights-gaps-in-critical-infrastructure-risk-management) — Insights · Cybersecurity, Resilience, IT Operations · 2026-11-20
 - [Navigating Digital Resilience: Outage Response Under NIS2 and CER](https://intelligence.thearchon.eu/articles/navigating-digital-resilience-outage-response-under-nis2-and-cer) — Insights · Governance, Cybersecurity · 2026-11-20
 - [AI‑Driven Bug Detection and Instant Patching to Prevent Enterprise Outages](https://intelligence.thearchon.eu/articles/ai-driven-bug-detection-and-instant-patching-to-prevent-enterprise-outages) — Insights · AI, IT Operations, Resilience · 2026-11-20
 - [Financial Services: Mitigating Cascading Third-Party Cyber Risk in 2026](https://intelligence.thearchon.eu/articles/financial-services-mitigating-cascading-third-party-cyber-risk-in-2026) — Insights · Cybersecurity, Resilience · 2026-11-20
 - [Ransomware Threats Undermine the Resilience of the U.S. Food Supply Chain](https://intelligence.thearchon.eu/articles/ransomware-threats-undermine-the-resilience-of-the-u-s-food-supply-chain) — Insights · Cybersecurity · 2026-11-20
-- [VMware vCenter Zero-Day Exploits: Strategic Imperatives for Enterprise Resilience](https://intelligence.thearchon.eu/articles/vmware-vcenter-zero-day-exploits-strategic-imperatives-for-enterprise-resilience) — Insights · Cybersecurity, IT Operations, Resilience · 2026-11-20
-- [Malicious Mailbox Forwarding Rule Response](https://intelligence.thearchon.eu/whiteboards/malicious-mailbox-forwarding-rule-response) — Other · Cybersecurity, Identity · 2026-11-20
-- [Synthetic Supply Chain Threat Detection Dataset](https://intelligence.thearchon.eu/whiteboards/synthetic-supply-chain-threat-detection-dataset-5111e4) — Other · Cybersecurity, AI · 2026-11-20
-- [Mitigate Autonomy Logic OpenPLC Runtime Vulnerability (CVE‑2026‑126088)](https://intelligence.thearchon.eu/playbooks/mitigate-autonomy-logic-openplc-runtime-vulnerability-cve2026126088) — Other · Cybersecurity, IT Operations, Governance, Resilience · 2026-11-20
 
 ## Insights (104)
 - [GAO Warns Ransomware Threats Endanger U.S. Food Supply Chain Security](https://intelligence.thearchon.eu/articles/gao-warns-ransomware-threats-endanger-u-s-food-supply-chain-security) — Cybersecurity, Governance, Resilience · 2026-11-20
@@ -127,7 +127,8 @@ _Last generated: Fri, 20 Nov 2026 23:12:32 GMT (2026-11-20T23:12:32.258Z) · sou
 - [The UX of Hiring: Digital Transformation or GDPR Nightmare?](https://intelligence.thearchon.eu/articles/ux-hiring-digital-transformation-gdpr-nightmare-dimitris-mikedis-ztlrf) — Governance · 2026-04-21
 - [The Silent Reality of Today’s Job Market: Delays, Silence, and Unrealistic Expectations](https://intelligence.thearchon.eu/articles/silent-reality-todays-job-market-delays-silence-dimitris-mikedis-5wmxf) — Leadership & Organization · 2026-04-16
 
-## Guides (130)
+## Guides (131)
+- [First Hour of a Suspected Phishing Attack](https://intelligence.thearchon.eu/guides/first-hour-of-a-suspected-phishing-attack) — Cybersecurity, Resilience · 2026-11-21
 - [NIST Speaker Recognition Evaluations](https://intelligence.thearchon.eu/guides/nist-speaker-recognition-evaluations) — AI, Governance · 2026-11-19
 - [Implementing Guardrails and Human‑in‑the‑Loop for Trustworthy AI](https://intelligence.thearchon.eu/guides/implementing-guardrails-and-humanintheloop-for-trustworthy-ai) — AI, Governance · 2026-11-19
 - [Pre‑Grant Checklist for Third‑Party Access to Cloud‑Native CI/CD Pipelines](https://intelligence.thearchon.eu/guides/pregrant-checklist-for-thirdparty-access-to-cloudnative-cicd-pipelines) — Cloud, Cybersecurity, Governance · 2026-11-19
@@ -489,7 +490,10 @@ _Last generated: Fri, 20 Nov 2026 23:12:32 GMT (2026-11-20T23:12:32.258Z) · sou
 - [ManageEngine PAM360: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-pam360) — Identity, Cybersecurity, Governance
 - [ManageEngine ServiceDesk Plus: Technology Evaluation](https://intelligence.thearchon.eu/evaluations/manageengine-servicedesk-plus) — IT Operations, Governance
 
-## Other (225)
+## Other (228)
+- [Assigning a Dedicated Owner for Data‑Retention Policy Enforcement](https://intelligence.thearchon.eu/whiteboards/assigning-a-dedicated-owner-for-data-retention-policy-enforcement) — Governance, Resilience, IT Operations · 2026-11-21
+- [Checklist Before Granting Admin Rights to New Cloud Service Accounts](https://intelligence.thearchon.eu/whiteboards/checklist-before-granting-admin-rights-to-new-cloud-service-accounts) — Cloud, Cybersecurity, Governance · 2026-11-21
+- [Mitigate Autonomy Logic OpenPLC Runtime Vulnerability (CVE‑2026‑126088)](https://intelligence.thearchon.eu/whiteboards/mitigate-autonomy-logic-openplc-runtime-vulnerability-cve-2026-126088) — Cybersecurity, IT Operations, Governance, Resilience · 2026-11-21
 - [Malicious Mailbox Forwarding Rule Response](https://intelligence.thearchon.eu/whiteboards/malicious-mailbox-forwarding-rule-response) — Cybersecurity, Identity · 2026-11-20
 - [Synthetic Supply Chain Threat Detection Dataset](https://intelligence.thearchon.eu/whiteboards/synthetic-supply-chain-threat-detection-dataset-5111e4) — Cybersecurity, AI · 2026-11-20
 - [Mitigate Autonomy Logic OpenPLC Runtime Vulnerability (CVE‑2026‑126088)](https://intelligence.thearchon.eu/playbooks/mitigate-autonomy-logic-openplc-runtime-vulnerability-cve2026126088) — Cybersecurity, IT Operations, Governance, Resilience · 2026-11-20

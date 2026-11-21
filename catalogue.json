@@ -1,6 +1,6 @@
 {
   "catalogueVersion": 1,
-  "generatedAt": "2026-11-20T23:12:32.258Z",
+  "generatedAt": "2026-11-21T13:15:44.132Z",
   "source": {
     "type": "rss",
     "url": "https://intelligence.thearchon.eu/feed.xml"
@@ -9,23 +9,75 @@
     "site": "https://intelligence.thearchon.eu",
     "statement": "THE ARCHON Technology Intelligence website (https://intelligence.thearchon.eu) is the canonical source of the content indexed in this catalogue. This catalogue is a generated distribution index of already-published metadata and never replaces the source of truth."
   },
-  "itemCount": 679,
+  "itemCount": 683,
   "familyCounts": {
     "Insights": 104,
-    "Guides": 130,
+    "Guides": 131,
     "Infographics": 72,
     "Diagrams": 48,
     "Carousels": 48,
     "Practical Intelligence": 38,
     "Technology Evaluations": 14,
-    "Other": 225
+    "Other": 228
   },
   "latestItem": {
-    "title": "GAO Warns Ransomware Threats Endanger U.S. Food Supply Chain Security",
-    "url": "https://intelligence.thearchon.eu/articles/gao-warns-ransomware-threats-endanger-u-s-food-supply-chain-security",
-    "publishedAt": "2026-11-20T21:31:37.000Z"
+    "title": "First Hour of a Suspected Phishing Attack",
+    "url": "https://intelligence.thearchon.eu/guides/first-hour-of-a-suspected-phishing-attack",
+    "publishedAt": "2026-11-21T09:00:48.000Z"
   },
   "items": [
+    {
+      "title": "First Hour of a Suspected Phishing Attack",
+      "url": "https://intelligence.thearchon.eu/guides/first-hour-of-a-suspected-phishing-attack",
+      "guid": "https://intelligence.thearchon.eu/guides/first-hour-of-a-suspected-phishing-attack",
+      "family": "Guides",
+      "domains": [
+        "Cybersecurity",
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-21T09:00:48.000Z",
+      "description": "In the critical first hour of a suspected phishing attack, organizations should prioritize reporting, using an incident response plan, and implementing core cybersecurity hygiene. Rapid action can help mitigate the impact of evolving cyber threats, including those leveraging advanced technologies like AI."
+    },
+    {
+      "title": "Assigning a Dedicated Owner for Data‑Retention Policy Enforcement",
+      "url": "https://intelligence.thearchon.eu/whiteboards/assigning-a-dedicated-owner-for-data-retention-policy-enforcement",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/assigning-a-dedicated-owner-for-data-retention-policy-enforcement",
+      "family": "Other",
+      "domains": [
+        "Governance",
+        "Resilience",
+        "IT Operations"
+      ],
+      "publishedAt": "2026-11-21T06:25:58.000Z",
+      "description": "Data and privacy are primary policy issues for AI, and expertise in data governance helps ensure safe and fair use of data."
+    },
+    {
+      "title": "Checklist Before Granting Admin Rights to New Cloud Service Accounts",
+      "url": "https://intelligence.thearchon.eu/whiteboards/checklist-before-granting-admin-rights-to-new-cloud-service-accounts",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/checklist-before-granting-admin-rights-to-new-cloud-service-accounts",
+      "family": "Other",
+      "domains": [
+        "Cloud",
+        "Cybersecurity",
+        "Governance"
+      ],
+      "publishedAt": "2026-11-21T05:27:54.000Z",
+      "description": "A concise, vendor‑agnostic guide to verify that admin privileges are only given when justified, properly documented and protected by the core cloud security principles."
+    },
+    {
+      "title": "Mitigate Autonomy Logic OpenPLC Runtime Vulnerability (CVE‑2026‑126088)",
+      "url": "https://intelligence.thearchon.eu/whiteboards/mitigate-autonomy-logic-openplc-runtime-vulnerability-cve-2026-126088",
+      "guid": "https://intelligence.thearchon.eu/whiteboards/mitigate-autonomy-logic-openplc-runtime-vulnerability-cve-2026-126088",
+      "family": "Other",
+      "domains": [
+        "Cybersecurity",
+        "IT Operations",
+        "Governance",
+        "Resilience"
+      ],
+      "publishedAt": "2026-11-21T05:20:26.000Z",
+      "description": "Patch vulnerable OpenPLC Runtime versions and harden network exposure to prevent unauthenticated admin account creation."
+    },
     {
       "title": "GAO Warns Ransomware Threats Endanger U.S. Food Supply Chain Security",
       "url": "https://intelligence.thearchon.eu/articles/gao-warns-ransomware-threats-endanger-u-s-food-supply-chain-security",
