@@ -1,15 +1,15 @@
 {
   "version": 1,
   "kind": "visual-digest-run",
-  "status": "RUNNING",
-  "at": "2026-11-24T11:00:35.599Z",
+  "status": "FAILED",
+  "at": "2026-11-24T11:00:38.491Z",
   "runId": "45380084888",
   "runUrl": "https://github.com/mikedisdimitris-debug/archon-technology-intelligence/actions/runs/45380084888",
-  "operation": "CREATE_DRAFT",
+  "operation": null,
   "digestId": null,
   "devtoId": null,
   "devtoUrl": null,
   "published": false,
   "devtoWrite": false,
-  "reason": null
+  "reason": "The Visual Digest draft operation failed: DEV.to API error (401): {\"error\":\"unauthorized\",\"status\":401}"
 }
